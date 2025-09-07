@@ -1,0 +1,30 @@
+[submodule "valve"]
+	path = valve
+	url = https://github.com/source-br/Community-Translations-for-Half-Life
+[submodule "cstrike"]
+	path = cstrike
+	url = https://github.com/source-br/Community-Translations-for-Counter-Strike
+[submodule "bshift"]
+	path = bshift
+	url = https://github.com/source-br/Community-Translations-for-Half-Life-Blue-Shift
+[submodule "gearbox"]
+	path = gearbox
+	url = https://github.com/source-br/Community-Translations-for-Half-Life-Opposing-Force
+[submodule "tfc"]
+	path = tfc
+	url = https://github.com/source-br/Community-Translations-for-Team-Fortress-Classic
+[submodule "ricochet"]
+	path = ricochet
+	url = https://github.com/source-br/Community-Translations-for-Ricochet
+[submodule "dmc"]
+	path = dmc
+	url = https://github.com/source-br/Community-Translations-for-Deathmatch-Classic
+[submodule "czero"]
+	path = czero
+	url = https://github.com/source-br/Community-Translations-for-Counter-Strike-Condition-Zero
+[submodule "czeror"]
+	path = czeror
+	url = https://github.com/source-br/Community-Translations-for-Counter-Strike-Condition-Zero-Deleted-Scenes
+[submodule "dod"]
+	path = dod
+	url = https://github.com/source-br/Community-Translations-for-Day-of-Defeat
