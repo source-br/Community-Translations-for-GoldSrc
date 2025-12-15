@@ -12,7 +12,7 @@
 	url = https://github.com/source-br/Community-Translations-for-Half-Life-Opposing-Force
 [submodule "tfc"]
 	path = tfc
-	url = https://github.com/source-br/Community-Translations-for-Team-Fortress-Classic
+	url = https://github.com/source-br/Community-Translations-for-Team-Fortrees-Classic
 [submodule "ricochet"]
 	path = ricochet
 	url = https://github.com/source-br/Community-Translations-for-Ricochet
