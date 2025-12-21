@@ -2,7 +2,7 @@
 
 <div align="right">
     <a href="../../README.md" target="_blank">
-        <img src="../img/readme/flag_eua.png" height="25" width="25">
+        <img src="https://raw.githubusercontent.com/source-br/Community-Translations-for-GoldSrc/refs/heads/main/Docs/img/readme/flag_us.png" height="25" width="25">
     </a>
 </div>
 
@@ -19,16 +19,47 @@
 
 </div>
 
-Esse projeto como objetivo traduzir todos os jogos oficias da Valve feitos para a GoldSrc, agrupando a tradução dos textos e interface dos jogos, ferramentas úteis e gerenciamento as traduções dos jogos.
+Esse projeto tem como objetivo traduzir todos os jogos oficias da Valve feitos para a GoldSrc, agrupando a tradução dos textos e interface dos jogos, ferramentas úteis e gerenciamento das traduções dos jogos.
+
+- [Sobre as traduções](https://github.com/source-br/Community-Translations-for-GoldSrc/wiki/About-the-Translations)
+
+| Pasta/Submódulo | Jogo | Repositório |
+| ----- | ---- | ----------- |
+| `bshift` | Half-Life: Blue Shift<br>⚠️ Privado | [Community-Translations-for-Half-Life-Blue-Shift](https://github.com/source-br/Community-Translations-for-Half-Life-Blue-Shift) |
+| `cstrike` | Counter-Strike<br>⚠️ Privado | [Community-Translations-for-Counter-Strike](https://github.com/source-br/Community-Translations-for-Counter-Strike) |
+| `czero` | Counter-Strike: Condition Zero<br>⚠️ Privado | [Community-Translations-for-Counter-Strike-Condition-Zero](https://github.com/source-br/Community-Translations-for-Counter-Strike-Condition-Zero) |
+| `czeror` | Counter-Strike: Condition Zero Deleted Scenes<br>⚠️ Privado | [Community-Translations-for-Counter-Strike-Condition-Zero-Deleted-Scenes](https://github.com/source-br/Community-Translations-for-Counter-Strike-Condition-Zero) |
+| `dmc` | Deathmatch Classic<br>⚠️ Privado | [Community-Translations-for-Deathmatch-Classic](https://github.com/source-br/Community-Translations-for-Deathmatch-Classic) |
+| `dod` | Day of Defeat<br>⚠️ Privado | [Community-Translations-for-Day-of-Defeat](https://github.com/source-br/Community-Translations-for-Day-of-Defeat) |
+| `gearbox` | Half-Life: Opposing Force<br>⚠️ Privado | [Community-Translations-for-Half-Life-Opposing-Force](https://github.com/source-br/Community-Translations-for-Half-Life-Opposing-Force) |
+| `ricochet` | Ricochet | [Community-Translations-for-Ricochet](https://github.com/source-br/Community-Translations-for-Ricochet) |
+| `tfc` | Team Fortress Classic | [Community-Translations-for-Team-Fortress-Classic](https://github.com/source-br/Community-Translations-for-Team-Fortress-Classic) |
+| `valve` | Half-Life | [Community-Translations-for-Half-Life](https://github.com/source-br/Community-Translations-for-Half-Life) |
+
+## Como colaborarar
+
+* [Documentação](https://github.com/source-br/Community-Translations-for-GoldSrc/wiki/About-the-Translations)
+
+Se você possui conhecimento, você pode traduzir o jogo para o seu idioma, ou melhorar o projeto.
+
+1. **Sugestões de melhorias ou correções**
+   * Abra uma *issue* neste repositório.
+   * Ou entre em contato via [Discord](https://discord.gg/tVNv6SNZZT).
+
+2. **Traduções para outros idiomas ou melhorias**
+   * Leia a documentação e entre em contato com a equipe caso queira mais orientações.
+   * Após validação, sua tradução será adicionada ao projeto com os devidos créditos.
+
+## Doações 
+
+Você pode nos apoiar com doações 💛
+
+ [![Doar](https://img.shields.io/badge/-💛%20DOAR-0D1117?style=for-the-badge&labelColor=0D1117)](https://www.sourcebr.com.br/doar)
 
 > [!WARNING]
-> Esse projeto está em desenvolvimento de maneira fechada no momento.
+> Este projeto não é afiliado à Valve Corporation. Todos os direitos sobre o conteúdo do jogo pertencem à Valve Corporation.
 
 > [!NOTE]
-> Para baixar todos os submodulos use o comando: `git submodule update --init --recursive`.
-> 
-> Para baixar submodulos expecificos use o comando: `git submodule update --init caminho/do/submodulo` como por exemplo `git submodule update --init valve`.
-> 
-> Para ver os submodulos disponíveis use o comando: `git config --file .gitmodules --get-regexp path`
+> Este projeto é gerenciado pela [Source BR](https://www.sourcebr.com.br), então caso tenha alguma dúvida entre contato no nosso [Discord](https://discord.gg/tVNv6SNZZT) ou mande um e-mail para: contato@sourcebr.com.br.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffaa01&height=85&section=footer"/>
