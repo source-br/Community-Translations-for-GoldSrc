@@ -23,13 +23,13 @@ This project aims to translate all official Valve games made for GoldSrc, bringi
 
 | Folder/Submodule | Game | Repository |
 | ----- | ---- | ----------- |
-| `bshift` | Half-Life: Blue Shift<br>⚠️ Privite | [Community-Translations-for-Half-Life-Blue-Shift](https://github.com/source-br/Community-Translations-for-Half-Life-Blue-Shift) |
-| `cstrike` | Counter-Strike<br>⚠️ Privite | [Community-Translations-for-Counter-Strike](https://github.com/source-br/Community-Translations-for-Counter-Strike) |
-| `czero` | Counter-Strike: Condition Zero<br>⚠️ Privite | [Community-Translations-for-Counter-Strike-Condition-Zero](https://github.com/source-br/Community-Translations-for-Counter-Strike-Condition-Zero) |
-| `czeror` | Counter-Strike: Condition Zero Deleted Scenes<br>⚠️ Privite | [Community-Translations-for-Counter-Strike-Condition-Zero-Deleted-Scenes](https://github.com/source-br/Community-Translations-for-Counter-Strike-Condition-Zero) |
-| `dmc` | Deathmatch Classic<br>⚠️ Privite | [Community-Translations-for-Deathmatch-Classic](https://github.com/source-br/Community-Translations-for-Deathmatch-Classic) |
-| `dod` | Day of Defeat<br>⚠️ Privite | [Community-Translations-for-Day-of-Defeat](https://github.com/source-br/Community-Translations-for-Day-of-Defeat) |
-| `gearbox` | Half-Life: Opposing Force<br>⚠️ Privite | [Community-Translations-for-Half-Life-Opposing-Force](https://github.com/source-br/Community-Translations-for-Half-Life-Opposing-Force) |
+| `bshift` | Half-Life: Blue Shift<br>⚠️ Private | [Community-Translations-for-Half-Life-Blue-Shift](https://github.com/source-br/Community-Translations-for-Half-Life-Blue-Shift) |
+| `cstrike` | Counter-Strike<br>⚠️ Private | [Community-Translations-for-Counter-Strike](https://github.com/source-br/Community-Translations-for-Counter-Strike) |
+| `czero` | Counter-Strike: Condition Zero<br>⚠️ Private | [Community-Translations-for-Counter-Strike-Condition-Zero](https://github.com/source-br/Community-Translations-for-Counter-Strike-Condition-Zero) |
+| `czeror` | Counter-Strike: Condition Zero Deleted Scenes<br>⚠️ Private | [Community-Translations-for-Counter-Strike-Condition-Zero-Deleted-Scenes](https://github.com/source-br/Community-Translations-for-Counter-Strike-Condition-Zero) |
+| `dmc` | Deathmatch Classic<br>⚠️ Private | [Community-Translations-for-Deathmatch-Classic](https://github.com/source-br/Community-Translations-for-Deathmatch-Classic) |
+| `dod` | Day of Defeat<br>⚠️ Private | [Community-Translations-for-Day-of-Defeat](https://github.com/source-br/Community-Translations-for-Day-of-Defeat) |
+| `gearbox` | Half-Life: Opposing Force<br>⚠️ Private | [Community-Translations-for-Half-Life-Opposing-Force](https://github.com/source-br/Community-Translations-for-Half-Life-Opposing-Force) |
 | `ricochet` | Ricochet | [Community-Translations-for-Ricochet](https://github.com/source-br/Community-Translations-for-Ricochet) |
 | `tfc` | Team Fortress Classic | [Community-Translations-for-Team-Fortress-Classic](https://github.com/source-br/Community-Translations-for-Team-Fortress-Classic) |
 | `valve` | Half-Life | [Community-Translations-for-Half-Life](https://github.com/source-br/Community-Translations-for-Half-Life) |
