@@ -36,7 +36,7 @@ Esse projeto tem como objetivo traduzir todos os jogos oficias da Valve feitos p
 | `tfc` | Team Fortress Classic | [Community-Translations-for-Team-Fortress-Classic](https://github.com/source-br/Community-Translations-for-Team-Fortress-Classic) |
 | `valve` | Half-Life | [Community-Translations-for-Half-Life](https://github.com/source-br/Community-Translations-for-Half-Life) |
 
-## Como colaborarar
+## Como colaborar
 
 * [Documentação](https://github.com/source-br/Community-Translations-for-GoldSrc/wiki/About-the-Translations)
 
@@ -60,6 +60,6 @@ Você pode nos apoiar com doações 💛
 > Este projeto não é afiliado à Valve Corporation. Todos os direitos sobre o conteúdo do jogo pertencem à Valve Corporation.
 
 > [!NOTE]
-> Este projeto é gerenciado pela [Source BR](https://www.sourcebr.com.br), então caso tenha alguma dúvida entre contato no nosso [Discord](https://discord.gg/tVNv6SNZZT) ou mande um e-mail para: contato@sourcebr.com.br.
+> Este projeto é gerenciado pela [Source BR](https://www.sourcebr.com.br), então caso tenha alguma dúvida entre contato no nosso [Discord](https://discord.gg/tVNv6SNZZT) ou mande um e-mail para: contato@sourcebr.com.br
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffaa01&height=85&section=footer"/>
