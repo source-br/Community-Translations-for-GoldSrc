@@ -1,0 +1,15 @@
+Ravelin - Capture The Flag Variant
+
+Objective: Take your team's flag from
+the spawn area of your base to the 
+command center of the enemy base in
+order to capture it.
+
+Scoring: 10 points for each capture.
+
+Other Notes: Use a detpack to destroy 
+the enemy's power generator. This will
+disable spot lights and laser security
+grid guarding alternate entrance to the
+command center. Engineer can repair the
+power generator after it has been broken.

@@ -1,0 +1,33 @@
+STATS
+Max Health: 75
+Max Armor: 50 Light Armor
+Max Speed: Very Fast
+
+WEAPONS     
+Single-Barrel Shotgun, Nail Gun, Crowbar
+
+GRENADES     
+Caltrop Canisters, Concussion Grenades
+
+ABILITIES     
+Can remove an enemy Spy's disguise
+Can disarm Demomen's detpacks
+
+SPECIAL SKILL KEY
+Displays the status of each team's Flag on Capture The Flag maps 
+ 
+TIPS:
+Run. Don't fight. 
+Every single enemy you meet is a better fighting class than you are. Remember, your goal is to get the Flag, not kill the enemy. Leave the killing to your teammates who are playing fighting classes.
+
+Don't run in straight lines. 
+Your enemies will be doing everything they can do to prevent you from getting into their base. Use your "Move Left" and "Move Right" keys to dodge incoming fire. Even if you can't see an enemy, keep dodging as you run, because chances are good that there's a sniper aiming at you. 
+
+Call for help. 
+If the enemy has a defensive position that you just can't get past, or a sentrygun that keeps killing you, call for backup. Tell your teammates where the enemy (or sentrygun) is, and let them take care of him for you. 
+
+Concuss enemy defenders. 
+If there are a lot of enemy defenders in a room, use your Concussion grenades to soften them. Hold down your "Throw Grenade Type 2" key for a  couple of seconds before releasing it. This will throw the Concussion grenade a second or so before it goes off. Hopefully the defenders won't  have time to avoid it with only a second's warning. After the grenade has exploded, run like the wind! Concussed defenders find it hard to hit  any target, let alone a Scout running at full speed. 
+
+Slow down pursuers with caltrops.
+Caltrops are small metal spikes that injure and slow down anyone who walks over them. When you're being pursued, hit your "Throw Grenade Type 1" key to drop a canister of caltrops. Try and drop the canister just around a corner or in a narrow passage to ensure the enemy runs over the caltrops. If you're lucky, this will slow them down long enough for you to escape. 

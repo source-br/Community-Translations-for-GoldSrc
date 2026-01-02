@@ -1,0 +1,49 @@
+STATS
+Max Health: 90
+Max Armor: 100 Light Armor
+Max Speed: Medium
+
+WEAPONS      
+Tranquilizer Pistol, Double-Barrel Shotgun, Nail Gun, Knife
+
+GRENADES      
+Hand Grenades, Hallucination Grenades
+
+ABILITIES    
+Can disguise to look like an enemy
+Can feign death 
+Can remove an enemy Spy's disguise
+Can backstab for an instant kill
+
+SPECIAL SKILL KEY
+Brings up the Disguise menu 
+
+Pretend to be one of them.
+Your number one skill as a Spy is your ability to look like a member of the enemy team. Wherever possible, avoid letting the enemy see you as a Spy. Once they know you're playing a Spy they'll be much more alert. Luckily, the paranoia induced in a Team from the knowledge that there is an enemy Spy wandering around is worth playing a Spy for in itself. It takes a couple of seconds to disguise yourself, so try not to be discovered. 
+
+Think before you disguise.
+The Spy is the thinker's class. You need to outwit your enemy. After your first couple of infiltrations, it's fairly likely the enemy is on the lookout for you. They'll be watching for anyone on their team who's doing anything out of the ordinary. You need to watch the enemy so you can become one of them. Pick your disguise carefully, and change it whenever you're alone and the disguise is no longer fitting. If the enemy has one Sniper, and he's defending the base entrance, don't disguise yourself as a Sniper and walk into their Flag room. 
+
+Remember your teammates.
+Remember that your teammates will also see your disguise. So if you're disguised as an enemy Sniper, your teammates will probably think you're an enemy Sniper too. If they're smart, they'll read your ID in their status bar and know you're a Spy, but usually, they'll pump a few rounds into you. You can help prevent this by sticking to a simple rule: Never change your Team disguise inside your own Team's base. 
+
+Think before you shoot.
+As a spy, attacking anyone is not a decision to be made lightly. This is because when you attack, you lose your disguise. That's right. You're back to looking like a Spy, and you can be sure that any enemies who see you won't be amused that you've been pretending to be their buddy for the past 2 minutes. The only exception to this rule is grenade throwing, which means that you can throw a grenade and still maintain your disguise. Unfortunately, any enemy who sees you throwing grenades around is probably going to get a little suspicious. 
+
+Avoid enemy Spies and Scouts.
+Enemy Spies and Scouts will remove your disguise if they touch you, so avoid them if you're disguised. Try not to look like you're avoiding them though. 
+
+Be careful when picking up Flags.
+Some maps have objects that remove your disguise. For example, in Capture The Flag maps, if you grab the enemy Flag while you're disguised, your disguise will be lost, and you won't be able to re-disguise while carrying it. 
+
+Lie in wait for them.
+Use your ability to feign death a lot. Spies are very effective at killing specific individuals on the enemy team, so they are particularly lethal on maps where 1 or 2 classes are important. For example, in CanalZone 2, Scouts are essential because they're needed to carry Flags from their base out to points on the map. Find places where the Scouts will be moving past, and lie in wait for them. Be careful not to look around while you're "dead", because the enemy will be able to see your "corpse" moving. Wait until they pass you, then stand up and knife them in the back. Another useful thing to know is that you can disguise yourself while you're feigning death, which is often the safest way of disguising yourself. 
+
+Knife them in the back.
+When used right, your knife is the most lethal weapon you carry. If you stab an enemy in the back with it, it'll kill him in one hit. Even if your stab isn't perfect, it'll still inflict severe damage upon him. Bear in mind that as a result you'll lose your disguise, and you can be sure that if there are enemies around to notice this, they won't be amused.
+
+Provide intelligence.
+If you're in the enemy base, waiting for the perfect opportunity to grab their Flag while no-one's looking, or to knife a particular Defender in the back as your Team's attack squad comes in, make yourself useful. Report back information to your teammates. Tell your Team where the enemy Defenders are located, what classes they are playing, where their sentryguns are, and so on. 
+
+Take out their sentryguns.
+Sentryguns are dumb. They won't fire at you if you're disguised as a teammate of the Engineer who built them. They won't even fire at you when you throw grenades at them. This makes you the ultimate anti-sentrygun weapon. If your team's Scouts are getting mowed down by enemy sentryguns, walk on into the enemy base and put some grenades on the sentrygun when no-one's looking. 

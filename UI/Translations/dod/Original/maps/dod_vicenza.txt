@@ -1,0 +1,19 @@
+DOD_VICENZA by Jeremy "Izuno" Miller, (izuno@planethalflife.com)
+
+April, 1945, Italy
+
+The Allies have advanced up the rocky spine of Italy, nearly to
+the city of Vicenza. Tanks have fired shells from a distance, but
+before they can roll into the city the King Tiger tank and Half Track
+must be destroyed.
+ 
+Allied Objectives
+   - Destroy the two Axis vehicles with Bazookas or Satchels
+   - Prevent the Axis troops from destroying the two Allied jeeps.
+
+Axis Objectives
+   - Destroy the two Allied vehicles with Panzerschrecks or Satchels.
+   - Prevent the Allies from destroying the Axis vehicles.
+
+Note:
+Use satchel charges to destroy obstacles.

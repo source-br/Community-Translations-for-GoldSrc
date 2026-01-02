@@ -1,0 +1,43 @@
+STATS
+Max Health: 80
+Max Armor: 50 Medium Armor
+Max Speed: Medium
+
+WEAPONS
+Railgun, Double-Barrel Shotgun, Wrench
+
+GRENADES
+Hand Grenades, EMP Grenades
+
+ABILITIES    
+Can build automatic sentryguns 
+Can build ammunition dispensers 
+Can repair teammate's armor 
+Can create ammunition 
+
+SPECIAL SKILL KEY
+Brings up the Build menu 
+
+Get Metal.
+All your abilities as an Engineer rely upon you having enough metal. To get metal, grab armor from your Resupply Room. Any armor you can't wear is automatically converted to metal. To see how much metal you've got, select your Wrench and looking at the "ammo" count in the bottom right corner of your screen. 200 metal is the most you can carry. You need 130 metal to make or upgrade a sentrygun, and 100 to make a dispenser. 
+
+Build a Sentrygun.
+Your most useful contribution to the Team is your sentrygun. You can only have one of these built at a time, so positioning it well is important, although you can always dismantle it and build another. Don't worry if it quickly gets destroyed the first few times you build it. Just look for a new place to put it where the enemy will have a harder time killing it. Keep an eye out for other Engineers, and see where they're placing their sentryguns. Once you've picked a place to build yours, hit your "Use Special Skill" key to bring up the Build menu. If there's no option 2 to build a sentrygun, that means you don't have enough metal, so go get some more from the nearest Resupply Room. It takes 4 seconds to build your sentrygun, during which time you won't be able to move or shoot, so if you're building outside your base you might need someone to guard you. 
+
+Upgrade your Sentrygun.
+Once you've got your sentrygun built, you'll want to upgrade it quickly. Sentryguns have 3 levels, and at each increasing level they have more health, fire faster, and hold more ammo than at the previous level. Level 3 sentryguns fire rockets as well as their gattling guns, making them particularly vicious. To upgrade your sentrygun, make sure you've got at least 130 metal, and then hit your sentrygun with your wrench. The maintenance menu will come up. If there's no option 2 to Upgrade the sentrygun, you don't have enough metal, so go get some more from the nearest Resupply Room. Note that once your sentrygun is level 3, you won't be able to upgrade it any further. 
+
+Maintain your Sentrygun.
+Once the sentry guns are up and running and killing some enemies, you'll need to maintain it. If you look in the bottom left of your screen, you'll see your sentry gun's health and ammunition. If it's low on health, you'll need to repair it. Hit it with your wrench and select the "Repair" option from the menu. Keep doing this until it's fully repaired or you run out of metal (you can see the amount of metal you've got in the ammo count in the bottom right corner of your screen). If your sentrygun is low on ammunition, you need to restock it. Grab some shells from your Resupply Room, hit your sentrygun with the wrench and then select the "Put ammo in sentrygun" option. If it's a level 3 sentrygun, make sure you grab some rockets and put them in it. Keep doing this until it's fully stocked with ammunition. Finally, make sure your sentry gun's facing the right way. Sentryguns track better if they're facing the direction the enemies' are coming from, and they'll sometimes swing around and end up facing the wrong way after they've shot down an enemy. Hit the sentrygun with your wrench and select the "Rotate Sentrygun" option. Keep rotating it until you're happy with the direction it's facing. 
+
+Build a Dispenser.
+The next thing that your team would be eternally grateful for is an ammunition & armor dispenser. This is a small machine that creates ammunition and armor inside itself every 10 seconds, and lets anyone get some from it. It's like a mini Resupply Room. If you've got a group of Defenders in a place where they can't get to a Resupply Room quickly enough, a dispenser's the perfect thing to allow them to resupply without leaving their posts. Dispensers are also great if they're hidden somewhere near the enemy base to allow your attack squads to resupply right before they go into the enemy base. Like sentryguns, you can only have one dispenser built at a time, so place it wisely. They have little health, so keep your dispenser fully repaired if you can. Hit it with your wrench to bring up the Maintenance menu, just as you do for the sentrygun. 
+
+Repair your teammates' armor.
+Another important and often overlooked trait of the Engineer is his ability to repair his teammates' armor. Simply hit your teammates with your wrench. You'll need a bit of metal to repair them, but not much. Keep hitting them until their armor's fully repaired, or until you've run out of metal. Note that your teammates will probably use the "Call for a Medic!" command to ask you to repair their armor, so if you hear them yell for help, look around. The player who called for help will have a floating red cross above his head. 
+
+Make ammunition for your teammates.
+The other useful thing an Engineer can do is make ammunition. This is great for swiftly delivering ammunition to Defenders, like HW Guys, who don't have time to get to the Resupply Room and back to their posts before the enemy attacks. Making ammunition is easy. Simply hit your "Drop Unused Ammunition" key (X by default). Unlike every other class, who only drop the ammunition they're carrying that they can't use, Engineers always drop some ammunition of each type, using their metal supply to fabricate ammunition that they don't have. If you don't have much metal, you won't be able to make much, but its probably still a better idea than sending that HW Guy back to the Resupply Room. 
+
+Protect your Sentrygun with EMP grenades.
+Your EMP grenades are tricky. They explode like any grenade, but instead of doing any damage themselves, they detonate anything explosive around them and rely on that to do damage instead. This means players with explosive ammunition, like rockets and shells, will explode like firecrackers. Detpacks will go boom. Pipebombs will detonate. Ammo packs will go up in smoke. Roughly speaking, the more ammunition lying around, the more dangerous the EMP blast is going to be, and some classes, like the Soldier and HW Guy, are carrying a heckuvva lotta ammunition. The only downside is that some classes, like the Scout, are carrying almost no explosive ammunition at all, and can simply walk right through an EMP blast. Use your EMP grenades, combined with your hand grenades, to destroy enemies who are trying to destroy your sentrygun. Your sentrygun is far more dangerous to them than you are, so if you're lucky, you'll be able to throw a grenade at their feet while they're otherwise occupied. 

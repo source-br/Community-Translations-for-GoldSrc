@@ -1,0 +1,13 @@
+STATS
+Max Health: 50
+Max Armor: None
+Max Speed: Medium
+
+WEAPONS
+Crowbar
+
+GRENADES
+None
+
+ABILITIES
+None

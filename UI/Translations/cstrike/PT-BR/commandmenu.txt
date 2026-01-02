@@ -1,0 +1,226 @@
+// Command Menu definition
+// 
+// Basic Format:
+//		"<Bound Key>" "<Button Text>" "<Command sent to server>"
+//
+// 
+//
+//
+// Buttons can also open up submenus, as follows:
+// {
+// 	"Some More Options",
+//	{
+//		...
+//	}
+// }
+//
+//
+// Buttons preceded with "CUSTOM" are handled in special ways. They can only be moved
+// around or deleted.
+//
+//
+// Limitations:
+//		Maximum of 40 menus.
+//		Maximum of 100 buttons per menu.
+
+//--------------------------------------------------------
+// Everything below here is editable
+
+"1" "#Cstrike_HELP"
+{
+	CUSTOM		"1" "#Cstrike_Map_Desc"	"!MAPBRIEFING"
+	"2" "#Cstrike_Time_Left" 		"timeleft"
+	"3" "#Cstrike_Adjust_Crosshair" 	"adjust_crosshair"
+	"4" "#Cstrike_Use_Left_Hand" 		"cl_righthand 0"
+	"5" "#Cstrike_Use_Right_Hand" 		"cl_righthand 1"
+}
+
+
+"2" "#Cstrike_CHANGE_TEAM"	"chooseteam"
+
+// Here are the rest of the buttons and submenus
+// You can change these safely if you want.
+"3" "#Cstrike_TEAM_MESSAGE"
+{
+	// Map Specific
+
+	MAP cs_siege "1" "#Cstrike_Map_Siege"
+	{
+		"1" "#Cstrike_take_underground"		"say_team Vão pelo subterrâneo!"
+		"2" "#Cstrike_enemy_garage" 		"say_team Inimigo no estacionamento!"
+		"3" "#Cstrike_rush_hostage_room"   	"say_team Corra para a sala dos reféns!"
+		"4" "#Cstrike_snipers_watch_out" 	"say_team Snipers! Cuidado!"
+		"5" "#Cstrike_take_upper_route"  	"say_team Sigam pela rota de cima!"
+	}
+
+	MAP de_train "1" "#Cstrike_train"
+	{
+		"1" "#Cstrike_rush_trainyard" 		"say_team Corram para o alvo de explosão dos trens!"
+		"2" "#Cstrike_rush_enclosed"		"say_team Corram para o alvo de explosão fechado!"
+		"3" "#Cstrike_flank_them"   		"say_team Flanqueie-os!"
+		"4" "#Cstrike_bomb_site_secure"  	"say_team Alvo de explosão seguro!"
+		"5" "#Cstrike_lend_me_blaster"  	"say_team Passe-me seu explosivo!"
+	}
+
+	MAP de_vertigo "1" "#Cstrike_vertigo"
+	{
+		"1" "#Cstrike_rush_upper_level" 	"say_team Corra para o andar de cima!"
+		"2" "#Cstrike_rush_lower_level" 	"say_team Corra para o andar de baixo!"
+		"3" "#Cstrike_flank_them"   		"say_team Flanqueie-os!"
+		"4" "#Cstrike_snipers_watch_out"	"say_team Snipers! Cuidado!"
+		"5" "#Cstrike_bomb_site_secure"  	"say_team Alvo de explosão seguro!"
+	}
+
+	MAP de_prodigy "1" "#Cstrike_prodigy"
+	{
+		"1" "#Cstrike_rush_to_pipes" 		"say_team Corra para os canos!"
+		"2" "#Cstrike_rush_to_lab" 		"say_team Corra para o laboratório!"
+		"3" "#Cstrike_take_the hallway"   	"say_team Vão pelo corredor!"
+		"4" "#Cstrike_flank_them"		"say_team Flanqueie-os!"
+		"5" "#Cstrike_take_the_apc"  		"say_team Vão pela trilha do tanque!"
+	}
+
+	MAP de_aztec "1" "#Cstrike_aztec"
+	{
+		"1" "#Cstrike_take_bridge"		"say_team Vão pela ponte!"
+		"2" "#Cstrike_enemy_at_bomb_site" 	"say_team Narby, inimigo no alvo de explosão!"
+		"3" "#Cstrike_rush_to_bomb_site"   	"say_team Corram para o alvo da explosão!"
+		"4" "#Cstrike_bomb_site_secure"		"say_team Alvo de explosão seguro!"
+		"5" "#Cstrike_take_water_route"  	"say_team Vão pela rota aquática!"
+	}
+
+	MAP de_inferno "1" "#Cstrike_inferno"
+	{
+		"1" "#Cstrike_take_bridge"		"say_team Vão pela ponte!"
+		"2" "#Cstrike_enemy_at_bomb_site"	"say_team Inimigo no alvo de explosão!"
+		"3" "#Cstrike_rush_to_bomb_site"	"say_team Corram para o alvo da explosão!"
+		"4" "#Cstrike_bomb_site_secure"		"say_team Alvo de explosão seguro!"
+		"5" "#Cstrike_take_water_route"		"say_team Vão pela rota aquática!"
+	}
+
+	MAP cs_office "1" "#Cstrike_office"
+	{
+		"1" "#Cstrike_take_back_route"		"say_team Sigam pela rota de trás!"
+		"2" "#Cstrike_rush_to_hostages"		"say_team Corra para os reféns!"
+		"3" "#Cstrike_do_it_for_manilov"	"say_team Faça isso por Manilov!"
+		"4" "#Cstrike_take_front_route"		"say_team Sigam pela rota da frente!"
+		"5" "#Cstrike_flank_them"		"say_team Flanqueie-os!"
+	}
+
+	MAP cs_backalley "1" "#Cstrike_backalley"
+	{
+		"1" "#Cstrike_flank_them"		"say_team Flanqueie-os!"
+		"2" "#Cstrike_enemy_overhead" 		"say_team Inimigo adiante!"
+		"3" "#Cstrike_rush_to_hostages"		"say_team Corra para os reféns!"
+		"4" "#Cstrike_go_you_blaster"		"say_team Avança!"
+		"5" "#Cstrike_taking_heavy_fire"	"say_team Sob fogo intenso!"
+	}
+
+	MAP cs_747 "1" "#Cstrike_747"
+	{
+		"1" "#Cstrike_rush_the_plane'"		"say_team Corram para o avião!"
+		"2" "#Cstrike_meet_in_terminal"		"say_team Me encontrem no terminal"
+		"3" "#Cstrike_enemy_outside_plane"	"say_team Inimigo fora do avião!"
+		"4" "#Cstrike_enemy_in_cargo"  		"say_team Inimigo no porão do navio!"
+		"5" "#Cstrike_flank_them"		"say_team Flanqueie-os!"
+	}
+
+	MAP as_oilrig "1" "#Cstrike_oilrig"
+	{
+		"1" "#Cstrike_rush_to_chopper" 		"say_team Corram para o helicóptero!"
+		"2" "#Cstrike_to_the_elevator" 		"say_team Para o elevador!"
+		"3" "#Cstrike_vip_spotted"   		"say_team VIP avistado!"
+		"4" "#Cstrike_sniper_spotted"  		"say_team Sniper avistado! Cuidado!"
+		"5" "#Cstrike_protect_the_vip"  	"say_team Protect the VIP!"
+	}
+
+	MAP cs_assault "1" "#Cstrike_assault"
+	{
+		"1" "#Cstrike_rush_the_building" 	"say_team Corram para o edifício!"
+		"2" "#Cstrike_take_the_vents" 		"say_team Vá pelos dutos!"
+		"3" "#Cstrike_enemy_in_vents"   	"say_team Inimigo nos dutos!"
+		"4" "#Cstrike_rush_hostage_room"	"say_team Corra para a sala dos reféns!"
+		"5" "#Cstrike_team_regroup"  		"say_team Equipe! Reagrupar!"
+	}
+
+	MAP de_nuke "1" "#Cstrike_nuke"
+	{
+		"1" "#Cstrike_go_to_main_hall" 		"say_team Vá para a entrada principal"
+		"2" "#Cstrike_go_to_basement" 		"say_team Vão para o porão"
+		"3" "#Cstrike_flank_yard"   		"say_team Embosquem o quintal"
+		"4" "#Cstrike_flank_comm_room"  	"say_team Embosquem a sala de comunicação"
+		"5" "#Cstrike_at_entrance_hall"  	"say_team Na entrada do saguão"
+	}
+
+	MAP de_cbble "1" "#Cstrike_cbble"
+	{
+		"1" "#Cstrike_heading_central_hall" 	"say_team Indo para o saguão central!"
+		"2" "#Cstrike_heading_underpass" 	"say_team Indo para a passagem subterrânea!"
+		"3" "#Cstrike_sniper_in_tower"   	"say_team Sniper na torre!"
+		"4" "#Cstrike_bomb_target_secure"  	"say_team Alvos de explosão seguros"
+		"5" "#Cstrike_guard_start_area"  	"say_team Fiquem de guarda na área de início"
+	}
+
+	MAP de_dust "1" "#Cstrike_dust"
+	{
+		"1" "#Cstrike_heading_to_hallway" 	"say_team Indo ao saguão!"
+		"2" "#Cstrike_heading_underpass" 	"say_team Heading to underpass!"
+		"3" "#Cstrike_bomb_a_secure"   		"say_team Alvo A seguro"
+		"4" "#Cstrike_bomb_b_secure"  		"say_team BAlvo B seguro"
+		"5" "#Cstrike_sniper_at_underpass"  	"say_team Sniper na passagem inferior"
+	}
+
+	MAP de_dust2 "1" "#Cstrike_dust2"
+	{
+		"1" "#Cstrike_heading_to_hallway" 	"say_team Indo ao saguão!"
+		"2" "#Cstrike_heading_underpass" 	"say_team Indo para a passagem subterrânea!"
+		"3" "#Cstrike_bomb_a_secure"   		"say_team Alvo A seguro"
+		"4" "#Cstrike_bomb_b_secure"  		"say_team Alvo B seguro"
+		"5" "#Cstrike_heading_to_tunnel"  	"say_team Indo para o túnel!"
+	}
+
+	MAP cs_italy "1" "#Cstrike_italy"
+	{
+		"1" "#Cstrike_meet_at_market" 		"say_team Me encontrem no mercado!"
+		"2" "#Cstrike_rush_the_house" 		"say_team Invadam a casa!"
+		"3" "#Cstrike_head_to_wine_cellar"   	"say_team Vão para a adega!"
+		"4" "#Cstrike_rush_long_passage"  	"say_team Corram para o corredor longo!"
+		"5" "#Cstrike_hostages_rescued"  	"say_team Reféns sendo resgatados!"
+	}
+
+	MAP cs_estate "1" "#Cstrike_estate"
+	{
+		"1" "#Cstrike_go_to_sewer" 		"say_team Vão para o esgoto!"
+		"2" "#Cstrike_enemy_on_first_story" 	"say_team Inimigo no primeiro andar!"
+		"3" "#Cstrike_enemy_on_sec_story"   	"say_team Inimigo no segundo andar!"
+		"4" "#Cstrike_enemy_in_back"  		"say_team Inimigo atrás!"
+		"5" "#Cstrike_enemy_in_front"  		"say_team Inimigo a frente!"
+	}
+	
+	MAP as_tundra "1" "#Cstrike_tundra"
+	{
+		"1" "#Cstrike_use_sec_route" 		"say_team Usar rota secundária!"
+		"2" "#Cstrike_use_primary_route" 	"say_team Usar rota primária!"
+		"3" "#Cstrike_snipers_watch_out"	"say_team Snipers! Cuidado!"
+		"4" "#Cstrike_rush_to_apc"  		"say_team Corram para o tanque!"
+		"5" "#Cstrike_rush_to_chopper"  	"say_team Corram para o helicóptero!"
+	}	
+
+	MAP cs_militia "1" "#Cstrike_militia"
+	{
+		"1" "#Cstrike_meet_at_garage" 		"say_team Me encontrem na ventilação da garagem!"
+		"2" "#Cstrike_meet_front_house" 	"say_team Me encontrem na frente da casa!"
+		"3" "#Cstrike_meet_backyard"   		"say_team Me encontrem no quintal de trás!"
+		"4" "#Cstrike_enemy_topside"  		"say_team Inimigo em cima!"
+		"5" "#Cstrike_enemy_sewers"  		"say_team O inimigo está nos esgotos!"
+	}
+
+
+     "2" "#Cstrike_Acknowledged"	"say_team Entendido"
+     "3" "#Cstrike_Negative"		"say_team Negativo"
+     "4" "#Cstrike_Go"			"say_team Vai, vai, vai!"
+     "5" "#Cstrike_On_My_Way"		"say_team Estou indo"
+     "6" "#Cstrike_Need_Backup"		"say_team Preciso de reforços!"
+}
+
+"4" "#Cstrike_DROP_CURRENT_ITEM" 	"drop"

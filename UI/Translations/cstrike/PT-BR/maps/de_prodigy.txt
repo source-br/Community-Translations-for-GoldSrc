@@ -1,0 +1,14 @@
+Prodigy - Bomba/Desarmar
+por Hobbit (hobbit@nodream.net)
+
+Contraterroristas: Impeça que os Terroristas
+bombardeiem o laboratório de informática ou
+a sala de controle do oleoduto de combustível.
+Os membros da equipe devem desativar as bombas
+que ameaçam as áreas visadas.
+
+Terroristas: O Terrorista que estiver
+carregando o C4 deve destruir um dos alvos. 
+
+Outras observações: Há 2 alvos
+nesta missão.

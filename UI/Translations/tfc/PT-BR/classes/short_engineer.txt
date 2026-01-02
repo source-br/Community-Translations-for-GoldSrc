@@ -1,0 +1,16 @@
+STATS
+Max Health: 80
+Max Armor: 50 Medium Armor
+Max Speed: Medium
+
+WEAPONS
+Railgun, Double-Barrel Shotgun, Wrench
+
+GRENADES
+Hand Grenades, EMP Grenades
+
+ABILITIES
+Can build automatic sentryguns
+Can build ammunition dispensers
+Can repair teammate's armor
+Can create ammunition

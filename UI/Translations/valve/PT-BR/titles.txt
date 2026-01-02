@@ -1,0 +1,1105 @@
+//TITLES FOR HALF-LIFE
+// Position command $position x y 
+// x & y are from 0 to 1 to be screen resolution independent
+// -1 means center in each dimension
+// Effect command $effect <effect number>
+// effect 0 is fade in/fade out
+// effect 1 is flickery credits
+// effect 2 is write out (training room)
+// Text color r g b command $color
+// fadein time fadeout time / hold time
+// $fadein (message fade in time - per character in effect 2)
+// $fadeout (message fade out time)
+// $holdtime (stay on the screen for this long)
+
+//INTRO TITLES
+// All centered for now
+$position -1 -1
+$effect 2
+// This is the final color
+$color 100 100 100
+// This is the highlight color
+$color2 240 110 0
+// This is the time it takes to fade each character
+$fadein 0.01
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.25
+// How long to hold the message on the screen (after it scans out)
+$holdtime 3.5
+// How long it takes to fade out the message after holding
+$fadeout 1.5
+
+CR27
+{
+Instalação de pesquisa Black Mesa
+Black Mesa, Novo México
+}
+
+
+//INTRO CREDITS
+// Test values -- JAY
+// Lower left
+$position 0.1 0.8
+$effect 1
+// Final fade-in color
+$color 128 128 128
+// This is the highlight/flash color
+$color2 0 0 0
+$fadein 1.5
+$fadeout 0.5
+$holdtime 1.2
+
+CR1
+{
+Ted Backman
+}
+
+CR2
+{
+TK Backman
+}
+
+CR3
+{
+Kelly Bailey
+}
+
+CR4
+{
+Yahn Bernier
+}
+
+CR5
+{
+Ken Birdwell
+}
+
+CR6
+{
+Steve Bond
+}
+
+CR7
+{
+Dario Casali
+}
+
+CR8
+{
+John Cook
+}
+
+CR9
+{
+Greg Coomer
+}
+
+CR10
+{
+Wes Cumberland
+}
+
+CR11
+{
+John Guthrie
+}
+
+CR12
+{
+Mona Lisa Guthrie
+}
+
+CR13
+{
+Mike Harrington
+}
+
+CR14
+{
+Monica Harrington
+}
+
+CR15
+{
+Brett Johnson
+}
+
+CR16
+{
+Chuck Jones
+}
+
+CR17
+{
+Marc Laidlaw
+}
+
+CR18
+{
+Karen Laur
+}
+
+CR19
+{
+Randy Lundeen
+}
+
+CR20
+{
+Yatsze Mark
+}
+
+CR21
+{
+Lisa Mennet
+}
+
+CR22
+{
+Gabe Newell
+}
+
+CR23
+{
+Dave Riller
+}
+
+CR24
+{
+Aaron Stackpole
+}
+
+CR25
+{
+Jay Stelly
+}
+
+CR26
+{
+Harry Teasley 
+}
+
+CR35
+{
+Steve Theodore
+}
+
+CR36
+{
+Bill Van Buren
+}
+
+CR37
+{
+Robin Walker
+}
+
+CR38
+{
+Douglas R. Wood
+}
+
+//END CREDITS
+$position -1 -1
+$effect 0
+// Final fade-in color
+$color 128 128 128
+// This is the highlight/flash color
+$color2 0 0 0
+$fadein 0.5
+$fadeout 0.5
+$holdtime 4
+
+VALVEIS
+{
+Valve é:
+}
+
+END1
+{
+Ted Backman
+TK Backman
+Kelly Bailey
+Yahn Bernier
+Ken Birdwell
+Steve Bond
+Dario Casali
+John Cook
+Greg Coomer
+Wes Cumberland
+}
+
+END2
+{
+John Guthrie
+Mona Lisa Guthrie
+Mike Harrington
+Monica Harrington
+Brett Johnson
+Chuck Jones
+Marc Laidlaw
+Karen Laur
+Randy Lundeen
+Yatsze Mark
+}
+
+END3
+{
+Lisa Mennet
+Gabe Newell
+Dave Riller
+Aaron Stackpole
+Jay Stelly
+Harry Teasley
+Steve Theodore
+Bill Van Buren
+Robin Walker
+Douglas R. Wood
+}
+
+//INTRO TITLES
+// All centered for now
+$position -1 -1
+$effect 2
+// This is the final color
+$color 100 100 100
+// This is the highlight color
+$color2 240 110 0
+// This is the time it takes to fade each character
+$fadein 0.01
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.25
+// How long to hold the message on the screen (after it scans out)
+$holdtime 3.5
+// How long it takes to fade out the message after holding
+$fadeout 1.5
+
+
+CR28
+{
+SUJEITO:
+Gordon Freeman
+Homem, idade 27
+}
+
+CR29
+{
+FORMAÇÃO:
+Ph.D., MIT, Física teórica
+}
+
+CR30
+{
+CARGO:
+Pesquisador associado
+}
+
+CR31
+{
+ATRIBUIÇÃO:
+Laboratório de materiais anômalos
+}
+
+CR32
+{
+AUTORIZAÇÃO:
+Nível 3
+}
+
+CR33
+{
+PATROCINADOR ADMINISTRATIVO:
+Confidencial
+}
+
+CR34
+{
+PRIORIDADE DE REAÇÃO A DESASTRES:
+Autônomo
+}
+
+$fadein 0.03
+$holdtime 9
+
+GAMEOVER
+{
+SUJEITO: FREEMAN
+
+ESTADO: AVALIAÇÃO FINALIZADA
+
+AUTOPSIA:
+O sujeito falhou ao tentar utilizar
+recursos humanos na realização do objetivo.
+}
+
+$fadein 0.03
+$holdtime 9
+TRAITOR
+{
+SUJEITO: FREEMAN
+
+ESTADO: CONTRATADO
+
+AGUARDANDO ATRIBUIÇÃO
+}
+
+
+$fadein 0.03
+$holdtime 9
+LOSER
+{
+SUJEITO: FREEMAN
+
+ESTADO: OBSERVAÇÃO ENCERRADA
+
+AUTOPSIA:
+O sujeito recusou oferta de emprego.
+}
+
+//CHAPTER TITLES
+
+$fadein 0.01
+$position -1 0.4
+$holdtime 3.5
+T0A0TITLE
+{
+CURSO DE RISCOS
+}
+
+$position -1 0.65
+C0A0TITLE
+{
+CHEGANDO EM BLACK MESA
+}
+
+OPENTITLE3
+{
+
+}
+
+OPENTITLE4
+{
+
+}
+
+C0A1TITLE
+{
+MATERIAIS ANÔMALOS
+}
+
+C1A1TITLE
+{
+CONSEQUÊNCIAS IMPREVISTAS
+}
+
+C1A2TITLE
+{
+COMPLEXO DE ESCRITÓRIOS
+}
+
+C1A3TITLE
+{
+"TEMOS ELEMENTOS HOSTIS"
+}
+
+C1A4TITLE
+{
+POÇO DE QUEIMA
+}
+
+C2A1TITLE
+{
+LIGANDO A ENERGIA
+}
+
+C2A2TITLE
+{
+SOBRE TRILHOS
+}
+
+C2A3TITLE
+{
+APREENSÃO
+}
+
+C2A4TITLE1
+{
+PROCESSAMENTO DE RESÍDUOS
+}
+
+C2A4TITLE2
+{
+ÉTICA QUESTIONÁVEL
+}
+
+C2A5TITLE
+{
+TENSÃO SUPERFICIAL
+}
+
+C3A1TITLE
+{
+"ESQUEÇAM O FREEMAN!"
+}
+
+C3A2TITLE
+{
+NÚCLEO LAMBDA
+}
+
+C4A1TITLE
+{
+XEN
+}
+
+C4A1ATITLE
+{
+INTRUSO
+}
+
+C4A1BTITLE
+{
+
+}
+
+C4A1CTITLE
+{
+
+}
+
+C4A1ETITLE
+{
+
+}
+
+C4A1FTITLE
+{
+
+}
+
+C4A2TITLE
+{
+COVIL DA GONARCA
+}
+
+C4A3TITLE
+{
+NIILANTE
+}
+
+C5TITLE
+{
+FIM DE JOGO
+}
+
+
+// In-Game messages
+$position -1 0.65
+$effect 2
+// This is the final color
+$color 100 100 100
+// This is the highlight color
+$color2 240 110 0
+// This is the time it takes to fade each character
+$fadein 0.01
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.25
+// How long to hold the message on the screen (after it scans out)
+$holdtime 2.0
+// How long it takes to fade out the message after holding
+$fadeout 0.5
+
+GAMESAVED
+{
+Salvo...
+}
+
+// Game title
+// This is a placeholder to hold the effects controls for the "Half-Life" title
+$position -1 -1
+// Only effect 0 is supported for game title
+$effect 0
+// This is the final color
+$color 180 180 180
+// Not used color2
+$color2 0 0 0
+// This is the time it takes to fade in the title
+$fadein 1.0
+// How long to hold the message on the screen (after it scans out)
+$holdtime 3.0
+// How long it takes to fade out the message after holding
+$fadeout 1.5
+
+GAMETITLE
+{
+Half-Life
+}
+
+//HAZARD COURSE TEXT
+
+// Test values -- JAY
+$position -1 0.65
+// Scan-out text effect
+$effect 2
+// This is the final color
+$color 100 100 100
+// This is the highlight color
+$color2 0 200 50
+// This is the time it takes to fade each character
+$fadein 0.005
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.5
+// How long to hold the message on the screen (after it scans out)
+$holdtime 3.5
+// How long it takes to fade out the message after holding
+$fadeout 1.5
+
+$position -1 0.3
+HZBUTTON1
+{
+PRESSIONE A TECLA USAR PARA APERTAR UM BOTÃO
+}
+
+$position -1 0.65
+HZBUTTON2
+{
+PRESSIONE A TECLA USAR PARA APERTAR UM BOTÃO
+}
+
+HZMOVE
+{
+MOVA-SE PARA FRENTE PRESIONANDO A TECLA AVANÇAR
+MOVA-SE PARA TRÁS PRESIONANDO A TECLA RECUAR
+MOVA-SE PARA ESQUERDA PRESIONANDO A TECLA MOVERESQ
+MOVA-SE PARA DIREITA PRESIONANDO A TECLA MOVERDIR
+}
+
+HZJUMP
+{
+PRESSIONE A TECLA AVANÇAR PARA CORRER PARA FRENTE
+PRESSIONE A TECLA PULAR PARA SALTAR
+}
+
+HZDUCK
+{
+PRESSIONE A TECLA AVANÇAR PARA CORRER PARA FRENTE
+PRESSIONE A TECLA AGACHAR PARA SE ABAIXAR
+PRESSIONE AS TECLAS AVANÇAR + AGACHAR
+PARA SE MOVER EM SILÊNCIO
+}
+
+HZCOMBO
+{
+PRESSIONE A TECLA AVANÇAR PARA CORRER
+PRESSIONE A TECLA PULAR PARA SALTAR
+PRESSIONE A TECLA AGACHAR PARA SE ABAIXAR
+PRESSIONE A TECLA PULAR PARA SALTAR NOVAMENTE
+}
+
+HZDUCKJUMP
+{
+PRESSIONE AS TECLAS AVANÇAR + PULAR,
+E, DEPOIS, A TECLA AGACHAR
+}
+
+HZLADDER
+{
+PRESSIONE A TECLA AVANÇAR PARA SUBIR ESCADAS
+PRESSIONE A TECLA RECUAR PARA DESCER ESCADAS
+}
+
+HZLJUMP
+{
+ENQUANTO ANDA PARA FRENTE,
+SEGURE A TECLA AGACHAR
+E, ENTÃO, PRESSIONE PULAR
+}
+
+$position -1 0.3
+HZLMOD
+{
+CERTIFIQUE-SE DE TER PEGO O MÓDULO DE
+SALTO LONGO NO INÍCIO DO OBSTÁCULO
+}
+
+$position -1 0.65
+HZMEDKIT
+{
+USE KITS DE CURA PRESSIONANDO A TECLA USAR
+SEGURE A TECLA ATÉ SUA VIDA ATINGIR 100
+OU ATÉ QUE O KIT TENHA SE ESGOTADO
+}
+
+HZMOMENT
+{
+ATIVE VÁLVULAS E PAINÉIS
+SEGURANDO A TECLA USAR
+PRESSIONE-A ATÉ QUE A PONTE ESTEJA EM POSIÇÃO
+}
+
+HZPUSH
+{
+PRESSIONE A TECLA AVANÇAR CONTRA A CAIXA
+CONTINUE PRESSIONANDO-A PARA EMPURRAR
+}
+
+HZPULL
+{
+PRESSIONE AS TECLAS USAR + RECUAR
+PARA PUXAR A CAIXA PARA TRÁS
+}
+
+HZCROWBAR
+{
+MOVA-SE ATÉ O PÉ-DE-CABRA
+PRESSIONE A TECLA ATACAR1 PARA QUEBRAR OBJETOS
+}
+ 
+HZLITEON
+{
+PRESSIONE A TECLA LANTERNA
+PARA LIGAR A LANTERNA
+}
+
+HZLITEOFF
+{
+PRESSIONE A TECLA LANTERNA NOVAMENTE
+PARA DESLIGAR A LANTERNA
+}
+
+HZWEAPON
+{
+MOVA-SE ATÉ AS ARMAS PARA PEGÁ-LAS
+}
+
+HZFIREWEAP
+{
+PRESSIONE ATACAR1 PARA REALIZAR O ATAQUE PRIMÁRIO
+PRESSIONE ATACAR2 PARA REALIZAR O ATAQUE ALTERNATIVO
+PRESSIONE RECARREGAR PARA RECARREGAR À VONTADE
+}
+
+HZARMOR
+{
+PRESSIONE E SEGURE A TECLAR USAR
+ATÉ QUE SEU TRAJE ESTEJA CARREGADO
+OU O CARREGADOR TENHA SE ESGOTADO
+}
+
+HZSWIM
+{
+PRESSIONE A TECLA AVANÇAR
+MIRE COM SEU MOUSE ENQUANTO VOCÊ NADA
+BUSQUE AR SE COMEÇAR A PERDER VIDA
+AGUARDE ATÉ QUE SUA VIDA RETORNE
+ANTES DE SE SUBMERGIR NOVAMENTE
+}
+
+HZDAMAGE
+{
+CERTOS TIPOS DE DANO IRÃO SER
+REGISTRADOS NA SUA INTERFACE.
+A DIREÇÃO DO DANO É INDICADA
+POR SINAIS VERMELHOS NO CENTRO DA TELA
+}
+
+HZHAZARD
+{
+SINAIS DE RADIAÇÃO
+ATIVARÃO O CONTADOR GEIGER
+}
+
+HZSCIENTIST
+{
+APROXIME-SE DO CIENTISTA
+PRECIONE A TECLA USAR PARA SER CURADO POR ELE
+}
+
+HZBARNEY
+{
+APROXIME-SE DO AGENTE DE SEGURANÇA
+PRESSIONE A TECLA USAR PARA OBTER SUA AJUDA
+CAMINHE EM DIREÇÃO DE PORTAS PARA
+QUE O AGENTE LIBERE SUA PASSAGEM
+}
+
+HZTRAIN
+{
+PRESSIONE A TECLA USAR PARA ATIVAR O VEÍCULO
+PRESSIONE A TECLA AVANÇAR PARA ACELERAR
+PRESSIONE A TECLA RECUAR PARA DESACELERAR
+PRESSIONE A TECLA USAR PARA DESATIVAR O VEÍCULO
+}
+
+HZDONE
+{
+PARABÉNS!
+VOCÊ COMPLETOU
+O CURSO DE RISCOS DA BLACK MESA.
+RETORNE QUANDO QUISER.
+}
+
+Spec_Mode1
+{
+Câmera fixa seguindo jogador
+}
+
+Spec_Mode2
+{
+Câmera livre seguindo jogador
+}
+
+Spec_Mode3
+{
+Visão livre
+}
+
+Spec_Mode4
+{
+Primeira pessoa
+}
+
+Spec_Mode5
+{
+Visão geral livre do mapa
+}
+
+Spec_Mode6
+{
+Visão aérea — perseguição
+}
+
+Spec_NoTarget
+{
+Sem alvos válidos. Não é possível alterar para a câmera de perseguição.
+}
+
+Spec_Help_Title
+{
+Modo espectador
+}
+
+Spec_Help_Text
+{
+Use as seguintes teclas para alterar estilos de visão:
+
+ DISPARO1 - Acompanhar o próximo jogador
+ DISPARO2 - Acompanhar o jogador anterior
+ PULAR - Alternar o modo de visão
+ USAR - Alternar o modo de janela
+ 
+ AGACHAR - Ativa menu de espectador
+ 
+Na visão geral do mapa, movimente-se com:
+  
+									  
+
+ MOVERESQ - mover-se para a esquerda
+ MOVERDIR - mover-se para a direita
+ AVANÇAR - aumentar zoom
+ RECUAR - diminuir zoom
+ MOUSE - girar em torno do mapa/alvo
+}
+
+Spec_Slow_Motion
+{
+Camera lenta
+}
+
+Spec_Replay
+{
+Replay instantâneo
+}
+
+Spec_Auto
+{
+Automático
+}
+
+// Multiplayer Scoreboard
+Spec_Map
+{
+Mapa
+}
+
+Spectators
+{
+Espectadores
+}
+
+Unassigned
+{
+Não escolhido
+}
+
+TEAMS
+{
+EQUIPES
+}
+
+PLAYERS
+{
+JOGADORES
+}
+
+CLASS
+{
+CLASSE
+}
+
+SCORE
+{
+PONTUAÇÃO
+}
+
+DEATHS
+{
+MORREU
+}
+
+LATENCY
+{
+PING
+}
+
+VOICE
+{
+VOZ
+}
+
+// other menu text
+Menu_OK
+{
+OK
+}
+
+Menu_Cancel
+{
+CANCELAR
+}
+
+Mic_Volume
+{
+Volume do microfone
+}
+
+Speaker_Volume
+{
+Volume do alto-falante
+}
+
+Voice_Properties
+{
+Propriedades de voz
+}
+
+Map_Description_not_available
+{
+Descrição do mapa não disponível.
+}
+
+Player
+{
+jogador
+}
+
+Player_plural
+{
+jogadores
+}
+
+Muted
+{
+Você silenciou %s.
+}
+
+Unmuted
+{
+Você reativou a voz de %s.
+}
+
+No_longer_hear_that_player
+{
+Você não ouvirá mais esse jogador.
+}
+
+OBS_NONE
+{
+Opções da câmera
+}
+
+OBS_CHASE_LOCKED
+{
+Câmera fixa seguindo um jogador
+}
+
+OBS_CHASE_FREE
+{
+Câmera livre seguindo um jogador
+}
+
+OBS_ROAMING
+{
+Livre movimentação
+}
+
+OBS_IN_EYE
+{
+Primeira pessoa
+}
+
+OBS_MAP_FREE
+{
+Visão geral livre
+}
+
+OBS_MAP_CHASE
+{
+Visão aérea — perseguição
+}
+
+SPECT_OPTIONS
+{
+Opções
+}
+
+CAM_OPTIONS
+{
+Opções de câmera
+}
+
+Spec_Duck
+{
+Pressione AGACHAR para ver o menu de espectador
+}
+
+Valve_Close
+{
+Fechar
+}
+
+Valve_Help
+{
+Ajuda
+}
+
+Valve_Settings
+{
+Configurações
+}
+
+Valve_Chat_Messages
+{
+Mensagens do chat
+}
+
+Valve_Show_Status
+{
+Mostrar status
+}
+
+Valve_View_Cone
+{
+Ver cone
+}
+
+Valve_Player_Names
+{
+Nomes dos jogadores
+}
+
+Valve_PIP
+{
+Picture-In-Picture
+}
+
+Valve_Auto_Director
+{
+Diretor Automático
+}
+
+Valve_Show_Score
+{
+Mostrar pontuações
+}
+
+//DEMO CHAPTER TITLES
+
+$fadein 0.01
+$position -1 0.65
+$holdtime 3.5
+
+DEMOTITLE
+{
+UPLINK
+}
+
+
+//DEMO INTRO TEXT
+
+
+$position -1 0.65
+$effect 2
+$color 100 100 100
+$color2 0 200 50
+$fadein 0.005
+$fxtime 0.5
+$holdtime 3.5
+$fadeout 2.5
+
+//FROM INTRO TITLES
+// All centered for now
+$position -1 -1
+$effect 2
+// This is the final color
+$color 100 100 100
+// This is the highlight color
+$color2 240 110 0
+// This is the time it takes to fade each character
+$fadein 0.02
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.25
+// How long to hold the message on the screen (after it scans out)
+$holdtime 3.5
+// How long it takes to fade out the message after holding
+$fadeout 1.5
+
+
+DEMOTXT1
+{
+SUJEITO:
+GORDON FREEMAN, Ph.D.
+}
+
+DEMOTXT2
+{
+LOCALIZAÇÃO ATUAL:
+COMPLEXO DO REATOR LAMBDA
+INSTALAÇÃO DE PESQUISA BLACK MESA
+}
+
+DEMOTXT3
+{
+HORÁRIO:
+FALHA DE CONTENÇÃO + 48.00 HRS
+}
+
+DEMOTXT4
+{
+SITUAÇÃO:
+AVALIAÇÃO EM ANDAMENTO
+}
+
+
+$holdtime 7.5
+
+DEMOTXT6
+{
+AVALIAÇÃO ATUAL:
+UPLINK COMPLETADO.
+}
+
+DEMOTXT7
+{
+REQUER MAIS DADOS.
+}

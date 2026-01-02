@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Day of Defeat MOTD</title>
+<style>
+    body{
+        background: #000;
+        margin: 8px;
+        color:#FFB000;
+        font: normal 10pt Verdana, Tahoma, sans-serif;
+    }
+ 
+    a {
+        color: #655521;
+        text-decoration: underline;
+    }
+ 
+    a:hover {
+        color: #655521;
+        text-decoration: none;
+    }
+ 
+    h3 {
+        margin:0;
+        font-size: 16pt;
+    }
+ 
+    body p {
+        line-height: 1.2;
+        font-weight:700;
+    }
+ 
+    .white {color:#fff}
+</style>
+</head>
+<body>
+<h3 class="white">Day of Defeat</h3>
+<p>Bem-vindo ao <i>Day of Defeat</i>.
+<i>Day of Defeat</i> é um jogo multijogador da Segunda Guerra Mundial desenvolvido com a engine do Half-Life.
+DoD tenta recriar batalhas da Segunda Guerra em ambientes fictícios e reais, colocando você no papel (ou melhor, na pele!) de um soldado britânico, americano ou alemão por volta de 1944 na Europa Ocidental.</p>
+<p class="white">Você pode visitar o DoD em: <a href="http://www.dayofdefeat.net/">http://www.dayofdefeat.net/</a></p>
+</body>
+</html>

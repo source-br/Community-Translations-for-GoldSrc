@@ -1,0 +1,13 @@
+DOD_SWITCH by Jeremy "Izuno" Miller, (izuno@planethalflife.com)
+
+Late September, 1943, Italy
+
+Intense fighting continues in the mountains of Italy.
+This town with switchbacked streets is a key strategic
+point in the Allied advance.  
+
+Allied Objectives:
+   - Capture the 6 flag points
+
+Axis Objectives:
+   - Capture the 6 flag points

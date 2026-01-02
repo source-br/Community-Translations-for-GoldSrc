@@ -1,0 +1,31 @@
+STATS
+Max Health: 90
+Max Armor: 50 Light Armor
+Max Speed: Medium
+
+WEAPONS
+Sniper Rifle (with automatic fire), Nail Gun, Crowbar 
+
+GRENADES
+Hand Grenades
+
+SPECIAL SKILL KEY
+Toggles the sniper rifle zoom
+
+Become one with your sniper rifle.
+The sniper rifle takes a bit to master. The trick to using it is to learn to aim effectively. When you press your "Fire" button, you begin to aim. Your rifle will rise slightly and a red laser sight will appear where you're aiming. When you release the "Fire" button, the rifle fires. The longer you hold down the "Fire" button, the more damage the shot does. If you aim for a full 2 to 3 seconds before you fire the shot, you'll kill almost any class in a single hit. If the enemy is a fair distance away, use the zoom capability of the rifle by pressing your "Use Special Skill" key (right mouse button by default). 
+
+Use your sniper rifle like a rifle.
+Always remember that the sniper rifle is a rifle, not a pistol or shotgun. You can't just shoot from the hip. If you're running, you won't be able to fire the sniper rifle until you slow down and take aim. If you need to fire on the run, use your nailgun or auto rifle. 
+
+Aim for the head.
+The sniper rifle does more damage if you hit your target in the head. This damage adds to the damage created by the amount of time you aimed before firing. You'll kill anyone if you aim for a couple of seconds and hit them in the head. Another thing to note is that if you shoot them in the legs, you'll slow them down. 
+
+Avoid letting enemies get close.
+You're fairly weak when it comes to close combat, so don't let your enemies reach you. Find a position where they can't get to you easily. If they do get near you, don't try to kill them with the sniper rifle. Change to your nailgun or auto rifle and gun them down. You can try lobbing some grenades at them to keep them away too. 
+
+Hide your laser sight.
+It's a good idea to start aiming before you see your enemies so that you can build up a bit of damage before you fire at them. Since your laser sight is visible, learn to hide it in places where your enemies can't see it. 
+
+Use your auto rifle to finish them off.
+The auto rifle is a great weapon for finishing off targets you know are low on health. If you hit them with a well-aimed shot from your sniper rifle, it's more than likely they'll be low on health, so switch to your auto rifle and pump a few rounds into them. They'll have a hard time dodging you. 

@@ -1,0 +1,14 @@
+STATS
+Max Health: 90
+Max Armor: 120 Medium Armor
+Max Speed: Medium
+
+WEAPONS
+Grenade + Pipebomb Launcher,
+Single-Barrel Shotgun, Crowbar
+
+GRENADES
+Hand Grenades, MIRV Grenades
+
+ABILITIES
+Can set large explosive devices.

@@ -1,0 +1,11 @@
+STATS
+Max Health: 100
+Max Armor: 200 Heavy Armor
+Max Speed: Slow
+
+WEAPONS
+Rocket Launcher, Single-Barrel Shotgun,
+Double-Barrel Shotgun, Crowbar
+
+GRENADES
+Hand Grenades, Nail Grenades

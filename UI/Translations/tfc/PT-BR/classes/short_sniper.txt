@@ -1,0 +1,11 @@
+STATS
+Max Health: 90
+Max Armor: 50 Light Armor
+Max Speed: Medium
+
+WEAPONS
+Sniper Rifle (with automatic fire), Nail Gun,
+Crowbar
+
+GRENADES
+Hand Grenades

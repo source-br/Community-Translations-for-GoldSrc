@@ -1,0 +1,32 @@
+STATS
+Max Health: 90
+Max Armor: 100 Medium Armor
+Max Speed: Fast
+
+WEAPONS       
+Medikit, Super Nail Gun, Single-Barrel Shotgun, Double-Barrel Shotgun
+
+GRENADES     
+Hand Grenades, Concussion Grenades
+
+ABILITIES     
+Can heal teammates with the Medikit 
+Automatically regenerates health
+
+SPECIAL SKILLS KEY 
+Selects the medikit 
+
+Heal your teammates.
+When you look at your teammates (by pointing your crosshairs at them), the status bar in the lower left corner of your screen will show you their health and armor. If their health is less than 100%, they need some healing. Select your medikit by hitting your "Use Special Skill" key, run over to your teammate, aim your medikit at them (just like you would a crowbar), and press your "Fire" button. One "hit" and they'll be back to full health. 
+
+Cure your teammates.
+Your medikit will heal everything. If you see that one of your teammates is concussed, hallucinating, infected, crippled from a leg shot or caltrop, or burning from a pyro's flamethrower, use your medikit on them to cure them of their affliction. They'll be eternally grateful. 
+
+Power up your teammates.
+You can do even more than just heal and cure your teammates. If you use your medikit on a teammate who's already at full health, you'll inject him with adrenaline, increasing his health 5 points over his maximum health level. The maximum you can adrenalize him up to is 50 over his normal maximum health. Adrenaline is short-lived, and the player's health will slowly drop down until it's back at his normal maximum health. This is an excellent way to give an attack squad a boost before they enter the enemy base. The only drawback is that the medikit needs some "ammunition" to do this. You can get more medikit "ammunition" by picking up health packs in your Resupply Room. You'll need medikit "ammunition" to heal yourself over time too. 
+
+Infect your enemies.
+If you use your medikit on an enemy, you'll infect him with an infectious virus. It'll drain his health slowly, until he either dies or is healed by a Medic on his team. The virus is particularly lethal because it's airborne. If the infected player gets near any of his teammates, the virus will infect them as well. 
+
+Listen for "Medic!".
+Other teammates might signal to you that they need healing by shouting out "Medic!". You'll see a flashing red icon above the player who is calling for assistance. Heal 'em! 

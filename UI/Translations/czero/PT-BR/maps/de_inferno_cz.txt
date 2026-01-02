@@ -1,0 +1,16 @@
+Inferno - Bomba/Desarmar
+
+por Chris Auty (Barney) (narby@counter-strike.net)
+Criação de texturas por Valve software
+
+Os terroristas estão tentando explodir dois
+gasodutos críticos que atravessam parte de
+um pequeno vilarejo.
+
+Contraterroristas: Impedir que os
+terroristas destruam os gasodutos.
+
+Terroristas: Destruir os dois gasodutos.
+
+Outras observações: Há 2 locais de bombas
+nessa missão.

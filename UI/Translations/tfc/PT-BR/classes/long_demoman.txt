@@ -1,0 +1,37 @@
+STATS
+Max Health: 90
+Max Armor: 120 Medium Armor
+Max Speed: Medium
+
+WEAPONS
+Grenade + Pipebomb Launcher, Single-Barrel Shotgun, Crowbar
+
+GRENADES     
+Hand Grenades, MIRV Grenades
+
+ABILITIES
+Can set large explosive devices.
+
+SPECIAL SKILLS KEY
+Detonates all your pipebombs 
+
+Use your launcher.
+Your main weapon is your grenade/pipebomb launcher. It has two modes, grenade and pipebomb. In grenade mode it lobs grenades that explode on contact with enemies. If the grenades don't hit anything they explode after a couple of seconds. In pipebomb mode, the launcher lobs pipebombs. These are simply grenades that don't explode on contact. Instead, you remotely detonate them at any time by hitting your "Use Special Skill" key. These are great for setting traps! 
+
+Don't use too many pipebombs.
+You can have too many pipebombs lying around at once. If you reach your limit, your oldest pipebomb will automatically explode when you lob another one. Pipebombs will explode after they've lain there for a couple of minutes, but you'll rarely have to worry about this. Also, your pipebombs are rigged to your heartbeat, so when you die, all your pipebombs explode. It's not uncommon to see them blow up the same guy who just killed you. 
+
+Reload regularly.
+Your grenade/pipebomb launcher can only hold 6 grenades at a time, so when it's empty, you're in trouble. You can reload at any time by hitting your "Reload" key, so whenever you've got a moment, throw a few grenades into your launcher. Smart enemies will be counting the number of times you've fired, and they'll try and attack you when they think you're empty. Reload before you run out, and you can give them a nice surprise when they charge you. 
+
+Clear rooms with your grenades.
+No other class carries as powerful grenades as you do, let alone as many. Your MIRV grenades explode into smaller grenades which then explode again, killing anyone and everyone near them. These are great for clearing entire rooms. If you know there are enemies ahead, throw a few grenades in and watch them come running out. 
+
+Get up close and personal.
+All your weaponry is powerful at close range, but none of it is very useful at long range. Avoid having fights with enemy classes that are dangerous at long range, like the Sniper and Soldier. Either charge them, dodging as you go, or retreat behind cover and hope they come to you. Wherever possible, fight in enclosed areas where they can't avoid getting hit by the explosions from your grenades. 
+
+Use your detpack to open new pathways.
+Some TFC maps have specific obstructions that can only be destroyed by a detpack. These will be identified in the map Briefing screen. There are 3 different "Set Detpack" keys to allow you to set the timer on the detpack. Place a detpack in front of the obstruction by pressing your "Set 5 Second Detpack" (M by default) key. You must hold down the "Set 5 second Detpack" key for 4 seconds to place the detpack, during which time you'll be unable to move or shoot. If your enemies are smart, they're going to try and kill you during this time, so you might need to get a teammate to escort you. You can stop setting the detpack at any time by releasing your "Set 5 second Detpack" key, at which point you'll pick up the detpack and be able to move again. You can only carry 1 detpack at a time. 
+
+Learn to pipebomb jump.
+Pipebomb jumping is a crude method of gaining access to areas you can't get to normally. Throw a pipebomb out, then go and stand on it. Press your "Jump" key and your "Use Special Skill" key at the same time. This will cause you to jump and detonate the pipebomb simultaneously. The pipebomb's explosion will do a fair amount of damage to you, and propel you up into the air. It takes some practice, but once you've got it, you'll be able to get to places you couldn't before, like up into the middle of the enemy sniper positions. 

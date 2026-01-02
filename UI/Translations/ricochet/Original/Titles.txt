@@ -1,0 +1,300 @@
+//TITLES FOR HALF-LIFE
+// Position command $position x y 
+// x & y are from 0 to 1 to be screen resolution independent
+// -1 means center in each dimension
+// Effect command $effect <effect number>
+// effect 0 is fade in/fade out
+// effect 1 is flickery credits
+// effect 2 is write out (training room)
+// effect -1 is print center (normal text in center of screen)
+// effect -2 is print notify (normal text in top left of screen)
+// effect -3 is print center (text piped straight into console)
+// effect -4 is print talk (normal text in lower middle of screen)
+// Text color r g b command $color
+// fadein time fadeout time / hold time
+// $fadein (message fade in time - per character in effect 2)
+// $fadeout (message fade out time)
+// $holdtime (stay on the screen for this long)
+
+// the only flags TFC uses are the effect value -4 through -1, for screen positions
+
+$effect 0
+
+// game text
+
+// other menu text
+Menu_OK
+{
+OK
+}
+
+Menu_Cancel
+{
+CANCEL
+}
+
+Menu_Spectate
+{
+SPECTATE
+}
+
+// Spectator Menu
+Spec_Mode1
+{
+Locked Chase-Camera Mode
+}
+
+Spec_Mode2
+{
+Free Chase-Camera Mode
+}
+
+Spec_Mode3
+{
+Free Roaming Mode
+}
+
+Spec_Mode4
+{
+
+}
+
+Spec_NoTarget
+{
+No Valid Targets. Cannot Switch to Chase-Camera Mode.
+}
+
+Spectators
+{
+Spectators
+}
+
+Unassigned
+{
+Unassigned
+}
+
+// Scoreboard
+TEAMS
+{
+TEAMS
+}
+
+PLAYERS
+{
+PLAYERS
+}
+
+CLASS
+{
+CLASS
+}
+
+SCORE
+{
+SCORE
+}
+
+DEATHS
+{
+DEATHS
+}
+
+LATENCY
+{
+LATENCY
+}
+
+// Discwar
+Versus
+{
+VS
+}
+
+Queue
+{
+Queue
+}
+
+PLACE
+{
+QUEUE
+}
+
+WINS
+{
+WINS
+}
+
+POINTS
+{
+POINTS
+}
+
+Triple
+{
+Triple Shot
+}
+
+Fast
+{
+Fast Shot
+}
+
+Hard
+{
+Power Shot
+}
+
+Freeze
+{
+Freeze Shot
+}
+
+Spec_Help
+{
+SPACE for Next Target  CTRL for Prev Target  ENTER to Change Modes
+}
+
+Spec_Help2
+{
+You will automatically be placed in the game when it's your turn to play
+}
+
+// Rewards
+Hit_Direct
+{
+Direct Hit Kill! 1 Point!
+}
+
+Hit_One
+{
+Single Rebound Kill! 2 Points!
+}
+
+Hit_Two
+{
+Double Rebound Kill! 3 Points!
+}
+
+Hit_Three
+{
+Triple Rebound Kill! 4 Points!
+}
+
+Hit_Decap
+{
+Decapitation! 1 Point!
+}
+
+Hit_Multiple
+{
+Multiple Kill Disc! 5 Points!
+}
+
+Hit_Tele
+{
+Teleport Bonus! 1 Point!
+}
+
+Time_Warning
+{
+10 Seconds till round ends!
+}
+
+Time_Over
+{
+Time limit reached.
+}
+
+Opponent
+{
+Opponent: %s
+Wins: %d  Points: %d
+}
+
+Game_connected
+{
+%s connected
+}
+
+Game_disconnected
+{
+%s has left the game
+}
+
+Game_unknown_command
+{
+Unknown command: %s
+}
+
+Player
+{
+player
+}
+
+Player_plural
+{
+players
+}
+
+VOICE
+{
+VOICE
+}
+
+Muted
+{
+You have muted %s.
+}
+
+Unmuted
+{
+You have unmuted %s.
+}
+
+No_longer_hear_that_player
+{
+You will no longer hear that player speak.
+}
+
+Round_Start_n_Seconds
+{
+Round %d, Starting in %d seconds...
+}
+
+Round_Start_1_Second
+{
+Round %d, Starting in %d second...
+}
+
+Round_Won
+{
+Round %d, Won By:
+}
+
+// spaces before and after the 'and' are on purpose!
+And
+{
+ and 
+}
+
+Round_Tied
+{
+Tied at %d
+}
+
+Round_Leads
+{
+%s leads %d to %d
+}
+
+Round_Lead
+{
+%s lead %d to %d
+}
+
+Round_Won_Scores
+{
+%s won %d to %d
+}

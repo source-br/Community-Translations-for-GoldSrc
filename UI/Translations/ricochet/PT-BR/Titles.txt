@@ -1,0 +1,300 @@
+//TITLES FOR HALF-LIFE
+// Position command $position x y 
+// x & y are from 0 to 1 to be screen resolution independent
+// -1 means center in each dimension
+// Effect command $effect <effect number>
+// effect 0 is fade in/fade out
+// effect 1 is flickery credits
+// effect 2 is write out (training room)
+// effect -1 is print center (normal text in center of screen)
+// effect -2 is print notify (normal text in top left of screen)
+// effect -3 is print center (text piped straight into console)
+// effect -4 is print talk (normal text in lower middle of screen)
+// Text color r g b command $color
+// fadein time fadeout time / hold time
+// $fadein (message fade in time - per character in effect 2)
+// $fadeout (message fade out time)
+// $holdtime (stay on the screen for this long)
+
+// the only flags TFC uses are the effect value -4 through -1, for screen positions
+
+$effect 0
+
+// game text
+
+// other menu text
+Menu_OK
+{
+OK
+}
+
+Menu_Cancel
+{
+CANCELAR
+}
+
+Menu_Spectate
+{
+ASSISTIR
+}
+
+// Spectator Menu
+Spec_Mode1
+{
+Câmera de Perseguição fechada
+}
+
+Spec_Mode2
+{
+Câmera de Perseguição livre
+}
+
+Spec_Mode3
+{
+Visão livre
+}
+
+Spec_Mode4
+{
+
+}
+
+Spec_NoTarget
+{
+Sem alvos válidos. Não é possível alterar o modo de câmera.
+}
+
+Spectators
+{
+Espectadores
+}
+
+Unassigned
+{
+Não escolhido
+}
+
+// Scoreboard
+TEAMS
+{
+TIMES
+}
+
+PLAYERS
+{
+JOGADORES
+}
+
+CLASS
+{
+CLASSE
+}
+
+SCORE
+{
+PONTOS
+}
+
+DEATHS
+{
+MORTES
+}
+
+LATENCY
+{
+LATÊNCIA
+}
+
+// Discwar
+Versus
+{
+VS
+}
+
+Queue
+{
+Placar
+}
+
+PLACE
+{
+PLACAR
+}
+
+WINS
+{
+VITÓRIAS
+}
+
+POINTS
+{
+PONTOS
+}
+
+Triple
+{
+Arremesso triplo
+}
+
+Fast
+{
+Arremesso rápido
+}
+
+Hard
+{
+Arremesso potente
+}
+
+Freeze
+{
+Arremesso congelante
+}
+
+Spec_Help
+{
+ESPAÇO para o próximo alvo  CTRL para o alvo anterior  ENTER para alterar os modos
+}
+
+Spec_Help2
+{
+Você será automaticamente colocado no jogo quando for sua vez de jogar
+}
+
+// Rewards
+Hit_Direct
+{
+Ataque crítico! 1 ponto!
+}
+
+Hit_One
+{
+Ricocheteada mortal! 2 pontos!
+}
+
+Hit_Two
+{
+Ricocheteada mortal dupla! 3 pontos!
+}
+
+Hit_Three
+{
+Ricocheteada mortal tripla! 4 pontos!
+}
+
+Hit_Decap
+{
+Decaptação! 1 ponto!
+}
+
+Hit_Multiple
+{
+Disco de multiplas mortes! 5 pontos!
+}
+
+Hit_Tele
+{
+Teleporte bônus! 1 ponto!
+}
+
+Time_Warning
+{
+Faltam 10 segundos para o fim da rodada!
+}
+
+Time_Over
+{
+Tempo limite atingido.
+}
+
+Opponent
+{
+Oponente: %s
+Vitórias: %d  Pontos: %d
+}
+
+Game_connected
+{
+%s conectou-se.
+}
+
+Game_disconnected
+{
+%s saiu da partida.
+}
+
+Game_unknown_command
+{
+Comando desconhecido: %s
+}
+
+Player
+{
+jogador
+}
+
+Player_plural
+{
+jogadores
+}
+
+VOICE
+{
+VOZ
+}
+
+Muted
+{
+Você foi mutado  %s.
+}
+
+Unmuted
+{
+Você foi desmutado %s.
+}
+
+No_longer_hear_that_player
+{
+Você não irá mais ouvir este jogador.
+}
+
+Round_Start_n_Seconds
+{
+Rodada %d, começando em %d segundos...
+}
+
+Round_Start_1_Second
+{
+Rodada %d, começando em %d segundo...
+}
+
+Round_Won
+{
+Rodada %d, vencida por:
+}
+
+// spaces before and after the 'and' are on purpose!
+And
+{
+ e 
+}
+
+Round_Tied
+{
+Empatado em %d
+}
+
+Round_Leads
+{
+%s leva %d com %d
+}
+
+Round_Lead
+{
+%s leva %d com %d
+}
+
+Round_Won_Scores
+{
+%s vence %d com %d
+}

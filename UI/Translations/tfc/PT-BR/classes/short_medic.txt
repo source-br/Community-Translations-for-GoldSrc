@@ -1,0 +1,15 @@
+STATS
+Max Health: 90
+Max Armor: 100 Medium Armor
+Max Speed: Fast
+
+WEAPONS
+Medikit, Super Nail Gun, Single-Barrel Shotgun,
+Double-Barrel Shotgun
+
+GRENADES
+Hand Grenades, Concussion Grenades
+
+ABILITIES
+Can heal teammates with the Medikit.
+Automatically regenerates health.

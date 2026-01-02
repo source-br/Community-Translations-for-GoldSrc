@@ -1,0 +1,10 @@
+Stadium - Bomba/Desarmar
+
+
+Contra-Terroristas: Impedir que os terroristas
+bombardeiem o estádio.
+
+Terroristas: Destruir o estádio.
+
+Outras observações: Há 2 locais de bombas
+nessa missão.

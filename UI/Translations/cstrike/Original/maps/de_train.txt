@@ -1,0 +1,14 @@
+Trainyard - Bomba/Desarmar
+
+Contraterroristas: Impeça que os
+Terroristas bombardeiem as cargas
+nucleares em dois trens. Os membros
+da equipe devem desativar as bombas
+que ameaçam as cargas.
+
+Terroristas: O terrorista que estiver
+carregando o C4 deve destruir uma das
+cargas úteis. 
+
+Outras observações: Há 2 cargas úteis
+nos trens da missão.

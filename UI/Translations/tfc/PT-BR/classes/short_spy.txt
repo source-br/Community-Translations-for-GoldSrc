@@ -1,0 +1,17 @@
+STATS
+Max Health: 90
+Max Armor: 100 Light Armor
+Max Speed: Medium
+
+WEAPONS
+Tranquilizer Pistol, Double-Barrel Shotgun,
+Nail Gun, Knife
+
+GRENADES
+Hand Grenades, Hallucination Grenades
+
+ABILITIES
+Can disguise to look like an enemy.
+Can feign death.
+Can remove an enemy Spy's disguise.
+Can backstab for an instant kill.

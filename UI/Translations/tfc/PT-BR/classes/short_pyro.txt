@@ -1,0 +1,14 @@
+STATS
+Max Health: 100
+Max Armor: 150 Medium Armor
+Max Speed: Medium
+
+WEAPONS
+Flame-Thrower, Incendiary Cannon,
+Single-barrel Shotgun, Crowbar
+
+GRENADES
+Hand Grenades, Napalm Grenades
+
+ABILITIES
+Flame resistant.

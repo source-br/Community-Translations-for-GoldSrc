@@ -1,0 +1,22 @@
+STATS
+Max Health: 100
+Max Armor: 200 Heavy Armor
+Max Speed: Slow
+
+WEAPONS      
+Rocket Launcher, Single-Barrel Shotgun, Double-Barrel Shotgun, Crowbar 
+
+GRENADES
+Hand Grenades, Nail Grenades
+
+SPECIAL SKILL KEY
+Reloads your currently selected weapon 
+ 
+Reload regularly.
+Your rocket launcher only holds 4 rockets at a time. When it's empty, you're vulnerable. You can reload at any time by hitting your "Use Special Skill" (right mouse button by default) or "Reload" (R by default) keys, so whenever you've got a moment throw a rocket or two into your launcher. Smart enemies will be counting the number of times you've fired, and they'll try and attack you when they think you're empty. Reload before you run out, and you can give them a nice surprise when they charge you. 
+
+Use your nail grenade to pin your enemies down.
+When your throw a nail grenade, it rises into the air and then begins to spit nails in all directions for a few seconds before exploding. It's a great room clearer, and the perfect way to keep enemies pinned down. If they're pursuing you, drop one behind you as you run. If you're defending a room, you've been told enemies are incoming, and you need health, drop one into the room before you run to the Resupply Room. 
+
+Learn to rocket jump.
+One of the unique things a soldier can do is rocket jump. It's a term for a fairly brute force method of gaining some height. Aim your rocket launcher straight down at your feet, and press your "Fire" button and your "Jump" button at the same time. The rocket will hit the ground at your feet, exploding and propelling you up into the air. It'll hurt you a bit, but it's a great way to get into areas of the map that are normally inaccessible. It takes a bit of practice, but once you've got it you'll be the bane of snipers everywhere as you rocket jump into their sniping positions from the ground below. 

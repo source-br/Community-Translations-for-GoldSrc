@@ -1,0 +1,13 @@
+ESTATÍSTICAS
+Vida Máxima: 50
+Armadura Máxima: Nenhuma
+Velocidade Máxima: Média
+
+ARMAS
+Pé de Cabra
+
+GRANADAS
+Nenhuma
+
+HABILIDADES
+Nenhuma

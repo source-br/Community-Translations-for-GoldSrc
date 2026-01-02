@@ -1,0 +1,2 @@
+Every time you die, RandomPC will randomly
+pick one of the other classes to become.

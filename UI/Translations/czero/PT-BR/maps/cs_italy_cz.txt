@@ -1,0 +1,14 @@
+Itália - Resgate de Reféns
+
+Mapeamento por:
+glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Texturas/Gráficos por:
+DigiChaos (digichaos@hotsheep.com)
+
+Contraterroristas: Navegue pela cidade
+italiana e pegue os reféns dos
+terroristas estrangeiros.
+
+Terroristas: Impeça que os contraterroristas
+resgatem os reféns ou elimine
+os contraterroristas.

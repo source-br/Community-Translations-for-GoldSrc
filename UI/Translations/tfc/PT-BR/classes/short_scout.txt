@@ -1,0 +1,14 @@
+STATS
+Max Health: 75
+Max Armor: 50 Light Armor
+Max Speed: Very Fast
+
+WEAPONS
+Single-Barrel Shotgun, Nail Gun, Crowbar
+
+GRENADES
+Caltrop Canisters, Concussion Grenades
+
+ABILITIES
+Can remove an enemy Spy's disguise.
+Can disarm Demomen's detpacks.
