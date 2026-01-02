@@ -1,0 +1,21 @@
+DOD_FALAISE by Wes "FuzzDad" Shull 
+
+June, 1944, France
+
+Allied paratroopers are trying to capture a small 
+French Village near the Falaise Gap in an attempt
+to cutoff the remainder of the German forces 
+attempting to escape the Cotentin Pennisula. German 
+Fallschirmjäger have been sent to the rear to hold
+off the allies so the remainder of the German Army
+can escape to the east. It's the beginning of what
+will soon be called "The Miracle in the West"
+
+Allied Objectives:
+   - Capture the 5 flag points
+
+Axis Objectives: 
+   - Capture the 5 flag points
+
+Textures: Kleinluka, IR, Kamikazi, Xerent
+Models by: Flo Matic, DoD Team, Trp Jed

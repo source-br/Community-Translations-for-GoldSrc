@@ -1,0 +1,26 @@
+DOD_FLUGPLATZ by Wes "FuzzDad" Shull (wesley.b.shull@xo.com)
+
+March 1945, Germany
+
+American troops are advancing into Germany and have assaulted
+an airfield where ME-262 jet pilots are being trained. Crack
+German paratroopers are guarding the base and they will do
+anything to drive the Allies out.
+
+Allied Objectives:
+   - Capture the 6 flag points
+
+Axis Objectives: 
+   - Capture the 6 flag points
+
+Flag Objectives:
+	- Flag near Allied Spawn (touch)
+	- Flag on road near headquarters building (touch)
+	- Me262 on the taxi-way (cap)
+	- Me262 in the hanger (cap)
+	- Flag on road near supply shack (touch)
+	- Flag near Axis Spawn (touch)
+
+Textures: Daniel "kleinluka" Luka, Arjan "IR" Bak, Sky by Dash
+Models: Scott "Kamikazi!" Jordon, Brian "Arcturus" Schurko, Svante "xerent" Ekholm
+

@@ -1,0 +1,19 @@
+DOD_NORTHBOUND by Arttu "skdr" Maki (http://skdr.dayofdefeat.fi)
+
+January 20, 1945, Northern Front
+
+After the successful operation in the western front,
+allied troops called for more backup to the north.
+Forces have to capture unknown urban
+area and advance through a countryside
+town to the center of the city.
+
+Allied Objectives:
+   - Capture all 5 points
+
+Axis Objectives:
+   - Capture all 5 points
+
+Textures: Daniel "Kleinluka" Luka
+Models: Valve
+	

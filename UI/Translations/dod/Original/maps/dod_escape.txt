@@ -1,0 +1,26 @@
+DOD_ESCAPE by Arjan "IR" Bak (arjanb@invasionworks.com)
+
+Holland, 1944
+
+Operation market garden launched a few hours ago, and the allies 
+are moving into position. Paratroopers of the 101st division secured a 
+bridge and a key supply route along the river Maas. Unfortunatly an axis 
+paratrooper unit is stationed in the area, and are shelling the allies with 
+nebelwerfers. It wont be long before the axis launch an attack to destroy the bridge.
+
+Allied Objectives:
+   - Hold the bridge and defend it by any means
+   - Destroy the nebelwerfers firing at your position
+
+Axis Objective:
+   - Destroy the bridge
+
+Textures: Arjan "IR" Bak, Scott "Kamikazi!" Jordan,
+Daniel "kleinluka" Luka & Martijn "wizzard" Bak
+
+
+
+
+
+
+

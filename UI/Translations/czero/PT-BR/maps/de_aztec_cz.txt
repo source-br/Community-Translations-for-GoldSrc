@@ -1,0 +1,12 @@
+Aztec - Bomba/Desarmar
+
+por Chris Auty (Barney) (narby@counter-strike.net)
+Criação de texturas por Macman 
+
+Contraterroristas: Impedir que os terroristas
+bombardeiem o sítio arqueológico.
+
+Terroristas: Destruir as valiosas ruínas astecas.
+
+Outras observações: Há 2 locais de bombas
+nessa missão.

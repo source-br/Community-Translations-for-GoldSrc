@@ -1,0 +1,13 @@
+Militia - Resgate de Reféns
+por Andrew Aumann (andrewja@home.com)
+
+Contraterroristas: Entre no Cliffe's
+Compound para resgatar os reféns.
+Elimine os terroristas sem colocar
+em risco os reféns.
+
+Terroristas: Impedir que a força
+Contraterroristas resgate os reféns.
+
+Outras observações: Há 4 reféns na
+missão e um flutuante.

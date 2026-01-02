@@ -1,0 +1,20 @@
+DOD_ZALEC by Patrick "Mojo" Krefting (mojo@theposse.org)
+
+January 15, 1945, Western Front
+
+Paratroopers have landed near the city of Zalec with the 
+objective of capturing the town and removing all German 
+resistance.
+
+Allied Objectives:
+   - Capture the fountain near the clock tower
+   - Destroy the three Axis Panzers
+   - Capture the Zalec church
+
+Axis Objectives:
+   - Defend the fountain
+   - If the fountain is captured, fall back to the Panzers
+   - If the tanks are destroyed, fall back to the church
+
+Textures: Chad "Masako" Barnsdale, Daniel "Kleinluka" Luka, 
+Scott "Kamikazi!" Jordan

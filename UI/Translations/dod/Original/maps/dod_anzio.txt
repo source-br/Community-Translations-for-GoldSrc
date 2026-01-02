@@ -1,0 +1,13 @@
+DOD_ANZIO by Davide "Chow_Yun_Fat" Pernigo, (bido@halflifeitalia.com)
+
+January, 1944, Italy
+
+The Allies have prepared a simple, fast beach assault to capture
+the city of Anzio.  Little did they know that the Germans were
+already there, waiting.
+
+Allied Objectives: 
+   - Capture the 5 flag points
+
+Axis Objectives:
+   - Capture the 5 flag points

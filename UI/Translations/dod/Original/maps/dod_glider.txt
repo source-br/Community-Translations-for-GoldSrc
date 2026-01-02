@@ -1,0 +1,19 @@
+DOD_GLIDER by Wesley "Fuzzdad" Shull (wesley.b.shull@xo.com)
+
+June, 1944, Normandy
+
+Allied paratroopers have dropped behind the D-Day beaches to
+disrupt enemy communication and reinforcement to the front.
+
+Allied Objectives:
+   - Destroy the '88' flak cannon
+   - Destroy the "Freya" Radar set
+   - Destroy the Radio room inside the castle
+   - Capture the German forward supply house
+   - Capture the German bunker
+
+Axis Objectives:
+   - Clear the area of Allied paratroopers
+
+Textures: Chad "Masako" Barnsdale, Scott "Kamikazi!" Jordon,
+Arjan "IR" Bak, Daniel "kleinluka" Luka

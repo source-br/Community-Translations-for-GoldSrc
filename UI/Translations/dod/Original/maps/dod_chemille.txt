@@ -1,0 +1,16 @@
+DOD_CHEMILLE by Chris "Narby" Auty (narby@counter-strike.net)
+
+March, 1944, Western Front
+
+Chemille has become a wasteland of vicious urban combat - pick
+your way through the destroyed ruins to capture the city.
+
+Allied Objectives:
+   - Capture the 4 flag points
+
+Axis Objectives:
+   - Capture the 4 flag points
+
+
+Textures: Arjan "IR" Bak, Chad "Masako" Barnsdale,
+Scott "Kamikazi!" Jordan

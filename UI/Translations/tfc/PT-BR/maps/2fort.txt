@@ -1,0 +1,13 @@
+2 Fortalezas - Capture a Bandeira
+
+Objetivo: Entre na Base inimiga e vá  
+até o Porão, onde a Bandeira está localizada.  
+Pegue-a e traga de volta para suas  
+Fortificações. Coloque-a no quadrado elevado  
+para capturá-la.    
+
+Pontuação: 10 pontos por captura.    
+
+Outras Informações: Portadores da Bandeira  
+a deixam cair ao morrer. Bandeiras caídas  
+retornam à Base após 60 segundos.

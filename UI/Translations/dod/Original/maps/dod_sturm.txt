@@ -1,0 +1,15 @@
+DOD_STURM by Arjan "IR" Bak (arjanb@nuclear-dawn.net)
+
+German troops are attempting to regain a foothold against
+the invading Allied forces - in order to do so, they need 
+to capture a key bridge.
+
+Allied Objectives:
+   - Capture the 5 flag points
+
+Axis Objectives:
+   - Capture the 5 flag points
+
+Textures:Daniel "kleinluka" Luka, 
+Scott "Kamikazi!" Jordan & Arjan "IR" Bak
+

@@ -1,0 +1,28 @@
+STATS
+Max Health: 100
+Max Armor: 300 Heavy Armor
+Max Speed: Very Slow
+
+WEAPONS
+Assault Cannon, Single-Barrel Shotgun, Double-Barrel Shotgun, Crowbar
+
+GRENADES
+Hand Grenades, MIRV Grenades
+
+ABILITIES    
+Heavy, isn't pushed by explosions.
+
+SPECIAL SKILLS KEY
+Selects the assault cannon 
+
+Defend.
+Don't go on Offense with this class until you're fairly experienced. You're the slowest moving class in the game, and you'll be picked off by enemy snipers before you even get into the enemy base. You're one of the strongest defensive classes in the game. Just keep firing your assault cannon at anyone firing at you, and they'll be the ones to die first. 
+
+Work in relatively open areas.
+Your assault cannon takes a second to wind up before it begins firing. This means that it's not a good idea to guard places where a Scout can appear and get past you before you've begun firing. Enclosed spaces are also bad for you because they allow the enemy to jump out, lob rockets and grenades at you, and then duck back behind cover before you can hit them. That said, large open spaces are also dangerous for you due to your slow speed. Snipers and Soldiers can pick you off from a distance, where the inaccurate fire of your assault cannon renders it fairly ineffective. Luckily, enemy snipers rarely make it into your base. An ideal defensive position for a HW Guy is at one end of a long corridor that enemies have to move through, allowing you to fire at them as they approach. 
+
+Stand in doorways.
+Scouts hate you. You're their worst nightmare. The only thing on an enemy Scout's mind when he sees a HW Guy on Defense is "How can I get past him?". Do your part to make it harder for Scouts by standing in doorways that they need to get through. Scouts will run up and attempt to squeeze by you. Ignore them if they're shooting at you, since they have about 1/5 of the armor you have. Wind up the assault cannon and let 'em have it. If you're feeling particularly nasty in a Capture The Flag map, go and stand right on top of your Flag. Watch out for their concussion grenades though. 
+
+Work with a Medic or Engineer.
+Try and get an Engineer or Medic to defend near you, so that you can get them to heal you and repair your armor. Since you're so slow, it takes you longer than any other class to get to the nearest Resupply Room, stock up, and return to your position. If you've got a Medic and/or Engineer nearby to save you the trouble, you can ensure your position is never left undefended. Remember to use your "Call for Medic!" key to signal that you need assistance from them. 

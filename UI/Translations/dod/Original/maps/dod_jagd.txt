@@ -1,0 +1,21 @@
+DOD_JAGD by Arjan "IR" Bak (arjanb@invasionworks.com)
+
+June, 1944, Near Caen
+
+The British Army is advancing towards Caen, but is being
+held up in the town of Viller-bocage by a German Panzer division.
+To make matters worse, a Horsa glider carrying plans for the
+the attack on Caen has crashed in enemy territory.
+
+British Objectives: 
+   - Recover and return the plans from the downed glider
+   - Defend the Cromwell tanks
+
+Axis Objectives:
+   - Stop the British from recovering the battle plans
+   - Destroy both British Cromwell tanks
+
+Textures: Daniel "kleinluka" Luka, Martijn "wizzard" Bak, 
+Scott "Kamikazi!" Jordan, and Arjan "IR" Bak  
+
+

@@ -1,0 +1,19 @@
+DOD_CHARLIE by Joel "c0w" Weech (cow@shaw.ca)
+
+June 6TH, 1944, Normandy
+
+D-Day
+Today is the turning point of the war! Failure is
+not an option - move up the beach, or perish!
+
+Allied Objectives:
+   - Destroy the sea wall to move up the beach
+   - Destroy the two 88 'flak' guns
+   - Destroy the Axis radio tower
+   - Destroy the artillery bunker
+
+Axis Objectives:
+   - Defend the beach
+   - Once the beach defenses are breached, fall back and defend
+
+Textures: Chad "Masako" Barnsdale

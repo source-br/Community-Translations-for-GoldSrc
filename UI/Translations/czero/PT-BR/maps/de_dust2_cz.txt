@@ -1,0 +1,17 @@
+Dust II - Bomba/Desarmar
+
+*** Exclusivo de GameHelper.com ***
+por DaveJ (http://www.johnsto.co.uk/)
+texturas por MacMan (MacManInfi@aol.com)
+
+Contra-terroristas: Impedir que os Terroristas
+bombardeiem caixas de armas químicas.
+Os membros da equipe devem desarmar
+todas as bombas que ameacem as áreas-alvo.
+
+Terroristas: O terrorista que estiver
+carregando o C4 deve destruir
+um dos depósitos de químicos.
+
+Outras observações: Há 2 esconderijos
+de armas químicas na missão.

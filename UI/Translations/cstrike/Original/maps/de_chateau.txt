@@ -1,0 +1,16 @@
+Chateau - Bomba/Desarmar
+
+Macman    *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+Terroristas: Após a perda de Cobble,
+Lord Williams está reconstruindo seu
+castelo de verão.  Você deve impedir
+a reforma.  Coloque o C4 no pátio da
+frente ou no pátio dos fundos.
+
+
+Contraterroristas:  Proteja o 
+investimento de Lord Williams
+e evite que os Terroristas
+destruam sua nova casa.

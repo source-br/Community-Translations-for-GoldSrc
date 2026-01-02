@@ -1,0 +1,3541 @@
+//TITLES FOR HALF-LIFE
+// Position command $position x y 
+// x & y are from 0 to 1 to be screen resolution independent
+// -1 means center in each dimension
+// Effect command $effect <effect number>
+// effect 0 is fade in/fade out
+// effect 1 is flickery credits
+// effect 2 is write out (training room)
+// effect -1 is print center (normal text in center of screen)
+// effect -2 is print notify (normal text in top left of screen)
+// effect -3 is print center (text piped straight into console)
+// effect -4 is print talk (normal text in lower middle of screen)
+// Text color r g b command $color
+// fadein time fadeout time / hold time
+// $fadein (message fade in time - per character in effect 2)
+// $fadeout (message fade out time)
+// $holdtime (stay on the screen for this long)
+
+// the only flags TFC uses are the effect value -4 through -1, for screen positions
+
+
+// game text
+
+/////////////////////////////////////////////////////////
+// Demoman
+
+FITH
+{
+OLHA A BOMBA!
+}
+
+SpreadsCheer
+{
+%s espalhando alegria!
+}
+
+Disarming_detpack
+{
+Desarmando detpack...
+}
+
+Detpack_fizzle
+{
+Seu detpack fracassou.
+}
+
+Detpack_someone
+{
+Voce nao pode definir um detpack em alguem!
+}
+
+Detpack_sentry
+{
+Voce nao pode definir um detpack em uma sentinela!\n
+}
+
+Detpack_dispenser
+{
+Voce nao pode definir um detpack em um dispensador!
+}
+
+Detpack_stack
+{
+Os detpacks nao podem ser empilhados!
+}
+
+Detpack_air
+{
+Voce nao pode definir detpacks no ar!
+}
+
+Detpack_oneactive
+{
+Voce so pode ter 1 detpack ativo por vez.
+}
+
+Detpack_fivesec
+{
+Voce nao pode definir detpacks por menos de 5 segundos.
+}
+
+Detpack_set
+{
+Configurando detpack para %s segundos...
+}
+
+Detpack_retrieve
+{
+Detpack recuperado.
+}
+
+Detpack_countdown
+{
+%s...
+}
+
+Detpack_finishset
+{
+Conjunto Detpack!
+}
+
+Demoman_detpacking
+{
+Configurando detpack...
+}
+
+/////////////////////////////////////////////////////////
+// Engineer
+
+Dispenser_finish
+{
+Voce terminou de construir o dispensador.
+}
+
+Dispenser_built
+{
+%s construiu um Dispensador.
+}
+
+Dispenser_has
+{
+O dispensador tem %s saude, %s foguetes, %s armadura, e %s municao 
+}
+
+Dispenser_AmmoNoMore
+{
+Voce nao pode colocar mais municao no dispensador.
+}
+
+Dispenser_destroyed
+{
+Seu dispensador foi destruido.
+}
+
+Dispenser_used
+{
+Os inimigos estao usando seu dispensador!
+}
+
+Dispenser_dismantle
+{
+Voce desmontou o Dispensador.
+}
+
+Dispenser_otherdismantled
+{
+%s desmontou seu Dispensador.
+}
+
+Dispenser_otherdismantledhis
+{
+%s desmontado %s's Dispensador.
+}
+
+Dispenser_empty
+{
+O dispensador esta vazio.
+}
+
+Sentry_finish
+{
+Voce terminou de construir a sentinela.
+}
+
+Sentry_built
+{
+%s construiu uma sentinela
+}
+
+Sentry_upgrade
+{
+Voce atualizou a Sentinela para o nivel %s
+}
+
+Sentry_rocketslow
+{
+A Sentinela esta com poucos foguetes.
+}
+
+Sentry_rocketsout
+{
+A Sentinela esta sem foguetes.
+}
+
+Sentry_shellsout
+{
+A Sentinela esta sem municao.
+}
+
+Sentry_shellslow
+{
+A Sentinela esta com pouca municao.
+}
+
+Sentry_malfunc
+{
+%s's Sentinela esta com defeito
+}
+
+Sentry_destroyed
+{
+Sua sentinela foi destruida.
+}
+
+Sentry_detail
+{
+Nivel %s Sentinela tem %s saude, %s balas
+}
+
+Sentry_detailrox
+{
+Nivel %s Sentinela tem %s saude, %s balas, %s foguetes
+}
+
+Sentry_dismantle
+{
+Voce desmontou a Sentinela
+}
+
+Sentry_otherdismantled
+{
+%s desmontou sua sentinela.
+}
+
+Sentry_otherdismantledhis
+{
+%s desmontado %s's Sentinela
+}
+
+Sentry_rotate
+{
+Giro de 45 graus para a esquerda...
+}
+
+Sentry_rotate180
+{
+Giro de 180 graus...
+}
+
+Build_air
+{
+Nao se pode construir no ar!
+}
+
+Build_nometal
+{
+Voce nao tem metal suficiente para
+construir nada.
+}
+
+Build_stop
+{
+Voce parou de construir.
+}
+
+Build_onedispenser
+{
+Voce so pode ter um dispensador.
+Tente desmontar o seu antigo.
+}
+
+Build_onesentry
+{
+Voce so pode ter uma sentinela.
+Tente desmontar sua antiga.
+}
+
+Build_noroom
+{
+Nao ha espaco suficiente para construir aqui
+}
+
+Build_nobuild
+{
+Voce nao tem permissao para construir aqui
+}
+
+Detpack_disarm
+{
+%s's detpack foi desativado por %s!
+}
+
+Detpack_disarm_bday
+{
+%s roubou %s's presente de aniversario!
+}
+
+Menu_DetDisp
+{
+Detonar remotamente o dispensador
+}
+
+Sentry_sbar
+{
+Saude da sentinela:
+}
+
+Engineer_building
+{
+Construindo...
+}
+
+No_Rockets
+{
+Sem foguetes 
+}
+
+No_Shells
+{
+Sem balas
+}
+
+No_Ammo
+{
+Sem municao
+}
+
+
+
+
+
+Menu_BuildDisp
+{
+Construir dispensador de municao&armadura
+}
+
+Menu_DetSentry
+{
+Detonar remotamente a sentinela
+}
+
+Menu_BuildSentry
+{
+Construir sentinela
+}
+
+Menu_DismantleDisp
+{
+Desmontar Dispensador
+}
+
+Menu_RepairDisp
+{
+Dispensador de Reparos
+}
+
+Menu_ArmorDisp
+{
+Colocar a armadura no dispensador
+}
+
+Menu_AmmoDisp
+{
+Colocar municao no dispensador
+}
+
+Menu_AmmoSentry
+{
+Coloque municao na sentinela
+}
+
+Menu_UpgradeSentry
+{
+Melhora a sentinela
+}
+
+Menu_RepairSentry
+{
+Consertar a sentinela
+}
+
+Menu_DismantleSentry
+{
+Desmantelar sentinela
+}
+
+Menu_RotateSentry
+{
+Girar a sentinela
+}
+
+Menu_Dispenser
+{
+Usar Dispensador:
+1. Retira um pouco de municao
+2. Retira alguma armadura
+3. Nada
+
+}
+
+//////////////////////////////////////////////////////////////////////
+// Spy
+
+Spy_glowing
+{
+Voce nao pode se disfarcar enquanto brilha.
+}
+
+Spy_unable
+{
+Voce nao pode se disfarcar agora.
+}
+
+Feign_unabletogetup
+{
+Voce nao pode se levantar enquanto
+alguem estiver em voce.
+}
+
+Feign_unable
+{
+Voce nao pode fingir agora.
+}
+
+Feign_air
+{
+Voce nao pode fingir no ar.
+}
+
+Feign_onspy
+{
+Voce nao pode fingir perto
+de outro jogador.
+}
+
+Feign_noroom
+{
+Nao ha espaco suficiente para fingir aqui.
+}
+
+Disguise_stop
+{
+Voce para de andar disfarcado.
+}
+
+Disguise_start
+{
+Indo disfarcado...
+}
+
+Disguise_resetclass
+{
+Redefinir disfarce da classe.
+}
+
+Disguise_resetteam
+{
+Reinicializacao da equipe disfarcada.
+}
+
+Disguise_asclass
+{
+Agora esta disfarcado de %s
+}
+
+Disguise_asteam
+{
+Agora esta disfarcado de equipe %s
+}
+
+Disguise_now
+{
+Agora voce esta disfarcado.
+}
+
+Spy_tranq
+{
+Voce se sente cansado...
+}
+
+Halluc_finished
+{
+Voce se sente um pouco melhor agora.
+}
+
+Tranq_finished
+{
+Voce se sente mais alerta agora.
+}
+
+Spy_changeskin
+{
+Mudar Skin
+}
+
+Spy_changecolor
+{
+Mudar de cor
+}
+
+Spy_startfeign
+{
+Comeca a fingir
+}
+
+Spy_stopfeign
+{
+Para de fingir
+}
+
+Spy_resetskin
+{
+Reseta Skin
+}
+
+Spy_resetcolor
+{
+Reseta a cor
+}
+
+Spy_resetskinandcolor
+{
+Reseta Skin e Cor
+}
+
+Spy_skinmenu
+{
+Alterar Skin para:
+}
+
+Spy_colormenu
+{
+=== Alterar cor para a mesma cor que  ===
+}
+
+Spy_disguised
+{
+Disfarce:
+}
+
+Spy_disguising
+{
+Disfarcando...
+}
+
+Nothing
+{
+Nada
+}
+
+Action
+{
+Acao:
+}
+
+//////////////////////////////////////////////////////////////////////
+// Medic
+
+Medic_infect
+{
+Voce foi infectado %s!
+}
+
+Medic_infected
+{
+Voce foi infectado por %s!
+}
+
+Medic_cureconc
+{
+%s curado %s's concussao
+}
+
+Medic_curehalluc
+{
+%s curado %s's de suas alucinacoes.
+}
+
+Medic_curetranq
+{
+%s curado %s's tranquilizacao.
+}
+
+Medic_cureinfection
+{
+%s curado %s's infeccao.
+}
+
+Medic_curefire
+{
+%s apagar %s's fogo.
+}
+
+
+
+//////////////////////////////////////////////////////////////////////
+// Sniper
+
+Sniper_headshot
+{
+Tiro na cabeca!
+}
+
+Sniper_leginjury
+{
+Lesao na perna!
+}
+
+Sniper_legshot
+{
+Tiro na perna - isso vai deixa-lo mais lento!
+}
+
+//////////////////////////////////////////////////////////////////////
+// Pyro
+
+Pyro_onfire
+{
+Voce esta pegando fogo!
+}
+
+//////////////////////////////////////////////////////////////////////
+// Game messages
+
+Game_ceasefire
+{
+MODO CESSAR FOGO
+}
+
+Game_christmas
+{
+FELIZ NATAL!!
+}
+
+Game_happybday
+{
+FELIZ ANIVERSARIO TEAMFORTRESS!
+}
+
+Game_nocolorchange
+{
+Nao e permitida a mudanca de cor no deathmatch.
+}
+
+Game_cantplayclass
+{
+Voce nao pode jogar com essa classe de jogador neste mapa. 
+}
+
+Game_spydisabled
+{
+A classe spy foi desabilitada no servidor pelo administrador.
+}
+
+Game_enoughofclass
+{
+Seu time ja tem o suficiente dessa classe.
+}
+
+Game_nochangeclass
+{
+Voce nao pode mudar de classe.
+}
+
+Game_changeclass
+{
+Depois de morrer, voce retornara como um %s
+}
+
+Game_mustteam
+{
+Voce deve se juntar a uma equipe primeiro.
+}
+
+Game_nolives
+{
+Voce nao tem mais vidas.
+}
+
+Game_random
+{
+Classe de jogador aleatoria.
+}
+
+Game_playingas
+{
+%s esta jogando como um %s
+}
+
+Game_legalclasses
+{
+As aulas juridicas para sua equipe sao:
+}
+
+Game_noteams
+{
+O jogo em equipe nao esta ativado, as equipes estao inativas.
+}
+
+Game_onlyteams
+{
+So pode haver %s equipes neste mapa.
+}
+
+Game_alreadyteam
+{
+Voce ja esta na equipe %s.
+}
+
+Game_teamfull
+{
+Essa equipe esta completa. Escolha outra.
+}
+
+Game_noteamstart
+{
+Voce nao pode comecar um novo time com sua cor, pois outro ja esta usando essa cor. 
+Mude sua cor e tente novamente.
+}
+
+Game_others
+{
+Os outros membros da sua equipe sao:
+}
+
+Game_othersdetails
+{
+   %s : %s
+}
+
+Game_noothers
+{
+Nao ha outros jogadores no seu time.
+}
+
+Game_nolives
+{
+NAO ha vidas restantes, retornando ao modo Observador.\n
+}
+
+Game_lastlife
+{
+ULTIMA vida.
+}
+
+Game_Xlives
+{
+%s vidas restantes.
+}
+
+Game_tillrespawn
+{
+%s segundos ate o reaparecimento.
+}
+
+Game_battleid
+{
+Seu ID de batalha e %s
+}
+
+Game_welcomeback
+{
+Bem vindo de volta!
+}
+
+Game_locked
+{
+Servidor fechado. Batalha de clas em andamento.
+}
+
+Game_playerjoin
+{
+%s entrou no jogo
+}
+
+Game_startedteam
+{
+%s comecou a equipe %s.
+}
+
+Game_joinedteam
+{
+%s juntou-se a equipe %s.
+}
+
+Game_changedteam
+{
+%s mudou para Equipe %s.
+}
+
+Game_minsleft
+{
+%s faltam minutos para o inicio da partida.
+}
+
+Game_oneminleft
+{
+falta um minuto para o inicio da partida.
+}
+
+Game_thirtysecleft
+{
+Faltam 30 segundos para o inicio da partida.
+}
+
+Game_secsleft
+{
+%s segundos.
+}
+
+Game_onesec
+{
+1 segundo.
+}
+
+Game_matchbegin
+{
+A PARTIDA COMECA AGORA
+}
+
+Game_matchlocked
+{
+O JOGO ESTA BLOQUEADO AGORA
+}
+
+Game_resumefire
+{
+RETOMAR FOGO
+}
+
+Scout
+{
+SCOUT
+}
+
+Sniper
+{
+SNIPER
+}
+
+Soldier
+{
+SOLDIER
+}
+
+Demoman
+{
+DEMOMAN
+}
+
+Medic
+{
+MEDIC
+}
+
+HWGuy
+{
+HWGUY
+}
+
+Pyro
+{
+PYRO
+}
+
+Spy
+{
+SPY
+}
+
+Engineer
+{
+ENGINEER
+}
+
+RandomPC
+{
+Classe de jogador aleatoria
+}
+
+Random
+{
+ALEATORIO
+}
+
+Civilian
+{
+CIVILIAN
+}
+
+Observer
+{
+OBSERVADOR
+}
+
+//////////////////////////////////////////////////////////////////////
+// Sniper
+
+Sniper_cantfire
+{
+Voce nao pode disparar o rifle de precisao sem
+os dois pes no chao.
+}
+
+//////////////////////////////////////////////////////////////////////
+// Admin
+
+Admin_nopassword
+{
+O servidor nao tem uma senha de administrador definida (tfc_adminpwd)
+}
+
+Admin_access
+{
+Senha de administrador aceita. Direitos de administrador concedidos.
+}
+
+Admin_badpassword
+{
+Senha do administrador incorreta.
+}
+
+Admin_noplayers
+{
+Jogadores no jogo : %s
+}
+
+Admin_noteamplayers
+{
+Jogadores na equipe %s: %s
+}
+
+Admin_gameempty
+{
+Nenhum outro jogador no jogo.
+}
+
+Admin_kickban
+{
+%s (%s)  EXPULSA/BANIR/PROXIMO?
+}
+
+Admin_listip
+{
+%s (%s)
+}
+
+Admin_endlist
+{
+Fim da lista de jogadores
+}
+
+Admin_kick
+{
+%s foi expulso por %s
+}
+
+Admin_ban
+{
+%s foi banido por %s
+}
+
+Admin_ceasefire
+{
+CESSAR FOGO
+}
+
+AKick_kicked
+{
+%s foi expulso por matar companheiros de equipe.
+}
+
+AKick_warn
+{
+Mate mais um companheiro de equipe e voce sera
+removido deste servidor.
+}
+
+//////////////////////////////////////////////////////////////////////
+// Items
+
+Item_medikitammo
+{
+Voce obteu %s municao medikit
+}
+
+Item_medhealed
+{
+Voce foi curado de sua infeccao!
+}
+
+Item_metal
+{
+voce conseguiu %s metal
+}
+
+Grenade
+{
+granada 
+}
+
+Canister
+{
+vasilha
+}
+
+Grenade_found
+{
+Voce encontrou um %s %s
+}
+
+Grenade_primed
+{
+Primaria.
+}
+
+Caltrop_primed
+{
+Estrepes preparados
+}
+
+Caltrop_exc
+{
+Caltrop!
+}
+
+Item_missing
+{
+Item esta sumido.
+}
+
+// Grenade names
+
+Normal
+{
+Granada de mao 
+}
+
+Concussion
+{
+Granada de concussao
+}
+
+Nail
+{
+Prego
+}
+
+Mirv
+{
+Banana de dinamite 
+}
+
+Napalm
+{
+Granada incendiaria 
+}
+
+Flare
+{
+Granada flamejante 
+}
+
+Gas
+{
+Gas da tontura
+}
+
+EMP
+{
+Eletromagnetica 
+}
+
+Caltrop
+{
+Armadilha de pregos
+}
+
+Flash
+{
+Flash
+}
+
+// Powerups
+
+Item_ringfade
+{
+A magia do Anel das Sombras esta desaparecendo
+}
+
+Item_pentfade
+{
+A protecao esta quase queimada
+}
+
+Item_quadfade
+{
+O dano do Quad esta passando
+}
+
+Item_suitfade
+{
+Suprimento de ar no Biosuit expirando
+}
+
+//////////////////////////////////////////////////////////////////////
+// Menus
+Menu_chooseteam
+{
+=== Escolha sua equipe ===
+
+}
+
+AutoTeam
+{
+Equipe Automatica
+}
+
+BlueTeam
+{
+Equipe Azul
+}
+
+RedTeam
+{
+Equipe Vermelha
+}
+
+YellowTeam
+{
+Equipe Amarela
+}
+
+GreenTeam
+{
+Equipe Verde
+}
+
+Menu_onlycivs
+{
+Sua equipe so pode ser composta por civis.
+}
+
+Menu_class
+{
+=== Escolha sua classe ===
+
+}
+
+Menu_repeathelp
+{
+Pressione 8 para ver esta ajuda novamente
+}
+
+Menu_scoutdetails
+{
+SCOUT Detalhes:               
+ARMAS:                     \n2. Escopeta                  \n4. Arma de pregos                  \n\n Pressione 8 para obter ajuda com o alias\n
+}
+
+
+//////////////////////////////////////////////////////////////////////
+// Class help
+
+Help_scout
+{
+SCOUT Detalhes:
+ARMAS:
+   1. Pe de cabra 
+   2. Escopeta
+   4. Arma de pregos 
+GRANADAS:
+   Concussao 
+   Armadilha de pregos
+HABILIDADE ESPECIAL:
+   Exibir status da bandeira.
+}
+
+Help_sniper
+{
+SNIPER Detalhes:
+ARMAS:
+   1. Pe de cabra
+   2. Rifle de precisao 
+   3. Rifle automatica
+   4. Arma de pregos
+GRANADA:
+   Granada de mao 
+HABILIDADE ESPECIAL:
+   Alternar zoom do rifle
+}
+
+Help_soldier
+{
+SOLDIER Detalhes:
+ARMAD:
+   1. Pe de cabra
+   2. Escopeta 
+   3. Super Escopeta 
+   5. Brazuca 
+GRANADAS:
+   Granada de mao 
+   Granada de pregos
+HABLIDADE ESPECIAL:
+   Recarregar 
+}
+
+Help_demoman
+{
+DEMOLITIONS MAN Detalhes:
+ARMAS:
+   1. Pe de cabra 
+   2. Escopeta
+   4. Lancador de granadas
+   5. Lancador de granadas remotas
+GRANADAS:
+   Granada de mao 
+   Banana de dinamite 
+HABILIDADE ESPECIAL:
+   Detonador de granadas remotas
+OUTRO:
+   Definir Detpack : +det5,+det20,+det50
+}
+
+Help_medic
+{
+MEDIC Detalhes:
+ARMAS:
+   1. Kit medico/Arma biologica 
+   2. Escopeta
+   3. Super Escopeta
+   5. Super Arma de pregos
+GRANADAS:
+   Granada de mao 
+   Granada de concussao 
+HABILIDADE ESPECIAL:
+   Seleciona kit medico 
+}
+
+Help_hwguy
+{
+HEAVY WEAPONS GUY Detalhes:
+ARMAS:
+   1. Pe de cabra 
+   2. Escopeta
+   3. Super Escopeta
+   5. Minigun de canhao assalto
+GRANADAS:
+   Granada de mao
+   Banana de dinamite 
+HABILIDADE ESPECIAL:
+   Selecione Minigun de canhao assalto
+}
+
+Help_pyro
+{
+PYRO Detalhes:
+ARMAS:
+   1. Pe de cabra 
+   2. Escopeta
+   4. Lanca-chamas
+   5. Brazuca incendiaria 
+GRANADAS:
+   Granada de mao 
+   Granada incendiaria 
+HABILIDADE ESPECIAL:
+   Seleciona lanca-chamas
+}
+
+Help_spy
+{
+SPY Detalhes:
+ARMAS:
+   1. Faca
+   2. Pistola silenciosa tranquilizante 
+   3. Super Escopeta
+   4. Arma de pregos
+GRANADAS:
+   Granada de mao 
+   Granada de alucinacoes 
+HABILIDADE ESPECIAL:
+   Abri menu de disfarce 
+}
+
+Help_engineer
+{
+ENGINEER Detalhes:
+ARMAS:
+   1. Chave inglesa 
+   2. Pistola de raios
+   3. Super Escopeta
+GRANADAS:
+   Granada de mao 
+   Granada eletromagnetica 
+HABILIDADE ESPECIAL:
+   Abrir menu de construcao 
+}
+
+Help_civilian
+{
+CIVILIAN Detalhes:
+ARMAS:
+    Guarda-chuva
+
+GRANADAS:
+    Nenhuma
+
+HABILIDADE ESPECIAL:
+    Nenhuma
+}
+
+Help_classhelp2
+{
+
+}
+
+Sbar_prematch
+{
+0MODO PRE-JOGO. INICIO DO JOGO:
+2 %i2 MINUTOS
+4 1 MINUTO
+1 %i1 SEGUNDOS
+3 1 SEGUNDO 
+}
+
+Sbar_battleid
+{
+0SEU ID DE BATALHA: %i5
+6         CESSAR FOGO ATIVO!!
+}
+
+Sbar_dead
+{
+0VOCE PODE RENASCER EM: 
+2 %i2 MINUTOS 
+4 1 MINUTO 
+1 %i1 SEGUNDOS 
+3 1 SEGUNDO 
+}
+
+Scout_disarming
+{
+0Desarmando detpack...
+}
+
+
+//////////////////////////////////////////////////////////////////////
+// MATCH SCORING
+Match_results
+{
+=------= RESULTADOS DA PARTIDA =------=
+}
+
+Match_draw
+{
+ EMPATE 
+}
+
+Match_winner
+{
+%s derrotado %s
+}
+
+Match_losers3
+{
+e %s
+}
+
+Match_losers4
+{
+, %s
+}
+
+Match_team
+{
+
+=------= TEAM%s RESULTS =------=
+%s players. 
+}
+
+Match_teamdump
+{
+%s fragmentos, %s desaparecido.
+%s pontuacao da equipe.
+}
+
+///////////////////////////////////////////////////////////////////////////
+// AMMO MAKING
+Drop_shells
+{
+Voce faz algumas balas.
+}
+
+Drop_rockets
+{
+Voce faz alguns foguetes.
+}
+
+Drop_nails
+{
+Voce faz alguns pregos.
+}
+
+Drop_cells
+{
+Voce faz algumas cartuchos.
+}
+
+///////////////////////////////////////////////////////////////////////////
+// Spies
+
+Spy_uncovered
+{
+%s descobriu um espiao inimigo!
+}
+
+//////////////////////////////////////////////////////////////////////////
+// Maps
+
+// All centered for now
+$position -1 0.7
+$effect 2
+// This is the final color
+$color 200 200 200
+// This is the highlight color
+$color2 240 110 0
+// This is the time it takes to fade each character
+$fadein 0.01
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.25
+// How long to hold the message on the screen (after it scans out)
+$holdtime 3.5
+// How long it takes to fade out the message after holding
+$fadeout 1.5
+
+// CZ2
+
+cz_bcap1
+{
+%s [Equipe Azul] capturou o Ponto de Comando 1
+}
+
+cz_bcap2
+{
+%s [Equipe Azul] capturou o Ponto de Comando 2
+}
+
+cz_bcap3
+{
+%s [Equipe Azul] capturou o Ponto de Comando 3
+}
+
+cz_bcap4
+{
+%s [Equipe Azul] capturou o Ponto de Comando 4
+}
+
+cz_bcap5
+{
+%s [Equipe Azul] capturou o Ponto de Comando 5
+}
+
+cz_rcap1
+{
+%s [Equipe Vermelha] capturou o Ponto de Comando 1
+}
+
+cz_rcap2
+{
+%s [Equipe Vermelha] captura o Ponto de Comando 2
+}
+
+cz_rcap3
+{
+%s [Equipe Vermelha] captura o Ponto de Comando 3
+}
+
+cz_rcap4
+{
+%s [Equipe Vermelha] captura o Ponto de Comando 4
+}
+
+cz_rcap5
+{
+%s [Equipe Vermelha] captura o Ponto de Comando 5
+}
+
+cz_ccdefend
+{
+Este e seu Centro de Controle.
+Defenda-o a todo custo.
+}
+
+cz_rwins
+{
+O Time Vermelho Capturou a Base Azul!
+A EQUIPE VERMELHA VENCE!!!
+}
+
+cz_bwins
+{
+Time Azul capturou a base vermelha!
+EQUIPE AZUL VENCE!!!
+}
+
+cz_b_tooearly
+{
+Voce nao pode assumir a Base Azul sem
+possuir todos os Pontos de Comando.
+}
+
+cz_r_tooearly
+{
+Voce nao pode assumir a Base Vermelha sem
+possuir todos os Pontos de Comando.
+}
+
+cz_bluedoors
+{
+Voce abriu as portas azuis.
+}
+
+cz_reddoors
+{
+Voce abriu as portas vermelhas.
+}
+
+cz_cant_use_item
+{
+Sua equipe nao pode usar este item sem ter
+controle deste ponto de comando.
+}
+
+cz_cant_use_door
+{
+Esta porta nao abrira para sua equipe.
+}
+
+cz_cap_all_1
+{
+Sua equipe acabou de capturar todos os
+Pontos de Comando! Sua equipe ganha 25
+pontos de bonus!
+}
+
+cz_cap_all_2
+{
+O INIMIGO acabou de capturar todos os
+Pontos de Comando! Eles ganham 25 pontos de bonus.
+}
+
+cz_base_open
+{
+Sua base esta aberta a ataques!
+}
+
+cz_blue_base_open
+{
+A base azul esta aberta a ataques!
+}
+
+cz_red_base_open
+{
+A Base Vermelha esta aberta a ataques!
+}
+
+cz_blue_holds_base
+{
+Time Azul manteve sua base!
+Pontos de comando reiniciados.
+}
+
+cz_red_holds_base
+{
+Time vermelho manteve sua base!
+Pontos de comando redefinidos.
+}
+
+cz_cant_capture
+{
+Voce nao pode capturar pontos de comando
+enquanto sua base estiver aberta a ataques.
+}
+
+cz_b_cc_destroy_1
+{
+O Centro de Comando do Time Azul
+foi destruido!
+}
+
+cz_b_cc_destroy_2
+{
+%s destriu o Centro de Comando Azul!
+}
+
+cz_r_cc_destroy_1
+{
+O Centro de Comando do Time Vermelho 
+foi destruido!
+}
+
+cz_r_cc_destroy_2
+{
+%s destriu o Centro de Comando Vermelho!
+}
+
+cz_restock
+{
+Reabastecimento de granadas.
+}
+
+// 2fort
+
+2fort_you_capped_flag
+{
+Voce capturou a bandeira do INIMIGO!
+}
+
+2fort_your_team_capped
+{
+Sua equipe capturou a bandeira do INIMIGO!
+}
+
+2fort_your_flag_capped
+{
+SUA bandeira foi CAPTURADA!
+}
+
+2fort_your_flag_returned
+{
+Sua BANDEIRA foi RETORNADA!!
+}
+
+2fort_enemy_flag_returned
+{
+A bandeira do INIMIGO foi RETORNADA!
+}
+
+2fort_got_enemy_flag
+{
+%s Pegou a bandeira do INIMIGO!
+}
+
+2fort_team_takes_enemy_flag
+{
+Seu time TOMOU a bandeira do INIMIGO!
+}
+
+2fort_enemy_takes_flag
+{
+%s TOMOU sua bandeira!
+}
+
+2fort_your_flag_taken
+{
+Sua BANDEIRA foi pega!
+}
+
+2fort_you_take_enemy_flag
+{
+Voce tem a bandeira do INIMIGO!
+Leve-a para seu PONTO DE CAPTURA!
+}
+
+2fort_enemy_lost_flag
+{
+O INIMIGO perdeu sua BANDEIRA!
+}
+
+2fort_lost_red_flag
+{
+%s PERDEU a bandeira VERMELHA!
+}
+
+2fort_lost_blue_flag
+{
+%s PERDEU a bandeira AZUL!
+}
+
+2fort_lost_enemy_flag
+{
+Seu time perdeu a bandeira do INIMIGO!
+}
+
+2fort_elevator
+{
+Este elevador nao vai
+funcionar para sua equipe.
+}
+
+2fort_door
+{
+Esta porta nao abrira para sua equipe.
+}
+
+2fort_flag_in_base
+{
+Sua bandeira esta em sua base.
+}
+
+2fort_flag_loose
+{
+Sua bandeira esta espalhada.
+}
+
+2fort_flag_carried
+{
+Sua bandeira esta sendo carregada por %s
+}
+
+2fort_enemy_flag_in_base
+{
+A bandeira inimiga esta na base deles.
+}
+
+2fort_enemy_flag_loose
+{
+A bandeira inimiga esta espalhada.
+}
+
+2fort_enemy_flag_carried
+{
+A bandeira inimiga esta sendo carregada por %s
+}
+
+// The Well
+
+well_got_enemy_flag
+{
+Voce tem a BANDEIRA INIMIGA!
+Devolva-a ao seu TANQUE!
+}
+
+well_enemy_flag_returned
+{
+A BANDEIRA INIMIGA foi RETORNADA a base!
+}
+
+well_your_flag_returned
+{
+Sua BANDEIRA foi RETORNADA!
+}
+
+well_team_got_enemy_flag
+{
+Seu time tem a BANDEIRA INIMIGA!
+}
+
+well_your_flag_taken
+{
+Sua BANDEIRA foi ROUBADA!
+}
+
+well_capture
+{
+Boa Captura!
+Va em Frente Novamente!
+}
+
+well_blue_scores
+{
+O time vermelho nao e pareo para o poderoso Azul!
+A equipe azul pontua!
+}
+
+well_blue_scores_2
+{
+A equipe azul capturou sua bandeira.
+}
+
+well_red_scores
+{
+O Time Azul nao e pareo para o poderoso Vermelho!
+A equipe vermelha pontua!
+}
+
+well_red_scores_2
+{
+A equipe vermelha capturou sua bandeira.
+}
+
+well_you_det_bgrate
+{
+Voce destruiu a grade do AZUL!
+}
+
+well_bgrate_destroyed
+{
+O GRADE do azul foi destruido.
+}
+
+well_you_det_rgrate
+{
+Voce destruiu a grade do VERMELHO!
+}
+
+well_rgrate_destroyed
+{
+O GRATE do Vermelho foi destruido.
+}
+
+well_flag_in_base
+{
+Sua bandeira esta em sua base.
+}
+
+well_flag_loose
+{
+Sua bandeira foi largada em algum lugar.
+}
+
+well_flag_carried
+{
+Sua bandeira esta sendo carregada por %s
+}
+
+well_enemy_flag_in_base
+{
+A bandeira inimiga esta na base deles.
+}
+
+well_enemy_flag_loose
+{
+A bandeira inimiga foi largada em algum lugar.
+}
+
+well_enemy_flag_carried
+{
+A bandeira inimiga esta sendo carregada por %s
+}
+
+well_door
+{
+Esta porta nao se abrira para sua equipe.
+}
+
+// Hunted
+
+hunted_target_welcome
+{
+Voce deve sobreviver!
+}
+
+hunted_bodyguard_welcome
+{
+Proteja o civil!
+}
+
+hunted_assassin_welcome
+{
+Elimine o civil!
+}
+
+hunted_target_scores
+{
+O CIVIL ESCAPOU!
+pontuacao dos Guarda-Costas!
+}
+
+hunted_netname_target_scores
+{
+O CIVIL [%S] ESCAPOU!
+Os Guarda-Costas pontuaram!
+}
+
+hunted_target_killed
+{
+O civil foi ASSASSINADO!
+pontuacao dos Assassinos!
+}
+
+hunted_netname_target_killed
+{
+O civil [%s] foi ASSASSINADO!
+Pontuacao dos Assassinos!
+}
+
+hunted_status_ruins_roof
+{
+%s esta no TOPO das RUINAS!
+}
+
+hunted_status_field
+{
+%s esta no CAMPO!
+}
+
+hunted_status_fuel
+{
+%s fica na SALA DE ARMAZENAMENTO DE COMBUSTIVEL!
+}
+
+hunted_status_tower
+{
+%s esta NA TORRE!
+}
+
+hunted_status_warehouse_tunnel
+{
+%s esta no TUNEL DO ARMAZEM!
+}
+
+hunted_status_warehouse
+{
+%s esta no ARMAZEM!
+}
+
+hunted_status_approaching_warehouse
+{
+%s esta se aproximando da rampa do armazem!
+}
+
+hunted_status_storage_3
+{
+%s esta na AREA DO ARMAZENAMENTO 3.
+}
+
+hunted_status_upper_storage_3
+{
+%s esta no NIVEL SUPERIOR da AREA DE ARMAZENAMENTO 3.
+}
+
+hunted_status_upper_ruins
+{
+%s esta nas RUINAS SUPERIORES!
+}
+
+hunted_status_lower_ruins
+{
+%s esta nas RUINAS INFERIORES!
+}
+
+hunted_status_ruins_exit
+{
+%s esta na SAIDA DAS RUINAS!
+}
+
+hunted_status_behind_red
+{
+%s esta ATRAS dos CONTEINERES VERMELHOS!
+}
+
+hunted_status_alley
+{
+%s esta no BECO!
+}
+
+hunted_status_perimeter
+{
+%s fica no PERIMETRO do PREDIO 1.
+}
+
+hunted_status_roof1
+{
+%s esta no TELHADO do PREDIO UM 1!
+}
+
+hunted_status_main_road
+{
+%s esta na ESTRADA PRINCIPAL.
+}
+
+hunted_status_above_road
+{
+%s esta ACIMA DA ESTRADA PRINCIPAL.
+}
+
+hunted_status_road_end
+{
+%s esta escondido no FIM da ESTRADA PRINCIPAL.
+}
+
+hunted_status_sewers
+{
+%s esta nos ESGOTOS.
+}
+
+hunted_status_entry_1
+{
+%s esta na ENTRADA do PREDIO 1.
+}
+
+hunted_status_building1
+{
+%s esta no PREDIO 1.
+}
+
+hunted_teams
+{
+=== Escolha sua equipe ===
+
+1.. O civil (Limit 1)
+2.. O guarda-costa 
+3.. O assassino
+}
+
+// The Rock
+
+rock_falling_death
+{
+%s  caiu para a morte.
+}
+
+rock_you_got_key
+{
+Voce tem a chave!
+Leve-a para a camara de gas inimiga!
+}
+
+rock_team_dropped_key
+{
+Sua equipe deixou cair a chave inimiga!
+}
+
+rock_enemy_dropped_key
+{
+O inimigo deixou cair sua chave!
+}
+
+rock_your_key_returned
+{
+Sua chave foi retornada.
+}
+
+rock_enemy_key_returned
+{
+A chave inimiga foi devolvida.
+}
+
+rock_blue_scores
+{
+Time azul marca pontos!
+Gas nervoso liberado!
+}
+
+rock_red_scores
+{
+Time vermelho marca pontos!
+Gas nervoso liberado!
+}
+
+rock_gasmask_message
+{
+Melhor pegar um traje de protecao.
+Eles estao indo rapido!
+}
+
+rock_cant_use_door
+{
+Esta porta nao abrira para sua equipe.
+}
+
+rock_enemy_key_carry
+{
+A chave inimiga esta sendo carregada por %s
+}
+
+rock_enemy_key_moved
+{
+A chave inimiga foi deixada em algum lugar.
+}
+
+rock_enemy_key_home
+{
+A chave inimiga esta no escritorio do diretor.
+}
+
+rock_your_key_carry
+{
+Sua chave esta sendo carregada por %s
+}
+
+rock_your_key_moved
+{
+Sua chave foi deixada em algum lugar.
+}
+
+rock_your_key_home
+{
+Sua chave esta no escritorio do seu diretor.
+}
+
+rock_protected
+{
+Agora voce esta protegido do gas nervoso.
+}
+
+rock_access_denied
+{
+Voce nao pode entrar nas salas de suprimentos inimigas.
+}
+
+rock_you_opened_red_yard
+{
+Voce abriu um buraco no quintal do Time Vermelho.
+}
+
+rock_red_yard_opened
+{
+O quintal do Time Vermelho tem um buraco!
+}
+
+rock_you_opened_blue_yard
+{
+Voce abriu um buraco no quintal do Time Azul.
+}
+
+rock_blue_yard_opened
+{
+O quintal do Time Azul tem um buraco!
+}
+
+rock_gas_kill
+{
+%s foi morto por uma dose letal de gas nervoso.
+}
+
+rock_laser_kill
+{
+%s tentou invadir uma sala de spawn inimiga.
+}
+
+rock_team_got_key
+{
+Seu time tem a chave inimiga!
+}
+
+rock_enemy_got_key
+{
+O inimigo tem sua chave!
+}
+
+// ======= Football/Push ======= //
+
+football_blue_scores
+{
+Pontuacao do time azul!
+}
+
+football_blue_netname_scores
+{
+%s [Time Azul] pontua!
+}
+
+football_red_scores
+{
+Pontuacao do time vermelho!
+}
+
+football_red_netname_scores
+{
+%s [Time Vermelho] pontua!
+}
+
+football_flag_drop
+{
+A bola foi largada!
+}
+
+football_flag_netname_drop
+{
+%s deixou a bola cair!
+}
+
+football_needflag
+{
+Voce precisa da bola para marcar aqui.
+}
+
+football_wronggoal
+{
+Leve a bola para o gol INIMIGO.
+}
+
+football_flag_home
+{
+Ninguem tem a bola ainda. Pegue-a!
+}
+
+football_flag_moved
+{
+A bola esta solta!
+}
+
+football_flag_carried
+{
+A bola esta sendo carregada por %s!
+}
+
+football_class_list
+{
+=== Escolha sua classe ===
+
+1. Scout
+2. Sniper
+3. Soldier
+4. Demoman
+5. Medic
+6. HWGuy
+7. Pyro
+
+
+0. AleatorioPC
+}
+
+// ======= Dustbowl ======= //
+
+dustbowl_you_secure_one
+{
+Voce garantiu
+Ponto de Comando UM !!
+}
+
+dustbowl_you_secure_two
+{
+Voce garantiu
+Ponto de Comando DOIS !!
+}
+
+dustbowl_protect_HQ
+{
+Proteja seu QG do
+Time Azul !!
+}
+
+dustbowl_bring_flag
+{
+Tragar sua bandeira para
+o QG do Time Vermelho!!
+}
+
+dustbowl_take_flag_one
+{
+Leve a bandeira para
+Ponto de Comando UM.
+}
+
+dustbowl_take_flag_two
+{
+Leve a bandeira para
+Ponto de Comando DOIS.
+}
+
+dustbowl_take_flag_HQ
+{
+Leve a bandeira para o QG do Red!
+}
+
+dustbowl_grenades
+{
+Granadas!!
+}
+
+dustbowl_blue_secures_one
+{
+Time Azul capturou o
+Ponto de comando UM !!
+}
+
+dustbowl_blue_secures_two
+{
+Time Azul capturou o
+Ponto de comando DOIS !!
+}
+
+dustbowl_flag_returned
+{
+A bandeira retornou a base
+}
+
+dustbowl_blue_caps
+{
+A equipe azul capturou o quartel-general do Vermelho!
+}
+
+dustbowl_90_secs
+{
+Faltam 90 segundos para os portoes abrirem.
+}
+
+dustbowl_60_secs
+{
+Faltam 60 segundos para os portoes abrirem.
+}
+
+dustbowl_30_secs
+{
+Faltam 30 segundos para os portoes abrirem.
+}
+
+dustbowl_10_secs
+{
+Faltam 10 segundos para os portoes abrirem.
+}
+
+dustbowl_gates_open
+{
+Os portoes estao abertos !!.
+}
+
+dustbowl_red_defends
+{
+A equipe vermelha defendeu com sucesso
+seu Quartel General!
+}
+
+dustbowl_five_minutes_left
+{
+Tempo restante:
+Cinco minutos
+}
+
+dustbowl_four_minutes_left
+{
+Tempo restante:
+Quatro minutos
+}
+
+dustbowl_three_minutes_left
+{
+Tempo restante:
+Tres minutos
+}
+
+dustbowl_two_minutes_left
+{
+Tempo restante:
+Dois minutos
+}
+
+dustbowl_sixty_seconds_left
+{
+Tempo restante:
+Sessenta segundos
+}
+
+dustbowl_thirty_seconds_left
+{
+Tempo restante:
+Trinta segundos
+}
+
+// ======= Doublemint ======= //
+
+dblmint_you_got_flag
+{
+Voce tem a bandeira!
+Leve-a para seu APC.
+}
+
+dblmint_x_has_flag
+{
+%s tem a bandeira do seu time.
+}
+
+dblmint_you_capped_flag
+{
+Voce escapou com a bandeira do seu time!
+Bom trabalho!
+}
+
+dblmint_enemy_capped_flag
+{
+O inimigo capturou a bandeira!
+}
+
+dblmint_team_capped_flag
+{
+Seu time capturou a bandeira!
+}
+
+dblmint_flagcage
+{
+Esta jaula abrira em 45 segundos.
+}
+
+
+// ======= Warpath ======= //
+
+warpath_cap_1_first
+{
+Sua equipe deve capturar o ponto 1 primeiro!
+}
+
+warpath_cap_2_first
+{
+Sua equipe deve capturar o ponto 2 primeiro!
+}
+
+warpath_cap_3_first
+{
+Sua equipe deve capturar o ponto 3 primeiro!
+}
+
+warpath_cap_4_first
+{
+Sua equipe deve capturar o ponto 4 primeiro!
+}
+
+warpath_cap_5_first
+{
+Sua equipe deve capturar o ponto 5 primeiro!
+}
+
+warpath_enemy_in_base
+{
+O inimigo esta dentro da sua base!
+}
+
+warpath_45_secs
+{
+Faltam 45 segundos para os portoes abrirem.
+}
+
+warpath_30_secs
+{
+Faltam 30 segundos para os portoes abrirem.
+}
+
+warpath_20_secs
+{
+Faltam 20 segundos para os portoes abrirem.
+}
+
+warpath_10_secs
+{
+Faltam 10 segundos para os portoes abrirem.
+}
+
+warpath_gates_open
+{
+Os portoes estao abertos !!
+}
+
+warpath_red_wins
+{
+A equipe vermelha vence a rodada!
+}
+
+warpath_blue_wins
+{
+A equipe azul vence a rodada!
+}
+
+// ======= War ======= //
+
+war_u_stole_1
+{
+Voce roubou a bandeira 1!
+Retorne-a ao seu ponto de captura!
+}
+
+war_tm_stole_1
+{
+Sua equipe roubou a BANDEIRA 1!
+}
+
+war_en_stole_1
+{
+O inimigo roubou a BANDEIRA 1!
+}
+
+war_u_stole_2
+{
+Voce roubou a bandeira 2!
+Retorne-a ao seu ponto de captura!
+}
+
+war_tm_stole_2
+{
+Sua equipe roubou a BANDEIRA 2!
+}
+
+war_en_stole_2
+{
+O inimigo roubou a BANDEIRA 2!
+}
+
+war_u_stole_3
+{
+Voce roubou a bandeira 3!
+Retorne-a ao seu ponto de captura!
+}
+
+war_tm_stole_3
+{
+Sua equipe roubou a BANDEIRA 3!
+}
+
+war_en_stole_3
+{
+O inimigo roubou a BANDEIRA 3!
+}
+
+war_u_stole_4
+{
+Voce roubou a bandeira 4!
+Retorne-a ao seu ponto de captura!
+}
+
+war_tm_stole_4
+{
+Sua equipe roubou a BANDEIRA 4!
+}
+
+war_en_stole_4
+{
+O inimigo roubou a BANDEIRA 4!
+}
+
+war_uhave_flag_1
+{
+Voce tem a BANDEIRA 1
+Retorne-a ao seu ponto de captura!
+}
+
+war_uhave_flag1
+{
+Voce tem a BANDEIRA 1
+Retorne-a ao seu ponto de captura!
+}
+
+war_uhave_flag_2
+{
+Voce tem a BANDEIRA 2
+Retorne-a ao seu ponto de captura!
+}
+
+war_uhave_flag_3
+{
+Voce tem a BANDEIRA 3
+Retorne-a ao seu ponto de captura!
+}
+
+war_uhave_flag_4
+{
+Voce tem a BANDEIRA 4
+Retorne-a ao seu ponto de captura!
+}
+
+war_tmsec_flag1
+{
+Sua equipe garantiu a BANDEIRA 1
+}
+
+war_tmsec_flag2
+{
+Sua equipe garantiu a BANDEIRA 2
+}
+
+war_tmsec_flag3
+{
+Sua equipe garantiu a BANDEIRA 3
+}
+
+war_tmsec_3
+{
+Sua equipe garantiu a BANDEIRA 3
+}
+
+war_tmsec_flag4
+{
+Sua equipe garantiu a BANDEIRA 4
+}
+
+war_usec_flag1
+{
+Voce garantiu a BANDEIRA 1
+}
+
+war_usec_flag2
+{
+Voce garantiu a BANDEIRA 2
+}
+
+war_usec_flag3
+{
+Voce garantiu a BANDEIRA 3
+}
+
+war_usec_flag4
+{
+Voce garantiu a BANDEIRA 4
+}
+
+war_uret_flag1
+{
+Voce retornou a BANDEIRA 1
+}
+
+war_uret_flag2
+{
+Voce retornou a BANDEIRA 2
+}
+
+war_uret_flag3
+{
+Voce retornou a BANDEIRA 3
+}
+
+war_uret_flag4
+{
+Voce retornou a BANDEIRA 4
+}
+
+war_tret_flag1
+{
+Sua equipe retornou a BANDEIRA 1
+}
+
+war_tret_flag2
+{
+Sua equipe retornou a BANDEIRA 2
+}
+
+war_tret_flag3
+{
+Sua equipe retornou a BANDEIRA 3
+}
+
+war_tret_flag4
+{
+Sua equipe retornou a BANDEIRA 4
+}
+
+war_eret_flag1
+{
+O INIMIGO retornou a BANDEIRA 1
+}
+
+war_eret_flag2
+{
+O INIMIGO retornou a BANDEIRA 2
+}
+
+war_eret_flag3
+{
+O INIMIGO retornou a BANDEIRA 3
+}
+
+war_eret_flag4
+{
+O INIMIGO retornou a BANDEIRA 4
+}
+
+war_esec_flag1
+{
+A equipe INIMIGA garantiu a BANDEIRA 1!
+}
+
+war_esec_flag2
+{
+A equipe INIMIGA garantiu a BANDEIRA 2!
+}
+
+war_esec_flag3
+{
+A equipe INIMIGA garantiu a BANDEIRA 3!
+}
+
+war_esec_flag4
+{
+A equipe INIMIGA garantiu a BANDEIRA 4!
+}
+
+war_avail
+{
+Bandeiras neutras ja estao disponiveis!
+}
+
+war_removedflag
+{
+!!! Voce perdeu a bandeira porque
+entrou na sala de spawn !!!
+}
+
+war_cant_withflag
+{
+Voce nao pode entrar na sala de spawn enquanto carrega a bandeira 
+}
+
+// ======= Italy ======== //
+
+
+$color 0 225 0
+
+italy_take_flag_to_1
+{
+Leve esta bandeira para o Ponto de Comando 1.
+}
+
+italy_take_flag_to_2
+{
+Leve esta bandeira para o Ponto de Comando 2.
+}
+
+italy_take_flag_to_3
+{
+Leve esta bandeira para o Ponto de Comando 3.
+}
+
+italy_take_flag_to_4
+{
+Leve esta bandeira para a igreja.
+}
+
+$position -1 0.75
+
+italy_yourflag_at_0
+{
+Sua bandeira voltou para o fundo da cidade.
+}
+
+italy_yourflag_at_1
+{
+Sua bandeira retornou ao Ponto de Comando 1.
+}
+
+italy_yourflag_at_2
+{
+Sua bandeira retornou ao Ponto de Comando 2.
+}
+
+italy_yourflag_at_3
+{
+Sua bandeira retornou ao Ponto de Comando 3.
+}
+
+italy_eflag_at_0
+{
+A bandeira inimiga voltou ao fundo da cidade.
+}
+
+italy_eflag_at_1
+{
+A bandeira inimiga retornou ao Ponto de Comando 1.
+}
+
+italy_eflag_at_2
+{
+A bandeira inimiga retornou ao Ponto de Comando 2.
+}
+
+italy_eflag_at_3
+{
+A bandeira inimiga retornou ao Ponto de Comando 3.
+}
+
+$position -1 0.7
+
+italy_you_secure_cp1
+{
+Voce garantiu o Ponto de Comando 1!
+pegue a proxima bandeira para captura o Ponto de Comando 2.
+}
+
+italy_team_secured_cp1
+{
+Sua equipe garantiu o Ponto de Comando 1!
+Pegue a proxima bandeira para captura o Ponto de Comando 2.
+}
+
+italy_lost_cp1
+{
+O time inimigo garantiu o Ponto de Comando 1!
+Defenda o Ponto de Comando 2.
+}
+
+italy_you_secure_cp2
+{
+Voce garantiu o Ponto de Comando 2!
+Pegue a proxima bandeira para captura o Ponto de Comando 3.
+}
+
+italy_team_secured_cp2
+{
+Voce garantiu o Ponto de Comando 2!
+Pegue a proxima bandeira para captura o Ponto de Comando 3.
+}
+
+italy_lost_cp2
+{
+O time inimigo garantiu o Ponto de Comando 2!
+Defenda o Ponto de Comando 3.
+}
+
+italy_you_secure_cp3
+{
+Voce garantiu o Ponto de Comando 3!
+Leve a proxima bandeira para captura a igreja.
+}
+
+italy_team_secured_cp3
+{
+Sua equipe garantiu o Command Point 3!
+Leve a proxima bandeira para captura a igreja.
+}
+
+italy_lost_cp3
+{
+O time inimigo garantiu o Ponto de Comando 3!
+Defenda a igreja.
+}
+
+italy_you_secure_cp4
+{
+Voce garantiu a igreja!
+A vitoria e sua!
+}
+
+italy_team_secured_cp4
+{
+Sua equipe garantiu a igreja!
+A vitoria e sua!
+}
+
+italy_lost_cp4
+{
+O time inimigo garantiu a igreja!
+Voce perdeu o controle da cidade!
+}
+
+italy_endround_win
+{
+Sua equipe garantiu todos os 4 pontos de comando.
+Agora voce controla a cidade!
+
+Prepare-se para um contra-ataque. Defenda a cidade!
+}
+
+italy_endround_lose
+{
+O time inimigo garantiu todos os 4 pontos de comando.
+Voce perdeu o controle da cidade!
+
+Prepare-se para contra-atacar. Retome a cidade!
+}
+
+italy_attacker_1
+{
+Voce esta no time de ataque.
+Mova-se para cima e capture o Ponto de Comando 1!
+}
+
+italy_attacker_2
+{
+Voce esta no time de ataque.
+Mova-se para cima e capture o Command Point 2!
+}
+
+italy_attacker_3
+{
+Voce esta no time de ataque.
+Mova-se para cima e capture o Ponto de Comando 3!
+}
+
+italy_attacker_4
+{
+Voce esta no time de ataque.
+Mova-se para cima e capture a igreja!
+}
+
+italy_defender_1
+{
+Voce esta no time de defesa.
+Mova-se para baixo e defenda o Ponto de Comando 1!
+}
+
+italy_defender_2
+{
+Voce esta no time de defesa.
+Mova-se para baixo e defenda o Command Point 2!
+}
+
+italy_defender_3
+{
+Voce esta no time de defesa.
+Mova-se para baixo e defenda o Ponto de Comando 3!
+}
+
+italy_defender_4
+{
+Voce esta no time de defesa.
+Mova-se ladeira abaixo e defenda a igreja!
+}
+
+italy_hole_text
+{
+O ponto de comando 4 foi violado!
+}
+
+
+
+// ======= generic CTF ======= //
+
+ctf_yougotflag
+{
+Voce tem a bandeira inimiga!
+Leve-a de volta para sua base!
+}
+
+ctf_cantuseitem
+{
+Sua equipe nao pode usar este item.
+}
+
+ctf_cant_use_door
+{
+Esta porta nao abrira para sua equipe.
+}
+
+//=======================================================
+// Detpacks
+Detpack_telefragged
+{
+%s's detpack foi telefragmentado por %s
+}
+
+Dropitems_noroom
+{
+Nao ha espaco suficiente para colocar itens aqui.
+}
+
+//========================================================
+// New Engineer building
+Sentry_DistDismantle
+{
+Voce precisa estar mais perto de sua sentinela para desmonta-la.
+}
+
+Sentry_repair
+{
+Voce reparou sua sentinela.
+}
+
+Sentry_inshells
+{
+Voce colocou algumas balas na sua sentinela.
+}
+
+Sentry_inrockets
+{
+Voce colocou alguns foguetes em sua sentinela.
+}
+
+Dispenser_DistDismantle
+{
+Voce precisa estar mais perto do seu dispensador para desmonta-lo.
+}
+
+Build_notenoughmetal
+{
+Voce nao tem metal suficiente.
+}
+
+//========================================================
+// New Menus
+Title_scout
+{
+Scout
+}
+
+Title_sniper
+{
+Sniper
+}
+
+Title_soldier
+{
+Soldier
+}
+
+Title_demoman
+{
+Demolitions Man
+}
+
+Title_medic
+{
+Combat Medic
+}
+
+Title_hwguy
+{
+Heavy Weapons Guy
+}
+
+Title_pyro
+{
+Pyro
+}
+
+Title_spy
+{
+Spy
+}
+
+Title_engineer
+{
+Engineer
+}
+
+Title_randompc
+{
+Aleatorio 
+}
+
+Title_civilian
+{
+Civil 
+}
+
+Title_SelectYourTeam
+{
+SELECIONE SUA EQUIPE
+}
+
+Title_SelectYourClass
+{
+SELECIONE SUA CLASSE
+}
+
+Title_CurrentlyOnYourTeam
+{
+Ha %d no seu time
+}
+
+// TEAM MENU
+Team_Blue
+{
+AZUL
+}
+
+Team_Red
+{
+VERMELHO
+}
+
+Team_Green
+{
+VERDE
+}
+
+Team_Yellow
+{
+AMARELO 
+}
+
+Team_AutoAssign
+{
+AUTO SELECAO 
+}
+
+Hunted_team1
+{
+O civil 
+}
+
+Hunted_team2
+{
+Guarda-Costas
+}
+
+Hunted_team3
+{
+Assassinos
+}
+
+Dustbowl_team1
+{
+Ataque
+}
+
+Dustbowl_team2
+{
+Defesa 
+}
+
+// DISGUISE MENU
+Disguise_AsAFriendly
+{
+COMO UM AMIGO
+}
+
+Disguise_AsAnEnemy
+{
+COMO UM INIMIGO
+}
+
+// DETPACK MENU
+DetpackSet_For5Seconds
+{
+POR 5 SEGUNDOS
+}
+
+DetpackSet_For20Seconds
+{
+POR 20 SEGUNDOS
+}
+
+DetpackSet_For50Seconds
+{
+POR 50 SEGUNDOS
+}
+
+// BUILD MENU 
+
+Build_Dispenser
+{
+DISPENSADOR
+}
+
+Build_Rotate45
+{
+GIRAR 45 GRAUS
+}
+
+Build_SentryGun
+{
+SENTINELA
+}
+
+Build_Dismantle
+{
+DESMONTAR 
+}
+
+Build_Detonate
+{
+DETONA
+}
+
+Build_Rotate180
+{
+GIRAR 180 GRAUS
+}
+
+// other menu text
+Menu_OK
+{
+OK
+}
+
+Menu_Cancel
+{
+CANCELAR
+}
+
+Menu_Spectate
+{
+ESPECTADOR 
+}
+
+Spec_Mode_Inset0
+{
+Janela de insercao desligada
+}
+
+Spec_Mode_Inset1
+{
+Modo de camera de perseguicao inserida
+}
+
+Spec_Mode_Inset2
+{
+Modo de insercao em primeira pessoa
+}
+
+Spec_Mode_Inset3
+{
+Modo de mapa inserido
+}
+
+// Spectator Menu
+Spec_Mode1
+{
+Camera de perseguicao bloqueada
+}
+
+Spec_Mode2
+{
+Camera de perseguicao livre
+}
+
+Spec_Mode3
+{
+Olhar livre
+}
+
+Spec_Mode4
+{
+Primeira pessoa
+}
+
+Spec_Mode5
+{
+Visao geral do mapa 
+}
+
+Spec_Mode6
+{
+Visao geral do mapa de perseguicao
+}
+
+Spec_NoTarget
+{
+Nenhum alvo valido. Nao e possivel alternar para o Modo Camera de perseguicao.
+}
+
+Spec_Help
+{
+ENTRE para jogar FOGO para o proximo alvo FOGO-ALTERNATIVO para o alvo anterior PULE para mudar de modo
+}
+
+Spec_Help_Title
+{
+Modo Espectador
+}
+
+Spec_Help_Text
+{
+Use as seguintes teclas para alterar os estilos de visualizacao:
+
+ FIRE1 - Perseguir o proximo jogador
+ FIRE2 - Perseguir jogador anterior
+ JUMP - Alterar modos de visualizacao
+ USE - Alterar modo de janela de insercao
+ 
+ DUCK  - Habilitar menu de espectador
+  
+No Modo de Mapa de Visao Geral, mova-se com:
+
+ MOVELEFT - mover para a esquerda
+ MOVERIGHT - mover para a direita
+ FORWARD - ampliar
+ BACK - para
+ MOUSE - girar em torno do mapa/alvo
+}
+
+Spec_Slow_Motion
+{
+Camera lenta
+}
+
+Spec_Replay
+{
+Replay instantaneo
+}
+
+Spec_Auto
+{
+Automatico 
+}
+
+Spec_Time
+{
+Tempo
+}
+
+Spec_Map
+{
+Mapa
+}
+
+Spectators
+{
+Espectadores 
+}
+
+Unassigned
+{
+Nao atribuido
+}
+
+// Scoreboard
+TEAMS
+{
+EQUIPES
+}
+
+PLAYERS
+{
+JOGADORES 
+}
+
+CLASS
+{
+CLASSES
+}
+
+SCORE
+{
+PONTUACAO 
+}
+
+DEATHS
+{
+MORTES
+}
+
+LATENCY
+{
+LATENCIA 
+}
+
+VOICE
+{
+VOZ
+}
+
+Disguise_Lost
+{
+Voce perdeu seu disfarce!
+}
+
+Game_unknown_command
+{
+Comando desconhecido: %s
+}
+
+Detpack_blocking_door_destroyed
+{
+Seu detpack estava bloqueando uma
+porta e foi removido.
+}
+
+Mic_Volume
+{
+Volume do microfone
+}
+
+Speaker_Volume
+{
+Volume do alto-falante
+}
+
+Voice_Properties
+{
+Propriedades de voz
+}
+
+Map_Description_not_available
+{
+Descricao do mapa nao disponivel.
+}
+
+Player
+{
+jogador
+}
+
+Player_plural
+{
+jogadores
+}
+
+Muted
+{
+Voce foi mutado %s.
+}
+
+Unmuted
+{
+Voce foi desmutado %s.
+}
+
+No_longer_hear_that_player
+{
+Voce nao ouvira mais esse jogador falar.
+}
+
+
+OBS_NONE
+{
+Opcoes de camera
+}
+
+OBS_CHASE_LOCKED
+{
+Camera de perseguicao bloqueada
+}
+
+OBS_CHASE_FREE
+{
+Camera de perseguicao livre
+}
+
+OBS_ROAMING
+{
+Roaming
+}
+
+OBS_IN_EYE
+{
+Primeira pessoa
+}
+
+OBS_MAP_FREE
+{
+Visao geral 
+}
+
+OBS_MAP_CHASE
+{
+Visao geral da camera de perseguicao 
+}
+
+SPECT_OPTIONS
+{
+Opcoes 
+}
+
+CAM_OPTIONS
+{
+Opcoes de camera
+}
+
+Spec_Duck
+{
+Pressione DUCK para o menu do espectador
+}
+
+Game_no_timelimit
+{
+* Sem limite de tempo *
+}
+
+Game_timelimit
+{
+Tempo restante:  %s:%.2s
+}
+
+Teleporter_Entrance_Destroyed
+{
+A entrada do seu teleporte foi destruido.
+}
+
+Teleporter_Exit_Destroyed
+{
+A saida do seu teleporte foi destruido.
+}
+
+Teleporter_Entrance_Finished
+{
+Voce terminou de construir a entrada do teleporte.
+}
+
+Teleporter_Entrance_Built
+{
+%s construiu
+uma entrada de teleporte.
+}
+
+Teleporter_Exit_Finished
+{
+Voce terminou de construir a saida do teleporte.
+}
+
+Teleporter_Exit_Built
+{
+%s construiu
+uma saida de teleporte.
+}
+
+Teleporter_entrance_enemy_use
+{
+Os inimigos estao perto da sua
+entrada do teleporte!
+}
+
+Teleporter_exit_enemy_use
+{
+Os inimigos estao perto da sua
+saida do teleporte!
+}
+
+Teleporter_carrying_goal
+{
+Voce nao pode se teletransportar enquanto 
+carrega o %s!
+}
+
+Teleporter_Entrance_Repaired
+{
+Voce consertou sua
+entrada do teleporte.
+}
+
+Teleporter_Exit_Repaired
+{
+Voce consertou sua
+saida do teleporte.
+}
+
+Teleporter_entry_sbar
+{
+Saude da entrada:
+}
+
+Teleporter_exit_sbar
+{
+Saude da saida:
+}
+
+Teleporter_entrance_dismantle
+{
+Voce desmontou a
+entrada do teleporte.
+}
+
+Teleporter_exit_dismantle
+{
+Voce desmontou a
+saida do teleporte.
+}
+
+Teleporter_DistDismantle
+{
+Voce precisa estar mais perto do seu
+teleporte para desmonta-lo.
+}
+
+Teleporter_entrance_idle
+{
+A entrada do teleporte esta ociosa.
+Nao ha saida do teleporte.
+}
+
+Teleporter_exit_idle
+{
+A saida do teleporte esta ociosa.
+Nao ha entrada para o teleporte.
+}
+
+Teleporter_Entrance_Gone_Player_Killed
+{
+A entrada do teleporte foi destruida
+enquanto voce estava se teletransportando!
+}
+
+Teleporter_Exit_Gone_Player_Killed
+{
+A saida do teleporte foi destruida
+enquanto voce estava se teletransportando!
+}
+
+Teleporter_UseDismantle
+{
+Voce nao pode desmontar seu teleporte 
+enquanto alguem o estiver usando!
+}

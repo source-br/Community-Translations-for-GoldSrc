@@ -1,0 +1,12 @@
+Downed Pilot - Resgate de Reféns
+
+Contraterroristas: Resgate os reféns.
+Elimine os terroristas sem colocar em
+risco os reféns.
+
+Terroristas: Impedir que a força
+Contraterroristas resgate os reféns.
+Use a força que for necessária.
+
+Outras observações: Há 4 reféns
+na missão. Resgate-os!

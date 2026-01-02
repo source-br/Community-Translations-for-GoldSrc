@@ -1,0 +1,14 @@
+STATS
+Max Health: 100
+Max Armor: 300 Heavy Armor
+Max Speed: Very Slow
+
+WEAPONS
+Assault Cannon, Single-Barrel Shotgun,
+Double-Barrel Shotgun, Crowbar
+
+GRENADES
+Hand Grenades, MIRV Grenades
+
+ABILITIES
+Heavy, isn't pushed by explosions.

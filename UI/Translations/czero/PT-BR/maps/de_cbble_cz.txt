@@ -1,0 +1,14 @@
+Cobble - Bomba/Desarmar
+por DaveJ (http://www.johnsto.co.uk/)
+texturas por MacMan (MacManInfi@aol.com)
+
+Contraterroristas: Impedir que terroristas
+bombardeiem a casa de campo de Lord William.
+Ele tem sido alvo de assassinato devido às 
+recentes propostas do governo.
+
+Terroristas: O terrorista que estiver 
+carregando o C4 deve colocar a bomba em
+um dos dois locais de bomba ao redor do
+mapa, matando assim o Lorde William e
+danificando gravemente sua casa.

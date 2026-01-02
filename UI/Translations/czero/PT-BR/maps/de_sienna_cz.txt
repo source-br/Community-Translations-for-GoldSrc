@@ -1,0 +1,18 @@
+Sienna - Bomba/Desarmar
+
+Contexto: A cidade de Sienna está sob
+alerta máximo após novas informações
+coletadas pelos serviços de inteligência.
+O acesso de entrada e saída da cidade foi
+bloqueado para evitar um ataque terrorista.
+
+Terroristas: Identificar os dois pontos
+vulneráveis de entrada e obter acesso
+detonando explosivos perto deles.
+
+Contra-terroristas:  Impedir que os
+Terroristas destruam os portões e
+entrem na cidade.
+
+Outras observações: Há duas entradas que
+os Terroristas podem escolher para atacar.

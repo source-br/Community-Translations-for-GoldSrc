@@ -1,0 +1,16 @@
+DoD_DONNER by Svante "xerent" Ekholm (xerent@xerent.dodhq.net)
+
+June, 1944, Normandy
+
+The Allies struggle through the hedgerow country towards the
+key town of Sainte Lo - the intersection for roads to key 
+cities such as Caen and Carentan.
+
+Allied Objectives:
+   - Capture the 5 flag points
+
+Axis Objectives: 
+   - Capture the 5 flag points
+
+Textures: Chad "Masako" Barnsdale, Svante "xerent" Ekholm, 
+and Scott "Kamikazi!" Jordan
