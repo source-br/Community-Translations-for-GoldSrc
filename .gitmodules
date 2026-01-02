@@ -22,8 +22,6 @@
 [submodule "czero"]
 	path = czero
 	url = https://github.com/source-br/Community-Translations-for-Counter-Strike-Condition-Zero
-	path = czeror
-	url = https://github.com/source-br/Community-Translations-for-Counter-Strike-Condition-Zero
 [submodule "dod"]
 	path = dod
 	url = https://github.com/source-br/Community-Translations-for-Day-of-Defeat
