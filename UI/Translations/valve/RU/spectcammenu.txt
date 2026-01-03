@@ -1,0 +1,34 @@
+// Command Menu definition
+// 
+// Basic Format:
+//		"<Bound Key>" "<Button Text>" "<Command sent to server>"
+//
+// 
+//
+//
+// Buttons can also open up submenus, as follows:
+// {
+// 	"Some More Options",
+//	{
+//		...
+//	}
+// }
+//
+//
+// Buttons preceded with "CUSTOM" are handled in special ways. They can only be moved
+// around or deleted.
+//
+//
+// Limitations:
+//		Maximum of 50 menus.
+//		Maximum of 100 buttons per menu.
+
+//--------------------------------------------------------
+// Everything below here is editable
+
+"6" "Преслед. в режиме карты"	"spec_mode 6"
+"5" "Свободный обзор карты"	"spec_mode 5"
+"4" "Обзор от первого лица"	"spec_mode 4"
+"3" "Режим свободного полёта"	"spec_mode 3"
+"2" "Свободное преследование"	"spec_mode 2"
+"1" "Блокиров. преследование"	"spec_mode 1"

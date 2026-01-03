@@ -1,0 +1,54 @@
+// Command Menu definition
+// 
+// Basic Format:
+//		"<Bound Key>" "<Button Text>" "<Command sent to server>"
+//
+// 
+//
+//
+// Buttons can also open up submenus, as follows:
+// {
+// 	"Some More Options",
+//	{
+//		...
+//	}
+// }
+//
+//
+// Buttons preceded with "CUSTOM" are handled in special ways. They can only be moved
+// around or deleted.
+//
+//
+// Limitations:
+//		Maximum of 50 menus.
+//		Maximum of 100 buttons per menu.
+
+//--------------------------------------------------------
+// Everything below here is editable
+
+"5" "Закрыть" 	"spec_menu 0"
+
+"4" "Помощь"	"spec_help"
+
+"3" "Настройки"
+{	
+	TOGGLE "4" "Сообщения в чате"	"hud_saytext"
+	
+	TOGGLE "3" "Показыв. статус"	"spec_drawstatus"
+	
+	TOGGLE "2" "Направл. взгляда"	"spec_drawcone"
+	
+	TOGGLE "1" "Имена игроков"	"spec_drawnames"
+}
+
+TOGGLE "2" "Автоуправление"		"spec_autodirector"
+"1" "Показывать счёт"		"togglescores"
+
+// Here are the rest of the buttons and submenus
+// You can change these safely if you want.
+
+
+
+
+
+
