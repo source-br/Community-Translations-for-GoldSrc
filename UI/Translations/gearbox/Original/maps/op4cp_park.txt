@@ -1,0 +1,11 @@
+Paradox Park - The Command Point Issue
+
+You must take control of the 4 Command
+Points located in the Park.
+
+Once you control a point, you will gain
+spawnpoints in that area at the next
+scoring cycle.
+
+Each CP scores 1 point per 30 seconds
+to the owning team.
