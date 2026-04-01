@@ -1,1 +1,0 @@
-D:/Source BR/Tradução/CT/Community-Translations-for-GoldSrc/UI/Translations/valve/PT-BR/resource/OptionsSubAdvanced.res

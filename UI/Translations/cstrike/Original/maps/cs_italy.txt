@@ -1,13 +1,13 @@
-Itália - Resgate de Reféns
-Mapeamento por:
+Italy - Hostage Rescue
+Mapping by:
 glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
-Texturas/Gráficos por:
+Textures/Graphics by:
 DigiChaos (digichaos@hotsheep.com)
 
-Contraterroristas: Navegue pela cidade
-italiana e pegue os reféns dos
-terroristas estrangeiros.
+Counter-Terrorists: Navigate your way
+around the Italian city and get those
+Hostages from the foreign Terrorists.
 
-Terroristas: Impeça que os contraterroristas
-resgatem os reféns ou elimine
-os contraterroristas.
+Terrorists: Prevent the Counter-Terrorists
+from rescuing the Hostages or eliminate
+the Counter-Terrorists.

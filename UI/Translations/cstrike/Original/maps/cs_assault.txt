@@ -1,14 +1,14 @@
-Assault - Resgate de Reféns
-por CryptR (lmuur@dlc.fi)
+Assault - Hostage Rescue
+by CryptR (lmuur@dlc.fi)
 
-Contraterroristas: Resgate os reféns.
-Elimine os terroristas sem colocar em risco
-os reféns. Os terroristas podem estar observando
-você com suas câmeras.
+Counter-Terrorists: Rescue the hostages. 
+Take out the Terrorists without jeopardizing 
+the hostages. The Terrorists may be watching
+you with their cameras.
 
-Terroristas: Impeça a força
-Contraterroristas de resgatar os reféns.
-Use a força que for necessária.
+Terrorists: Prevent Counter-Terrorist
+force from rescuing the hostages. Use
+whatever force needed.
 
-Outras observações: Há 4 reféns na
-missão. Resgate-os!
+Other Notes: There are 4 hostages in 
+the mission. Rescue them!

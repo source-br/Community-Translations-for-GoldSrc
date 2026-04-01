@@ -1,17 +1,17 @@
-Storm - Bomba/Desarmar
-por: FLiPMoDE|Daank
+Storm - Bomb/Defuse
+by: FLiPMoDE|Daank
       (daankvirus420k@icqmail.com)
-texturas:  Fingers - jOeSmOe - MattC
+textures:  Fingers - jOeSmOe - MattC
 
-Contraterroristas: Proteger caixas
-de armas. Essas armas devem ser
-entregues a um país aliado
-ameaçado por terroristas. 
+Counter-Terrorists: Protect weapons
+crates. These weapons are to be 
+delivered to an allied country 
+threatened by terrorists. 
 
-Terroristas: Há uma tentativa de
-armar um pequeno país que sua facção
-deseja atacar por motivos políticos.
-Impeça que as armas cheguem até eles.
+Terrorists: There is an attempt to arm
+a small country your faction wishes to
+attack for the political reasons. Stop
+the weapons from reaching them.
 
-Outras observações: Há dois esconderijos
-de caixas de armas nessa missão.
+Other Notes: There are 2 stashes of
+weapon crates in this mission.

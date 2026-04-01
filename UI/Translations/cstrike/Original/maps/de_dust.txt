@@ -1,17 +1,15 @@
-Dust - Bomba/Desarmar
-por DaveJ (http://www.johnsto.co.uk/)
-texturas por Macman (MacManInfi@aol.com)
+Dust - Bomb/Defuse
+by DaveJ (http://www.johnsto.co.uk/)
+textures by Macman (MacManInfi@aol.com)
 
-Contraterroristas: Evite que os
-terroristas bombardeiem caixas
-de armas químicas. Os membros da
-equipe devem desarmar as bombas
-que ameaçam as áreas visadas.
+Counter-Terrorists: Prevent Terrorists
+from bombing chemical weapon crates.
+Team members must defuse any bombs 
+that threaten targeted areas.
 
-Terroristas: O terrorista que
-estiver carregando o C4 deve
-destruir um dos esconderijos
-de armas químicas. 
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the chemical 
+weapon stashes. 
 
-Outras observações: Há 2 esconderijos
-e armas químicas na missão.
+Other Notes: There are 2 chemical 
+weapon stashes in the mission.

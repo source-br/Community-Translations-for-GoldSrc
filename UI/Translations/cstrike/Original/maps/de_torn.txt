@@ -1,13 +1,14 @@
-Torn - Bomba/Desarmar
-por Crinity & Madcross
+Torn - Bomb/Defuse
+by Crinity & Madcross
 www.planethalflife.com/crinity/
 
-Terroristas: Detonar um agente nervoso
-tóxico no abastecimento de água da cidade,
-que se espalhará para as cidades vizinhas.
+Terrorists: Detonate a toxic nerve agent 
+into the town's water supply that will 
+spread to nearby cities.
 
-Contraterroristas: Conter a situação.
-Impeça que os hostis concluam seus objetivos.
+Counter-Terrorists: Contain the situation. 
+Prevent hostiles from completing their 
+objectives.
 
-Outras observações: Há 2 alvos de
-detonação na cidade.
+Other Notes: There are 2 detonation
+targets in the town.

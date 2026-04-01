@@ -1,14 +1,14 @@
-Prodigy - Bomba/Desarmar
-por Hobbit (hobbit@nodream.net)
+Prodigy - Bomb/Defuse
+by Hobbit (hobbit@nodream.net)
 
-Contraterroristas: Impeça que os Terroristas
-bombardeiem o laboratório de informática ou
-a sala de controle do oleoduto de combustível.
-Os membros da equipe devem desativar as bombas
-que ameaçam as áreas visadas.
+Counter-Terrorists: Prevent Terrorists
+from bombing the computer lab or the fuel
+pipeline control room. Team members must
+defuse any bombs that threaten targeted 
+areas.
 
-Terroristas: O Terrorista que estiver
-carregando o C4 deve destruir um dos alvos. 
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the targets. 
 
-Outras observações: Há 2 alvos
-nesta missão.
+Other Notes: There are 2 targets 
+in this mission.

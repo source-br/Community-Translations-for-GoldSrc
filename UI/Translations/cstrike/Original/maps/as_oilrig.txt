@@ -1,20 +1,19 @@
-OilRig - Assassinato
-Mapa por MacMan (macmaninfi@aol.com)
-Texturas por MacMan
-Helicóptero Westland Wessex por Agent Orange 
+OilRig - Assassination
+Map by MacMan (macmaninfi@aol.com)
+Textures by MacMan
+Westland Wessex helicopter by Agent Orange 
 [agentorange@freemail.nl]
 
-Contexto: A testemunha criminal mais 
-importante da história tem se escondido 
-em uma plataforma petrolífera como parte 
-de um programa de proteção a testemunhas. 
-Mas há informações de que sua localização 
-foi descoberta. Um helicóptero de transporte 
-foi enviado para levar a testemunha para um 
-novo local.
+Background: The most important criminal 
+witness in history has been hiding out on 
+an oilrig as part of a witness protection 
+program. But word is that his location has 
+been discovered. A transport helicopter has 
+been sent in to move the witness to a new 
+location.
 
-Contraterroristas: Proteger o VIP a todo 
-custo. Acompanhe ele até o helicóptero.
+Counter-Terrorists: Protect the VIP at all 
+costs. Escort him topside to the helicopter.
 
-Terroristas: Elimine o VIP antes que ele 
-escape.
+Terrorists: Eliminate the VIP before he 
+escapes.

@@ -1,14 +1,12 @@
-Trainyard - Bomba/Desarmar
+Trainyard - Bomb/Defuse
 
-Contraterroristas: Impeça que os
-Terroristas bombardeiem as cargas
-nucleares em dois trens. Os membros
-da equipe devem desativar as bombas
-que ameaçam as cargas.
+Counter-Terrorists: Prevent Terrorists
+from bombing the nuclear payloads on two
+trains. Team members must defuse any 
+bombs that threaten the payloads.
 
-Terroristas: O terrorista que estiver
-carregando o C4 deve destruir uma das
-cargas úteis. 
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the payloads. 
 
-Outras observações: Há 2 cargas úteis
-nos trens da missão.
+Other Notes: There are 2 payloads on the
+trains in the mission.

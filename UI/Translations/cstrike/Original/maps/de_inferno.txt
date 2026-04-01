@@ -1,15 +1,14 @@
-Inferno - Desarmamento
-por Chris Auty (Barney) (narby@counter-strike.net)
-Criação de texturas por Valve software
+Inferno - Defusion
+by Chris Auty (Barney) (narby@counter-strike.net)
+Texture builds by Valve software
 
-Os terroristas estão tentando explodir dois
-gasodutos críticos que atravessam parte de
-um pequeno vilarejo.
+Terrorist are attempting to blow up two critical
+gas pipeline through part of a small village.
 
-Contraterroristas: Impedir que os
-terroristas destruam os gasodutos.
+Counter-Terrorists: Prevent the terrorists
+from destroying the pipelines.
 
-Terroristas: Destruir os dois gasodutos.
+Terrorists: Destroy the two gas pipelines.
 
-Outras observações: Há 2 locais de bombas
-nessa missão.
+Other Notes: There are 2 bomb sites in this 
+mission.

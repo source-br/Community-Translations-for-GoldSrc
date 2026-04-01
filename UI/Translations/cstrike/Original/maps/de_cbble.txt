@@ -1,14 +1,15 @@
-Cobble - Bomba/Desarmar
-por DaveJ (http://www.johnsto.co.uk/)
-texturas por MacMan (MacManInfi@aol.com)
+Cobble - Bomb/Defuse
+by DaveJ (http://www.johnsto.co.uk/)
+textures by MacMan (MacManInfi@aol.com)
 
-Contraterroristas: Impedir que terroristas
-bombardeiem a casa de campo de Lord William.
-Ele tem sido alvo de assassinato devido às 
-recentes propostas do governo.
+Counter-Terrorists: Prevent Terrorists
+from bombing Lord William's country 
+farmhouse. He has been the target of 
+assassination in light of recent government
+proposals.
 
-Terroristas: O terrorista que estiver 
-carregando o C4 deve colocar a bomba em
-um dos dois locais de bomba ao redor do
-mapa, matando assim o Lorde William e
-danificando gravemente sua casa.
+Terrorists: The Terrorist carrying the
+C4 must place the bomb at one of the two
+bomb sites around the map, thereby 
+killing Lord William and severely 
+damaging his home.

@@ -1,13 +1,13 @@
-Canyon Siege - Resgate de Reféns
-por N0TH1NG  (n0th1ng@mailcity.com)
+Canyon Siege - Hostage Rescue
+by N0TH1NG  (n0th1ng@mailcity.com)
 
-Contraterroristas: Entre na fortaleza
-dos prisioneiros de guerra e resgate
-os reféns. Elimine os terroristas sem
-colocar em risco os reféns.
+Counter-Terrorists: Enter the POW
+stronghold and rescue the hostages. 
+Take out the Terrorists without 
+jeopardizing the hostages.
 
-Terroristas: Impedir que a força
-Contraterroristas resgate os reféns.
+Terrorists: Prevent Counter-Terrorist
+force from rescuing the hostages.
 
-Outras observações: Há 4 reféns
-na missão.
+Other Notes: There are 4 hostages in 
+the mission.

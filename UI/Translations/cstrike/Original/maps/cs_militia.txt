@@ -1,13 +1,13 @@
-Militia - Resgate de Reféns
-por Andrew Aumann (andrewja@home.com)
+Militia - Hostage Rescue
+by Andrew Aumann (andrewja@home.com)
 
-Contraterroristas: Entre no Cliffe's
-Compound para resgatar os reféns.
-Elimine os terroristas sem colocar
-em risco os reféns.
+Counter-Terrorists: Enter Cliffe's 
+Compound to rescue the hostages. Take 
+out the Terrorists without jeopardizing 
+the hostages.
 
-Terroristas: Impedir que a força
-Contraterroristas resgate os reféns.
+Terrorists: Prevent Counter-Terrorist
+force from rescuing the hostages.
 
-Outras observações: Há 4 reféns na
-missão e um flutuante.
+Other Notes: There are 4 hostages in 
+the mission and one floater.

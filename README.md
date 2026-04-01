@@ -14,7 +14,6 @@
 
 [![Guidelines](https://img.shields.io/badge/Guidelines-EN-ffaa01.svg)](https://github.com/source-br/.github/blob/main/guidelines/guidelines.md)
 [![Documentation](https://img.shields.io/badge/Documentation-Wiki-ffaa01.svg)](https://github.com/source-br/Community-Translations-for-GoldSrc/wiki)
-[![Discord](https://img.shields.io/discord/1189628376504340590?logo=Discord&logoColor=%23FFFFFF&label=Discord%20Server&color=ffaa01)](https://discord.gg/tVNv6SNZZT)
 </div>
 
 This project aims to translate all official Valve games made for GoldSrc, bringing together the translation of game texts and interfaces, useful tools, and the management of game translations.

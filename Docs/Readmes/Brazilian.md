@@ -15,7 +15,6 @@
 [![Diretrizes](https://img.shields.io/badge/Diretrizes-BR-ffaa01.svg)](https://github.com/source-br/.github/blob/main/guidelines/diretrizes.md)
 [![Documentação](https://img.shields.io/badge/Documentação-BR-ffaa01.svg)](../PT-BR/Documentação.md)
 [![Baixar](https://img.shields.io/badge/Baixar%20traduções-BR-ffaa01.svg)](https://github.com/source-br/Community-Translations-for-GoldSrc/releases)
-[![Discord](https://img.shields.io/discord/1189628376504340590?logo=Discord&logoColor=%23FFFFFF&label=Servidor%20do%20Discord&color=ffaa01)](https://discord.gg/tVNv6SNZZT)
 
 </div>
 
@@ -23,10 +22,10 @@ Esse projeto tem como objetivo traduzir todos os jogos oficias da Valve feitos p
 
 - [Sobre as traduções](https://github.com/source-br/Community-Translations-for-GoldSrc/wiki/About-the-Translations)
 
-| Pasta/Submódulo | Jogo | Repositório |
-| ----- | ---- | ----------- |
+| Pasta/Submódulo | Jogo | Repositório | Progresso |
+| --------------- | ---- | ----------- | --------- |
 | `bshift` | Half-Life: Blue Shift | [Community-Translations-for-Half-Life-Blue-Shift](https://github.com/source-br/Community-Translations-for-Half-Life-Blue-Shift) |
-| `cstrike` | Counter-Strike | [Community-Translations-for-Counter-Strike](https://github.com/source-br/Community-Translations-for-Counter-Strike) |
+| `cstrike` | Counter-Strike | [Community-Translations-for-Counter-Strike](https://github.com/source-br/Community-Translations-for-Counter-Strike) | [![Crowdin](https://badges.crowdin.net/community-translations-for-cou/localized.svg)](https://crowdin.com/project/community-translations-for-cou) |
 | `czero` | Counter-Strike: Condition Zero | [Community-Translations-for-Counter-Strike-Condition-Zero](https://github.com/source-br/Community-Translations-for-Counter-Strike-Condition-Zero) |
 | `czeror` | Counter-Strike: Condition Zero Deleted Scenes | [Community-Translations-for-Counter-Strike-Condition-Zero-Deleted-Scenes](https://github.com/source-br/Community-Translations-for-Counter-Strike-Condition-Zero-Deleted-Scenes) |
 | `dmc` | Deathmatch Classic | [Community-Translations-for-Deathmatch-Classic](https://github.com/source-br/Community-Translations-for-Deathmatch-Classic) |

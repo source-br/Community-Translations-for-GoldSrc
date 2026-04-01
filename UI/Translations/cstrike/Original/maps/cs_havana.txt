@@ -1,14 +1,14 @@
-Havana - Resgate de Reféns
+Havana- Hostage Rescue
 
 Ido Magal *ido@valvesoftware.com*
 Macman    *chrisa@valvesoftware.com*
 
 
-Terroristas: Você está mantendo reféns políticos
-em Habana Vieja, aguardando um helicóptero que
-chegará para evacuá-lo imediatamente após o
-término da rodada.
+Terrorists: You are holding political hostages
+in Habana Vieja, awaiting a chopper lift which
+will arrive to evacuate you immediately after the
+round ends.
 
-Contraterroristas:  Você tem o controle do perímetro e
-agora deve resgatar todos os reféns sobreviventes antes
-que os terroristas consigam escapar.
+Counter-Terrorists:  You have control of the perimeter
+and must now rescue all of the surviving hostages before
+the terrorists manage to escape.

@@ -1,11 +1,11 @@
-Aztec - Desarmamento
-por Chris Auty (Barney) (narby@counter-strike.net)
-Criação de texturas por Macman 
+Aztec - Defusion
+by Chris Auty (Barney) (narby@counter-strike.net)
+Texture builds by Macman 
 
-Contraterroristas: Impedir que os terroristas
-bombardeiem o sítio arqueológico.
+Counter-Terrorists: Prevent the Terrorists
+bombing the archeological site.
 
-Terroristas: Destruir as valiosas ruínas astecas.
+Terrorists: Destroy the valuable Aztec ruins.
 
-Outras observações: Há 2 locais de bombas
-nessa missão.
+Other Notes: There are 2 bomb sites in this 
+mission.

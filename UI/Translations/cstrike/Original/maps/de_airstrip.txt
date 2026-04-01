@@ -1,14 +1,13 @@
-Airstrip - Desarmamento
-por Barney (vulgo narby) (narby@counter-strike.net)
+Airstrip - Defusion
+by Barney (aka narby) (narby@counter-strike.net)
 
-Agradecimentos especiais a Iikka Keranen, John Morello
-e Minh Le
+Special thanks to Iikka Keranen, John Morello and Minh Le
 
-Contraterroristas: Impedir que o terrorista
-plante os explosivos no complexo da pista de pouso.
+Counter-Terrorists: Prevent the terrorist
+planting the explosives in the airstrip 
+compound.
 
-Terroristas: Plante o c4 dentro do complexo
-da pista de pouso e destrua as áreas de
-combustível e de carga.
+Terrorists: Plant the c4 inside the airstrip
+compound and destroy the fuel and cargo areas.
 
-Outras observações: Há 2 pontos de bomba nesse mapa.
+Other Notes: There are 2 bomb points in this map.

@@ -1,15 +1,15 @@
-O Complexo de Escritórios - Resgate de Reféns
+The Office Complex - Hostage Rescue
 
-por Hobbit (Hobbit@nodream.net)	
-texturas por Sphinx e George_Pooshoes.
+by Hobbit (Hobbit@nodream.net)	
+textures by Sphinx and George_Pooshoes.
 
-Contraterroristas: Entre no prédio
-de escritórios e resgate os reféns.
-Elimine os terroristas sem colocar
-em risco os reféns.
+Counter-Terrorists: Enter the office 
+building and rescue the hostages. 
+Take out the Terrorists without 
+jeopardizing the hostages.
 
-Terroristas: Impedir que a força
-Contraterroristas resgate os reféns. 
+Terrorists: Prevent Counter-Terrorist
+force from rescuing the hostages. 
 
-Outras observações: Há 4 reféns
-nessa missão.
+Other Notes: There are 4 hostages in 
+this mission.

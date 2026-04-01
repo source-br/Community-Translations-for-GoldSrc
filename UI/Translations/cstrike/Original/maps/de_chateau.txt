@@ -1,16 +1,15 @@
-Chateau - Bomba/Desarmar
+Chateau - Bomb-Defuse
 
 Macman    *chrisa@valvesoftware.com*
 Ido Magal *ido@valvesoftware.com*
 
-Terroristas: Após a perda de Cobble,
-Lord Williams está reconstruindo seu
-castelo de verão.  Você deve impedir
-a reforma.  Coloque o C4 no pátio da
-frente ou no pátio dos fundos.
+Terrorists: After the loss of
+Cobble, Lord Williams is rebuilding
+his summer chateau.  You must prevent
+his remodeling.  Plant the C4 at
+either the front, or the rear courtyard.
 
 
-Contraterroristas:  Proteja o 
-investimento de Lord Williams
-e evite que os Terroristas
-destruam sua nova casa.
+Counter-Terrorists:  Protect Lord
+Williams' investment and prevent the
+Terrorists from destroying his new home.

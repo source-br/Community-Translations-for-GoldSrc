@@ -1,18 +1,19 @@
-747 Hijack - Resgate de Reféns
-por Stephen "Judas" Superville 
+747 Hijack - Hostage Rescue
+by Stephen "Judas" Superville 
 (witchdawn@hotmail.com)
-texturas por  "The Postman" 
+textures by  "The Postman" 
 (heavengame@yahoo.com)
 
-Contraterroristas:  Infiltre-se no 
-avião e resgate os reféns restantes 
-dos terroristas que os estão segurando.
+Counter-Terrorists:  Infiltrate the 
+plane and rescue the remaining hostages 
+from the Terrorists holding them.  
 
-Terroristas: Impedir que a equipe 
-contraterroristas resgate os reféns.
+Terrorists: Prevent the Counter-
+Terrorist team from rescuing the 
+hostages.  
 
-Outras observações: 
-Há 5 reféns no avião.
+Other Notes: 
+There are 5 hostages in the plane.
  
-Agradecimentos especiais a 
-Leon Nieuwoudt, que começou o mapa.
+Special thanks to Leon Nieuwoudt,
+who began the map.
