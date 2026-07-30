@@ -1,62 +1,50 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffaa01&height=85&section=header"/>
 
-<div align="right">
-    <a href="Docs/Readmes/Brazilian.md" target="_blank">
-        <img src="https://raw.githubusercontent.com/source-br/Community-Translations-for-GoldSrc/refs/heads/main/Docs/img/readme/flag_br.png" height="25" width="25">
-    </a>
-</div>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Trebuchet+MS&size=27&pause=1000&color=ffaa01&center=true&vCenter=true&repeat=true&width=1000&lines=Community+Translations+for)](https://git.io/typing-svg)
 
 ![Title](Docs/img/logos/title.png)
 
-[![Guidelines](https://img.shields.io/badge/Guidelines-EN-ffaa01.svg)](https://github.com/source-br/.github/blob/main/guidelines/guidelines.md)
-[![Documentation](https://img.shields.io/badge/Documentation-Wiki-ffaa01.svg)](https://github.com/source-br/Community-Translations-for-GoldSrc/wiki)
+[![Guidelines](https://img.shields.io/badge/Guidelines-EN-ffaa01.svg)](https://github.com/davidmacalister/.github/blob/main/guidelines/guidelines.md)
+[![Documentation](https://img.shields.io/badge/Documentation-Wiki-ffaa01.svg)](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/wiki)
 </div>
 
-This project aims to translate all official Valve games made for GoldSrc, bringing together the translation of game texts and interfaces, useful tools, and the management of game translations.
+This project aims to translate the textures, user interface, text, and fully dub all official Valve games developed on the GoldSrc engine into languages that do not have an official localization. The initiative is a fan-driven effort, bringing together everything needed for a complete localization project, including useful tools, documentation, source files, and as much translatable content as possible.
 
-- [About the Translations](https://github.com/source-br/Community-Translations-for-GoldSrc/wiki/About-the-Translations)
+These localizations are created by the community, and this repository gathers as many of their editable assets as possible, including `.psd` texture files and the original project files from the software used to create them.
 
-| Folder/Submodule | Game | Repository |
+
+- [About the Translations](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/wiki/About-the-Translations)
+
+| Folder | Game | Available Translations |
 | ----- | ---- | ----------- |
-| `bshift` | Half-Life: Blue Shift | [Community-Translations-for-Half-Life-Blue-Shift](https://github.com/source-br/Community-Translations-for-Half-Life-Blue-Shift) |
-| `cstrike` | Counter-Strike | [Community-Translations-for-Counter-Strike](https://github.com/source-br/Community-Translations-for-Counter-Strike) |
-| `czero` | Counter-Strike: Condition Zero | [Community-Translations-for-Counter-Strike-Condition-Zero](https://github.com/source-br/Community-Translations-for-Counter-Strike-Condition-Zero) |
-| `czeror` | Counter-Strike: Condition Zero Deleted Scenes | [Community-Translations-for-Counter-Strike-Condition-Zero-Deleted-Scenes](https://github.com/source-br/Community-Translations-for-Counter-Strike-Condition-Zero-Deleted-Scenes) |
-| `dmc` | Deathmatch Classic | [Community-Translations-for-Deathmatch-Classic](https://github.com/source-br/Community-Translations-for-Deathmatch-Classic) |
-| `dod` | Day of Defeat | [Community-Translations-for-Day-of-Defeat](https://github.com/source-br/Community-Translations-for-Day-of-Defeat) |
-| `gearbox` | Half-Life: Opposing Force | [Community-Translations-for-Half-Life-Opposing-Force](https://github.com/source-br/Community-Translations-for-Half-Life-Opposing-Force) |
-| `ricochet` | Ricochet | [Community-Translations-for-Ricochet](https://github.com/source-br/Community-Translations-for-Ricochet) |
-| `tfc` | Team Fortress Classic | [Community-Translations-for-Team-Fortress-Classic](https://github.com/source-br/Community-Translations-for-Team-Fortress-Classic) |
-| `valve` | Half-Life | [Community-Translations-for-Half-Life](https://github.com/source-br/Community-Translations-for-Half-Life) |
+| `bshift` | Half-Life: Blue Shift | - 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Half-Life-Blue-Shift-Brazilian.zip) |
+| `cstrike` | Counter-Strike | - 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Counter-Strike-Brazilian.zip) |
+| `czero` | Counter-Strike: Condition Zero | - 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Counter-Strike-Condition-Zero-Brazilian.zip) |
+| `czeror` | Counter-Strike: Condition Zero Deleted Scenes | - 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Counter-Strike-Condition-Zero-Deleted-Scenes-Brazilian.zip) |
+| `dmc` | Deathmatch Classic | - 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Deathmatch-Classic-Brazilian.zip) |
+| `dod` | Day of Defeat | - 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Day-of-Defeat-Brazilian.zip) |
+| `gearbox` | Half-Life: Opposing Force | - 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Half-Life-Opposing-Force-Brazilian.zip) |
+| `ricochet` | Ricochet | - 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Ricochet-Brazilian.zip) |
+| `tfc` | Team Fortress Classic | - 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Team-Fortress-Classic-Brazilian.zip) |
+| `valve` | Half-Life | - 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Half-Life-Brazilian.zip) |
 
 ## How to Collaborate
 
-- [Documentation](https://github.com/source-br/Community-Translations-for-GoldSrc/wiki)
+- [Documentation](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/wiki)
 
 If you have knowledge, you can translate the game into your language, or improve the project.
 
 1. **Suggestions for improvements or corrections**
-   - Open an *issue* in this repository.
-   - Or contact us via [Discord](https://discord.gg/tVNv6SNZZT).
-
-2. **Translations for other languages or improvements**
-   - Read the documentation and contact the team if you want further guidance.
-   - After validation, your translation will be added to the project with due credits.
-
-## Donations 
-
-You can support us with donations 💛
-
- [![Donate](https://img.shields.io/badge/-💛%20Donate-0D1117?style=for-the-badge&labelColor=0D1117)](https://www.sourcebr.com.br/doar)
-
+    - Open an _issue_ in this repository.
+2.  **Translations for other languages or improvements**
+    - Read the documentation and contact the team if you want further guidance.
+    - After validation, your translation will be added to the project with due credits.
 > [!WARNING]
 > This project is not affiliated with Valve Corporation. All rights to the game content belong to Valve Corporation.
 
 > [!NOTE]
-> This project is managed by [Source BR](https://www.sourcebr.com.br), so if you have any questions, contact us on our [Discord](https://discord.gg/tVNv6SNZZT) or send an email to: contato@sourcebr.com.br.
+> This project is managed by [Menino David](https://github.com/davidmacalister), so if you have any questions, contact me on [Discord](https://discord.com/users/1052425195987673108) or send an email to: meninodavid@protonmail.com
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffaa01&height=85&section=footer"/>

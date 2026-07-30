@@ -1,0 +1,193 @@
+// Team Fortress SPEECH SYSTEM SENTENCES. Max of 1023 sentences.
+
+// --------- Canal Zone --------- //
+
+CZ_GOTCP1 vox/(e90) command point one secured
+CZ_LOSTCP1 vox/(e90) command point one (e100) is now hostile
+
+CZ_GOTCP2 vox/(e90) command point two secured
+CZ_LOSTCP2 vox/(e90) command point two (e100) is now hostile
+
+CZ_GOTCP3 vox/(e90) command point three secured
+CZ_LOSTCP3 vox/(e90) command point three (e100) is now hostile
+
+CZ_GOTCP4 vox/(e90) command point four secured
+CZ_LOSTCP4 vox/(e90) command point four (e100) is now hostile
+
+CZ_GOTCP5 vox/(e90) command point five secured
+CZ_LOSTCP5 vox/(e90) command point five (e100) is now hostile
+
+CZ_GOTALL vox/doop (e90) all command point(e60) seconds(s70) secured _comma _comma _comma command point(e60) seconds(s70) reset(e90)
+CZ_THEYGOTALL vox/buzwarn (e90) enemy captured(e55) seconds(s70) all command point(e60) seconds(s70) _comma _comma _comma command point(e60) seconds(s70) reset(e90)
+
+CZ_BCC_DET vox/buzwarn (e80) blue control(e70) center destroyed _comma _comma _comma blue (e100) command point(e60) seconds(s70) reset(e90)
+CZ_RCC_DET vox/buzwarn (e80) red control(e70) center destroyed _comma _comma _comma red (e100) command point(e60) seconds(s70) reset(e90)
+
+// --------- Capture the Flag --------- //
+
+// You captured the enemy flag
+// Your team captured the flag
+// The Enemy team captured the flag
+
+CTF_YOUCAP vox/endgame you(e80) captured(e90) the(s15 e80) (e100) enemy flag
+CTF_TEAMCAP vox/endgame Your(e90) team(e80) captured(e90) the(s15 e80) flag
+CTF_THEYCAP vox/endgame the enemy team captured(e90) the(s15 e80) flag
+
+// You have the enemy flag
+// Your team has the enemy flag
+// The enemy has your flag
+
+CTF_YOUGOTFLAG vox/buzwarn you(e80) have(e90) the(s15 e80) enemy flag
+CTF_GOTFLAG vox/buzwarn Your team has the(s15 e80) enemy flag
+CTF_LOSTFLAG vox/buzwarn The enemy has(s5) your flag
+
+// Your flag has returned
+// The enemy flag has returned
+
+CTF_FLAGBACK vox/deeoo Your(e80) flag(e80) has(s10) returned
+CTF_EFLAGBACK vox/dadeda The enemy flag(e80) has(s5) returned
+
+// --------- Hunted --------- //
+
+HTD_DOORS vox/escape door open
+
+// --------- The Rock --------- //
+
+RK_BYARDOPEN vox/buzwarn blue yards(e90) has been breached
+RK_RYARDOPEN vox/buzwarn red yards(e90) has been breached
+
+// your key has returned
+// enemy key returned
+
+RK_KEYBACK vox/deeoo your key(e90) has returned
+RK_EKEYBACK vox/dadeda enemy key(e90) has returned
+
+// your team has the enemy key
+// the enemy has your key
+
+RK_GOTKEY vox/buzwarn Your team has the enemy key
+RK_LOSTKEY vox/buzwarn The enemy has your key
+
+// blue/red team scores
+
+RK_BSCORE vox/blue team(e90) scores(e90) _comma _comma _comma nerve_gas_released _comma _comma _comma secure(e90) protective(e80) suit immediately
+RK_RSCORE vox/red team(e90) scores(e90)  _comma _comma _comma nerve_gas_released _comma _comma _comma secure(e90) protective(e80) suit immediately
+
+// Take key to enemy gas chamber
+RK_TAKEKEY vox/Take(e90) key(e90) to(e80) enemy got(e15) ass(s10 e80) chamber
+
+FBALL_BSCORE vox/blue team(e90) scores(e90)
+FBALL_RSCORE vox/red team(e90) scores(e90)
+
+// --------- Dustbowl --------- //
+
+DUST_5MIN fvox/time_remaining, five minutes
+DUST_4MIN fvox/time_remaining, four minutes
+DUST_3MIN fvox/time_remaining, three minutes
+DUST_2MIN fvox/time_remaining, two minutes
+DUST_60SEC fvox/time_remaining, sixty seconds
+DUST_30SEC fvox/time_remaining, thirty seconds
+
+DUST_CP1 vox/doop blue team secured(e90) command point(s15 e80) one
+DUST_CP2 vox/doop blue team secured(e90) command point(s15 e80) two
+
+DUST_HOLD vox/doop red team holds red base
+DUST_CAP vox/doop blue team captured red base
+
+// --------- Doublemint --------- //
+
+DBLMINT_YOUCAP vox/doop you(e80) captured(e90) the(s15 e80) (e100) flag
+DBLMINT_TEAMCAP vox/doop Your(e90) team(e80) captured(e90) the(s15 e80) flag
+DBLMINT_ECAP vox/doop the enemy team captured(e90) the(s15 e80) flag
+
+// --------- War --------- //
+
+WAR_YSEC_1 vox/doop you secured(e90) flag(e90) one
+WAR_YSEC_2 vox/doop you secured(e90) flag(e90) two
+WAR_YSEC_3 vox/doop you secured(e90) flag(e90) three
+WAR_YSEC_4 vox/doop you secured(e90) flag(e90) four
+
+WAR_TSEC_1 vox/doop your team secured(e90) flag one
+WAR_TSEC_2 vox/doop your team secured(e90) flag two
+WAR_TSEC_3 vox/doop your team secured(e90) flag three
+WAR_TSEC_4 vox/doop your team secured(e90) flag four
+
+WAR_ESEC_1 vox/doop the enemy team secured(e90) flag one
+WAR_ESEC_2 vox/doop the enemy team secured(e90) flag two
+WAR_ESEC_3 vox/doop the enemy team secured(e90) flag three
+WAR_ESEC_4 vox/doop the enemy team secured(e90) flag four
+
+WAR_HAVE_1 vox/buzwarn you have flag one
+WAR_HAVE_2 vox/buzwarn you have flag two
+WAR_HAVE_3 vox/buzwarn you have flag three
+WAR_HAVE_4 vox/buzwarn you have flag four
+
+WAR_TEAM_1 vox/buzwarn your team has flag one
+WAR_TEAM_2 vox/buzwarn your team has flag two
+WAR_TEAM_3 vox/buzwarn your team has flag three
+WAR_TEAM_4 vox/buzwarn your team has flag four
+
+WAR_EN_1 vox/buzwarn the enemy has flag one
+WAR_EN_2 vox/buzwarn the enemy has flag two
+WAR_EN_3 vox/buzwarn the enemy has flag three
+WAR_EN_4 vox/buzwarn the enemy has flag four
+
+WAR_STOLE_1 vox/buzwarn you have stolen flag one
+WAR_STOLE_2 vox/buzwarn you have stolen flag two
+WAR_STOLE_3 vox/buzwarn you have stolen flag three
+WAR_STOLE_4 vox/buzwarn you have stolen flag four
+
+WAR_TSTOLE_1 vox/buzwarn your team has stolen flag one
+WAR_TSTOLE_2 vox/buzwarn your team has stolen flag two
+WAR_TSTOLE_3 vox/buzwarn your team has stolen flag three
+WAR_TSTOLE_4 vox/buzwarn your team has stolen flag four
+
+WAR_ESTOLE_1 vox/buzwarn the enemy has stolen flag one
+WAR_ESTOLE_2 vox/buzwarn the enemy has stolen flag two
+WAR_ESTOLE_3 vox/buzwarn the enemy has stolen flag three
+WAR_ESTOLE_4 vox/buzwarn the enemy has stolen flag four
+
+WAR_RET_1 vox/deeoo flag one has returned
+WAR_RET_2 vox/deeoo flag two has returned
+WAR_RET_3 vox/deeoo flag three has returned
+WAR_RET_4 vox/deeoo flag four has returned
+
+WAR_BWINS vox/doop blue team secured flag one two three and four
+WAR_RWINS vox/doop red team secured flag one two three and four
+
+WAR_BRET1 vox/doop blue team returned flag one
+WAR_BRET2 vox/doop blue team returned flag two
+WAR_BRET3 vox/doop blue team returned flag three
+WAR_BRET4 vox/doop blue team returned flag four
+
+WAR_RRET1 vox/doop red team returned flag one
+WAR_RRET2 vox/doop red team returned flag two
+WAR_RRET3 vox/doop red team returned flag three
+WAR_RRET4 vox/doop red team returned flag four
+
+WAR_YRET1 vox/doop you returned flag one
+WAR_YRET2 vox/doop you returned flag two
+WAR_YRET3 vox/doop you returned flag three
+WAR_YRET4 vox/doop you returned flag four
+
+
+
+
+// --------- Warpath --------- //
+ENEMY_IN_BASE vox/buzwarn the enemy is inside your base(s10 e90 p95)
+
+// --------- Italy ----------- //
+ITALY_HOLE vox/buzwarn command point four(e90) has been breached
+
+ITALY_CP1 vox/doop(e90) command point one secured
+ITALY_ECP1 vox/buzwarn(e90) command point one (e100) is now hostile
+
+ITALY_CP2 vox/doop(e90) command point two secured
+ITALY_ECP2 vox/buzwarn(e90) command point two (e100) is now hostile
+
+ITALY_CP3 vox/doop(e90) command point three secured
+ITALY_ECP3 vox/buzwarn(e90) command point three (e100) is now hostile
+
+ITALY_CP4 vox/endgame command point four secured
+ITALY_ECP4 vox/endgame command point four (e100) is now hostile
+
