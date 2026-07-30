@@ -19,16 +19,16 @@ These localizations are created by the community, and this repository gathers as
 
 | Folder | Game | Available Translations |
 | ----- | ---- | ----------- |
-| `bshift` | Half-Life: Blue Shift | - 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Half-Life-Blue-Shift-Brazilian.zip) |
-| `cstrike` | Counter-Strike | - 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Counter-Strike-Brazilian.zip) |
-| `czero` | Counter-Strike: Condition Zero | - 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Counter-Strike-Condition-Zero-Brazilian.zip) |
-| `czeror` | Counter-Strike: Condition Zero Deleted Scenes | - 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Counter-Strike-Condition-Zero-Deleted-Scenes-Brazilian.zip) |
-| `dmc` | Deathmatch Classic | - 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Deathmatch-Classic-Brazilian.zip) |
-| `dod` | Day of Defeat | - 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Day-of-Defeat-Brazilian.zip) |
-| `gearbox` | Half-Life: Opposing Force | - 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Half-Life-Opposing-Force-Brazilian.zip) |
-| `ricochet` | Ricochet | - 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Ricochet-Brazilian.zip) |
-| `tfc` | Team Fortress Classic | - 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Team-Fortress-Classic-Brazilian.zip) |
-| `valve` | Half-Life | - 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Half-Life-Brazilian.zip) |
+| `bshift` | Half-Life: Blue Shift | 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Half-Life-Blue-Shift-Brazilian.zip) |
+| `cstrike` | Counter-Strike | 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Counter-Strike-Brazilian.zip) |
+| `czero` | Counter-Strike: Condition Zero | 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Counter-Strike-Condition-Zero-Brazilian.zip) |
+| `czeror` | Counter-Strike: Condition Zero Deleted Scenes | 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Counter-Strike-Condition-Zero-Deleted-Scenes-Brazilian.zip) |
+| `dmc` | Deathmatch Classic | 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Deathmatch-Classic-Brazilian.zip) |
+| `dod` | Day of Defeat | 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Day-of-Defeat-Brazilian.zip) |
+| `gearbox` | Half-Life: Opposing Force | 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Half-Life-Opposing-Force-Brazilian.zip) |
+| `ricochet` | Ricochet | 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Ricochet-Brazilian.zip) |
+| `tfc` | Team Fortress Classic | 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Team-Fortress-Classic-Brazilian.zip) |
+| `valve` | Half-Life | 🇧🇷 Portuguese (Brazil) - ⬇️ [Download](https://github.com/davidmacalister/Community-Translations-for-GoldSrc/releases/download/continuous/Half-Life-Brazilian.zip) |
 
 ## How to Collaborate
 
