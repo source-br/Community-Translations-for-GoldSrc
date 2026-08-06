@@ -1,0 +1,16 @@
+DOD_CAEN by Tim "Waldo" Holt (timh@valvesoftware.com)
+
+July, 1944, France
+
+The battle of Caen was planned even before D-day, and was
+not over until mid July.  What took place in the streets
+was some of the fiercest combat of the Western Front.
+
+British Objectives:
+   - Capture the 5 flag points
+
+Axis Objectives: 
+   - Capture the 5 flag points
+
+Textures: Chad "Masako" Barnsdale, Scott "Kamikaze!" Jordon,
+and Tim "Waldo" Holt

@@ -1,0 +1,1 @@
+D:/Projetos/Community-Translations-for-GoldSrc/UI/Translations/valve/PT-BR/resource/OptionsSubVoice.res

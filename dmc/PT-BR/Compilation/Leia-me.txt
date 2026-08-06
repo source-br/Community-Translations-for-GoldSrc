@@ -1,0 +1,22 @@
+Este mod é fornecido gratuitamente para fins não comerciais. É proibida a venda e a inclusão em projetos pagos sem a permissão expressa dos criadores. É proibido a redistribuição sem dar o devido crédito aos criadores. Este projeto é uma obra de fãs e não é afiliado à Valve Corporation.
+
+Pra instalar o mod;
+
+###################################################################################################################
+# 1. Arraste a pastas "dmc_addon" na raíz do jogo;                                                                #
+#   * A raíz do jogo costuma estar em "C:\Program Files (x86)\Steam\steamapps\common\Half-Life")                  #
+# 2. Ative o allow addon content nas configurações de vídeo do jogo                                               #
+###################################################################################################################
+
+AVISO!	
+A GoldSrc é uma engine de jogo antiga, criada originalmente para o Half-Life e seus derivados. Por ser uma tecnologia mais antiga, ela possui limitações técnicas que afetam a precisão e o suporte a certas funcionalidades no modo multiplayer. Isso pode impactar a tradução completa das texturas de mapas nos jogos.
+
+- Comando r_wadtextures 1
+
+Uma solução parcial para esse problema é utilizar o comando r_wadtextures 1 no console do jogo. Esse comando faz com que o jogo procure pelas texturas nos arquivos .wad, possibilitando que as versões traduzidas sejam aplicadas.
+No entanto, essa solução apresenta algumas desvantagens:
+Se o mapa não tiver um arquivo .wad associado, ou se as texturas não estiverem presentes no .wad, o jogo exibirá "missing textures" (texturas faltando), o que pode afetar a jogabilidade.
+Em alguns casos, o uso deste comando pode causar incompatibilidades com mapas personalizados, tornando a experiência menos consistente.
+Portanto, devido às limitações técnicas da GoldSrc, é importante estar ciente de que algumas texturas podem não ser traduzidas em certos mapas multiplayer, e o uso do comando r_wadtextures 1 pode ajudar, mas com o risco de causar problemas em alguns casos.
+
+Para qualquer dúvida ou suporte, veja: https://github.com/davidmacalister/Community-Translations-for-GoldSrc ou contate meninodavid@protonmail.com
