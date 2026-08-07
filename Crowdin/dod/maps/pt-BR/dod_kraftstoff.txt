@@ -1,0 +1,17 @@
+DOD_KRAFTSTOFF by Chris "Unreal" Scott (unreal@gamer.net.nz)
+
+October, 1944, Deep in Allied territory
+
+German forces, on a major offensive, have discovered an Allied 
+fuel dump.  Low on fuel for their tanks, the Axis troops decide
+to capture the town's supplies.
+
+Allied Objectives: 
+   - Defend the Fuel Truck
+   - Defend the Fuel Dump
+
+Axis Objectives:
+   - Capture the Fuel Truck
+   - Capture the Fuel Dump
+
+Textures: Adam "Telnets" Grebinsky
