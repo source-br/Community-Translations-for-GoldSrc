@@ -1,14 +1,19 @@
-DOD_MERDERET by Arjan "IR" Bak (arjanb@invasionworks.com)
+DOD_NORTHBOUND by Arttu "skdr" Maki (http://skdr.dayofdefeat.fi)
 
-German troops are attempting to regain a foothold against
-the invading Allied forces - in order to do so, they need 
-to capture a key bridge.
+January 20, 1945, Northern Front
+
+After the successful operation in the western front,
+allied troops called for more backup to the north.
+Forces have to capture unknown urban
+area and advance through a countryside
+town to the center of the city.
 
 Allied Objectives:
-   - Capture the 5 flag points
+   - Capture all 5 points
 
 Axis Objectives:
-   - Capture the 5 flag points
+   - Capture all 5 points
 
-Textures: Martijn "wizzard" Bak, Daniel "kleinluka" Luka, 
-Scott "Kamikazi!" Jordan 
+Textures: Daniel "Kleinluka" Luka
+Models: Valve
+	
