@@ -1,14 +1,31 @@
-Vertigo - Desarmamento
-por Chris Auty (Barney) (fragged101@yahoo.com)
-Criação de texturas por Telnets e J0esm0e
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<title></title>
+<style type="text/css">
+       body {
+            background: #000;
+            margin: 8px;
+            color: #FFB000;
+            font: normal 16px/20px Verdana, Tahoma, sans-serif;
+        }
 
-Os terroristas estão tentando bombardear a
-torre Rizzleton antes que ela seja concluída. 
+        a {
+            color: #FFF;
+            text-decoration: underline;
+        }
 
-Contraterroristas: Impedir que o prédio
-seja destruído.
-
-Terroristas: Colocar a bomba e
-explodir o prédio.
-
-Outras observações: Não caia.
+        a:hover {
+            color: #EEE;
+            text-decoration: none;
+        }
+</style>
+</head>
+<body>
+Você está jogando Counter-Strike v1.6<br>
+Acesse o site oficial do CS em:<br>
+www.counter-strike.net<br>
+<a href="http://www.counter-strike.net">Visite Counter-Strike.net</a>
+</body>
+</html>
