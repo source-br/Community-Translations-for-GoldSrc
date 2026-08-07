@@ -1,20 +1,46 @@
-DOD_ZALEC by Patrick "Mojo" Krefting (mojo@theposse.org)
-
-January 15, 1945, Western Front
-
-Paratroopers have landed near the city of Zalec with the 
-objective of capturing the town and removing all German 
-resistance.
-
-Allied Objectives:
-   - Capture the fountain near the clock tower
-   - Destroy the three Axis Panzers
-   - Capture the Zalec church
-
-Axis Objectives:
-   - Defend the fountain
-   - If the fountain is captured, fall back to the Panzers
-   - If the tanks are destroyed, fall back to the church
-
-Textures: Chad "Masako" Barnsdale, Daniel "Kleinluka" Luka, 
-Scott "Kamikazi!" Jordan
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Day of Defeat MOTD</title>
+<style>
+    body{
+        background: #000;
+        margin: 8px;
+        color:#FFB000;
+        font: normal 10pt Verdana, Tahoma, sans-serif;
+    }
+ 
+    a {
+        color: #655521;
+        text-decoration: underline;
+    }
+ 
+    a:hover {
+        color: #655521;
+        text-decoration: none;
+    }
+ 
+    h3 {
+        margin:0;
+        font-size: 16pt;
+    }
+ 
+    body p {
+        line-height: 1.2;
+        font-weight:700;
+    }
+ 
+    .white {color:#fff}
+</style>
+</head>
+<body>
+<h3 class="white">Day of Defeat</h3>
+<p>Welcome to <i>Day of Defeat</i>.
+<i>Day of Defeat</i> is a World War II multiplayer game driven by the Half-life
+engine. DoD attempts to recreate WWII battles in both fictional and
+non-fictional environments - the game puts you in the shoes (rather, combat
+boots!) of a British, American or German soldier circa 1944, Western Europe.</p>
+<p class="white">You can visit DoD at: <a href="http://www.dayofdefeat.net/">http://www.dayofdefeat.net/</a></p>
+</body>
+</html>
