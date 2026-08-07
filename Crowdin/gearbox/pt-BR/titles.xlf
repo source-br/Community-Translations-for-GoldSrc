@@ -1,0 +1,1385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="titles.txt" target-language="pt-BR">
+    <body>
+      <trans-unit id="s000001" resname="CR27">
+        <source xml:space="preserve">Black Mesa Research Facility
+Black Mesa, New Mexico
+</source>
+        <target state="needs-translation">Black Mesa Research Facility
+Black Mesa, New Mexico
+</target>
+        <note>GoldSrc identifier: CR27</note>
+      </trans-unit>
+      <trans-unit id="s000002" resname="CR1">
+        <source xml:space="preserve">Stephen Bahl
+</source>
+        <target state="needs-translation">Stephen Bahl
+</target>
+        <note>GoldSrc identifier: CR1</note>
+      </trans-unit>
+      <trans-unit id="s000003" resname="CR2">
+        <source xml:space="preserve">Patrick Deupree
+</source>
+        <target state="needs-translation">Patrick Deupree
+</target>
+        <note>GoldSrc identifier: CR2</note>
+      </trans-unit>
+      <trans-unit id="s000004" resname="CR3">
+        <source xml:space="preserve">John Faulkenbury
+</source>
+        <target state="needs-translation">John Faulkenbury
+</target>
+        <note>GoldSrc identifier: CR3</note>
+      </trans-unit>
+      <trans-unit id="s000005" resname="CR4">
+        <source xml:space="preserve">Rob Heironimus
+</source>
+        <target state="needs-translation">Rob Heironimus
+</target>
+        <note>GoldSrc identifier: CR4</note>
+      </trans-unit>
+      <trans-unit id="s000006" resname="CR5">
+        <source xml:space="preserve">Steve Jones
+</source>
+        <target state="needs-translation">Steve Jones
+</target>
+        <note>GoldSrc identifier: CR5</note>
+      </trans-unit>
+      <trans-unit id="s000007" resname="CR6">
+        <source xml:space="preserve">Brian Martel
+</source>
+        <target state="needs-translation">Brian Martel
+</target>
+        <note>GoldSrc identifier: CR6</note>
+      </trans-unit>
+      <trans-unit id="s000008" resname="CR7">
+        <source xml:space="preserve">David Mertz
+</source>
+        <target state="needs-translation">David Mertz
+</target>
+        <note>GoldSrc identifier: CR7</note>
+      </trans-unit>
+      <trans-unit id="s000009" resname="CR8">
+        <source xml:space="preserve">Landon Montgomery
+</source>
+        <target state="needs-translation">Landon Montgomery
+</target>
+        <note>GoldSrc identifier: CR8</note>
+      </trans-unit>
+      <trans-unit id="s000010" resname="CR9">
+        <source xml:space="preserve">Tollbooth Willy
+</source>
+        <target state="needs-translation">Tollbooth Willy
+</target>
+        <note>GoldSrc identifier: CR9</note>
+      </trans-unit>
+      <trans-unit id="s000011" resname="CR10">
+        <source xml:space="preserve">Randy Pitchford
+</source>
+        <target state="needs-translation">Randy Pitchford
+</target>
+        <note>GoldSrc identifier: CR10</note>
+      </trans-unit>
+      <trans-unit id="s000012" resname="CR11">
+        <source xml:space="preserve">Sean Reardon
+</source>
+        <target state="needs-translation">Sean Reardon
+</target>
+        <note>GoldSrc identifier: CR11</note>
+      </trans-unit>
+      <trans-unit id="s000013" resname="CR12">
+        <source xml:space="preserve">Mike Wardwell
+</source>
+        <target state="needs-translation">Mike Wardwell
+</target>
+        <note>GoldSrc identifier: CR12</note>
+      </trans-unit>
+      <trans-unit id="s000014" resname="GEARBOXIS">
+        <source xml:space="preserve">Gearbox is:
+</source>
+        <target state="needs-translation">Gearbox is:
+</target>
+        <note>GoldSrc identifier: GEARBOXIS</note>
+      </trans-unit>
+      <trans-unit id="s000015" resname="THANKSTO">
+        <source xml:space="preserve">Special thanks to:
+</source>
+        <target state="needs-translation">Special thanks to:
+</target>
+        <note>GoldSrc identifier: THANKSTO</note>
+      </trans-unit>
+      <trans-unit id="s000016" resname="END1">
+        <source xml:space="preserve">Stephen Bahl
+Patrick Deupree
+John Faulkenbury
+Rob Heironimus
+Steve Jones
+Brian Martel
+David Mertz
+Landon Montgomery
+Randy Pitchford
+Sean Reardon
+Mike Wardwell
+</source>
+        <target state="needs-translation">Stephen Bahl
+Patrick Deupree
+John Faulkenbury
+Rob Heironimus
+Steve Jones
+Brian Martel
+David Mertz
+Landon Montgomery
+Randy Pitchford
+Sean Reardon
+Mike Wardwell
+</target>
+        <note>GoldSrc identifier: END1</note>
+      </trans-unit>
+      <trans-unit id="s000017" resname="END2">
+        <source xml:space="preserve">Matt Armstrong
+Kristy Junio
+Joe Kennebec
+Doug Lombardi
+Eli Luna
+Gabe Newell
+Frank Nuccio
+Genevieve Ostergard
+Stephen Palmer
+Jeff Pobst
+</source>
+        <target state="needs-translation">Matt Armstrong
+Kristy Junio
+Joe Kennebec
+Doug Lombardi
+Eli Luna
+Gabe Newell
+Frank Nuccio
+Genevieve Ostergard
+Stephen Palmer
+Jeff Pobst
+</target>
+        <note>GoldSrc identifier: END2</note>
+      </trans-unit>
+      <trans-unit id="s000018" resname="END3">
+        <source xml:space="preserve">Dustin Porter
+Danny Richardson
+Harry S. Robins
+David Sawyer
+John Shaffstall
+Mike Shapiro
+Jon St. John
+Valve Software
+Sierra Studios
+</source>
+        <target state="needs-translation">Dustin Porter
+Danny Richardson
+Harry S. Robins
+David Sawyer
+John Shaffstall
+Mike Shapiro
+Jon St. John
+Valve Software
+Sierra Studios
+</target>
+        <note>GoldSrc identifier: END3</note>
+      </trans-unit>
+      <trans-unit id="s000019" resname="CR28">
+        <source xml:space="preserve">SUBJECT:
+Adrian Shephard
+Male, age 22
+</source>
+        <target state="needs-translation">SUBJECT:
+Adrian Shephard
+Male, age 22
+</target>
+        <note>GoldSrc identifier: CR28</note>
+      </trans-unit>
+      <trans-unit id="s000020" resname="CR29">
+        <source xml:space="preserve">TRAINING:
+United States Marine Corps,
+Special Forces
+</source>
+        <target state="needs-translation">TRAINING:
+United States Marine Corps,
+Special Forces
+</target>
+        <note>GoldSrc identifier: CR29</note>
+      </trans-unit>
+      <trans-unit id="s000021" resname="CR30">
+        <source xml:space="preserve">RANK:
+Corporal
+</source>
+        <target state="needs-translation">RANK:
+Corporal
+</target>
+        <note>GoldSrc identifier: CR30</note>
+      </trans-unit>
+      <trans-unit id="s000022" resname="CR31">
+        <source xml:space="preserve">Commanding Officer:
+Sergeant Dwight T. Barnes
+</source>
+        <target state="needs-translation">Commanding Officer:
+Sergeant Dwight T. Barnes
+</target>
+        <note>GoldSrc identifier: CR31</note>
+      </trans-unit>
+      <trans-unit id="s000023" resname="CR32">
+        <source xml:space="preserve">CURRENT ASSIGNMENT:
+Hazardous Environment Combat Unit
+Santego Military Base, Arizona
+</source>
+        <target state="needs-translation">CURRENT ASSIGNMENT:
+Hazardous Environment Combat Unit
+Santego Military Base, Arizona
+</target>
+        <note>GoldSrc identifier: CR32</note>
+      </trans-unit>
+      <trans-unit id="s000024" resname="CR33">
+        <source xml:space="preserve">MISSION:
+Classified
+</source>
+        <target state="needs-translation">MISSION:
+Classified
+</target>
+        <note>GoldSrc identifier: CR33</note>
+      </trans-unit>
+      <trans-unit id="s000025" resname="GFOLLOW_LOSER">
+        <source xml:space="preserve">SUBJECT:  SHEPHARD
+
+STATUS:  EVALUATION TERMINATED
+
+POSTMORTEM:
+Subject attempted to create
+temporal paradox.
+</source>
+        <target state="needs-translation">SUBJECT:  SHEPHARD
+
+STATUS:  EVALUATION TERMINATED
+
+POSTMORTEM:
+Subject attempted to create
+temporal paradox.
+</target>
+        <note>GoldSrc identifier: GFOLLOW_LOSER</note>
+      </trans-unit>
+      <trans-unit id="s000026" resname="GAMEOVER">
+        <source xml:space="preserve">SUBJECT:  SHEPHARD
+
+STATUS:  DETAINED
+
+FURTHER EVALUATION PENDING
+</source>
+        <target state="needs-translation">SUBJECT:  SHEPHARD
+
+STATUS:  DETAINED
+
+FURTHER EVALUATION PENDING
+</target>
+        <note>GoldSrc identifier: GAMEOVER</note>
+      </trans-unit>
+      <trans-unit id="s000027" resname="BC_FAILURE">
+        <source xml:space="preserve">SUBJECT:  SHEPHARD
+
+STATUS:  AWAITING COURT MARTIAL
+</source>
+        <target state="needs-translation">SUBJECT:  SHEPHARD
+
+STATUS:  AWAITING COURT MARTIAL
+</target>
+        <note>GoldSrc identifier: BC_FAILURE</note>
+      </trans-unit>
+      <trans-unit id="s000028" resname="TRAITOR">
+        <source xml:space="preserve">x
+</source>
+        <target state="needs-translation">x
+</target>
+        <note>GoldSrc identifier: TRAITOR</note>
+      </trans-unit>
+      <trans-unit id="s000029" resname="LOSER">
+        <source xml:space="preserve">x
+</source>
+        <target state="needs-translation">x
+</target>
+        <note>GoldSrc identifier: LOSER</note>
+      </trans-unit>
+      <trans-unit id="s000030" resname="OFGAMEOVER">
+        <source xml:space="preserve">SUBJECT:  CPL. SHEPHARD
+
+STATUS:  EVALUATION DECLINED
+
+POSTMORTEM:
+Subject failed to effectively utilize
+human assets in achievement of goal.
+</source>
+        <target state="needs-translation">SUBJECT:  CPL. SHEPHARD
+
+STATUS:  EVALUATION DECLINED
+
+POSTMORTEM:
+Subject failed to effectively utilize
+human assets in achievement of goal.
+</target>
+        <note>GoldSrc identifier: OFGAMEOVER</note>
+      </trans-unit>
+      <trans-unit id="s000031" resname="DISP_LOSER">
+        <source xml:space="preserve">SUBJECT:  SHEPHARD
+
+STATUS:  ACCIDENTAL DEATH
+
+POSTMORTEM:
+DISPLACER SELF-TELEPORT MISHAP
+</source>
+        <target state="needs-translation">SUBJECT:  SHEPHARD
+
+STATUS:  ACCIDENTAL DEATH
+
+POSTMORTEM:
+DISPLACER SELF-TELEPORT MISHAP
+</target>
+        <note>GoldSrc identifier: DISP_LOSER</note>
+      </trans-unit>
+      <trans-unit id="s000032" resname="OF_BOOT0TITLE">
+        <source xml:space="preserve">Boot Camp
+</source>
+        <target state="needs-translation">Boot Camp
+</target>
+        <note>GoldSrc identifier: OF_BOOT0TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000033" resname="OF0A0">
+        <source xml:space="preserve">OPPOSING FORCE
+</source>
+        <target state="needs-translation">OPPOSING FORCE
+</target>
+        <note>GoldSrc identifier: OF0A0</note>
+      </trans-unit>
+      <trans-unit id="s000034" resname="OF1A1TITLE">
+        <source xml:space="preserve">INCOMING
+</source>
+        <target state="needs-translation">INCOMING
+</target>
+        <note>GoldSrc identifier: OF1A1TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000035" resname="OF1A3TITLE">
+        <source xml:space="preserve">WELCOME TO BLACK MESA
+</source>
+        <target state="needs-translation">WELCOME TO BLACK MESA
+</target>
+        <note>GoldSrc identifier: OF1A3TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000036" resname="OF1A5TITLE">
+        <source xml:space="preserve">"WE ARE PULLING OUT"
+</source>
+        <target state="needs-translation">"WE ARE PULLING OUT"
+</target>
+        <note>GoldSrc identifier: OF1A5TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000037" resname="OF2A1TITLE">
+        <source xml:space="preserve">MISSING IN ACTION
+</source>
+        <target state="needs-translation">MISSING IN ACTION
+</target>
+        <note>GoldSrc identifier: OF2A1TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000038" resname="OF2A4TITLE">
+        <source xml:space="preserve">FRIENDLY FIRE
+</source>
+        <target state="needs-translation">FRIENDLY FIRE
+</target>
+        <note>GoldSrc identifier: OF2A4TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000039" resname="OF3A1TITLE">
+        <source xml:space="preserve">WE ARE NOT ALONE
+</source>
+        <target state="needs-translation">WE ARE NOT ALONE
+</target>
+        <note>GoldSrc identifier: OF3A1TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000040" resname="OF3A3TITLE">
+        <source xml:space="preserve">CRUSH DEPTH
+</source>
+        <target state="needs-translation">CRUSH DEPTH
+</target>
+        <note>GoldSrc identifier: OF3A3TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000041" resname="OF4A1TITLE">
+        <source xml:space="preserve">VICARIOUS REALITY
+</source>
+        <target state="needs-translation">VICARIOUS REALITY
+</target>
+        <note>GoldSrc identifier: OF4A1TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000042" resname="OF4A4TITLE">
+        <source xml:space="preserve">PIT WORM'S NEST
+</source>
+        <target state="needs-translation">PIT WORM'S NEST
+</target>
+        <note>GoldSrc identifier: OF4A4TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000043" resname="OF5A1TITLE">
+        <source xml:space="preserve">FOXTROT UNIFORM
+</source>
+        <target state="needs-translation">FOXTROT UNIFORM
+</target>
+        <note>GoldSrc identifier: OF5A1TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000044" resname="OF6A1TITLE">
+        <source xml:space="preserve">"THE PACKAGE"
+</source>
+        <target state="needs-translation">"THE PACKAGE"
+</target>
+        <note>GoldSrc identifier: OF6A1TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000045" resname="OF6A4TITLE">
+        <source xml:space="preserve">WORLDS COLLIDE
+</source>
+        <target state="needs-translation">WORLDS COLLIDE
+</target>
+        <note>GoldSrc identifier: OF6A4TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000046" resname="OF7A0TITLE">
+        <source xml:space="preserve">CONCLUSION
+</source>
+        <target state="needs-translation">CONCLUSION
+</target>
+        <note>GoldSrc identifier: OF7A0TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000047" resname="GAMESAVED">
+        <source xml:space="preserve">Saved...
+</source>
+        <target state="needs-translation">Saved...
+</target>
+        <note>GoldSrc identifier: GAMESAVED</note>
+      </trans-unit>
+      <trans-unit id="s000048" resname="GAMETITLE">
+        <source xml:space="preserve">Half-Life: Opposing Force
+</source>
+        <target state="needs-translation">Half-Life: Opposing Force
+</target>
+        <note>GoldSrc identifier: GAMETITLE</note>
+      </trans-unit>
+      <trans-unit id="s000049" resname="BCROPES01">
+        <source xml:space="preserve">TOUCH ROPES TO ATTACH TO THEM
+CLIMB UP AND DOWN ROPES BY LOOKING IN 
+THE DIRECTION YOU WISH TO TRAVEL AND 
+PRESSING THE FORWARD KEY
+PRESS THE JUMP KEY OR CLIMB OFF THE
+BOTTOM TO DETACH FROM THE ROPE
+</source>
+        <target state="needs-translation">TOUCH ROPES TO ATTACH TO THEM
+CLIMB UP AND DOWN ROPES BY LOOKING IN 
+THE DIRECTION YOU WISH TO TRAVEL AND 
+PRESSING THE FORWARD KEY
+PRESS THE JUMP KEY OR CLIMB OFF THE
+BOTTOM TO DETACH FROM THE ROPE
+</target>
+        <note>GoldSrc identifier: BCROPES01</note>
+      </trans-unit>
+      <trans-unit id="s000050" resname="BCROPES02">
+        <source xml:space="preserve">ONCE ATTACHED TO ROPES
+PRESS THE MOVEMENT KEYS TO AFFECT
+DIRECTION OF SWINGING MOVEMENT
+PRESS THE JUMP KEY TO DETACH AT ANY TIME
+</source>
+        <target state="needs-translation">ONCE ATTACHED TO ROPES
+PRESS THE MOVEMENT KEYS TO AFFECT
+DIRECTION OF SWINGING MOVEMENT
+PRESS THE JUMP KEY TO DETACH AT ANY TIME
+</target>
+        <note>GoldSrc identifier: BCROPES02</note>
+      </trans-unit>
+      <trans-unit id="s000051" resname="BCROPES03">
+        <source xml:space="preserve">WHEN SWINGING ON ROPES PRESS THE JUMP
+KEY TO LET GO AND TRAVEL IN THE DIRECTION
+OF SWINGING MOVEMENT
+</source>
+        <target state="needs-translation">WHEN SWINGING ON ROPES PRESS THE JUMP
+KEY TO LET GO AND TRAVEL IN THE DIRECTION
+OF SWINGING MOVEMENT
+</target>
+        <note>GoldSrc identifier: BCROPES03</note>
+      </trans-unit>
+      <trans-unit id="s000052" resname="BCROPES04">
+        <source xml:space="preserve">
+</source>
+        <note>GoldSrc identifier: BCROPES04</note>
+      </trans-unit>
+      <trans-unit id="s000053" resname="BCPISTOL01">
+        <source xml:space="preserve">TO INCREASE THE ACCURACY OF THE DESERT
+EAGLE PRESS THE ATTACK2 KEY TO ACTIVATE
+AND DEACTIVATE THE LASER SIGHT
+</source>
+        <target state="needs-translation">TO INCREASE THE ACCURACY OF THE DESERT
+EAGLE PRESS THE ATTACK2 KEY TO ACTIVATE
+AND DEACTIVATE THE LASER SIGHT
+</target>
+        <note>GoldSrc identifier: BCPISTOL01</note>
+      </trans-unit>
+      <trans-unit id="s000054" resname="BCRIFLE01">
+        <source xml:space="preserve">PRESS ATTACK2 KEY TO ACTIVATE THE ZOOM
+FUNCTION OF THE SNIPER RIFLE
+</source>
+        <target state="needs-translation">PRESS ATTACK2 KEY TO ACTIVATE THE ZOOM
+FUNCTION OF THE SNIPER RIFLE
+</target>
+        <note>GoldSrc identifier: BCRIFLE01</note>
+      </trans-unit>
+      <trans-unit id="s000055" resname="BCNVISION">
+        <source xml:space="preserve">PRESS THE NIGHT VISION GOGGLE KEY
+TO ACTIVATE NIGHT VISION GOGGLES
+</source>
+        <target state="needs-translation">PRESS THE NIGHT VISION GOGGLE KEY
+TO ACTIVATE NIGHT VISION GOGGLES
+</target>
+        <note>GoldSrc identifier: BCNVISION</note>
+      </trans-unit>
+      <trans-unit id="s000056" resname="ALLSTAR1">
+        <source xml:space="preserve">Allstar Deathmatch: Untimely Demise
+
+By: Eric Reuter
+</source>
+        <target state="needs-translation">Allstar Deathmatch: Untimely Demise
+
+By: Eric Reuter
+</target>
+        <note>GoldSrc identifier: ALLSTAR1</note>
+      </trans-unit>
+      <trans-unit id="s000057" resname="ALLSTAR2">
+        <source xml:space="preserve">Allstar Deathmatch: Waste Disposal
+
+By: David "Kevlar" Kelvin
+</source>
+        <target state="needs-translation">Allstar Deathmatch: Waste Disposal
+
+By: David "Kevlar" Kelvin
+</target>
+        <note>GoldSrc identifier: ALLSTAR2</note>
+      </trans-unit>
+      <trans-unit id="s000058" resname="ALLSTAR3">
+        <source xml:space="preserve">Allstar Deathmatch: Lost Outpost
+
+By: Stephen "Reichert" Palmer
+</source>
+        <target state="needs-translation">Allstar Deathmatch: Lost Outpost
+
+By: Stephen "Reichert" Palmer
+</target>
+        <note>GoldSrc identifier: ALLSTAR3</note>
+      </trans-unit>
+      <trans-unit id="s000059" resname="ALLSTAR4">
+        <source xml:space="preserve">Allstar Deathmatch: Rubble
+
+By: Tom "Paradox" Mustaine
+</source>
+        <target state="needs-translation">Allstar Deathmatch: Rubble
+
+By: Tom "Paradox" Mustaine
+</target>
+        <note>GoldSrc identifier: ALLSTAR4</note>
+      </trans-unit>
+      <trans-unit id="s000060" resname="ALLSTAR5">
+        <source xml:space="preserve">Allstar Deathmatch: Xen Dance
+
+By: David "Kevlar" Kelvin
+</source>
+        <target state="needs-translation">Allstar Deathmatch: Xen Dance
+
+By: David "Kevlar" Kelvin
+</target>
+        <note>GoldSrc identifier: ALLSTAR5</note>
+      </trans-unit>
+      <trans-unit id="s000061" resname="ALLSTAR6">
+        <source xml:space="preserve">Allstar Deathmatch: Paradox Park
+
+By: Tom "Paradox" Mustaine
+</source>
+        <target state="needs-translation">Allstar Deathmatch: Paradox Park
+
+By: Tom "Paradox" Mustaine
+</target>
+        <note>GoldSrc identifier: ALLSTAR6</note>
+      </trans-unit>
+      <trans-unit id="s000062" resname="ALLSTAR7">
+        <source xml:space="preserve">Allstar Deathmatch: Kandy Base
+
+By: Marin "Kandyman" Gazzari
+</source>
+        <target state="needs-translation">Allstar Deathmatch: Kandy Base
+
+By: Marin "Kandyman" Gazzari
+</target>
+        <note>GoldSrc identifier: ALLSTAR7</note>
+      </trans-unit>
+      <trans-unit id="s000063" resname="ALLSTAR8">
+        <source xml:space="preserve">Allstar Deathmatch: Kandy One
+
+By: Marin "Kandyman" Gazzari
+</source>
+        <target state="needs-translation">Allstar Deathmatch: Kandy One
+
+By: Marin "Kandyman" Gazzari
+</target>
+        <note>GoldSrc identifier: ALLSTAR8</note>
+      </trans-unit>
+      <trans-unit id="s000064" resname="ALLSTAR9">
+        <source xml:space="preserve">Allstar Deathmatch: Repent
+
+By: Levelord
+</source>
+        <target state="needs-translation">Allstar Deathmatch: Repent
+
+By: Levelord
+</target>
+        <note>GoldSrc identifier: ALLSTAR9</note>
+      </trans-unit>
+      <trans-unit id="s000065" resname="ALLSTAR10">
+        <source xml:space="preserve">Allstar Deathmatch: Blue Meanie
+
+By: Richard "Zdim" Carlson
+</source>
+        <target state="needs-translation">Allstar Deathmatch: Blue Meanie
+
+By: Richard "Zdim" Carlson
+</target>
+        <note>GoldSrc identifier: ALLSTAR10</note>
+      </trans-unit>
+      <trans-unit id="s000066" resname="CTFChooseTeamA">
+        <source xml:space="preserve">=== Opposing Force CTF ===
+
+Attack the enemy base and capture their flag!
+Use powerup items to help you deal more
+damage, survive longer or gain other abilities.
+View the OpFor CTF Manual for rules and hints.
+
+=== Choose Your Team ===
+
+1. Black Mesa
+2. Opposing Force
+3. Spectator
+
+7. Smallest Team
+</source>
+        <target state="needs-translation">=== Opposing Force CTF ===
+
+Attack the enemy base and capture their flag!
+Use powerup items to help you deal more
+damage, survive longer or gain other abilities.
+View the OpFor CTF Manual for rules and hints.
+
+=== Choose Your Team ===
+
+1. Black Mesa
+2. Opposing Force
+3. Spectator
+
+7. Smallest Team
+</target>
+        <note>GoldSrc identifier: CTFChooseTeamA</note>
+      </trans-unit>
+      <trans-unit id="s000067" resname="CTFChooseTeamB">
+        <source xml:space="preserve">=== Choose Your Team ===
+
+1. Black Mesa
+2. Opposing Force
+3. Spectator
+
+6. Exit
+7. Smallest Team
+</source>
+        <target state="needs-translation">=== Choose Your Team ===
+
+1. Black Mesa
+2. Opposing Force
+3. Spectator
+
+6. Exit
+7. Smallest Team
+</target>
+        <note>GoldSrc identifier: CTFChooseTeamB</note>
+      </trans-unit>
+      <trans-unit id="s000068" resname="CTFChooseCharBM">
+        <source xml:space="preserve">=== Choose Your Character ===
+
+1. Barney
+2. Cleansuit Scientist
+3. Gina
+4. Gordon Freeman
+5. Otis
+6. Walter
+
+7. Random Character
+</source>
+        <target state="needs-translation">=== Choose Your Character ===
+
+1. Barney
+2. Cleansuit Scientist
+3. Gina
+4. Gordon Freeman
+5. Otis
+6. Walter
+
+7. Random Character
+</target>
+        <note>GoldSrc identifier: CTFChooseCharBM</note>
+      </trans-unit>
+      <trans-unit id="s000069" resname="CTFChooseCharOF">
+        <source xml:space="preserve">=== Choose Your Character ===
+
+1. Squad Leader
+2. Drill Sgt. Sharp
+3. Grunt Soldier
+4. Recruit
+5. Adrian Shephard
+6. Pvt. Tower
+
+7. Random Character
+</source>
+        <target state="needs-translation">=== Choose Your Character ===
+
+1. Squad Leader
+2. Drill Sgt. Sharp
+3. Grunt Soldier
+4. Recruit
+5. Adrian Shephard
+6. Pvt. Tower
+
+7. Random Character
+</target>
+        <note>GoldSrc identifier: CTFChooseCharOF</note>
+      </trans-unit>
+      <trans-unit id="s000070" resname="CTFPickUpFlagP">
+        <source xml:space="preserve">You've got the enemy flag!
+
+Return to base!
+</source>
+        <target state="needs-translation">You've got the enemy flag!
+
+Return to base!
+</target>
+        <note>GoldSrc identifier: CTFPickUpFlagP</note>
+      </trans-unit>
+      <trans-unit id="s000071" resname="CTFPickUpFlagG">
+        <source xml:space="preserve">Your flag is missing!
+
+Hide until it is returned!
+</source>
+        <target state="needs-translation">Your flag is missing!
+
+Hide until it is returned!
+</target>
+        <note>GoldSrc identifier: CTFPickUpFlagG</note>
+      </trans-unit>
+      <trans-unit id="s000072" resname="CTFPickUpFlagT">
+        <source xml:space="preserve">Your team GOT the ENEMY flag!!
+</source>
+        <target state="needs-translation">Your team GOT the ENEMY flag!!
+</target>
+        <note>GoldSrc identifier: CTFPickUpFlagT</note>
+      </trans-unit>
+      <trans-unit id="s000073" resname="CTFLoseFlag">
+        <source xml:space="preserve">Your flag has been TAKEN!!
+</source>
+        <target state="needs-translation">Your flag has been TAKEN!!
+</target>
+        <note>GoldSrc identifier: CTFLoseFlag</note>
+      </trans-unit>
+      <trans-unit id="s000074" resname="CTFCaptureFlagP">
+        <source xml:space="preserve">You CAPTURED the FLAG!!
+</source>
+        <target state="needs-translation">You CAPTURED the FLAG!!
+</target>
+        <note>GoldSrc identifier: CTFCaptureFlagP</note>
+      </trans-unit>
+      <trans-unit id="s000075" resname="CTFCaptureFlagT">
+        <source xml:space="preserve">Your team CAPTURED the FLAG!!
+</source>
+        <target state="needs-translation">Your team CAPTURED the FLAG!!
+</target>
+        <note>GoldSrc identifier: CTFCaptureFlagT</note>
+      </trans-unit>
+      <trans-unit id="s000076" resname="CTFFlagCaptured">
+        <source xml:space="preserve">Your flag was CAPTURED!!
+</source>
+        <target state="needs-translation">Your flag was CAPTURED!!
+</target>
+        <note>GoldSrc identifier: CTFFlagCaptured</note>
+      </trans-unit>
+      <trans-unit id="s000077" resname="CTFFlagScorerBM">
+        <source xml:space="preserve"> captured the Black Mesa flag!
+</source>
+        <target state="needs-translation"> captured the Black Mesa flag!
+</target>
+        <note>GoldSrc identifier: CTFFlagScorerBM</note>
+      </trans-unit>
+      <trans-unit id="s000078" resname="CTFFlagScorerOF">
+        <source xml:space="preserve"> captured the Opposing Force flag!
+</source>
+        <target state="needs-translation"> captured the Opposing Force flag!
+</target>
+        <note>GoldSrc identifier: CTFFlagScorerOF</note>
+      </trans-unit>
+      <trans-unit id="s000079" resname="CTFFlagGetBM">
+        <source xml:space="preserve"> got the Black Mesa flag!
+</source>
+        <target state="needs-translation"> got the Black Mesa flag!
+</target>
+        <note>GoldSrc identifier: CTFFlagGetBM</note>
+      </trans-unit>
+      <trans-unit id="s000080" resname="CTFFlagGetOF">
+        <source xml:space="preserve"> got the Opposing Force flag!
+</source>
+        <target state="needs-translation"> got the Opposing Force flag!
+</target>
+        <note>GoldSrc identifier: CTFFlagGetOF</note>
+      </trans-unit>
+      <trans-unit id="s000081" resname="CTFFlagReturnBM">
+        <source xml:space="preserve"> returned the Black Mesa flag!
+</source>
+        <target state="needs-translation"> returned the Black Mesa flag!
+</target>
+        <note>GoldSrc identifier: CTFFlagReturnBM</note>
+      </trans-unit>
+      <trans-unit id="s000082" resname="CTFFlagReturnOF">
+        <source xml:space="preserve"> returned the Opposing Force flag!
+</source>
+        <target state="needs-translation"> returned the Opposing Force flag!
+</target>
+        <note>GoldSrc identifier: CTFFlagReturnOF</note>
+      </trans-unit>
+      <trans-unit id="s000083" resname="CTFFlagReturnedT">
+        <source xml:space="preserve">Your flag was returned!
+</source>
+        <target state="needs-translation">Your flag was returned!
+</target>
+        <note>GoldSrc identifier: CTFFlagReturnedT</note>
+      </trans-unit>
+      <trans-unit id="s000084" resname="CTFFlagReturnedE">
+        <source xml:space="preserve">The enemy flag was returned!
+</source>
+        <target state="needs-translation">The enemy flag was returned!
+</target>
+        <note>GoldSrc identifier: CTFFlagReturnedE</note>
+      </trans-unit>
+      <trans-unit id="s000085" resname="CTFFlagKilledBM">
+        <source xml:space="preserve"> killed the Black Mesa flag carrier!
+</source>
+        <target state="needs-translation"> killed the Black Mesa flag carrier!
+</target>
+        <note>GoldSrc identifier: CTFFlagKilledBM</note>
+      </trans-unit>
+      <trans-unit id="s000086" resname="CTFFlagKilledOF">
+        <source xml:space="preserve"> killed the Opposing Force flag carrier!
+</source>
+        <target state="needs-translation"> killed the Opposing Force flag carrier!
+</target>
+        <note>GoldSrc identifier: CTFFlagKilledOF</note>
+      </trans-unit>
+      <trans-unit id="s000087" resname="CTFFlagDefendedBM">
+        <source xml:space="preserve"> defended the Black Mesa base!
+</source>
+        <target state="needs-translation"> defended the Black Mesa base!
+</target>
+        <note>GoldSrc identifier: CTFFlagDefendedBM</note>
+      </trans-unit>
+      <trans-unit id="s000088" resname="CTFFlagDefendedOF">
+        <source xml:space="preserve"> defended the Opposing Force base!
+</source>
+        <target state="needs-translation"> defended the Opposing Force base!
+</target>
+        <note>GoldSrc identifier: CTFFlagDefendedOF</note>
+      </trans-unit>
+      <trans-unit id="s000089" resname="CTFTeamBM">
+        <source xml:space="preserve">Black Mesa
+</source>
+        <target state="needs-translation">Black Mesa
+</target>
+        <note>GoldSrc identifier: CTFTeamBM</note>
+      </trans-unit>
+      <trans-unit id="s000090" resname="CTFTeamOF">
+        <source xml:space="preserve">Opposing Force
+</source>
+        <target state="needs-translation">Opposing Force
+</target>
+        <note>GoldSrc identifier: CTFTeamOF</note>
+      </trans-unit>
+      <trans-unit id="s000091" resname="CTFScorePoint">
+        <source xml:space="preserve">+1 point
+</source>
+        <target state="needs-translation">+1 point
+</target>
+        <note>GoldSrc identifier: CTFScorePoint</note>
+      </trans-unit>
+      <trans-unit id="s000092" resname="CTFScorePoints">
+        <source xml:space="preserve">+10 points
+</source>
+        <target state="needs-translation">+10 points
+</target>
+        <note>GoldSrc identifier: CTFScorePoints</note>
+      </trans-unit>
+      <trans-unit id="s000093" resname="CTFInfoFlagAtBaseBM">
+        <source xml:space="preserve">The Black Mesa flag is at the base.
+</source>
+        <target state="needs-translation">The Black Mesa flag is at the base.
+</target>
+        <note>GoldSrc identifier: CTFInfoFlagAtBaseBM</note>
+      </trans-unit>
+      <trans-unit id="s000094" resname="CTFInfoFlagAtBaseOF">
+        <source xml:space="preserve">The Opposing Force flag is at the base.
+</source>
+        <target state="needs-translation">The Opposing Force flag is at the base.
+</target>
+        <note>GoldSrc identifier: CTFInfoFlagAtBaseOF</note>
+      </trans-unit>
+      <trans-unit id="s000095" resname="CTFInfoFlagCarriedBM">
+        <source xml:space="preserve"> is carrying the Black Mesa flag.
+</source>
+        <target state="needs-translation"> is carrying the Black Mesa flag.
+</target>
+        <note>GoldSrc identifier: CTFInfoFlagCarriedBM</note>
+      </trans-unit>
+      <trans-unit id="s000096" resname="CTFInfoFlagCarriedOF">
+        <source xml:space="preserve"> is carrying the Opposing Force flag.
+</source>
+        <target state="needs-translation"> is carrying the Opposing Force flag.
+</target>
+        <note>GoldSrc identifier: CTFInfoFlagCarriedOF</note>
+      </trans-unit>
+      <trans-unit id="s000097" resname="CTFInfoFlagCarryBM">
+        <source xml:space="preserve">The Black Mesa flag is being carried.
+</source>
+        <target state="needs-translation">The Black Mesa flag is being carried.
+</target>
+        <note>GoldSrc identifier: CTFInfoFlagCarryBM</note>
+      </trans-unit>
+      <trans-unit id="s000098" resname="CTFInfoFlagCarryOF">
+        <source xml:space="preserve">The Opposing Force flag is being carried.
+</source>
+        <target state="needs-translation">The Opposing Force flag is being carried.
+</target>
+        <note>GoldSrc identifier: CTFInfoFlagCarryOF</note>
+      </trans-unit>
+      <trans-unit id="s000099" resname="CTFInfoFlagDroppedBM">
+        <source xml:space="preserve">The Black Mesa flag is currently loose.
+</source>
+        <target state="needs-translation">The Black Mesa flag is currently loose.
+</target>
+        <note>GoldSrc identifier: CTFInfoFlagDroppedBM</note>
+      </trans-unit>
+      <trans-unit id="s000100" resname="CTFInfoFlagDroppedOF">
+        <source xml:space="preserve">The Opposing Force flag is currently loose.
+</source>
+        <target state="needs-translation">The Opposing Force flag is currently loose.
+</target>
+        <note>GoldSrc identifier: CTFInfoFlagDroppedOF</note>
+      </trans-unit>
+      <trans-unit id="s000101" resname="CTFCarrierDefendedBM">
+        <source xml:space="preserve"> defended the Black Mesa team flag carrier.
+</source>
+        <target state="needs-translation"> defended the Black Mesa team flag carrier.
+</target>
+        <note>GoldSrc identifier: CTFCarrierDefendedBM</note>
+      </trans-unit>
+      <trans-unit id="s000102" resname="CTFCarrierDefendedOF">
+        <source xml:space="preserve"> defended the Opposing Force team flag carrier.
+</source>
+        <target state="needs-translation"> defended the Opposing Force team flag carrier.
+</target>
+        <note>GoldSrc identifier: CTFCarrierDefendedOF</note>
+      </trans-unit>
+      <trans-unit id="s000103" resname="CTFFlagAssistBM">
+        <source xml:space="preserve"> assisted in the capture for the Black Mesa team.
+</source>
+        <target state="needs-translation"> assisted in the capture for the Black Mesa team.
+</target>
+        <note>GoldSrc identifier: CTFFlagAssistBM</note>
+      </trans-unit>
+      <trans-unit id="s000104" resname="CTFFlagAssistOF">
+        <source xml:space="preserve"> assisted in the capture for the Opposing Force team.
+</source>
+        <target state="needs-translation"> assisted in the capture for the Opposing Force team.
+</target>
+        <note>GoldSrc identifier: CTFFlagAssistOF</note>
+      </trans-unit>
+      <trans-unit id="s000105" resname="CTFTimeRemain">
+        <source xml:space="preserve"> Time Remaining:
+</source>
+        <target state="needs-translation"> Time Remaining:
+</target>
+        <note>GoldSrc identifier: CTFTimeRemain</note>
+      </trans-unit>
+      <trans-unit id="s000106" resname="CTFGameReset">
+        <source xml:space="preserve">Another player joined the game.
+Resetting flags and powerups.
+</source>
+        <target state="needs-translation">Another player joined the game.
+Resetting flags and powerups.
+</target>
+        <note>GoldSrc identifier: CTFGameReset</note>
+      </trans-unit>
+      <trans-unit id="s000107" resname="CTFTitle_SelectYourTeam">
+        <source xml:space="preserve">Select Your Side
+</source>
+        <target state="needs-translation">Select Your Side
+</target>
+        <note>GoldSrc identifier: CTFTitle_SelectYourTeam</note>
+      </trans-unit>
+      <trans-unit id="s000108" resname="CTFTitle_SelectYourCharacter">
+        <source xml:space="preserve">Select Your Character
+</source>
+        <target state="needs-translation">Select Your Character
+</target>
+        <note>GoldSrc identifier: CTFTitle_SelectYourCharacter</note>
+      </trans-unit>
+      <trans-unit id="s000109" resname="CTFTeam_BM">
+        <source xml:space="preserve">Black Mesa
+</source>
+        <target state="needs-translation">Black Mesa
+</target>
+        <note>GoldSrc identifier: CTFTeam_BM</note>
+      </trans-unit>
+      <trans-unit id="s000110" resname="CTFTeam_OF">
+        <source xml:space="preserve">Opposing Force
+</source>
+        <target state="needs-translation">Opposing Force
+</target>
+        <note>GoldSrc identifier: CTFTeam_OF</note>
+      </trans-unit>
+      <trans-unit id="s000111" resname="CTFTeam_AutoAssign">
+        <source xml:space="preserve">Auto Assign
+</source>
+        <target state="needs-translation">Auto Assign
+</target>
+        <note>GoldSrc identifier: CTFTeam_AutoAssign</note>
+      </trans-unit>
+      <trans-unit id="s000112" resname="CTFTitle_Barney">
+        <source xml:space="preserve">Barney
+</source>
+        <target state="needs-translation">Barney
+</target>
+        <note>GoldSrc identifier: CTFTitle_Barney</note>
+      </trans-unit>
+      <trans-unit id="s000113" resname="CTFTitle_Cleansuit">
+        <source xml:space="preserve">Cleansuit Scientist
+</source>
+        <target state="needs-translation">Cleansuit Scientist
+</target>
+        <note>GoldSrc identifier: CTFTitle_Cleansuit</note>
+      </trans-unit>
+      <trans-unit id="s000114" resname="CTFTitle_Gina">
+        <source xml:space="preserve">Gina
+</source>
+        <target state="needs-translation">Gina
+</target>
+        <note>GoldSrc identifier: CTFTitle_Gina</note>
+      </trans-unit>
+      <trans-unit id="s000115" resname="CTFTitle_Gordon">
+        <source xml:space="preserve">Dr. Freeman
+</source>
+        <target state="needs-translation">Dr. Freeman
+</target>
+        <note>GoldSrc identifier: CTFTitle_Gordon</note>
+      </trans-unit>
+      <trans-unit id="s000116" resname="CTFTitle_Otis">
+        <source xml:space="preserve">Otis
+</source>
+        <target state="needs-translation">Otis
+</target>
+        <note>GoldSrc identifier: CTFTitle_Otis</note>
+      </trans-unit>
+      <trans-unit id="s000117" resname="CTFTitle_Scientist">
+        <source xml:space="preserve">Walter
+</source>
+        <target state="needs-translation">Walter
+</target>
+        <note>GoldSrc identifier: CTFTitle_Scientist</note>
+      </trans-unit>
+      <trans-unit id="s000118" resname="CTFTitle_Civ_Random">
+        <source xml:space="preserve">Random
+</source>
+        <target state="needs-translation">Random
+</target>
+        <note>GoldSrc identifier: CTFTitle_Civ_Random</note>
+      </trans-unit>
+      <trans-unit id="s000119" resname="CTFTitle_SquadLeader">
+        <source xml:space="preserve">Squad Leader
+</source>
+        <target state="needs-translation">Squad Leader
+</target>
+        <note>GoldSrc identifier: CTFTitle_SquadLeader</note>
+      </trans-unit>
+      <trans-unit id="s000120" resname="CTFTitle_DrillSgt">
+        <source xml:space="preserve">Drill Sgt. Sharp
+</source>
+        <target state="needs-translation">Drill Sgt. Sharp
+</target>
+        <note>GoldSrc identifier: CTFTitle_DrillSgt</note>
+      </trans-unit>
+      <trans-unit id="s000121" resname="CTFTitle_Grunt">
+        <source xml:space="preserve">Grunt Soldier
+</source>
+        <target state="needs-translation">Grunt Soldier
+</target>
+        <note>GoldSrc identifier: CTFTitle_Grunt</note>
+      </trans-unit>
+      <trans-unit id="s000122" resname="CTFTitle_Recruit">
+        <source xml:space="preserve">Recruit
+</source>
+        <target state="needs-translation">Recruit
+</target>
+        <note>GoldSrc identifier: CTFTitle_Recruit</note>
+      </trans-unit>
+      <trans-unit id="s000123" resname="CTFTitle_Adrian">
+        <source xml:space="preserve">Cpl. Shephard
+</source>
+        <target state="needs-translation">Cpl. Shephard
+</target>
+        <note>GoldSrc identifier: CTFTitle_Adrian</note>
+      </trans-unit>
+      <trans-unit id="s000124" resname="CTFTitle_Tower">
+        <source xml:space="preserve">Pvt. Tower
+</source>
+        <target state="needs-translation">Pvt. Tower
+</target>
+        <note>GoldSrc identifier: CTFTitle_Tower</note>
+      </trans-unit>
+      <trans-unit id="s000125" resname="CTFTitle_Op4_Random">
+        <source xml:space="preserve">Random
+</source>
+        <target state="needs-translation">Random
+</target>
+        <note>GoldSrc identifier: CTFTitle_Op4_Random</note>
+      </trans-unit>
+      <trans-unit id="s000126" resname="Barney">
+        <source xml:space="preserve">Barney
+</source>
+        <target state="needs-translation">Barney
+</target>
+        <note>GoldSrc identifier: Barney</note>
+      </trans-unit>
+      <trans-unit id="s000127" resname="Cleansuit">
+        <source xml:space="preserve">Cleansuit Sci.
+</source>
+        <target state="needs-translation">Cleansuit Sci.
+</target>
+        <note>GoldSrc identifier: Cleansuit</note>
+      </trans-unit>
+      <trans-unit id="s000128" resname="Gina">
+        <source xml:space="preserve">Gina
+</source>
+        <target state="needs-translation">Gina
+</target>
+        <note>GoldSrc identifier: Gina</note>
+      </trans-unit>
+      <trans-unit id="s000129" resname="Gordon">
+        <source xml:space="preserve">Dr. Freeman
+</source>
+        <target state="needs-translation">Dr. Freeman
+</target>
+        <note>GoldSrc identifier: Gordon</note>
+      </trans-unit>
+      <trans-unit id="s000130" resname="Otis">
+        <source xml:space="preserve">Otis
+</source>
+        <target state="needs-translation">Otis
+</target>
+        <note>GoldSrc identifier: Otis</note>
+      </trans-unit>
+      <trans-unit id="s000131" resname="Scientist">
+        <source xml:space="preserve">Walter
+</source>
+        <target state="needs-translation">Walter
+</target>
+        <note>GoldSrc identifier: Scientist</note>
+      </trans-unit>
+      <trans-unit id="s000132" resname="Civ_Random">
+        <source xml:space="preserve">Random
+</source>
+        <target state="needs-translation">Random
+</target>
+        <note>GoldSrc identifier: Civ_Random</note>
+      </trans-unit>
+      <trans-unit id="s000133" resname="SquadLeader">
+        <source xml:space="preserve">Squad Leader
+</source>
+        <target state="needs-translation">Squad Leader
+</target>
+        <note>GoldSrc identifier: SquadLeader</note>
+      </trans-unit>
+      <trans-unit id="s000134" resname="DrillSgt">
+        <source xml:space="preserve">Drill Sgt. Sharp
+</source>
+        <target state="needs-translation">Drill Sgt. Sharp
+</target>
+        <note>GoldSrc identifier: DrillSgt</note>
+      </trans-unit>
+      <trans-unit id="s000135" resname="Grunt">
+        <source xml:space="preserve">Grunt
+</source>
+        <target state="needs-translation">Grunt
+</target>
+        <note>GoldSrc identifier: Grunt</note>
+      </trans-unit>
+      <trans-unit id="s000136" resname="Recruit">
+        <source xml:space="preserve">Recruit
+</source>
+        <target state="needs-translation">Recruit
+</target>
+        <note>GoldSrc identifier: Recruit</note>
+      </trans-unit>
+      <trans-unit id="s000137" resname="Adrian">
+        <source xml:space="preserve">Cpl. Shephard
+</source>
+        <target state="needs-translation">Cpl. Shephard
+</target>
+        <note>GoldSrc identifier: Adrian</note>
+      </trans-unit>
+      <trans-unit id="s000138" resname="Tower">
+        <source xml:space="preserve">Pvt. Tower
+</source>
+        <target state="needs-translation">Pvt. Tower
+</target>
+        <note>GoldSrc identifier: Tower</note>
+      </trans-unit>
+      <trans-unit id="s000139" resname="Op4_Random">
+        <source xml:space="preserve">Random
+</source>
+        <target state="needs-translation">Random
+</target>
+        <note>GoldSrc identifier: Op4_Random</note>
+      </trans-unit>
+      <trans-unit id="s000140" resname="CTFMenu_OK">
+        <source xml:space="preserve">Ok
+</source>
+        <target state="needs-translation">Ok
+</target>
+        <note>GoldSrc identifier: CTFMenu_OK</note>
+      </trans-unit>
+      <trans-unit id="s000141" resname="CTFMenu_Cancel">
+        <source xml:space="preserve">Cancel
+</source>
+        <target state="needs-translation">Cancel
+</target>
+        <note>GoldSrc identifier: CTFMenu_Cancel</note>
+      </trans-unit>
+      <trans-unit id="s000142" resname="CTFMenu_Spectate">
+        <source xml:space="preserve">Spectator
+</source>
+        <target state="needs-translation">Spectator
+</target>
+        <note>GoldSrc identifier: CTFMenu_Spectate</note>
+      </trans-unit>
+      <trans-unit id="s000143" resname="Unassigned">
+        <source xml:space="preserve">Unassigned
+</source>
+        <target state="needs-translation">Unassigned
+</target>
+        <note>GoldSrc identifier: Unassigned</note>
+      </trans-unit>
+      <trans-unit id="s000144" resname="Spectators">
+        <source xml:space="preserve">Spectators
+</source>
+        <target state="needs-translation">Spectators
+</target>
+        <note>GoldSrc identifier: Spectators</note>
+      </trans-unit>
+      <trans-unit id="s000145" resname="PLAYERS">
+        <source xml:space="preserve">Players
+</source>
+        <target state="needs-translation">Players
+</target>
+        <note>GoldSrc identifier: PLAYERS</note>
+      </trans-unit>
+      <trans-unit id="s000146" resname="TEAMS">
+        <source xml:space="preserve">Teams
+</source>
+        <target state="needs-translation">Teams
+</target>
+        <note>GoldSrc identifier: TEAMS</note>
+      </trans-unit>
+      <trans-unit id="s000147" resname="SCORE">
+        <source xml:space="preserve">Kills
+</source>
+        <target state="needs-translation">Kills
+</target>
+        <note>GoldSrc identifier: SCORE</note>
+      </trans-unit>
+      <trans-unit id="s000148" resname="DEATHS">
+        <source xml:space="preserve">Deaths
+</source>
+        <target state="needs-translation">Deaths
+</target>
+        <note>GoldSrc identifier: DEATHS</note>
+      </trans-unit>
+      <trans-unit id="s000149" resname="CTFSCORE">
+        <source xml:space="preserve">Scores
+</source>
+        <target state="needs-translation">Scores
+</target>
+        <note>GoldSrc identifier: CTFSCORE</note>
+      </trans-unit>
+      <trans-unit id="s000150" resname="LATENCY">
+        <source xml:space="preserve">Latency
+</source>
+        <target state="needs-translation">Latency
+</target>
+        <note>GoldSrc identifier: LATENCY</note>
+      </trans-unit>
+      <trans-unit id="s000151" resname="CTFTitle_EndGameStats">
+        <source xml:space="preserve">Final Stats
+</source>
+        <target state="needs-translation">Final Stats
+</target>
+        <note>GoldSrc identifier: CTFTitle_EndGameStats</note>
+      </trans-unit>
+      <trans-unit id="s000152" resname="CTFTitleStats_BlackMesa">
+        <source xml:space="preserve">Black Mesa
+</source>
+        <target state="needs-translation">Black Mesa
+</target>
+        <note>GoldSrc identifier: CTFTitleStats_BlackMesa</note>
+      </trans-unit>
+      <trans-unit id="s000153" resname="CTFTitleStats_OpposingForce">
+        <source xml:space="preserve">Opposing Force
+</source>
+        <target state="needs-translation">Opposing Force
+</target>
+        <note>GoldSrc identifier: CTFTitleStats_OpposingForce</note>
+      </trans-unit>
+      <trans-unit id="s000154" resname="CTFTitleStats_Both">
+        <source xml:space="preserve">Overall
+</source>
+        <target state="needs-translation">Overall
+</target>
+        <note>GoldSrc identifier: CTFTitleStats_Both</note>
+      </trans-unit>
+      <trans-unit id="s000155" resname="CTFTitleStats_Individual">
+        <source xml:space="preserve">Individual
+</source>
+        <target state="needs-translation">Individual
+</target>
+        <note>GoldSrc identifier: CTFTitleStats_Individual</note>
+      </trans-unit>
+      <trans-unit id="s000156" resname="CTFMenu_ScoreBoard">
+        <source xml:space="preserve">Scoreboard
+</source>
+        <target state="needs-translation">Scoreboard
+</target>
+        <note>GoldSrc identifier: CTFMenu_ScoreBoard</note>
+      </trans-unit>
+      <trans-unit id="s000157" resname="CTFMenu_Stats">
+        <source xml:space="preserve">End Stats
+</source>
+        <target state="needs-translation">End Stats
+</target>
+        <note>GoldSrc identifier: CTFMenu_Stats</note>
+      </trans-unit>
+      <trans-unit id="s000158" resname="CTFMenu_SaveStats">
+        <source xml:space="preserve">Save Stats
+</source>
+        <target state="needs-translation">Save Stats
+</target>
+        <note>GoldSrc identifier: CTFMenu_SaveStats</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
