@@ -2,784 +2,2976 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" datatype="plaintext" original="titles.txt" target-language="pt-BR">
     <body>
-      <trans-unit id="s000001" resname="CR27">
-        <source xml:space="preserve">Black Mesa Research Facility
-Black Mesa, New Mexico
-</source>
-        <target state="needs-translation">Black Mesa Research Facility
-Black Mesa, New Mexico
-</target>
-        <note>GoldSrc identifier: CR27</note>
-      </trans-unit>
-      <trans-unit id="s000002" resname="CR1">
-        <source xml:space="preserve">Matt Armstrong
-</source>
-        <target state="needs-translation">Matt Armstrong
-</target>
-        <note>GoldSrc identifier: CR1</note>
-      </trans-unit>
-      <trans-unit id="s000003" resname="CR2">
-        <source xml:space="preserve">Stephen Bahl
-</source>
-        <target state="needs-translation">Stephen Bahl
-</target>
-        <note>GoldSrc identifier: CR2</note>
-      </trans-unit>
-      <trans-unit id="s000004" resname="CR3">
-        <source xml:space="preserve">Sean Cavanaugh
-</source>
-        <target state="needs-translation">Sean Cavanaugh
-</target>
-        <note>GoldSrc identifier: CR3</note>
-      </trans-unit>
-      <trans-unit id="s000005" resname="CR4">
-        <source xml:space="preserve">Patrick Deupree
-</source>
-        <target state="needs-translation">Patrick Deupree
-</target>
-        <note>GoldSrc identifier: CR4</note>
-      </trans-unit>
-      <trans-unit id="s000006" resname="CR5">
-        <source xml:space="preserve">Rob Heironimus
-</source>
-        <target state="needs-translation">Rob Heironimus
-</target>
-        <note>GoldSrc identifier: CR5</note>
-      </trans-unit>
-      <trans-unit id="s000007" resname="CR6">
-        <source xml:space="preserve">Steve Jones
-</source>
-        <target state="needs-translation">Steve Jones
-</target>
-        <note>GoldSrc identifier: CR6</note>
-      </trans-unit>
-      <trans-unit id="s000008" resname="CR7">
-        <source xml:space="preserve">Brian Martel
-</source>
-        <target state="needs-translation">Brian Martel
-</target>
-        <note>GoldSrc identifier: CR7</note>
-      </trans-unit>
-      <trans-unit id="s000009" resname="CR8">
-        <source xml:space="preserve">David Mertz
-</source>
-        <target state="needs-translation">David Mertz
-</target>
-        <note>GoldSrc identifier: CR8</note>
-      </trans-unit>
-      <trans-unit id="s000010" resname="CR9">
-        <source xml:space="preserve">Landon Montgomery
-</source>
-        <target state="needs-translation">Landon Montgomery
-</target>
-        <note>GoldSrc identifier: CR9</note>
-      </trans-unit>
-      <trans-unit id="s000011" resname="CR10">
-        <source xml:space="preserve">Stephen Palmer
-</source>
-        <target state="needs-translation">Stephen Palmer
-</target>
-        <note>GoldSrc identifier: CR10</note>
-      </trans-unit>
-      <trans-unit id="s000012" resname="CR11">
-        <source xml:space="preserve">Randy Pitchford
-</source>
-        <target state="needs-translation">Randy Pitchford
-</target>
-        <note>GoldSrc identifier: CR11</note>
-      </trans-unit>
-      <trans-unit id="s000013" resname="CR12">
-        <source xml:space="preserve">Sean Reardon
-</source>
-        <target state="needs-translation">Sean Reardon
-</target>
-        <note>GoldSrc identifier: CR12</note>
-      </trans-unit>
-      <trans-unit id="s000014" resname="CR13">
-        <source xml:space="preserve">Matthew VanDolen
-</source>
-        <target state="needs-translation">Matthew VanDolen
-</target>
-        <note>GoldSrc identifier: CR13</note>
-      </trans-unit>
-      <trans-unit id="s000015" resname="CR14">
-        <source xml:space="preserve">Mike Wardwell
-</source>
-        <target state="needs-translation">Mike Wardwell
-</target>
-        <note>GoldSrc identifier: CR14</note>
-      </trans-unit>
-      <trans-unit id="s000016" resname="END1">
-        <source xml:space="preserve">Matt Armstrong
-Stephen Bahl
-Sean Cavanaugh
-Patrick Deupree
-Rob Heironimus
-</source>
-        <target state="needs-translation">Matt Armstrong
-Stephen Bahl
-Sean Cavanaugh
-Patrick Deupree
-Rob Heironimus
-</target>
-        <note>GoldSrc identifier: END1</note>
-      </trans-unit>
-      <trans-unit id="s000017" resname="END2">
-        <source xml:space="preserve">Steve Jones
-Brian Martel
-Chris McArthur
-David Mertz
-Landon Montgomery
-</source>
-        <target state="needs-translation">Steve Jones
-Brian Martel
-Chris McArthur
-David Mertz
-Landon Montgomery
-</target>
-        <note>GoldSrc identifier: END2</note>
-      </trans-unit>
-      <trans-unit id="s000018" resname="END3">
-        <source xml:space="preserve">Stephen Palmer
-Randy Pitchford
-Sean Reardon
-Matthew VanDolen
-Mike Wardwell
-</source>
-        <target state="needs-translation">Stephen Palmer
-Randy Pitchford
-Sean Reardon
-Matthew VanDolen
-Mike Wardwell
-</target>
-        <note>GoldSrc identifier: END3</note>
-      </trans-unit>
-      <trans-unit id="s000019" resname="SPTHANKS">
-        <source xml:space="preserve">Special thanks to:
-</source>
-        <target state="needs-translation">Special thanks to:
-</target>
-        <note>GoldSrc identifier: SPTHANKS</note>
-      </trans-unit>
-      <trans-unit id="s000020" resname="THANKS1">
-        <source xml:space="preserve">Brian Hess
-Jon St. John
-Kristy Junio
-Joe Kennebec
-Kathy Levin
-</source>
-        <target state="needs-translation">Brian Hess
-Jon St. John
-Kristy Junio
-Joe Kennebec
-Kathy Levin
-</target>
-        <note>GoldSrc identifier: THANKS1</note>
-      </trans-unit>
-      <trans-unit id="s000021" resname="THANKS2">
-        <source xml:space="preserve">Eli Luna
-Harry S. Robins
-Rob Selitto
-Mike Shapiro
-</source>
-        <target state="needs-translation">Eli Luna
-Harry S. Robins
-Rob Selitto
-Mike Shapiro
-</target>
-        <note>GoldSrc identifier: THANKS2</note>
-      </trans-unit>
-      <trans-unit id="s000022" resname="THANKS3">
-        <source xml:space="preserve">Blue Spark Studios
-Captivation Digital Laboratories
-Valve Software
-Sierra Studios
-Sega of America
-</source>
-        <target state="needs-translation">Blue Spark Studios
-Captivation Digital Laboratories
-Valve Software
-Sierra Studios
-Sega of America
-</target>
-        <note>GoldSrc identifier: THANKS3</note>
-      </trans-unit>
-      <trans-unit id="s000023" resname="BSTITLE">
-        <source xml:space="preserve">Half-Life: Blue Shift
-</source>
-        <target state="needs-translation">Half-Life: Blue Shift
-</target>
-        <note>GoldSrc identifier: BSTITLE</note>
-      </trans-unit>
-      <trans-unit id="s000024" resname="GEARBOXIS">
-        <source xml:space="preserve">Gearbox is:
-</source>
-        <target state="needs-translation">Gearbox is:
-</target>
-        <note>GoldSrc identifier: GEARBOXIS</note>
-      </trans-unit>
-      <trans-unit id="s000025" resname="ENDCHEAT">
-        <source xml:space="preserve">THE END
-</source>
-        <target state="needs-translation">THE END
-</target>
-        <note>GoldSrc identifier: ENDCHEAT</note>
-      </trans-unit>
-      <trans-unit id="s000026" resname="INTRO1">
-        <source xml:space="preserve">SUBJECT:
-B. Calhoun
-</source>
-        <target state="needs-translation">SUBJECT:
-B. Calhoun
-</target>
-        <note>GoldSrc identifier: INTRO1</note>
-      </trans-unit>
-      <trans-unit id="s000027" resname="CR29">
-        <source xml:space="preserve">EDUCATION:
-2 years Martinson College
-Undecided Major
-</source>
-        <target state="needs-translation">EDUCATION:
-2 years Martinson College
-Undecided Major
-</target>
-        <note>GoldSrc identifier: CR29</note>
-      </trans-unit>
-      <trans-unit id="s000028" resname="CR30">
-        <source xml:space="preserve">EMPLOYER:
-Black Mesa Research Facility
-</source>
-        <target state="needs-translation">EMPLOYER:
-Black Mesa Research Facility
-</target>
-        <note>GoldSrc identifier: CR30</note>
-      </trans-unit>
-      <trans-unit id="s000029" resname="CR31">
-        <source xml:space="preserve">POSITION:
-Security Officer
-</source>
-        <target state="needs-translation">POSITION:
-Security Officer
-</target>
-        <note>GoldSrc identifier: CR31</note>
-      </trans-unit>
-      <trans-unit id="s000030" resname="CR32">
-        <source xml:space="preserve">ASSIGNMENT:
-Area 3 Security
-</source>
-        <target state="needs-translation">ASSIGNMENT:
-Area 3 Security
-</target>
-        <note>GoldSrc identifier: CR32</note>
-      </trans-unit>
-      <trans-unit id="s000031" resname="CR33">
-        <source xml:space="preserve">CLEARANCE:
-Level 3
-</source>
-        <target state="needs-translation">CLEARANCE:
-Level 3
-</target>
-        <note>GoldSrc identifier: CR33</note>
-      </trans-unit>
-      <trans-unit id="s000032" resname="CR34">
-        <source xml:space="preserve">DISASTER RESPONSE PRIORITY:
-Preservation of facility 
-equipment and materials.
-</source>
-        <target state="needs-translation">DISASTER RESPONSE PRIORITY:
-Preservation of facility 
-equipment and materials.
-</target>
-        <note>GoldSrc identifier: CR34</note>
-      </trans-unit>
-      <trans-unit id="s000033" resname="CR35">
-        <source xml:space="preserve">SECONDARY PRIORITY:
-Welfare of research personnel.
-</source>
-        <target state="needs-translation">SECONDARY PRIORITY:
-Welfare of research personnel.
-</target>
-        <note>GoldSrc identifier: CR35</note>
-      </trans-unit>
-      <trans-unit id="s000034" resname="CR36">
-        <source xml:space="preserve">LOW PRIORITY:
-Personal safety.
-</source>
-        <target state="needs-translation">LOW PRIORITY:
-Personal safety.
-</target>
-        <note>GoldSrc identifier: CR36</note>
-      </trans-unit>
-      <trans-unit id="s000035" resname="GAMEOVER">
-        <source xml:space="preserve">SUBJECT:  CALHOUN
+      <trans-unit id="s000001" resname="Team_Select">
+        <source xml:space="preserve">\ySelect a team\w
 
-STATUS:  EMPLOYMENT TERMINATED
+1. Terrorist Force
+2. Counter-Terrorist Force
 
-REASON FOR TERMINATION:
-Improper handling of a firearm
-in the facility.
+5. Auto-select
 </source>
-        <target state="needs-translation">SUBJECT:  CALHOUN
+        <target state="needs-translation">\ySelect a team\w
 
-STATUS:  EMPLOYMENT TERMINATED
+1. Terrorist Force
+2. Counter-Terrorist Force
 
-REASON FOR TERMINATION:
-Improper handling of a firearm
-in the facility.
+5. Auto-select
 </target>
-        <note>GoldSrc identifier: GAMEOVER</note>
+        <note>GoldSrc identifier: Team_Select</note>
       </trans-unit>
-      <trans-unit id="s000036" resname="XEN1FAILURE">
-        <source xml:space="preserve">SUBJECT:  CALHOUN
+      <trans-unit id="s000002" resname="Team_Select_Spect">
+        <source xml:space="preserve">\ySelect a team\w
 
-STATUS:  UNKNOWN
+1. Terrorist Force
+2. Counter-Terrorist Force
 
-Employee is assumed to have perished with
-remaining personnel during Lambda incident.
-
+5. Auto-select
+6. Spectator
 </source>
-        <target state="needs-translation">SUBJECT:  CALHOUN
+        <target state="needs-translation">\ySelect a team\w
 
-STATUS:  UNKNOWN
+1. Terrorist Force
+2. Counter-Terrorist Force
 
-Employee is assumed to have perished with
-remaining personnel during Lambda incident.
-
+5. Auto-select
+6. Spectator
 </target>
-        <note>GoldSrc identifier: XEN1FAILURE</note>
+        <note>GoldSrc identifier: Team_Select_Spect</note>
       </trans-unit>
-      <trans-unit id="s000037" resname="BSGAMEEND">
-        <source xml:space="preserve">SUBJECT:  CALHOUN
+      <trans-unit id="s000003" resname="IG_Team_Select">
+        <source xml:space="preserve">\ySelect a team\w
 
-STATUS:  OUT OF RANGE
+1. Terrorist Force
+2. Counter-Terrorist Force
 
-NO FURTHER COMMENT
+5. Auto-select
+
+0. Exit
 </source>
-        <target state="needs-translation">SUBJECT:  CALHOUN
+        <target state="needs-translation">\ySelect a team\w
 
-STATUS:  OUT OF RANGE
+1. Terrorist Force
+2. Counter-Terrorist Force
 
-NO FURTHER COMMENT
+5. Auto-select
+
+0. Exit
 </target>
-        <note>GoldSrc identifier: BSGAMEEND</note>
+        <note>GoldSrc identifier: IG_Team_Select</note>
       </trans-unit>
-      <trans-unit id="s000038" resname="TRAITOR">
-        <source xml:space="preserve">SUBJECT:  FREEMAN
+      <trans-unit id="s000004" resname="IG_Team_Select_Spect">
+        <source xml:space="preserve">\ySelect a team\w
 
-STATUS:  HIRED
+1. Terrorist Force
+2. Counter-Terrorist Force
 
-AWAITING ASSIGNMENT
+5. Auto-select
+6. Spectator
+
+0. Exit
 </source>
-        <target state="needs-translation">SUBJECT:  FREEMAN
+        <target state="needs-translation">\ySelect a team\w
 
-STATUS:  HIRED
+1. Terrorist Force
+2. Counter-Terrorist Force
 
-AWAITING ASSIGNMENT
+5. Auto-select
+6. Spectator
+
+0. Exit
 </target>
-        <note>GoldSrc identifier: TRAITOR</note>
+        <note>GoldSrc identifier: IG_Team_Select_Spect</note>
       </trans-unit>
-      <trans-unit id="s000039" resname="LOSER">
-        <source xml:space="preserve">SUBJECT:  FREEMAN
+      <trans-unit id="s000005" resname="IG_VIP_Team_Select">
+        <source xml:space="preserve">\ySelect a team\w
 
-STATUS:  OBSERVATION TERMINATED
+1. Terrorist Force
+2. Counter-Terrorist Force
+3. VIP
 
-POSTMORTEM:
-Subject declined offer of employment.
-</source>
-        <target state="needs-translation">SUBJECT:  FREEMAN
+5. Auto-select
 
-STATUS:  OBSERVATION TERMINATED
+0. Exit
+</source>
+        <target state="needs-translation">\ySelect a team\w
 
-POSTMORTEM:
-Subject declined offer of employment.
-</target>
-        <note>GoldSrc identifier: LOSER</note>
-      </trans-unit>
-      <trans-unit id="s000040" resname="ROSENDEAD">
-        <source xml:space="preserve">SUBJECT:  CALHOUN
+1. Terrorist Force
+2. Counter-Terrorist Force
+3. VIP
 
-STATUS:  UNKNOWN
+5. Auto-select
 
-Employee is assumed to have perished with
-remaining personnel during Lambda incident.
+0. Exit
+</target>
+        <note>GoldSrc identifier: IG_VIP_Team_Select</note>
+      </trans-unit>
+      <trans-unit id="s000006" resname="IG_VIP_Team_Select_Spect">
+        <source xml:space="preserve">\ySelect a team\w
 
-</source>
-        <target state="needs-translation">SUBJECT:  CALHOUN
+1. Terrorist Force
+2. Counter-Terrorist Force
+3. VIP
 
-STATUS:  UNKNOWN
+5. Auto-select
+6. Spectator
 
-Employee is assumed to have perished with
-remaining personnel during Lambda incident.
+0. Exit
+</source>
+        <target state="needs-translation">\ySelect a team\w
 
+1. Terrorist Force
+2. Counter-Terrorist Force
+3. VIP
+
+5. Auto-select
+6. Spectator
+
+0. Exit
 </target>
-        <note>GoldSrc identifier: ROSENDEAD</note>
+        <note>GoldSrc identifier: IG_VIP_Team_Select_Spect</note>
       </trans-unit>
-      <trans-unit id="s000041" resname="T0A0TITLE">
-        <source xml:space="preserve">HAZARD COURSE
+      <trans-unit id="s000007" resname="Terrorist_Select">
+        <source xml:space="preserve">\ySelect your appearance\w
+
+1. Phoenix Connexion
+2. Elite Crew
+3. Arctic Avengers
+4. Guerilla Warfare
+
+5. Auto-select
 </source>
-        <target state="needs-translation">HAZARD COURSE
+        <target state="needs-translation">\ySelect your appearance\w
+
+1. Phoenix Connexion
+2. Elite Crew
+3. Arctic Avengers
+4. Guerilla Warfare
+
+5. Auto-select
 </target>
-        <note>GoldSrc identifier: T0A0TITLE</note>
+        <note>GoldSrc identifier: Terrorist_Select</note>
       </trans-unit>
-      <trans-unit id="s000042" resname="BA_TRAMTITLE">
-        <source xml:space="preserve">LIVING QUARTERS OUTBOUND
+      <trans-unit id="s000008" resname="CT_Select">
+        <source xml:space="preserve">\ySelect your appearance\w
+
+1. Seal Team 6
+2. GSG-9
+3. SAS
+4. GIGN
+
+5. Auto-select
 </source>
-        <target state="needs-translation">LIVING QUARTERS OUTBOUND
+        <target state="needs-translation">\ySelect your appearance\w
+
+1. Seal Team 6
+2. GSG-9
+3. SAS
+4. GIGN
+
+5. Auto-select
 </target>
-        <note>GoldSrc identifier: BA_TRAMTITLE</note>
+        <note>GoldSrc identifier: CT_Select</note>
       </trans-unit>
-      <trans-unit id="s000043" resname="BA_SECURITYTITLE">
-        <source xml:space="preserve">INSECURITY
+      <trans-unit id="s000009" resname="Buy">
+        <source xml:space="preserve">\yBuy Item\w
+
+1. Handgun
+2. Shotgun
+3. Sub-Machine Gun
+4. Rifle
+5. Machine Gun
+
+6. Primary weapon ammo
+7. Secondary weapon ammo
+
+8. Equipment
+
+0. Exit
 </source>
-        <target state="needs-translation">INSECURITY
+        <target state="needs-translation">\yBuy Item\w
+
+1. Handgun
+2. Shotgun
+3. Sub-Machine Gun
+4. Rifle
+5. Machine Gun
+
+6. Primary weapon ammo
+7. Secondary weapon ammo
+
+8. Equipment
+
+0. Exit
 </target>
-        <note>GoldSrc identifier: BA_SECURITYTITLE</note>
+        <note>GoldSrc identifier: Buy</note>
       </trans-unit>
-      <trans-unit id="s000044" resname="BA_CANALSTITLE">
-        <source xml:space="preserve">DUTY CALLS
+      <trans-unit id="s000010" resname="CT_BuyItem">
+        <source xml:space="preserve">\yBuy Equipment\R$   Cost
+
+\w1. Kevlar Vest\y\R650
+\w2. Kevlar Vest &amp; Helmet\y\R1000
+\w3. Flashbang\y\R200	
+\w4. HE Grenade\y\R300
+\w5. Smoke Grenade\y\R300
+\w6. NightVision Goggles\y\R1250
+\d7. Defuse Kit\y\R200
+\w8. Tactical Shield\y\R2200
+
+\w0. Exit
 </source>
-        <target state="needs-translation">DUTY CALLS
+        <target state="needs-translation">\yBuy Equipment\R$   Cost
+
+\w1. Kevlar Vest\y\R650
+\w2. Kevlar Vest &amp; Helmet\y\R1000
+\w3. Flashbang\y\R200	
+\w4. HE Grenade\y\R300
+\w5. Smoke Grenade\y\R300
+\w6. NightVision Goggles\y\R1250
+\d7. Defuse Kit\y\R200
+\w8. Tactical Shield\y\R2200
+
+\w0. Exit
 </target>
-        <note>GoldSrc identifier: BA_CANALSTITLE</note>
+        <note>GoldSrc identifier: CT_BuyItem</note>
       </trans-unit>
-      <trans-unit id="s000045" resname="BA_YARDTITLE">
-        <source xml:space="preserve">CAPTIVE FREIGHT
+      <trans-unit id="s000011" resname="T_BuyItem">
+        <source xml:space="preserve">\yBuy Equipment\R$   Cost
+
+\w1. Kevlar Vest\y\R650
+\w2. Kevlar Vest &amp; Helmet\y\R1000
+\w3. Flashbang\y\R200	
+\w4. HE Grenade\y\R300
+\w5. Smoke Grenade\y\R300
+\w6. NightVision Goggles\y\R1250
+
+\w0. Exit
 </source>
-        <target state="needs-translation">CAPTIVE FREIGHT
+        <target state="needs-translation">\yBuy Equipment\R$   Cost
+
+\w1. Kevlar Vest\y\R650
+\w2. Kevlar Vest &amp; Helmet\y\R1000
+\w3. Flashbang\y\R200	
+\w4. HE Grenade\y\R300
+\w5. Smoke Grenade\y\R300
+\w6. NightVision Goggles\y\R1250
+
+\w0. Exit
 </target>
-        <note>GoldSrc identifier: BA_YARDTITLE</note>
+        <note>GoldSrc identifier: T_BuyItem</note>
       </trans-unit>
-      <trans-unit id="s000046" resname="BA_XENTITLE">
-        <source xml:space="preserve">FOCAL POINT
+      <trans-unit id="s000012" resname="DCT_BuyItem">
+        <source xml:space="preserve">\yBuy Equipment\R$   Cost
+
+\w1. Kevlar Vest\y\R650
+\w2. Kevlar Vest &amp; Helmet\y\R1000
+\w3. Flashbang\y\R200	
+\w4. HE Grenade\y\R300
+\w5. Smoke Grenade\y\R300
+\w6. NightVision Goggles\y\R1250
+\w7. Defuse Kit\y\R200
+\w8. Tactical Shield\y\R2200
+
+\w0. Exit
 </source>
-        <target state="needs-translation">FOCAL POINT
+        <target state="needs-translation">\yBuy Equipment\R$   Cost
+
+\w1. Kevlar Vest\y\R650
+\w2. Kevlar Vest &amp; Helmet\y\R1000
+\w3. Flashbang\y\R200	
+\w4. HE Grenade\y\R300
+\w5. Smoke Grenade\y\R300
+\w6. NightVision Goggles\y\R1250
+\w7. Defuse Kit\y\R200
+\w8. Tactical Shield\y\R2200
+
+\w0. Exit
 </target>
-        <note>GoldSrc identifier: BA_XENTITLE</note>
+        <note>GoldSrc identifier: DCT_BuyItem</note>
       </trans-unit>
-      <trans-unit id="s000047" resname="BA_POWERTITLE">
-        <source xml:space="preserve">POWER STRUGGLE
+      <trans-unit id="s000013" resname="DT_BuyItem">
+        <source xml:space="preserve">\yBuy Equipment\R$   Cost
+
+\w1. Kevlar Vest\y\R650
+\w2. Kevlar Vest &amp; Helmet\y\R1000
+\w3. Flashbang\y\R200	
+\w4. HE Grenade\y\R300
+\w5. Smoke Grenade\y\R300
+\w6. NightVision Goggles\y\R1250
+
+\w0. Exit
 </source>
-        <target state="needs-translation">POWER STRUGGLE
+        <target state="needs-translation">\yBuy Equipment\R$   Cost
+
+\w1. Kevlar Vest\y\R650
+\w2. Kevlar Vest &amp; Helmet\y\R1000
+\w3. Flashbang\y\R200	
+\w4. HE Grenade\y\R300
+\w5. Smoke Grenade\y\R300
+\w6. NightVision Goggles\y\R1250
+
+\w0. Exit
 </target>
-        <note>GoldSrc identifier: BA_POWERTITLE</note>
+        <note>GoldSrc identifier: DT_BuyItem</note>
       </trans-unit>
-      <trans-unit id="s000048" resname="BA_TELEPORTTITLE">
-        <source xml:space="preserve">A LEAP OF FAITH
+      <trans-unit id="s000014" resname="CT_BuyPistol">
+        <source xml:space="preserve">\yBuy Handgun\R$   Cost
+(Secondary weapon)
+
+\w1. 9X19mm Sidearm\y\R400
+\w2. K&amp;M .45 Tactical\y\R500
+\w3. 228 Compact\y\R600
+\w4. Night Hawk .50C\y\R650
+\w5. ES Five-Seven\y\R750
+
+\w0. Exit
 </source>
-        <target state="needs-translation">A LEAP OF FAITH
+        <target state="needs-translation">\yBuy Handgun\R$   Cost
+(Secondary weapon)
+
+\w1. 9X19mm Sidearm\y\R400
+\w2. K&amp;M .45 Tactical\y\R500
+\w3. 228 Compact\y\R600
+\w4. Night Hawk .50C\y\R650
+\w5. ES Five-Seven\y\R750
+
+\w0. Exit
 </target>
-        <note>GoldSrc identifier: BA_TELEPORTTITLE</note>
+        <note>GoldSrc identifier: CT_BuyPistol</note>
       </trans-unit>
-      <trans-unit id="s000049" resname="CHUMTOAD">
-        <source xml:space="preserve">CHUMTOAD'S LAIR
+      <trans-unit id="s000015" resname="T_BuyPistol">
+        <source xml:space="preserve">\yBuy Handgun\R$   Cost
+(Secondary weapon)
+
+\w1. 9X19mm Sidearm\y\R400
+\w2. K&amp;M .45 Tactical\y\R500
+\w3. 228 Compact\y\R600
+\w4. Night Hawk .50C\y\R650
+\w5. .40 Dual Elites\y\R800
+
+\w0. Exit
 </source>
-        <target state="needs-translation">CHUMTOAD'S LAIR
+        <target state="needs-translation">\yBuy Handgun\R$   Cost
+(Secondary weapon)
+
+\w1. 9X19mm Sidearm\y\R400
+\w2. K&amp;M .45 Tactical\y\R500
+\w3. 228 Compact\y\R600
+\w4. Night Hawk .50C\y\R650
+\w5. .40 Dual Elites\y\R800
+
+\w0. Exit
 </target>
-        <note>GoldSrc identifier: CHUMTOAD</note>
+        <note>GoldSrc identifier: T_BuyPistol</note>
       </trans-unit>
-      <trans-unit id="s000050" resname="GAMESAVED">
-        <source xml:space="preserve">Saved...
+      <trans-unit id="s000016" resname="AS_BuyShotgun">
+        <source xml:space="preserve">\yBuy Shotgun\R$   Cost
+(Primary weapon)
+
+\d1. Leone 12 Gauge Super\y\R1700
+\d2. Leone YG1265 Auto Shotgun\y\R3000
+
+\w0. Exit
 </source>
-        <target state="needs-translation">Saved...
+        <target state="needs-translation">\yBuy Shotgun\R$   Cost
+(Primary weapon)
+
+\d1. Leone 12 Gauge Super\y\R1700
+\d2. Leone YG1265 Auto Shotgun\y\R3000
+
+\w0. Exit
+</target>
+        <note>GoldSrc identifier: AS_BuyShotgun</note>
+      </trans-unit>
+      <trans-unit id="s000017" resname="BuyShotgun">
+        <source xml:space="preserve">\yBuy Shotgun\R$   Cost
+(Primary weapon)
+
+\w1. Leone 12 Gauge Super\y\R1700
+\w2. Leone YG1265 Auto Shotgun\y\R3000
+
+\w0. Exit
+</source>
+        <target state="needs-translation">\yBuy Shotgun\R$   Cost
+(Primary weapon)
+
+\w1. Leone 12 Gauge Super\y\R1700
+\w2. Leone YG1265 Auto Shotgun\y\R3000
+
+\w0. Exit
+</target>
+        <note>GoldSrc identifier: BuyShotgun</note>
+      </trans-unit>
+      <trans-unit id="s000018" resname="CT_BuySubMachineGun">
+        <source xml:space="preserve">\yBuy Sub-Machine Gun\R$   Cost
+(Primary weapon)
+
+\w1. Schmidt Machine Pistol\y\R1250
+\w2. K&amp;M Sub-Machine Gun\y\R1500
+\w3. K&amp;M UMP45\y\R1700
+\w4. ES C90\y\R2350
+
+\w0. Exit
+</source>
+        <target state="needs-translation">\yBuy Sub-Machine Gun\R$   Cost
+(Primary weapon)
+
+\w1. Schmidt Machine Pistol\y\R1250
+\w2. K&amp;M Sub-Machine Gun\y\R1500
+\w3. K&amp;M UMP45\y\R1700
+\w4. ES C90\y\R2350
+
+\w0. Exit
+</target>
+        <note>GoldSrc identifier: CT_BuySubMachineGun</note>
+      </trans-unit>
+      <trans-unit id="s000019" resname="T_BuySubMachineGun">
+        <source xml:space="preserve">\yBuy Sub-Machine Gun\R$   Cost
+(Primary weapon)
+
+\w1. Ingram MAC-10\y\R1400
+\w2. K&amp;M Sub-Machine Gun\y\R1500
+\w3. K&amp;M UMP45\y\R1700
+\w4. ES C90\y\R2350
+
+\w0. Exit
+</source>
+        <target state="needs-translation">\yBuy Sub-Machine Gun\R$   Cost
+(Primary weapon)
+
+\w1. Ingram MAC-10\y\R1400
+\w2. K&amp;M Sub-Machine Gun\y\R1500
+\w3. K&amp;M UMP45\y\R1700
+\w4. ES C90\y\R2350
+
+\w0. Exit
+</target>
+        <note>GoldSrc identifier: T_BuySubMachineGun</note>
+      </trans-unit>
+      <trans-unit id="s000020" resname="AS_CT_BuySubMachineGun">
+        <source xml:space="preserve">\yBuy Sub-Machine Gun\R$   Cost
+(Primary weapon)
+
+\w1. Schmidt Machine Pistol\y\R1250
+\w2. K&amp;M Sub-Machine Gun\y\R1500
+\w3. K&amp;M UMP45\y\R1700
+\w4. ES C90\y\R2350
+
+\w0. Exit
+</source>
+        <target state="needs-translation">\yBuy Sub-Machine Gun\R$   Cost
+(Primary weapon)
+
+\w1. Schmidt Machine Pistol\y\R1250
+\w2. K&amp;M Sub-Machine Gun\y\R1500
+\w3. K&amp;M UMP45\y\R1700
+\w4. ES C90\y\R2350
+
+\w0. Exit
+</target>
+        <note>GoldSrc identifier: AS_CT_BuySubMachineGun</note>
+      </trans-unit>
+      <trans-unit id="s000021" resname="AS_T_BuySubMachineGun">
+        <source xml:space="preserve">\yBuy Sub-Machine Gun\R$   Cost
+(Primary weapon)
+
+\w1. Ingram MAC-10\y\R1400
+\d2. K&amp;M Sub-Machine Gun\y\R1500
+\w3. K&amp;M UMP45\y\R1700
+\d4. ES C90\y\R2350
+
+\w0. Exit
+</source>
+        <target state="needs-translation">\yBuy Sub-Machine Gun\R$   Cost
+(Primary weapon)
+
+\w1. Ingram MAC-10\y\R1400
+\d2. K&amp;M Sub-Machine Gun\y\R1500
+\w3. K&amp;M UMP45\y\R1700
+\d4. ES C90\y\R2350
+
+\w0. Exit
+</target>
+        <note>GoldSrc identifier: AS_T_BuySubMachineGun</note>
+      </trans-unit>
+      <trans-unit id="s000022" resname="T_BuyRifle">
+        <source xml:space="preserve">\yBuy Rifle\R$   Cost
+(Primary weapon)
+
+\w1. IDF Defender\y\R2000
+\w2. CV-47\y\R2500
+\w3. Schmidt Scout\y\R2750
+\w4. Krieg 552 Commando\y\R3500
+\w5. Magnum Sniper Rifle\y\R4750
+\w6. D3/AU-1 Semi-Auto Sniper Rifle\y\R5000
+
+\w0. Exit
+</source>
+        <target state="needs-translation">\yBuy Rifle\R$   Cost
+(Primary weapon)
+
+\w1. IDF Defender\y\R2000
+\w2. CV-47\y\R2500
+\w3. Schmidt Scout\y\R2750
+\w4. Krieg 552 Commando\y\R3500
+\w5. Magnum Sniper Rifle\y\R4750
+\w6. D3/AU-1 Semi-Auto Sniper Rifle\y\R5000
+
+\w0. Exit
+</target>
+        <note>GoldSrc identifier: T_BuyRifle</note>
+      </trans-unit>
+      <trans-unit id="s000023" resname="CT_BuyRifle">
+        <source xml:space="preserve">\yBuy Rifle\R$   Cost
+(Primary weapon)
+
+\w1. Clarion 5.56\y\R2250
+\w2. Schmidt Scout\y\R2750
+\w3. Maverick M4A1 Carbine\y\R3100
+\w4. Bullpup\y\R3500
+\w5. Krieg 550 Commando\y\R4200
+\w6. Magnum Sniper Rifle\y\R4750
+
+\w0. Exit
+</source>
+        <target state="needs-translation">\yBuy Rifle\R$   Cost
+(Primary weapon)
+
+\w1. Clarion 5.56\y\R2250
+\w2. Schmidt Scout\y\R2750
+\w3. Maverick M4A1 Carbine\y\R3100
+\w4. Bullpup\y\R3500
+\w5. Krieg 550 Commando\y\R4200
+\w6. Magnum Sniper Rifle\y\R4750
+
+\w0. Exit
+</target>
+        <note>GoldSrc identifier: CT_BuyRifle</note>
+      </trans-unit>
+      <trans-unit id="s000024" resname="AS_T_BuyRifle">
+        <source xml:space="preserve">\yBuy Rifle\R$   Cost
+(Primary weapon)
+
+\w1. IDF Defender\y\R2000
+\w2. CV-47\y\R2500
+\d3. Schmidt Scout\y\R2750
+\d4. Krieg 552 Commando\y\R3500
+\w5. Magnum Sniper Rifle\y\R4750
+\d6. D3/AU-1 Semi-Auto Sniper Rifle\y\R5000
+
+\w0. Exit
+</source>
+        <target state="needs-translation">\yBuy Rifle\R$   Cost
+(Primary weapon)
+
+\w1. IDF Defender\y\R2000
+\w2. CV-47\y\R2500
+\d3. Schmidt Scout\y\R2750
+\d4. Krieg 552 Commando\y\R3500
+\w5. Magnum Sniper Rifle\y\R4750
+\d6. D3/AU-1 Semi-Auto Sniper Rifle\y\R5000
+
+\w0. Exit
+</target>
+        <note>GoldSrc identifier: AS_T_BuyRifle</note>
+      </trans-unit>
+      <trans-unit id="s000025" resname="AS_CT_BuyRifle">
+        <source xml:space="preserve">\yBuy Rifle\R$   Cost
+(Primary weapon)
+
+\w1. Clarion 5.56\y\R2250
+\d2. Schmidt Scout\y\R2750
+\w3. Maverick M4A1 Carbine\y\R3100
+\w4. Bullpup\y\R3500
+\w5. Krieg 550 Commando\y\R4200
+\d6. Magnum Sniper Rifle\y\R4750
+
+\w0. Exit
+</source>
+        <target state="needs-translation">\yBuy Rifle\R$   Cost
+(Primary weapon)
+
+\w1. Clarion 5.56\y\R2250
+\d2. Schmidt Scout\y\R2750
+\w3. Maverick M4A1 Carbine\y\R3100
+\w4. Bullpup\y\R3500
+\w5. Krieg 550 Commando\y\R4200
+\d6. Magnum Sniper Rifle\y\R4750
+
+\w0. Exit
+</target>
+        <note>GoldSrc identifier: AS_CT_BuyRifle</note>
+      </trans-unit>
+      <trans-unit id="s000026" resname="AS_T_BuyMachineGun">
+        <source xml:space="preserve">\yBuy Machine Gun\R$   Cost
+(Primary weapon)
+
+\d1. ES M249 Para\y\R5750
+
+\w0. Exit
+</source>
+        <target state="needs-translation">\yBuy Machine Gun\R$   Cost
+(Primary weapon)
+
+\d1. ES M249 Para\y\R5750
+
+\w0. Exit
+</target>
+        <note>GoldSrc identifier: AS_T_BuyMachineGun</note>
+      </trans-unit>
+      <trans-unit id="s000027" resname="BuyMachineGun">
+        <source xml:space="preserve">\yBuy Machine Gun\R$   Cost
+(Primary weapon)
+
+\w1. ES M249 Para\y\R5750
+
+\w0. Exit
+</source>
+        <target state="needs-translation">\yBuy Machine Gun\R$   Cost
+(Primary weapon)
+
+\w1. ES M249 Para\y\R5750
+
+\w0. Exit
+</target>
+        <note>GoldSrc identifier: BuyMachineGun</note>
+      </trans-unit>
+      <trans-unit id="s000028" resname="RadioA">
+        <source xml:space="preserve">\yRadio Commands\w
+
+1. "Cover Me"
+2. "You Take the Point"
+3. "Hold This Position"
+4. "Regroup Team"
+5. "Follow Me"
+6. "Taking Fire, Need Assistance"
+
+0. Exit
+</source>
+        <target state="needs-translation">\yRadio Commands\w
+
+1. "Cover Me"
+2. "You Take the Point"
+3. "Hold This Position"
+4. "Regroup Team"
+5. "Follow Me"
+6. "Taking Fire, Need Assistance"
+
+0. Exit
+</target>
+        <note>GoldSrc identifier: RadioA</note>
+      </trans-unit>
+      <trans-unit id="s000029" resname="RadioB">
+        <source xml:space="preserve">\yGroup Radio Commands\w
+
+1. "Go"
+2. "Fall Back"
+3. "Stick Together Team"
+4. "Get in Position"
+5. "Storm the Front"
+6. "Report In"
+
+0. Exit
+</source>
+        <target state="needs-translation">\yGroup Radio Commands\w
+
+1. "Go"
+2. "Fall Back"
+3. "Stick Together Team"
+4. "Get in Position"
+5. "Storm the Front"
+6. "Report In"
+
+0. Exit
+</target>
+        <note>GoldSrc identifier: RadioB</note>
+      </trans-unit>
+      <trans-unit id="s000030" resname="RadioC">
+        <source xml:space="preserve">\yRadio Responses/Reports\w
+
+1. "Affirmative/Roger"
+2. "Enemy Spotted"
+3. "Need Backup"
+4. "Sector Clear"
+5. "I'm in Position"
+6. "Reporting In"	
+7. "She's gonna Blow!"
+8. "Negative"
+9. "Enemy Down"
+
+0. Exit
+</source>
+        <target state="needs-translation">\yRadio Responses/Reports\w
+
+1. "Affirmative/Roger"
+2. "Enemy Spotted"
+3. "Need Backup"
+4. "Sector Clear"
+5. "I'm in Position"
+6. "Reporting In"	
+7. "She's gonna Blow!"
+8. "Negative"
+9. "Enemy Down"
+
+0. Exit
+</target>
+        <note>GoldSrc identifier: RadioC</note>
+      </trans-unit>
+      <trans-unit id="s000031" resname="AK47">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_AK47
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_AK47
+</target>
+        <note>GoldSrc identifier: AK47</note>
+      </trans-unit>
+      <trans-unit id="s000032" resname="SG552">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_SG552
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_SG552
+</target>
+        <note>GoldSrc identifier: SG552</note>
+      </trans-unit>
+      <trans-unit id="s000033" resname="M4A1">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_M4A1
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_M4A1
+</target>
+        <note>GoldSrc identifier: M4A1</note>
+      </trans-unit>
+      <trans-unit id="s000034" resname="Famas">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Famas
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Famas
+</target>
+        <note>GoldSrc identifier: Famas</note>
+      </trans-unit>
+      <trans-unit id="s000035" resname="Galil">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Galil
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Galil
+</target>
+        <note>GoldSrc identifier: Galil</note>
+      </trans-unit>
+      <trans-unit id="s000036" resname="Aug">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Aug
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Aug
+</target>
+        <note>GoldSrc identifier: Aug</note>
+      </trans-unit>
+      <trans-unit id="s000037" resname="Scout">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Scout
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Scout
+</target>
+        <note>GoldSrc identifier: Scout</note>
+      </trans-unit>
+      <trans-unit id="s000038" resname="ArcticWarfareMagnum">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_ArcticWarfareMagnum
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_ArcticWarfareMagnum
+</target>
+        <note>GoldSrc identifier: ArcticWarfareMagnum</note>
+      </trans-unit>
+      <trans-unit id="s000039" resname="G3SG1">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_G3SG1
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_G3SG1
+</target>
+        <note>GoldSrc identifier: G3SG1</note>
+      </trans-unit>
+      <trans-unit id="s000040" resname="SG550">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_SG550
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_SG550
+</target>
+        <note>GoldSrc identifier: SG550</note>
+      </trans-unit>
+      <trans-unit id="s000041" resname="USP45">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_USP45
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_USP45
+</target>
+        <note>GoldSrc identifier: USP45</note>
+      </trans-unit>
+      <trans-unit id="s000042" resname="Glock18">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Glock18
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Glock18
+</target>
+        <note>GoldSrc identifier: Glock18</note>
+      </trans-unit>
+      <trans-unit id="s000043" resname="DesertEagle">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_DesertEagle
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_DesertEagle
+</target>
+        <note>GoldSrc identifier: DesertEagle</note>
+      </trans-unit>
+      <trans-unit id="s000044" resname="P228">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_P228
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_P228
+</target>
+        <note>GoldSrc identifier: P228</note>
+      </trans-unit>
+      <trans-unit id="s000045" resname="Beretta96G">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Beretta96G
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Beretta96G
+</target>
+        <note>GoldSrc identifier: Beretta96G</note>
+      </trans-unit>
+      <trans-unit id="s000046" resname="FiveSeven">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_FiveSeven
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_FiveSeven
+</target>
+        <note>GoldSrc identifier: FiveSeven</note>
+      </trans-unit>
+      <trans-unit id="s000047" resname="Super90">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Super90
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Super90
+</target>
+        <note>GoldSrc identifier: Super90</note>
+      </trans-unit>
+      <trans-unit id="s000048" resname="XM1014">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_XM1014
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_XM1014
+</target>
+        <note>GoldSrc identifier: XM1014</note>
+      </trans-unit>
+      <trans-unit id="s000049" resname="mp5navy">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_mp5navy
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_mp5navy
+</target>
+        <note>GoldSrc identifier: mp5navy</note>
+      </trans-unit>
+      <trans-unit id="s000050" resname="tmp">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_tmp
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_tmp
+</target>
+        <note>GoldSrc identifier: tmp</note>
+      </trans-unit>
+      <trans-unit id="s000051" resname="FNP90">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_FNP90
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_FNP90
+</target>
+        <note>GoldSrc identifier: FNP90</note>
+      </trans-unit>
+      <trans-unit id="s000052" resname="Mac10">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Mac10
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Mac10
+</target>
+        <note>GoldSrc identifier: Mac10</note>
+      </trans-unit>
+      <trans-unit id="s000053" resname="UMP45">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_UMP45
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_UMP45
+</target>
+        <note>GoldSrc identifier: UMP45</note>
+      </trans-unit>
+      <trans-unit id="s000054" resname="M249">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_M249
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_M249
+</target>
+        <note>GoldSrc identifier: M249</note>
+      </trans-unit>
+      <trans-unit id="s000055" resname="Krieg552">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Krieg552
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Krieg552
+</target>
+        <note>GoldSrc identifier: Krieg552</note>
+      </trans-unit>
+      <trans-unit id="s000056" resname="M4A1_Short">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_M4A1_Short
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_M4A1_Short
+</target>
+        <note>GoldSrc identifier: M4A1_Short</note>
+      </trans-unit>
+      <trans-unit id="s000057" resname="Schmidt">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Schmidt
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Schmidt
+</target>
+        <note>GoldSrc identifier: Schmidt</note>
+      </trans-unit>
+      <trans-unit id="s000058" resname="Magnum">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Magnum
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Magnum
+</target>
+        <note>GoldSrc identifier: Magnum</note>
+      </trans-unit>
+      <trans-unit id="s000059" resname="D3AU1">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_D3AU1
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_D3AU1
+</target>
+        <note>GoldSrc identifier: D3AU1</note>
+      </trans-unit>
+      <trans-unit id="s000060" resname="Krieg550">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Krieg550
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Krieg550
+</target>
+        <note>GoldSrc identifier: Krieg550</note>
+      </trans-unit>
+      <trans-unit id="s000061" resname="KM45Tactical">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_KM45Tactical
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_KM45Tactical
+</target>
+        <note>GoldSrc identifier: KM45Tactical</note>
+      </trans-unit>
+      <trans-unit id="s000062" resname="Sidearm9X19mm">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Sidearm9X19mm
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Sidearm9X19mm
+</target>
+        <note>GoldSrc identifier: Sidearm9X19mm</note>
+      </trans-unit>
+      <trans-unit id="s000063" resname="NightHawk">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_NightHawk
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_NightHawk
+</target>
+        <note>GoldSrc identifier: NightHawk</note>
+      </trans-unit>
+      <trans-unit id="s000064" resname="P228Compact">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_P228Compact
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_P228Compact
+</target>
+        <note>GoldSrc identifier: P228Compact</note>
+      </trans-unit>
+      <trans-unit id="s000065" resname="Dual40">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Dual40
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Dual40
+</target>
+        <note>GoldSrc identifier: Dual40</note>
+      </trans-unit>
+      <trans-unit id="s000066" resname="ESFiveSeven">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_ESFiveSeven
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_ESFiveSeven
+</target>
+        <note>GoldSrc identifier: ESFiveSeven</note>
+      </trans-unit>
+      <trans-unit id="s000067" resname="Leone12">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Leone12
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Leone12
+</target>
+        <note>GoldSrc identifier: Leone12</note>
+      </trans-unit>
+      <trans-unit id="s000068" resname="AutoShotgun">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_AutoShotgun
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_AutoShotgun
+</target>
+        <note>GoldSrc identifier: AutoShotgun</note>
+      </trans-unit>
+      <trans-unit id="s000069" resname="SubMachineGun">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_SubMachineGun
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_SubMachineGun
+</target>
+        <note>GoldSrc identifier: SubMachineGun</note>
+      </trans-unit>
+      <trans-unit id="s000070" resname="SchmidtMP">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_SchmidtMP
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_SchmidtMP
+</target>
+        <note>GoldSrc identifier: SchmidtMP</note>
+      </trans-unit>
+      <trans-unit id="s000071" resname="ESC90">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_ESC90
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_ESC90
+</target>
+        <note>GoldSrc identifier: ESC90</note>
+      </trans-unit>
+      <trans-unit id="s000072" resname="Mac10_Short">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Mac10_Short
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Mac10_Short
+</target>
+        <note>GoldSrc identifier: Mac10_Short</note>
+      </trans-unit>
+      <trans-unit id="s000073" resname="KMUMP45">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_KMUMP45
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_KMUMP45
+</target>
+        <note>GoldSrc identifier: KMUMP45</note>
+      </trans-unit>
+      <trans-unit id="s000074" resname="ESM249">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_ESM249
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_ESM249
+</target>
+        <note>GoldSrc identifier: ESM249</note>
+      </trans-unit>
+      <trans-unit id="s000075" resname="TEAMS">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_TEAMS
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_TEAMS
+</target>
+        <note>GoldSrc identifier: TEAMS</note>
+      </trans-unit>
+      <trans-unit id="s000076" resname="PLAYERS">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_PLAYERS
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_PLAYERS
+</target>
+        <note>GoldSrc identifier: PLAYERS</note>
+      </trans-unit>
+      <trans-unit id="s000077" resname="CLASS">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_CLASS
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_CLASS
+</target>
+        <note>GoldSrc identifier: CLASS</note>
+      </trans-unit>
+      <trans-unit id="s000078" resname="SCORE">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_SCORE
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_SCORE
+</target>
+        <note>GoldSrc identifier: SCORE</note>
+      </trans-unit>
+      <trans-unit id="s000079" resname="DEATHS">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_DEATHS
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_DEATHS
+</target>
+        <note>GoldSrc identifier: DEATHS</note>
+      </trans-unit>
+      <trans-unit id="s000080" resname="LATENCY">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_LATENCY
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_LATENCY
+</target>
+        <note>GoldSrc identifier: LATENCY</note>
+      </trans-unit>
+      <trans-unit id="s000081" resname="VOICE">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_VOICE
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_VOICE
+</target>
+        <note>GoldSrc identifier: VOICE</note>
+      </trans-unit>
+      <trans-unit id="s000082" resname="Menu_OK">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Menu_OK
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Menu_OK
+</target>
+        <note>GoldSrc identifier: Menu_OK</note>
+      </trans-unit>
+      <trans-unit id="s000083" resname="Menu_Cancel">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Menu_Cancel
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Menu_Cancel
+</target>
+        <note>GoldSrc identifier: Menu_Cancel</note>
+      </trans-unit>
+      <trans-unit id="s000084" resname="Menu_Spectate">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Menu_Spectate
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Menu_Spectate
+</target>
+        <note>GoldSrc identifier: Menu_Spectate</note>
+      </trans-unit>
+      <trans-unit id="s000085" resname="Team_AutoAssign">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Team_AutoAssign
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Team_AutoAssign
+</target>
+        <note>GoldSrc identifier: Team_AutoAssign</note>
+      </trans-unit>
+      <trans-unit id="s000086" resname="Title_SelectYourTeam">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Title_SelectYourTeam
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Title_SelectYourTeam
+</target>
+        <note>GoldSrc identifier: Title_SelectYourTeam</note>
+      </trans-unit>
+      <trans-unit id="s000087" resname="Target_Bombed">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Target_Bombed
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Target_Bombed
+</target>
+        <note>GoldSrc identifier: Target_Bombed</note>
+      </trans-unit>
+      <trans-unit id="s000088" resname="VIP_Escaped">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_VIP_Escaped
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_VIP_Escaped
+</target>
+        <note>GoldSrc identifier: VIP_Escaped</note>
+      </trans-unit>
+      <trans-unit id="s000089" resname="VIP_Assassinated">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_VIP_Assassinated
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_VIP_Assassinated
+</target>
+        <note>GoldSrc identifier: VIP_Assassinated</note>
+      </trans-unit>
+      <trans-unit id="s000090" resname="Terrorists_Escaped">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Terrorists_Escaped
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Terrorists_Escaped
+</target>
+        <note>GoldSrc identifier: Terrorists_Escaped</note>
+      </trans-unit>
+      <trans-unit id="s000091" resname="CTs_PreventEscape">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_CTs_PreventEscape
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_CTs_PreventEscape
+</target>
+        <note>GoldSrc identifier: CTs_PreventEscape</note>
+      </trans-unit>
+      <trans-unit id="s000092" resname="Escaping_Terrorists_Neutralized">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Escaping_Terrorists_Neutralized
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Escaping_Terrorists_Neutralized
+</target>
+        <note>GoldSrc identifier: Escaping_Terrorists_Neutralized</note>
+      </trans-unit>
+      <trans-unit id="s000093" resname="Bomb_Defused">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Bomb_Defused
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Bomb_Defused
+</target>
+        <note>GoldSrc identifier: Bomb_Defused</note>
+      </trans-unit>
+      <trans-unit id="s000094" resname="CTs_Win">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_CTs_Win
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_CTs_Win
+</target>
+        <note>GoldSrc identifier: CTs_Win</note>
+      </trans-unit>
+      <trans-unit id="s000095" resname="Terrorists_Win">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Terrorists_Win
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Terrorists_Win
+</target>
+        <note>GoldSrc identifier: Terrorists_Win</note>
+      </trans-unit>
+      <trans-unit id="s000096" resname="Round_Draw">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Round_Draw
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Round_Draw
+</target>
+        <note>GoldSrc identifier: Round_Draw</note>
+      </trans-unit>
+      <trans-unit id="s000097" resname="All_Hostages_Rescued">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_All_Hostages_Rescued
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_All_Hostages_Rescued
+</target>
+        <note>GoldSrc identifier: All_Hostages_Rescued</note>
+      </trans-unit>
+      <trans-unit id="s000098" resname="Target_Saved">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Target_Saved
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Target_Saved
+</target>
+        <note>GoldSrc identifier: Target_Saved</note>
+      </trans-unit>
+      <trans-unit id="s000099" resname="Hostages_Not_Rescued">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hostages_Not_Rescued
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hostages_Not_Rescued
+</target>
+        <note>GoldSrc identifier: Hostages_Not_Rescued</note>
+      </trans-unit>
+      <trans-unit id="s000100" resname="Terrorists_Not_Escaped">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Terrorists_Not_Escaped
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Terrorists_Not_Escaped
+</target>
+        <note>GoldSrc identifier: Terrorists_Not_Escaped</note>
+      </trans-unit>
+      <trans-unit id="s000101" resname="VIP_Not_Escaped">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_VIP_Not_Escaped
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_VIP_Not_Escaped
+</target>
+        <note>GoldSrc identifier: VIP_Not_Escaped</note>
+      </trans-unit>
+      <trans-unit id="s000102" resname="Cannot_Buy_This">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Cannot_Buy_This
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Cannot_Buy_This
+</target>
+        <note>GoldSrc identifier: Cannot_Buy_This</note>
+      </trans-unit>
+      <trans-unit id="s000103" resname="Not_Enough_Money">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Not_Enough_Money
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Not_Enough_Money
+</target>
+        <note>GoldSrc identifier: Not_Enough_Money</note>
+      </trans-unit>
+      <trans-unit id="s000104" resname="Weapon_Not_Available">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Weapon_Not_Available
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Weapon_Not_Available
+</target>
+        <note>GoldSrc identifier: Weapon_Not_Available</note>
+      </trans-unit>
+      <trans-unit id="s000105" resname="Already_Have_Kevlar">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Already_Have_Kevlar
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Already_Have_Kevlar
+</target>
+        <note>GoldSrc identifier: Already_Have_Kevlar</note>
+      </trans-unit>
+      <trans-unit id="s000106" resname="Already_Have_Kevlar_Helmet">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Already_Have_Kevlar_Helmet
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Already_Have_Kevlar_Helmet
+</target>
+        <note>GoldSrc identifier: Already_Have_Kevlar_Helmet</note>
+      </trans-unit>
+      <trans-unit id="s000107" resname="Already_Have_Kevlar_Bought_Helmet">
+        <source xml:space="preserve">
+</source>
+        <note>GoldSrc identifier: Already_Have_Kevlar_Bought_Helmet</note>
+      </trans-unit>
+      <trans-unit id="s000108" resname="Already_Have_Helmet_Bought_Kevlar">
+        <source xml:space="preserve">
+</source>
+        <note>GoldSrc identifier: Already_Have_Helmet_Bought_Kevlar</note>
+      </trans-unit>
+      <trans-unit id="s000109" resname="Cannot_Carry_Anymore">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Cannot_Carry_Anymore
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Cannot_Carry_Anymore
+</target>
+        <note>GoldSrc identifier: Cannot_Carry_Anymore</note>
+      </trans-unit>
+      <trans-unit id="s000110" resname="Already_Have_One">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Already_Have_One
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Already_Have_One
+</target>
+        <note>GoldSrc identifier: Already_Have_One</note>
+      </trans-unit>
+      <trans-unit id="s000111" resname="Cannot_Switch_From_VIP">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Cannot_Switch_From_VIP
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Cannot_Switch_From_VIP
+</target>
+        <note>GoldSrc identifier: Cannot_Switch_From_VIP</note>
+      </trans-unit>
+      <trans-unit id="s000112" resname="All_Teams_Full">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_All_Teams_Full
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_All_Teams_Full
+</target>
+        <note>GoldSrc identifier: All_Teams_Full</note>
+      </trans-unit>
+      <trans-unit id="s000113" resname="Terrorists_Full">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Terrorists_Full
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Terrorists_Full
+</target>
+        <note>GoldSrc identifier: Terrorists_Full</note>
+      </trans-unit>
+      <trans-unit id="s000114" resname="CTs_Full">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_CTs_Full
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_CTs_Full
+</target>
+        <note>GoldSrc identifier: CTs_Full</note>
+      </trans-unit>
+      <trans-unit id="s000115" resname="Too_Many_Terrorists">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Too_Many_Terrorists
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Too_Many_Terrorists
+</target>
+        <note>GoldSrc identifier: Too_Many_Terrorists</note>
+      </trans-unit>
+      <trans-unit id="s000116" resname="Too_Many_CTs">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Too_Many_CTs
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Too_Many_CTs
+</target>
+        <note>GoldSrc identifier: Too_Many_CTs</note>
+      </trans-unit>
+      <trans-unit id="s000117" resname="Wait_3_Seconds">
+        <source xml:space="preserve">Please wait 3 seconds.
+</source>
+        <target state="needs-translation">Please wait 3 seconds.
+</target>
+        <note>GoldSrc identifier: Wait_3_Seconds</note>
+      </trans-unit>
+      <trans-unit id="s000118" resname="Only_1_Team_Change">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Only_1_Team_Change
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Only_1_Team_Change
+</target>
+        <note>GoldSrc identifier: Only_1_Team_Change</note>
+      </trans-unit>
+      <trans-unit id="s000119" resname="Ignore_Broadcast_Messages">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Ignore_Broadcast_Messages
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Ignore_Broadcast_Messages
+</target>
+        <note>GoldSrc identifier: Ignore_Broadcast_Messages</note>
+      </trans-unit>
+      <trans-unit id="s000120" resname="Ignore_Broadcast_Team_Messages">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Ignore_Broadcast_Team_Messages
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Ignore_Broadcast_Team_Messages
+</target>
+        <note>GoldSrc identifier: Ignore_Broadcast_Team_Messages</note>
+      </trans-unit>
+      <trans-unit id="s000121" resname="Accept_All_Messages">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Accept_All_Messages
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Accept_All_Messages
+</target>
+        <note>GoldSrc identifier: Accept_All_Messages</note>
+      </trans-unit>
+      <trans-unit id="s000122" resname="Ignore_Radio">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Ignore_Radio
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Ignore_Radio
+</target>
+        <note>GoldSrc identifier: Ignore_Radio</note>
+      </trans-unit>
+      <trans-unit id="s000123" resname="Accept_Radio">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Accept_Radio
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Accept_Radio
+</target>
+        <note>GoldSrc identifier: Accept_Radio</note>
+      </trans-unit>
+      <trans-unit id="s000124" resname="Command_Not_Available">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Command_Not_Available
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Command_Not_Available
+</target>
+        <note>GoldSrc identifier: Command_Not_Available</note>
+      </trans-unit>
+      <trans-unit id="s000125" resname="Defusing_Bomb_With_Defuse_Kit">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Defusing_Bomb_With_Defuse_Kit
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Defusing_Bomb_With_Defuse_Kit
+</target>
+        <note>GoldSrc identifier: Defusing_Bomb_With_Defuse_Kit</note>
+      </trans-unit>
+      <trans-unit id="s000126" resname="Defusing_Bomb_Without_Defuse_Kit">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Defusing_Bomb_Without_Defuse_Kit
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Defusing_Bomb_Without_Defuse_Kit
+</target>
+        <note>GoldSrc identifier: Defusing_Bomb_Without_Defuse_Kit</note>
+      </trans-unit>
+      <trans-unit id="s000127" resname="Killed_Hostage">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Killed_Hostage
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Killed_Hostage
+</target>
+        <note>GoldSrc identifier: Killed_Hostage</note>
+      </trans-unit>
+      <trans-unit id="s000128" resname="Injured_Hostage">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Injured_Hostage
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Injured_Hostage
+</target>
+        <note>GoldSrc identifier: Injured_Hostage</note>
+      </trans-unit>
+      <trans-unit id="s000129" resname="Auto_Team_Balance_Next_Round">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Auto_Team_Balance_Next_Round
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Auto_Team_Balance_Next_Round
+</target>
+        <note>GoldSrc identifier: Auto_Team_Balance_Next_Round</note>
+      </trans-unit>
+      <trans-unit id="s000130" resname="All_VIP_Slots_Full">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_All_VIP_Slots_Full
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_All_VIP_Slots_Full
+</target>
+        <note>GoldSrc identifier: All_VIP_Slots_Full</note>
+      </trans-unit>
+      <trans-unit id="s000131" resname="Killed_Teammate">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Killed_Teammate
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Killed_Teammate
+</target>
+        <note>GoldSrc identifier: Killed_Teammate</note>
+      </trans-unit>
+      <trans-unit id="s000132" resname="Banned_For_Killing_Teammates">
+        <source xml:space="preserve">You are being banned from the server for killing too many teammates
+</source>
+        <target state="needs-translation">You are being banned from the server for killing too many teammates
+</target>
+        <note>GoldSrc identifier: Banned_For_Killing_Teammates</note>
+      </trans-unit>
+      <trans-unit id="s000133" resname="Cannot_Vote_Map">
+        <source xml:space="preserve">You cannot vote within 3 minutes of a new map
+</source>
+        <target state="needs-translation">You cannot vote within 3 minutes of a new map
+</target>
+        <note>GoldSrc identifier: Cannot_Vote_Map</note>
+      </trans-unit>
+      <trans-unit id="s000134" resname="Weapon_Cannot_Be_Dropped">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Weapon_Cannot_Be_Dropped
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Weapon_Cannot_Be_Dropped
+</target>
+        <note>GoldSrc identifier: Weapon_Cannot_Be_Dropped</note>
+      </trans-unit>
+      <trans-unit id="s000135" resname="Terrorist_Escaped">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Terrorist_Escaped
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Terrorist_Escaped
+</target>
+        <note>GoldSrc identifier: Terrorist_Escaped</note>
+      </trans-unit>
+      <trans-unit id="s000136" resname="C4_Plant_At_Bomb_Spot">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_C4_Plant_At_Bomb_Spot
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_C4_Plant_At_Bomb_Spot
+</target>
+        <note>GoldSrc identifier: C4_Plant_At_Bomb_Spot</note>
+      </trans-unit>
+      <trans-unit id="s000137" resname="C4_Plant_Must_Be_On_Ground">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_C4_Plant_Must_Be_On_Ground
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_C4_Plant_Must_Be_On_Ground
+</target>
+        <note>GoldSrc identifier: C4_Plant_Must_Be_On_Ground</note>
+      </trans-unit>
+      <trans-unit id="s000138" resname="C4_Arming_Cancelled">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_C4_Arming_Cancelled
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_C4_Arming_Cancelled
+</target>
+        <note>GoldSrc identifier: C4_Arming_Cancelled</note>
+      </trans-unit>
+      <trans-unit id="s000139" resname="Bomb_Planted">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Bomb_Planted
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Bomb_Planted
+</target>
+        <note>GoldSrc identifier: Bomb_Planted</note>
+      </trans-unit>
+      <trans-unit id="s000140" resname="C4_Activated_At_Bomb_Spot">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_C4_Activated_At_Bomb_Spot
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_C4_Activated_At_Bomb_Spot
+</target>
+        <note>GoldSrc identifier: C4_Activated_At_Bomb_Spot</note>
+      </trans-unit>
+      <trans-unit id="s000141" resname="Switch_To_BurstFire">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Switch_To_BurstFire
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Switch_To_BurstFire
+</target>
+        <note>GoldSrc identifier: Switch_To_BurstFire</note>
+      </trans-unit>
+      <trans-unit id="s000142" resname="Switch_To_SemiAuto">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Switch_To_SemiAuto
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Switch_To_SemiAuto
+</target>
+        <note>GoldSrc identifier: Switch_To_SemiAuto</note>
+      </trans-unit>
+      <trans-unit id="s000143" resname="Switch_To_FullAuto">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Switch_To_FullAuto
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Switch_To_FullAuto
+</target>
+        <note>GoldSrc identifier: Switch_To_FullAuto</note>
+      </trans-unit>
+      <trans-unit id="s000144" resname="TRAINING1">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_TRAINING1
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_TRAINING1
+</target>
+        <note>GoldSrc identifier: TRAINING1</note>
+      </trans-unit>
+      <trans-unit id="s000145" resname="TRAINING2">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_TRAINING2
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_TRAINING2
+</target>
+        <note>GoldSrc identifier: TRAINING2</note>
+      </trans-unit>
+      <trans-unit id="s000146" resname="TRAINING3">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_TRAINING3
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_TRAINING3
+</target>
+        <note>GoldSrc identifier: TRAINING3</note>
+      </trans-unit>
+      <trans-unit id="s000147" resname="TRAINING4">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_TRAINING4
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_TRAINING4
+</target>
+        <note>GoldSrc identifier: TRAINING4</note>
+      </trans-unit>
+      <trans-unit id="s000148" resname="TRAINING5">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_TRAINING5
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_TRAINING5
+</target>
+        <note>GoldSrc identifier: TRAINING5</note>
+      </trans-unit>
+      <trans-unit id="s000149" resname="TRAINING6">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_TRAINING6
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_TRAINING6
+</target>
+        <note>GoldSrc identifier: TRAINING6</note>
+      </trans-unit>
+      <trans-unit id="s000150" resname="TRAINING7">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_TRAINING7
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_TRAINING7
+</target>
+        <note>GoldSrc identifier: TRAINING7</note>
+      </trans-unit>
+      <trans-unit id="s000151" resname="GAMESAVED">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_GAMESAVED
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_GAMESAVED
 </target>
         <note>GoldSrc identifier: GAMESAVED</note>
       </trans-unit>
-      <trans-unit id="s000051" resname="GAMETITLE">
-        <source xml:space="preserve">Half-Life
+      <trans-unit id="s000152" resname="Game_Commencing">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Game_Commencing
 </source>
-        <target state="needs-translation">Half-Life
+        <target state="needs-translation">#Cstrike_TitlesTXT_Game_Commencing
 </target>
-        <note>GoldSrc identifier: GAMETITLE</note>
+        <note>GoldSrc identifier: Game_Commencing</note>
       </trans-unit>
-      <trans-unit id="s000052" resname="HZBUTTON1">
-        <source xml:space="preserve">PRESS YOUR USE KEY TO PUSH A BUTTON
+      <trans-unit id="s000153" resname="Game_connected">
+        <source xml:space="preserve">%s connected
 </source>
-        <target state="needs-translation">PRESS YOUR USE KEY TO PUSH A BUTTON
+        <target state="needs-translation">%s connected
 </target>
-        <note>GoldSrc identifier: HZBUTTON1</note>
+        <note>GoldSrc identifier: Game_connected</note>
       </trans-unit>
-      <trans-unit id="s000053" resname="HZBUTTON2">
-        <source xml:space="preserve">PRESS YOUR USE KEY TO PUSH A BUTTON
+      <trans-unit id="s000154" resname="Game_disconnected">
+        <source xml:space="preserve">%s has left the game
 </source>
-        <target state="needs-translation">PRESS YOUR USE KEY TO PUSH A BUTTON
+        <target state="needs-translation">%s has left the game
 </target>
-        <note>GoldSrc identifier: HZBUTTON2</note>
+        <note>GoldSrc identifier: Game_disconnected</note>
       </trans-unit>
-      <trans-unit id="s000054" resname="HZMOVE">
-        <source xml:space="preserve">MOVE FORWARD BY PRESSING FORWARD KEY
-MOVE BACKWARD BY PRESSING BACKWARD KEY
-MOVE LEFT BY PRESSING MOVELEFT
-MOVE RIGHT BY PRESSING MOVERIGHT
+      <trans-unit id="s000155" resname="Game_join_terrorist">
+        <source xml:space="preserve">%s is joining the Terrorist force
 </source>
-        <target state="needs-translation">MOVE FORWARD BY PRESSING FORWARD KEY
-MOVE BACKWARD BY PRESSING BACKWARD KEY
-MOVE LEFT BY PRESSING MOVELEFT
-MOVE RIGHT BY PRESSING MOVERIGHT
+        <target state="needs-translation">%s is joining the Terrorist force
 </target>
-        <note>GoldSrc identifier: HZMOVE</note>
+        <note>GoldSrc identifier: Game_join_terrorist</note>
       </trans-unit>
-      <trans-unit id="s000055" resname="HZJUMP">
-        <source xml:space="preserve">PRESS FORWARD KEY TO RUN FORWARD
-PRESS JUMP KEY TO JUMP
+      <trans-unit id="s000156" resname="Game_join_ct">
+        <source xml:space="preserve">%s is joining the Counter-Terrorist force
 </source>
-        <target state="needs-translation">PRESS FORWARD KEY TO RUN FORWARD
-PRESS JUMP KEY TO JUMP
+        <target state="needs-translation">%s is joining the Counter-Terrorist force
 </target>
-        <note>GoldSrc identifier: HZJUMP</note>
+        <note>GoldSrc identifier: Game_join_ct</note>
       </trans-unit>
-      <trans-unit id="s000056" resname="HZDUCK">
-        <source xml:space="preserve">PRESS FORWARD KEY TO RUN FORWARD
-PRESS DUCK KEY TO DUCK
-PRESS FORWARD + DUCK KEYS TOGETHER 
-TO MOVE IN STEALTH MODE
+      <trans-unit id="s000157" resname="Game_join_terrorist_auto">
+        <source xml:space="preserve">%s is joining the Terrorist force (auto)
 </source>
-        <target state="needs-translation">PRESS FORWARD KEY TO RUN FORWARD
-PRESS DUCK KEY TO DUCK
-PRESS FORWARD + DUCK KEYS TOGETHER 
-TO MOVE IN STEALTH MODE
+        <target state="needs-translation">%s is joining the Terrorist force (auto)
 </target>
-        <note>GoldSrc identifier: HZDUCK</note>
+        <note>GoldSrc identifier: Game_join_terrorist_auto</note>
       </trans-unit>
-      <trans-unit id="s000057" resname="HZCOMBO">
-        <source xml:space="preserve">PRESS FORWARD KEY TO RUN FORWARD
-PRESS JUMP KEY TO JUMP
-PRESS DUCK KEY TO DUCK
-PRESS JUMP KEY TO JUMP
+      <trans-unit id="s000158" resname="Game_join_ct_auto">
+        <source xml:space="preserve">%s is joining the Counter-Terrorist force (auto)
 </source>
-        <target state="needs-translation">PRESS FORWARD KEY TO RUN FORWARD
-PRESS JUMP KEY TO JUMP
-PRESS DUCK KEY TO DUCK
-PRESS JUMP KEY TO JUMP
+        <target state="needs-translation">%s is joining the Counter-Terrorist force (auto)
 </target>
-        <note>GoldSrc identifier: HZCOMBO</note>
+        <note>GoldSrc identifier: Game_join_ct_auto</note>
       </trans-unit>
-      <trans-unit id="s000058" resname="HZDUCKJUMP">
-        <source xml:space="preserve">PRESS FORWARD + JUMP TOGETHER,
-THEN THE DUCK KEY
+      <trans-unit id="s000159" resname="Game_scoring">
+        <source xml:space="preserve">Scoring will not start until both teams have players
 </source>
-        <target state="needs-translation">PRESS FORWARD + JUMP TOGETHER,
-THEN THE DUCK KEY
+        <target state="needs-translation">Scoring will not start until both teams have players
 </target>
-        <note>GoldSrc identifier: HZDUCKJUMP</note>
+        <note>GoldSrc identifier: Game_scoring</note>
       </trans-unit>
-      <trans-unit id="s000059" resname="HZLADDER">
-        <source xml:space="preserve">PRESS FORWARD KEY TO MOVE UP LADDERS
-PRESS BACKWARD KEY TO MOVE DOWN LADDERS
+      <trans-unit id="s000160" resname="Game_idle_kick">
+        <source xml:space="preserve">%s has been idle for too long and has been kicked
 </source>
-        <target state="needs-translation">PRESS FORWARD KEY TO MOVE UP LADDERS
-PRESS BACKWARD KEY TO MOVE DOWN LADDERS
+        <target state="needs-translation">%s has been idle for too long and has been kicked
 </target>
-        <note>GoldSrc identifier: HZLADDER</note>
+        <note>GoldSrc identifier: Game_idle_kick</note>
       </trans-unit>
-      <trans-unit id="s000060" resname="HZLJUMP">
-        <source xml:space="preserve">WHILE MOVING FORWARD,
-HOLD DOWN DUCK KEY--
-THEN PRESS JUMP
+      <trans-unit id="s000161" resname="Game_bomb_drop">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Game_bomb_drop
 </source>
-        <target state="needs-translation">WHILE MOVING FORWARD,
-HOLD DOWN DUCK KEY--
-THEN PRESS JUMP
+        <target state="needs-translation">#Cstrike_TitlesTXT_Game_bomb_drop
 </target>
-        <note>GoldSrc identifier: HZLJUMP</note>
+        <note>GoldSrc identifier: Game_bomb_drop</note>
       </trans-unit>
-      <trans-unit id="s000061" resname="HZLMOD">
-        <source xml:space="preserve">BE SURE YOU PICKED UP THE LONG-JUMP MODULE
-AT THE BEGINNING OF THE OBSTACLE
+      <trans-unit id="s000162" resname="Game_bomb_pickup">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Game_bomb_pickup
 </source>
-        <target state="needs-translation">BE SURE YOU PICKED UP THE LONG-JUMP MODULE
-AT THE BEGINNING OF THE OBSTACLE
+        <target state="needs-translation">#Cstrike_TitlesTXT_Game_bomb_pickup
 </target>
-        <note>GoldSrc identifier: HZLMOD</note>
+        <note>GoldSrc identifier: Game_bomb_pickup</note>
       </trans-unit>
-      <trans-unit id="s000062" resname="HZMEDKIT">
-        <source xml:space="preserve">USE MED-KITS BY HOLDING DOWN THE USE KEY
-HOLD DOWN USE KEY UNTIL HEALTH IS
-AT 100 OR KIT IS DEPLETED
+      <trans-unit id="s000163" resname="Game_no_timelimit">
+        <source xml:space="preserve">* No Time Limit *
 </source>
-        <target state="needs-translation">USE MED-KITS BY HOLDING DOWN THE USE KEY
-HOLD DOWN USE KEY UNTIL HEALTH IS
-AT 100 OR KIT IS DEPLETED
+        <target state="needs-translation">* No Time Limit *
 </target>
-        <note>GoldSrc identifier: HZMEDKIT</note>
+        <note>GoldSrc identifier: Game_no_timelimit</note>
       </trans-unit>
-      <trans-unit id="s000063" resname="HZMOMENT">
-        <source xml:space="preserve">ACTIVATE WHEELS AND DIALS 
-BY HOLDING DOWN THE USE KEY
-HOLD USE KEY UNTIL BRIDGE IS IN POSITION
+      <trans-unit id="s000164" resname="Game_timelimit">
+        <source xml:space="preserve">Time Remaining:  %s:%.2s
 </source>
-        <target state="needs-translation">ACTIVATE WHEELS AND DIALS 
-BY HOLDING DOWN THE USE KEY
-HOLD USE KEY UNTIL BRIDGE IS IN POSITION
+        <target state="needs-translation">Time Remaining:  %s:%.2s
 </target>
-        <note>GoldSrc identifier: HZMOMENT</note>
+        <note>GoldSrc identifier: Game_timelimit</note>
       </trans-unit>
-      <trans-unit id="s000064" resname="HZPUSH">
-        <source xml:space="preserve">PRESS FORWARD KEY TO MOVE AGAINST BOX
-KEEP PRESSING FORWARD TO PUSH BOX
+      <trans-unit id="s000165" resname="Game_unknown_command">
+        <source xml:space="preserve">Unknown command: %s
 </source>
-        <target state="needs-translation">PRESS FORWARD KEY TO MOVE AGAINST BOX
-KEEP PRESSING FORWARD TO PUSH BOX
+        <target state="needs-translation">Unknown command: %s
 </target>
-        <note>GoldSrc identifier: HZPUSH</note>
+        <note>GoldSrc identifier: Game_unknown_command</note>
       </trans-unit>
-      <trans-unit id="s000065" resname="HZPULL">
-        <source xml:space="preserve">PRESS USE + BACKWARD KEYS TOGETHER
-TO PULL BOX BACKWARD
+      <trans-unit id="s000166" resname="Game_in_position">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Game_in_position
 </source>
-        <target state="needs-translation">PRESS USE + BACKWARD KEYS TOGETHER
-TO PULL BOX BACKWARD
+        <target state="needs-translation">#Cstrike_TitlesTXT_Game_in_position
 </target>
-        <note>GoldSrc identifier: HZPULL</note>
+        <note>GoldSrc identifier: Game_in_position</note>
       </trans-unit>
-      <trans-unit id="s000066" resname="HZCROWBAR">
-        <source xml:space="preserve">MOVE UP TO CROWBAR
-PRESS ATTACK1 KEY TO BREAK OBJECTS
+      <trans-unit id="s000167" resname="Game_added_position">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Game_added_position
 </source>
-        <target state="needs-translation">MOVE UP TO CROWBAR
-PRESS ATTACK1 KEY TO BREAK OBJECTS
+        <target state="needs-translation">#Cstrike_TitlesTXT_Game_added_position
 </target>
-        <note>GoldSrc identifier: HZCROWBAR</note>
+        <note>GoldSrc identifier: Game_added_position</note>
       </trans-unit>
-      <trans-unit id="s000067" resname="HZLITEON">
-        <source xml:space="preserve">PRESS FLASHLIGHT KEY 
-TO TURN FLASHLIGHT ON
+      <trans-unit id="s000168" resname="Game_teammate_kills">
+        <source xml:space="preserve">Teammate kills: %s of 3
 </source>
-        <target state="needs-translation">PRESS FLASHLIGHT KEY 
-TO TURN FLASHLIGHT ON
+        <target state="needs-translation">Teammate kills: %s of 3
 </target>
-        <note>GoldSrc identifier: HZLITEON</note>
+        <note>GoldSrc identifier: Game_teammate_kills</note>
       </trans-unit>
-      <trans-unit id="s000068" resname="HZLITEOFF">
-        <source xml:space="preserve">PRESS FLASHLIGHT KEY AGAIN 
-TO TURN FLASHLIGHT OFF
+      <trans-unit id="s000169" resname="Game_required_votes">
+        <source xml:space="preserve">Required number of votes for a new map = %s
 </source>
-        <target state="needs-translation">PRESS FLASHLIGHT KEY AGAIN 
-TO TURN FLASHLIGHT OFF
+        <target state="needs-translation">Required number of votes for a new map = %s
 </target>
-        <note>GoldSrc identifier: HZLITEOFF</note>
+        <note>GoldSrc identifier: Game_required_votes</note>
       </trans-unit>
-      <trans-unit id="s000069" resname="HZWEAPON">
-        <source xml:space="preserve">MOVE UP TO WEAPON TO PICK IT UP
+      <trans-unit id="s000170" resname="Game_radio">
+        <source xml:space="preserve">%s (RADIO): %s
 </source>
-        <target state="needs-translation">MOVE UP TO WEAPON TO PICK IT UP
+        <target state="needs-translation">%s (RADIO): %s
 </target>
-        <note>GoldSrc identifier: HZWEAPON</note>
+        <note>GoldSrc identifier: Game_radio</note>
       </trans-unit>
-      <trans-unit id="s000070" resname="HZFIREWEAP">
-        <source xml:space="preserve">PRESS ATTACK1 KEY FOR PRIMARY ATTACK
-PRESS ATTACK2 KEY FOR ALTERNATE ATTACK
-PRESS RELOAD KEY TO RELOAD AT WILL
+      <trans-unit id="s000171" resname="Game_teammate_attack">
+        <source xml:space="preserve">%s attacked a teammate
 </source>
-        <target state="needs-translation">PRESS ATTACK1 KEY FOR PRIMARY ATTACK
-PRESS ATTACK2 KEY FOR ALTERNATE ATTACK
-PRESS RELOAD KEY TO RELOAD AT WILL
+        <target state="needs-translation">%s attacked a teammate
 </target>
-        <note>GoldSrc identifier: HZFIREWEAP</note>
+        <note>GoldSrc identifier: Game_teammate_attack</note>
       </trans-unit>
-      <trans-unit id="s000071" resname="HZARMOR">
-        <source xml:space="preserve">PRESS AND HOLD YOUR USE KEY
-HOLD DOWN UNTIL SUIT ARMOR IS CHARGED
-OR CHARGER IS DEPLETED
+      <trans-unit id="s000172" resname="Game_kicked">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Game_kicked
 </source>
-        <target state="needs-translation">PRESS AND HOLD YOUR USE KEY
-HOLD DOWN UNTIL SUIT ARMOR IS CHARGED
-OR CHARGER IS DEPLETED
+        <target state="needs-translation">#Cstrike_TitlesTXT_Game_kicked
 </target>
-        <note>GoldSrc identifier: HZARMOR</note>
+        <note>GoldSrc identifier: Game_kicked</note>
       </trans-unit>
-      <trans-unit id="s000072" resname="HZSWIM">
-        <source xml:space="preserve">PRESS YOUR FORWARD KEY
-AIM WITH THE MOUSE AS YOU SWIM
-FIND AIR IF YOU BEGIN TO LOSE HEALTH
-WAIT IN THE AIR UNTIL HEALTH 
-RETURNS TO FORMER LEVEL
+      <trans-unit id="s000173" resname="Game_vote_cast">
+        <source xml:space="preserve">Vote cast against player # %s
 </source>
-        <target state="needs-translation">PRESS YOUR FORWARD KEY
-AIM WITH THE MOUSE AS YOU SWIM
-FIND AIR IF YOU BEGIN TO LOSE HEALTH
-WAIT IN THE AIR UNTIL HEALTH 
-RETURNS TO FORMER LEVEL
+        <target state="needs-translation">Vote cast against player # %s
 </target>
-        <note>GoldSrc identifier: HZSWIM</note>
+        <note>GoldSrc identifier: Game_vote_cast</note>
       </trans-unit>
-      <trans-unit id="s000073" resname="HZDAMAGE">
-        <source xml:space="preserve">CERTAIN TYPES OF DAMAGE WILL REGISTER 
-ON YOUR HEADS-UP DISPLAY.
-DIRECTION OF DAMAGE IS INDICATED BY RED 
-FLASHES IN THE CENTER OF YOUR SCREEN
+      <trans-unit id="s000174" resname="Game_vote_usage">
+        <source xml:space="preserve">Usage:  vote &lt;id&gt;
 </source>
-        <target state="needs-translation">CERTAIN TYPES OF DAMAGE WILL REGISTER 
-ON YOUR HEADS-UP DISPLAY.
-DIRECTION OF DAMAGE IS INDICATED BY RED 
-FLASHES IN THE CENTER OF YOUR SCREEN
+        <target state="needs-translation">Usage:  vote &lt;id&gt;
 </target>
-        <note>GoldSrc identifier: HZDAMAGE</note>
+        <note>GoldSrc identifier: Game_vote_usage</note>
       </trans-unit>
-      <trans-unit id="s000074" resname="HZHAZARD">
-        <source xml:space="preserve">RADIATION HAZARDS 
-ACTIVATE A GEIGER COUNTER
+      <trans-unit id="s000175" resname="Game_vote_player_not_found">
+        <source xml:space="preserve">Player # %s was not found
 </source>
-        <target state="needs-translation">RADIATION HAZARDS 
-ACTIVATE A GEIGER COUNTER
+        <target state="needs-translation">Player # %s was not found
 </target>
-        <note>GoldSrc identifier: HZHAZARD</note>
+        <note>GoldSrc identifier: Game_vote_player_not_found</note>
       </trans-unit>
-      <trans-unit id="s000075" resname="HZSCIENTIST">
-        <source xml:space="preserve">APPROACH SCIENTIST
-PRESS USE KEY TO RECEIVE HEALTH FROM SCIENTIST
+      <trans-unit id="s000176" resname="Game_vote_players_on_your_team">
+        <source xml:space="preserve">You can only vote for players on your team
 </source>
-        <target state="needs-translation">APPROACH SCIENTIST
-PRESS USE KEY TO RECEIVE HEALTH FROM SCIENTIST
+        <target state="needs-translation">You can only vote for players on your team
 </target>
-        <note>GoldSrc identifier: HZSCIENTIST</note>
+        <note>GoldSrc identifier: Game_vote_players_on_your_team</note>
       </trans-unit>
-      <trans-unit id="s000076" resname="HZBARNEY">
-        <source xml:space="preserve">APPROACH SCIENTIST
-PRESS YOUR USE KEY TO GET HIS HELP
-WALK TOWARD DOOR AND SCIENTIST
-WILL ACTIVATE THE RETINAL SCANNER
+      <trans-unit id="s000177" resname="Game_vote_not_yourself">
+        <source xml:space="preserve">You can't vote to kick yourself!
 </source>
-        <target state="needs-translation">APPROACH SCIENTIST
-PRESS YOUR USE KEY TO GET HIS HELP
-WALK TOWARD DOOR AND SCIENTIST
-WILL ACTIVATE THE RETINAL SCANNER
+        <target state="needs-translation">You can't vote to kick yourself!
 </target>
-        <note>GoldSrc identifier: HZBARNEY</note>
+        <note>GoldSrc identifier: Game_vote_not_yourself</note>
       </trans-unit>
-      <trans-unit id="s000077" resname="HZTRAIN">
-        <source xml:space="preserve">PRESS USE KEY TO ENGAGE TRAIN
-PRESS FORWARD KEY TO ACCELERATE
-PRESS BACKWARD KEY TO DECELERATE
-PRESS USE KEY AGAIN TO DISENGAGE
+      <trans-unit id="s000178" resname="Game_voted_for_map">
+        <source xml:space="preserve">You voted for Map # %s
 </source>
-        <target state="needs-translation">PRESS USE KEY TO ENGAGE TRAIN
-PRESS FORWARD KEY TO ACCELERATE
-PRESS BACKWARD KEY TO DECELERATE
-PRESS USE KEY AGAIN TO DISENGAGE
+        <target state="needs-translation">You voted for Map # %s
 </target>
-        <note>GoldSrc identifier: HZTRAIN</note>
+        <note>GoldSrc identifier: Game_voted_for_map</note>
       </trans-unit>
-      <trans-unit id="s000078" resname="HZDONE">
-        <source xml:space="preserve">CONGRATULATIONS!
-YOU HAVE COMPLETED 
-THE BLACK MESA HAZARD COURSE.
-COME BACK ANY TIME.
+      <trans-unit id="s000179" resname="Game_votemap_usage">
+        <source xml:space="preserve">Usage:  votemap &lt;id&gt;
 </source>
-        <target state="needs-translation">CONGRATULATIONS!
-YOU HAVE COMPLETED 
-THE BLACK MESA HAZARD COURSE.
-COME BACK ANY TIME.
+        <target state="needs-translation">Usage:  votemap &lt;id&gt;
 </target>
-        <note>GoldSrc identifier: HZDONE</note>
+        <note>GoldSrc identifier: Game_votemap_usage</note>
       </trans-unit>
-      <trans-unit id="s000079" resname="HZWEAPONSTRIP">
-        <source xml:space="preserve">ENTERING CIVILIAN AREA
-REMOVING WEAPONS NOW
+      <trans-unit id="s000180" resname="Cannot_Vote_Need_More_People">
+        <source xml:space="preserve">You can't vote for a map by yourself!
 </source>
-        <target state="needs-translation">ENTERING CIVILIAN AREA
-REMOVING WEAPONS NOW
+        <target state="needs-translation">You can't vote for a map by yourself!
 </target>
-        <note>GoldSrc identifier: HZWEAPONSTRIP</note>
+        <note>GoldSrc identifier: Cannot_Vote_Need_More_People</note>
+      </trans-unit>
+      <trans-unit id="s000181" resname="Map_Vote_Extend">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Map_Vote_Extend
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Map_Vote_Extend
+</target>
+        <note>GoldSrc identifier: Map_Vote_Extend</note>
+      </trans-unit>
+      <trans-unit id="s000182" resname="Cannot_Vote_With_Less_Than_Three">
+        <source xml:space="preserve">You can't vote with less than three people on your team
+</source>
+        <target state="needs-translation">You can't vote with less than three people on your team
+</target>
+        <note>GoldSrc identifier: Cannot_Vote_With_Less_Than_Three</note>
+      </trans-unit>
+      <trans-unit id="s000183" resname="Game_will_restart_in">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Game_will_restart_in
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Game_will_restart_in
+</target>
+        <note>GoldSrc identifier: Game_will_restart_in</note>
+      </trans-unit>
+      <trans-unit id="s000184" resname="Game_will_restart_in_console">
+        <source xml:space="preserve">The game will restart in %s %s
+</source>
+        <target state="needs-translation">The game will restart in %s %s
+</target>
+        <note>GoldSrc identifier: Game_will_restart_in_console</note>
+      </trans-unit>
+      <trans-unit id="s000185" resname="Cover_me">
+        <source xml:space="preserve">Cover Me!
+</source>
+        <target state="needs-translation">Cover Me!
+</target>
+        <note>GoldSrc identifier: Cover_me</note>
+      </trans-unit>
+      <trans-unit id="s000186" resname="You_take_the_point">
+        <source xml:space="preserve">You Take the Point.
+</source>
+        <target state="needs-translation">You Take the Point.
+</target>
+        <note>GoldSrc identifier: You_take_the_point</note>
+      </trans-unit>
+      <trans-unit id="s000187" resname="Hold_this_position">
+        <source xml:space="preserve">Hold This Position.
+</source>
+        <target state="needs-translation">Hold This Position.
+</target>
+        <note>GoldSrc identifier: Hold_this_position</note>
+      </trans-unit>
+      <trans-unit id="s000188" resname="Regroup_team">
+        <source xml:space="preserve">Regroup Team.
+</source>
+        <target state="needs-translation">Regroup Team.
+</target>
+        <note>GoldSrc identifier: Regroup_team</note>
+      </trans-unit>
+      <trans-unit id="s000189" resname="Follow_me">
+        <source xml:space="preserve">Follow Me.
+</source>
+        <target state="needs-translation">Follow Me.
+</target>
+        <note>GoldSrc identifier: Follow_me</note>
+      </trans-unit>
+      <trans-unit id="s000190" resname="Taking_fire">
+        <source xml:space="preserve">Taking Fire...Need Assistance!
+</source>
+        <target state="needs-translation">Taking Fire...Need Assistance!
+</target>
+        <note>GoldSrc identifier: Taking_fire</note>
+      </trans-unit>
+      <trans-unit id="s000191" resname="Go_go_go">
+        <source xml:space="preserve">Go go go!
+</source>
+        <target state="needs-translation">Go go go!
+</target>
+        <note>GoldSrc identifier: Go_go_go</note>
+      </trans-unit>
+      <trans-unit id="s000192" resname="Team_fall_back">
+        <source xml:space="preserve">Team, fall back!
+</source>
+        <target state="needs-translation">Team, fall back!
+</target>
+        <note>GoldSrc identifier: Team_fall_back</note>
+      </trans-unit>
+      <trans-unit id="s000193" resname="Stick_together_team">
+        <source xml:space="preserve">Stick together, team.
+</source>
+        <target state="needs-translation">Stick together, team.
+</target>
+        <note>GoldSrc identifier: Stick_together_team</note>
+      </trans-unit>
+      <trans-unit id="s000194" resname="Get_in_position_and_wait">
+        <source xml:space="preserve">Get in position and wait for my go.
+</source>
+        <target state="needs-translation">Get in position and wait for my go.
+</target>
+        <note>GoldSrc identifier: Get_in_position_and_wait</note>
+      </trans-unit>
+      <trans-unit id="s000195" resname="Storm_the_front">
+        <source xml:space="preserve">Storm the Front!
+</source>
+        <target state="needs-translation">Storm the Front!
+</target>
+        <note>GoldSrc identifier: Storm_the_front</note>
+      </trans-unit>
+      <trans-unit id="s000196" resname="Report_in_team">
+        <source xml:space="preserve">Report in, team.
+</source>
+        <target state="needs-translation">Report in, team.
+</target>
+        <note>GoldSrc identifier: Report_in_team</note>
+      </trans-unit>
+      <trans-unit id="s000197" resname="Affirmative">
+        <source xml:space="preserve">Affirmative.
+</source>
+        <target state="needs-translation">Affirmative.
+</target>
+        <note>GoldSrc identifier: Affirmative</note>
+      </trans-unit>
+      <trans-unit id="s000198" resname="Roger_that">
+        <source xml:space="preserve">Roger that.
+</source>
+        <target state="needs-translation">Roger that.
+</target>
+        <note>GoldSrc identifier: Roger_that</note>
+      </trans-unit>
+      <trans-unit id="s000199" resname="Enemy_spotted">
+        <source xml:space="preserve">Enemy spotted.
+</source>
+        <target state="needs-translation">Enemy spotted.
+</target>
+        <note>GoldSrc identifier: Enemy_spotted</note>
+      </trans-unit>
+      <trans-unit id="s000200" resname="Need_backup">
+        <source xml:space="preserve">Need backup.
+</source>
+        <target state="needs-translation">Need backup.
+</target>
+        <note>GoldSrc identifier: Need_backup</note>
+      </trans-unit>
+      <trans-unit id="s000201" resname="Sector_clear">
+        <source xml:space="preserve">Sector clear.
+</source>
+        <target state="needs-translation">Sector clear.
+</target>
+        <note>GoldSrc identifier: Sector_clear</note>
+      </trans-unit>
+      <trans-unit id="s000202" resname="In_position">
+        <source xml:space="preserve">I'm in position.
+</source>
+        <target state="needs-translation">I'm in position.
+</target>
+        <note>GoldSrc identifier: In_position</note>
+      </trans-unit>
+      <trans-unit id="s000203" resname="Reporting_in">
+        <source xml:space="preserve">Reporting in.
+</source>
+        <target state="needs-translation">Reporting in.
+</target>
+        <note>GoldSrc identifier: Reporting_in</note>
+      </trans-unit>
+      <trans-unit id="s000204" resname="Get_out_of_there">
+        <source xml:space="preserve">Get out of there, it's gonna blow!
+</source>
+        <target state="needs-translation">Get out of there, it's gonna blow!
+</target>
+        <note>GoldSrc identifier: Get_out_of_there</note>
+      </trans-unit>
+      <trans-unit id="s000205" resname="Negative">
+        <source xml:space="preserve">Negative.
+</source>
+        <target state="needs-translation">Negative.
+</target>
+        <note>GoldSrc identifier: Negative</note>
+      </trans-unit>
+      <trans-unit id="s000206" resname="Enemy_down">
+        <source xml:space="preserve">Enemy down.
+</source>
+        <target state="needs-translation">Enemy down.
+</target>
+        <note>GoldSrc identifier: Enemy_down</note>
+      </trans-unit>
+      <trans-unit id="s000207" resname="Hostage_down">
+        <source xml:space="preserve">Hostage down.
+</source>
+        <target state="needs-translation">Hostage down.
+</target>
+        <note>GoldSrc identifier: Hostage_down</note>
+      </trans-unit>
+      <trans-unit id="s000208" resname="Fire_in_the_hole">
+        <source xml:space="preserve">Fire in the hole!
+</source>
+        <target state="needs-translation">Fire in the hole!
+</target>
+        <note>GoldSrc identifier: Fire_in_the_hole</note>
+      </trans-unit>
+      <trans-unit id="s000209" resname="Cant_buy">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Cant_buy
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Cant_buy
+</target>
+        <note>GoldSrc identifier: Cant_buy</note>
+      </trans-unit>
+      <trans-unit id="s000210" resname="VIP_cant_buy">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_VIP_cant_buy
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_VIP_cant_buy
+</target>
+        <note>GoldSrc identifier: VIP_cant_buy</note>
+      </trans-unit>
+      <trans-unit id="s000211" resname="CT_cant_buy">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_CT_cant_buy
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_CT_cant_buy
+</target>
+        <note>GoldSrc identifier: CT_cant_buy</note>
+      </trans-unit>
+      <trans-unit id="s000212" resname="Terrorist_cant_buy">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Terrorist_cant_buy
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Terrorist_cant_buy
+</target>
+        <note>GoldSrc identifier: Terrorist_cant_buy</note>
+      </trans-unit>
+      <trans-unit id="s000213" resname="Vote">
+        <source xml:space="preserve">%s :  %s (%s vote)
+</source>
+        <target state="needs-translation">%s :  %s (%s vote)
+</target>
+        <note>GoldSrc identifier: Vote</note>
+      </trans-unit>
+      <trans-unit id="s000214" resname="Votes">
+        <source xml:space="preserve">%s :  %s (%s votes)
+</source>
+        <target state="needs-translation">%s :  %s (%s votes)
+</target>
+        <note>GoldSrc identifier: Votes</note>
+      </trans-unit>
+      <trans-unit id="s000215" resname="Hint_press_buy_to_purchase">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hint_press_buy_to_purchase
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hint_press_buy_to_purchase
+</target>
+        <note>GoldSrc identifier: Hint_press_buy_to_purchase</note>
+      </trans-unit>
+      <trans-unit id="s000216" resname="Hint_use_nightvision">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hint_use_nightvision
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hint_use_nightvision
+</target>
+        <note>GoldSrc identifier: Hint_use_nightvision</note>
+      </trans-unit>
+      <trans-unit id="s000217" resname="Hint_lost_money">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hint_lost_money
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hint_lost_money
+</target>
+        <note>GoldSrc identifier: Hint_lost_money</note>
+      </trans-unit>
+      <trans-unit id="s000218" resname="Hint_removed_for_next_hostage_killed">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hint_removed_for_next_hostage_killed
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hint_removed_for_next_hostage_killed
+</target>
+        <note>GoldSrc identifier: Hint_removed_for_next_hostage_killed</note>
+      </trans-unit>
+      <trans-unit id="s000219" resname="Hint_careful_around_hostages">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hint_careful_around_hostages
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hint_careful_around_hostages
+</target>
+        <note>GoldSrc identifier: Hint_careful_around_hostages</note>
+      </trans-unit>
+      <trans-unit id="s000220" resname="Hint_careful_around_teammates">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hint_careful_around_teammates
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hint_careful_around_teammates
+</target>
+        <note>GoldSrc identifier: Hint_careful_around_teammates</note>
+      </trans-unit>
+      <trans-unit id="s000221" resname="Hint_reward_for_killing_vip">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hint_reward_for_killing_vip
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hint_reward_for_killing_vip
+</target>
+        <note>GoldSrc identifier: Hint_reward_for_killing_vip</note>
+      </trans-unit>
+      <trans-unit id="s000222" resname="Hint_win_round_by_killing_enemy">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hint_win_round_by_killing_enemy
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hint_win_round_by_killing_enemy
+</target>
+        <note>GoldSrc identifier: Hint_win_round_by_killing_enemy</note>
+      </trans-unit>
+      <trans-unit id="s000223" resname="Hint_try_not_to_injure_teammates">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hint_try_not_to_injure_teammates
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hint_try_not_to_injure_teammates
+</target>
+        <note>GoldSrc identifier: Hint_try_not_to_injure_teammates</note>
+      </trans-unit>
+      <trans-unit id="s000224" resname="Hint_you_are_in_targetzone">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hint_you_are_in_targetzone
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hint_you_are_in_targetzone
+</target>
+        <note>GoldSrc identifier: Hint_you_are_in_targetzone</note>
+      </trans-unit>
+      <trans-unit id="s000225" resname="Hint_hostage_rescue_zone">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hint_hostage_rescue_zone
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hint_hostage_rescue_zone
+</target>
+        <note>GoldSrc identifier: Hint_hostage_rescue_zone</note>
+      </trans-unit>
+      <trans-unit id="s000226" resname="Hint_terrorist_escape_zone">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hint_terrorist_escape_zone
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hint_terrorist_escape_zone
+</target>
+        <note>GoldSrc identifier: Hint_terrorist_escape_zone</note>
+      </trans-unit>
+      <trans-unit id="s000227" resname="Hint_ct_vip_zone">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hint_ct_vip_zone
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hint_ct_vip_zone
+</target>
+        <note>GoldSrc identifier: Hint_ct_vip_zone</note>
+      </trans-unit>
+      <trans-unit id="s000228" resname="Hint_terrorist_vip_zone">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hint_terrorist_vip_zone
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hint_terrorist_vip_zone
+</target>
+        <note>GoldSrc identifier: Hint_terrorist_vip_zone</note>
+      </trans-unit>
+      <trans-unit id="s000229" resname="Hint_cannot_play_because_tk">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hint_cannot_play_because_tk
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hint_cannot_play_because_tk
+</target>
+        <note>GoldSrc identifier: Hint_cannot_play_because_tk</note>
+      </trans-unit>
+      <trans-unit id="s000230" resname="Hint_use_hostage_to_stop_him">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hint_use_hostage_to_stop_him
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hint_use_hostage_to_stop_him
+</target>
+        <note>GoldSrc identifier: Hint_use_hostage_to_stop_him</note>
+      </trans-unit>
+      <trans-unit id="s000231" resname="Hint_lead_hostage_to_rescue_point">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hint_lead_hostage_to_rescue_point
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hint_lead_hostage_to_rescue_point
+</target>
+        <note>GoldSrc identifier: Hint_lead_hostage_to_rescue_point</note>
+      </trans-unit>
+      <trans-unit id="s000232" resname="Hint_you_have_the_bomb">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hint_you_have_the_bomb
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hint_you_have_the_bomb
+</target>
+        <note>GoldSrc identifier: Hint_you_have_the_bomb</note>
+      </trans-unit>
+      <trans-unit id="s000233" resname="Hint_you_are_the_vip">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hint_you_are_the_vip
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hint_you_are_the_vip
+</target>
+        <note>GoldSrc identifier: Hint_you_are_the_vip</note>
+      </trans-unit>
+      <trans-unit id="s000234" resname="Hint_out_of_ammo">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hint_out_of_ammo
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hint_out_of_ammo
+</target>
+        <note>GoldSrc identifier: Hint_out_of_ammo</note>
+      </trans-unit>
+      <trans-unit id="s000235" resname="Hint_spotted_a_friend">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hint_spotted_a_friend
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hint_spotted_a_friend
+</target>
+        <note>GoldSrc identifier: Hint_spotted_a_friend</note>
+      </trans-unit>
+      <trans-unit id="s000236" resname="Hint_spotted_an_enemy">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hint_spotted_an_enemy
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hint_spotted_an_enemy
+</target>
+        <note>GoldSrc identifier: Hint_spotted_an_enemy</note>
+      </trans-unit>
+      <trans-unit id="s000237" resname="Hint_prevent_hostage_rescue">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hint_prevent_hostage_rescue
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hint_prevent_hostage_rescue
+</target>
+        <note>GoldSrc identifier: Hint_prevent_hostage_rescue</note>
+      </trans-unit>
+      <trans-unit id="s000238" resname="Hint_rescue_the_hostages">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hint_rescue_the_hostages
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hint_rescue_the_hostages
+</target>
+        <note>GoldSrc identifier: Hint_rescue_the_hostages</note>
+      </trans-unit>
+      <trans-unit id="s000239" resname="Hint_press_use_so_hostage_will_follow">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Hint_press_use_so_hostage_will_follow
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Hint_press_use_so_hostage_will_follow
+</target>
+        <note>GoldSrc identifier: Hint_press_use_so_hostage_will_follow</note>
+      </trans-unit>
+      <trans-unit id="s000240" resname="Friend">
+        <source xml:space="preserve">Friend
+</source>
+        <target state="needs-translation">Friend
+</target>
+        <note>GoldSrc identifier: Friend</note>
+      </trans-unit>
+      <trans-unit id="s000241" resname="Enemy">
+        <source xml:space="preserve">Enemy
+</source>
+        <target state="needs-translation">Enemy
+</target>
+        <note>GoldSrc identifier: Enemy</note>
+      </trans-unit>
+      <trans-unit id="s000242" resname="Hostage">
+        <source xml:space="preserve">Hostage
+</source>
+        <target state="needs-translation">Hostage
+</target>
+        <note>GoldSrc identifier: Hostage</note>
+      </trans-unit>
+      <trans-unit id="s000243" resname="Health">
+        <source xml:space="preserve">Health
+</source>
+        <target state="needs-translation">Health
+</target>
+        <note>GoldSrc identifier: Health</note>
+      </trans-unit>
+      <trans-unit id="s000244" resname="Map_descr_not_avail">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Map_descr_not_avail
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Map_descr_not_avail
+</target>
+        <note>GoldSrc identifier: Map_descr_not_avail</note>
+      </trans-unit>
+      <trans-unit id="s000245" resname="Class_descr_not_avail">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Class_descr_not_avail
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Class_descr_not_avail
+</target>
+        <note>GoldSrc identifier: Class_descr_not_avail</note>
+      </trans-unit>
+      <trans-unit id="s000246" resname="Title_terrorist_model_selection">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Title_terrorist_model_selection
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Title_terrorist_model_selection
+</target>
+        <note>GoldSrc identifier: Title_terrorist_model_selection</note>
+      </trans-unit>
+      <trans-unit id="s000247" resname="Phoenix_Connexion">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Phoenix_Connexion
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Phoenix_Connexion
+</target>
+        <note>GoldSrc identifier: Phoenix_Connexion</note>
+      </trans-unit>
+      <trans-unit id="s000248" resname="L337_Krew">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_L337_Krew
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_L337_Krew
+</target>
+        <note>GoldSrc identifier: L337_Krew</note>
+      </trans-unit>
+      <trans-unit id="s000249" resname="Arctic_Avengers">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Arctic_Avengers
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Arctic_Avengers
+</target>
+        <note>GoldSrc identifier: Arctic_Avengers</note>
+      </trans-unit>
+      <trans-unit id="s000250" resname="Guerilla_Warfare">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Guerilla_Warfare
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Guerilla_Warfare
+</target>
+        <note>GoldSrc identifier: Guerilla_Warfare</note>
+      </trans-unit>
+      <trans-unit id="s000251" resname="Auto_Select">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Auto_Select
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Auto_Select
+</target>
+        <note>GoldSrc identifier: Auto_Select</note>
+      </trans-unit>
+      <trans-unit id="s000252" resname="Title_ct_model_selection">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Title_ct_model_selection
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Title_ct_model_selection
+</target>
+        <note>GoldSrc identifier: Title_ct_model_selection</note>
+      </trans-unit>
+      <trans-unit id="s000253" resname="Seal_Team_6">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Seal_Team_6
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Seal_Team_6
+</target>
+        <note>GoldSrc identifier: Seal_Team_6</note>
+      </trans-unit>
+      <trans-unit id="s000254" resname="Title_seal_team">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Title_seal_team
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Title_seal_team
+</target>
+        <note>GoldSrc identifier: Title_seal_team</note>
+      </trans-unit>
+      <trans-unit id="s000255" resname="GSG_9">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_GSG_9
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_GSG_9
+</target>
+        <note>GoldSrc identifier: GSG_9</note>
+      </trans-unit>
+      <trans-unit id="s000256" resname="Title_gsg9">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Title_gsg9
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Title_gsg9
+</target>
+        <note>GoldSrc identifier: Title_gsg9</note>
+      </trans-unit>
+      <trans-unit id="s000257" resname="SAS">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_SAS
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_SAS
+</target>
+        <note>GoldSrc identifier: SAS</note>
+      </trans-unit>
+      <trans-unit id="s000258" resname="Title_sas">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Title_sas
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Title_sas
+</target>
+        <note>GoldSrc identifier: Title_sas</note>
+      </trans-unit>
+      <trans-unit id="s000259" resname="GIGN">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_GIGN
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_GIGN
+</target>
+        <note>GoldSrc identifier: GIGN</note>
+      </trans-unit>
+      <trans-unit id="s000260" resname="Title_gign">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Title_gign
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Title_gign
+</target>
+        <note>GoldSrc identifier: Title_gign</note>
+      </trans-unit>
+      <trans-unit id="s000261" resname="Title_select_category_of_purchase">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Title_select_category_of_purchase
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Title_select_category_of_purchase
+</target>
+        <note>GoldSrc identifier: Title_select_category_of_purchase</note>
+      </trans-unit>
+      <trans-unit id="s000262" resname="Title_equipment_selection">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Title_equipment_selection
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Title_equipment_selection
+</target>
+        <note>GoldSrc identifier: Title_equipment_selection</note>
+      </trans-unit>
+      <trans-unit id="s000263" resname="Kevlar">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Kevlar
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Kevlar
+</target>
+        <note>GoldSrc identifier: Kevlar</note>
+      </trans-unit>
+      <trans-unit id="s000264" resname="Kevlar_Vest">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Kevlar_Vest
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Kevlar_Vest
+</target>
+        <note>GoldSrc identifier: Kevlar_Vest</note>
+      </trans-unit>
+      <trans-unit id="s000265" resname="Kevlar_Helmet">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Kevlar_Helmet
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Kevlar_Helmet
+</target>
+        <note>GoldSrc identifier: Kevlar_Helmet</note>
+      </trans-unit>
+      <trans-unit id="s000266" resname="Kevlar_Vest_Ballistic_Helmet">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Kevlar_Vest_Ballistic_Helmet
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Kevlar_Vest_Ballistic_Helmet
+</target>
+        <note>GoldSrc identifier: Kevlar_Vest_Ballistic_Helmet</note>
+      </trans-unit>
+      <trans-unit id="s000267" resname="Flashbang">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Flashbang
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Flashbang
+</target>
+        <note>GoldSrc identifier: Flashbang</note>
+      </trans-unit>
+      <trans-unit id="s000268" resname="HE_Grenade">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_HE_Grenade
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_HE_Grenade
+</target>
+        <note>GoldSrc identifier: HE_Grenade</note>
+      </trans-unit>
+      <trans-unit id="s000269" resname="High_Explosive_Grenade">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_High_Explosive_Grenade
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_High_Explosive_Grenade
+</target>
+        <note>GoldSrc identifier: High_Explosive_Grenade</note>
+      </trans-unit>
+      <trans-unit id="s000270" resname="Smoke_Grenade">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Smoke_Grenade
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Smoke_Grenade
+</target>
+        <note>GoldSrc identifier: Smoke_Grenade</note>
+      </trans-unit>
+      <trans-unit id="s000271" resname="Defusal_Kit">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Defusal_Kit
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Defusal_Kit
+</target>
+        <note>GoldSrc identifier: Defusal_Kit</note>
+      </trans-unit>
+      <trans-unit id="s000272" resname="Bomb_Defusal_Kit">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Bomb_Defusal_Kit
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Bomb_Defusal_Kit
+</target>
+        <note>GoldSrc identifier: Bomb_Defusal_Kit</note>
+      </trans-unit>
+      <trans-unit id="s000273" resname="NightVision">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_NightVision
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_NightVision
+</target>
+        <note>GoldSrc identifier: NightVision</note>
+      </trans-unit>
+      <trans-unit id="s000274" resname="Nightvision_Goggles">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Nightvision_Goggles
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Nightvision_Goggles
+</target>
+        <note>GoldSrc identifier: Nightvision_Goggles</note>
+      </trans-unit>
+      <trans-unit id="s000275" resname="TactShield">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_TactShield
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_TactShield
+</target>
+        <note>GoldSrc identifier: TactShield</note>
+      </trans-unit>
+      <trans-unit id="s000276" resname="TactShield_Desc">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_TactShield_Desc
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_TactShield_Desc
+</target>
+        <note>GoldSrc identifier: TactShield_Desc</note>
+      </trans-unit>
+      <trans-unit id="s000277" resname="Title_pistol_selection">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Title_pistol_selection
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Title_pistol_selection
+</target>
+        <note>GoldSrc identifier: Title_pistol_selection</note>
+      </trans-unit>
+      <trans-unit id="s000278" resname="Pistols">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Pistols
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Pistols
+</target>
+        <note>GoldSrc identifier: Pistols</note>
+      </trans-unit>
+      <trans-unit id="s000279" resname="Buy_pistols">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Buy_pistols
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Buy_pistols
+</target>
+        <note>GoldSrc identifier: Buy_pistols</note>
+      </trans-unit>
+      <trans-unit id="s000280" resname="Title_shotgun_selection">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Title_shotgun_selection
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Title_shotgun_selection
+</target>
+        <note>GoldSrc identifier: Title_shotgun_selection</note>
+      </trans-unit>
+      <trans-unit id="s000281" resname="Shotguns">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Shotguns
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Shotguns
+</target>
+        <note>GoldSrc identifier: Shotguns</note>
+      </trans-unit>
+      <trans-unit id="s000282" resname="Buy_shotguns">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Buy_shotguns
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Buy_shotguns
+</target>
+        <note>GoldSrc identifier: Buy_shotguns</note>
+      </trans-unit>
+      <trans-unit id="s000283" resname="Title_smg_selection">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Title_smg_selection
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Title_smg_selection
+</target>
+        <note>GoldSrc identifier: Title_smg_selection</note>
+      </trans-unit>
+      <trans-unit id="s000284" resname="SMGs">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_SMGs
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_SMGs
+</target>
+        <note>GoldSrc identifier: SMGs</note>
+      </trans-unit>
+      <trans-unit id="s000285" resname="Buy_smgs">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Buy_smgs
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Buy_smgs
+</target>
+        <note>GoldSrc identifier: Buy_smgs</note>
+      </trans-unit>
+      <trans-unit id="s000286" resname="Title_rifle_selection">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Title_rifle_selection
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Title_rifle_selection
+</target>
+        <note>GoldSrc identifier: Title_rifle_selection</note>
+      </trans-unit>
+      <trans-unit id="s000287" resname="Rifles">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Rifles
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Rifles
+</target>
+        <note>GoldSrc identifier: Rifles</note>
+      </trans-unit>
+      <trans-unit id="s000288" resname="Buy_rifles">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Buy_rifles
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Buy_rifles
+</target>
+        <note>GoldSrc identifier: Buy_rifles</note>
+      </trans-unit>
+      <trans-unit id="s000289" resname="Title_machinegun_selection">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Title_machinegun_selection
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Title_machinegun_selection
+</target>
+        <note>GoldSrc identifier: Title_machinegun_selection</note>
+      </trans-unit>
+      <trans-unit id="s000290" resname="MachineGuns">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_MachineGuns
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_MachineGuns
+</target>
+        <note>GoldSrc identifier: MachineGuns</note>
+      </trans-unit>
+      <trans-unit id="s000291" resname="Buy_machineguns">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Buy_machineguns
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Buy_machineguns
+</target>
+        <note>GoldSrc identifier: Buy_machineguns</note>
+      </trans-unit>
+      <trans-unit id="s000292" resname="Prim_Ammo">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Prim_Ammo
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Prim_Ammo
+</target>
+        <note>GoldSrc identifier: Prim_Ammo</note>
+      </trans-unit>
+      <trans-unit id="s000293" resname="Buy_prim_ammo">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Buy_prim_ammo
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Buy_prim_ammo
+</target>
+        <note>GoldSrc identifier: Buy_prim_ammo</note>
+      </trans-unit>
+      <trans-unit id="s000294" resname="Sec_Ammo">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Sec_Ammo
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Sec_Ammo
+</target>
+        <note>GoldSrc identifier: Sec_Ammo</note>
+      </trans-unit>
+      <trans-unit id="s000295" resname="Buy_sec_ammo">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Buy_sec_ammo
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Buy_sec_ammo
+</target>
+        <note>GoldSrc identifier: Buy_sec_ammo</note>
+      </trans-unit>
+      <trans-unit id="s000296" resname="Equipment">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Equipment
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Equipment
+</target>
+        <note>GoldSrc identifier: Equipment</note>
+      </trans-unit>
+      <trans-unit id="s000297" resname="Buy_equipment">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Buy_equipment
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Buy_equipment
+</target>
+        <note>GoldSrc identifier: Buy_equipment</note>
+      </trans-unit>
+      <trans-unit id="s000298" resname="Terrorist_Forces">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Terrorist_Forces
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Terrorist_Forces
+</target>
+        <note>GoldSrc identifier: Terrorist_Forces</note>
+      </trans-unit>
+      <trans-unit id="s000299" resname="CT_Forces">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_CT_Forces
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_CT_Forces
+</target>
+        <note>GoldSrc identifier: CT_Forces</note>
+      </trans-unit>
+      <trans-unit id="s000300" resname="VIP">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_VIP
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_VIP
+</target>
+        <note>GoldSrc identifier: VIP</note>
+      </trans-unit>
+      <trans-unit id="s000301" resname="WINS">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_WINS
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_WINS
+</target>
+        <note>GoldSrc identifier: WINS</note>
+      </trans-unit>
+      <trans-unit id="s000302" resname="BOMB">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_BOMB
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_BOMB
+</target>
+        <note>GoldSrc identifier: BOMB</note>
+      </trans-unit>
+      <trans-unit id="s000303" resname="DEAD">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_DEAD
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_DEAD
+</target>
+        <note>GoldSrc identifier: DEAD</note>
+      </trans-unit>
+      <trans-unit id="s000304" resname="SCORES">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_SCORES
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_SCORES
+</target>
+        <note>GoldSrc identifier: SCORES</note>
+      </trans-unit>
+      <trans-unit id="s000305" resname="Player">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Player
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Player
+</target>
+        <note>GoldSrc identifier: Player</note>
+      </trans-unit>
+      <trans-unit id="s000306" resname="Player_plural">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Player_plural
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Player_plural
+</target>
+        <note>GoldSrc identifier: Player_plural</note>
+      </trans-unit>
+      <trans-unit id="s000307" resname="Got_defuser">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Got_defuser
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Got_defuser
+</target>
+        <note>GoldSrc identifier: Got_defuser</note>
+      </trans-unit>
+      <trans-unit id="s000308" resname="Got_bomb">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Got_bomb
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Got_bomb
+</target>
+        <note>GoldSrc identifier: Got_bomb</note>
+      </trans-unit>
+      <trans-unit id="s000309" resname="Mic_Volume">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Mic_Volume
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Mic_Volume
+</target>
+        <note>GoldSrc identifier: Mic_Volume</note>
+      </trans-unit>
+      <trans-unit id="s000310" resname="Speaker_Volume">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Speaker_Volume
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Speaker_Volume
+</target>
+        <note>GoldSrc identifier: Speaker_Volume</note>
+      </trans-unit>
+      <trans-unit id="s000311" resname="Voice_Properties">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Voice_Properties
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Voice_Properties
+</target>
+        <note>GoldSrc identifier: Voice_Properties</note>
+      </trans-unit>
+      <trans-unit id="s000312" resname="Cannot_Be_Spectator">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Cannot_Be_Spectator
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Cannot_Be_Spectator
+</target>
+        <note>GoldSrc identifier: Cannot_Be_Spectator</note>
+      </trans-unit>
+      <trans-unit id="s000313" resname="Map_Description_not_available">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Map_Description_not_available
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Map_Description_not_available
+</target>
+        <note>GoldSrc identifier: Map_Description_not_available</note>
+      </trans-unit>
+      <trans-unit id="s000314" resname="Muted">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Muted
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Muted
+</target>
+        <note>GoldSrc identifier: Muted</note>
+      </trans-unit>
+      <trans-unit id="s000315" resname="Unmuted">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Unmuted
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Unmuted
+</target>
+        <note>GoldSrc identifier: Unmuted</note>
+      </trans-unit>
+      <trans-unit id="s000316" resname="No_longer_hear_that_player">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_No_longer_hear_that_player
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_No_longer_hear_that_player
+</target>
+        <note>GoldSrc identifier: No_longer_hear_that_player</note>
+      </trans-unit>
+      <trans-unit id="s000317" resname="OBS_NONE">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_OBS_NONE
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_OBS_NONE
+</target>
+        <note>GoldSrc identifier: OBS_NONE</note>
+      </trans-unit>
+      <trans-unit id="s000318" resname="OBS_CHASE_LOCKED">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_OBS_CHASE_LOCKED
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_OBS_CHASE_LOCKED
+</target>
+        <note>GoldSrc identifier: OBS_CHASE_LOCKED</note>
+      </trans-unit>
+      <trans-unit id="s000319" resname="OBS_CHASE_FREE">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_OBS_CHASE_FREE
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_OBS_CHASE_FREE
+</target>
+        <note>GoldSrc identifier: OBS_CHASE_FREE</note>
+      </trans-unit>
+      <trans-unit id="s000320" resname="OBS_ROAMING">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_OBS_ROAMING
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_OBS_ROAMING
+</target>
+        <note>GoldSrc identifier: OBS_ROAMING</note>
+      </trans-unit>
+      <trans-unit id="s000321" resname="OBS_IN_EYE">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_OBS_IN_EYE
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_OBS_IN_EYE
+</target>
+        <note>GoldSrc identifier: OBS_IN_EYE</note>
+      </trans-unit>
+      <trans-unit id="s000322" resname="OBS_MAP_FREE">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_OBS_MAP_FREE
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_OBS_MAP_FREE
+</target>
+        <note>GoldSrc identifier: OBS_MAP_FREE</note>
+      </trans-unit>
+      <trans-unit id="s000323" resname="OBS_MAP_CHASE">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_OBS_MAP_CHASE
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_OBS_MAP_CHASE
+</target>
+        <note>GoldSrc identifier: OBS_MAP_CHASE</note>
+      </trans-unit>
+      <trans-unit id="s000324" resname="SPECT_OPTIONS">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_SPECT_OPTIONS
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_SPECT_OPTIONS
+</target>
+        <note>GoldSrc identifier: SPECT_OPTIONS</note>
+      </trans-unit>
+      <trans-unit id="s000325" resname="CAM_OPTIONS">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_CAM_OPTIONS
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_CAM_OPTIONS
+</target>
+        <note>GoldSrc identifier: CAM_OPTIONS</note>
+      </trans-unit>
+      <trans-unit id="s000326" resname="Name_change_at_respawn">
+        <source xml:space="preserve">Your name will be changed after your next respawn.
+</source>
+        <target state="needs-translation">Your name will be changed after your next respawn.
+</target>
+        <note>GoldSrc identifier: Name_change_at_respawn</note>
+      </trans-unit>
+      <trans-unit id="s000327" resname="C4_Defuse_Must_Be_On_Ground">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_C4_Defuse_Must_Be_On_Ground
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_C4_Defuse_Must_Be_On_Ground
+</target>
+        <note>GoldSrc identifier: C4_Defuse_Must_Be_On_Ground</note>
+      </trans-unit>
+      <trans-unit id="s000328" resname="Spec_Mode1">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Spec_Mode1
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Spec_Mode1
+</target>
+        <note>GoldSrc identifier: Spec_Mode1</note>
+      </trans-unit>
+      <trans-unit id="s000329" resname="Spec_Mode2">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Spec_Mode2
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Spec_Mode2
+</target>
+        <note>GoldSrc identifier: Spec_Mode2</note>
+      </trans-unit>
+      <trans-unit id="s000330" resname="Spec_Mode3">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Spec_Mode3
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Spec_Mode3
+</target>
+        <note>GoldSrc identifier: Spec_Mode3</note>
+      </trans-unit>
+      <trans-unit id="s000331" resname="Spec_Mode4">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Spec_Mode4
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Spec_Mode4
+</target>
+        <note>GoldSrc identifier: Spec_Mode4</note>
+      </trans-unit>
+      <trans-unit id="s000332" resname="Spec_Mode5">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Spec_Mode5
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Spec_Mode5
+</target>
+        <note>GoldSrc identifier: Spec_Mode5</note>
+      </trans-unit>
+      <trans-unit id="s000333" resname="Spec_Mode6">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Spec_Mode6
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Spec_Mode6
+</target>
+        <note>GoldSrc identifier: Spec_Mode6</note>
+      </trans-unit>
+      <trans-unit id="s000334" resname="Spec_NoTarget">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Spec_NoTarget
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Spec_NoTarget
+</target>
+        <note>GoldSrc identifier: Spec_NoTarget</note>
+      </trans-unit>
+      <trans-unit id="s000335" resname="Spec_Help_Title">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Spec_Help_Title
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Spec_Help_Title
+</target>
+        <note>GoldSrc identifier: Spec_Help_Title</note>
+      </trans-unit>
+      <trans-unit id="s000336" resname="Spec_Help_Text">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Spec_Help_Text
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Spec_Help_Text
+</target>
+        <note>GoldSrc identifier: Spec_Help_Text</note>
+      </trans-unit>
+      <trans-unit id="s000337" resname="Spec_Slow_Motion">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Spec_Slow_Motion
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Spec_Slow_Motion
+</target>
+        <note>GoldSrc identifier: Spec_Slow_Motion</note>
+      </trans-unit>
+      <trans-unit id="s000338" resname="Spec_Replay">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Spec_Replay
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Spec_Replay
+</target>
+        <note>GoldSrc identifier: Spec_Replay</note>
+      </trans-unit>
+      <trans-unit id="s000339" resname="Spec_Auto">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Spec_Auto
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Spec_Auto
+</target>
+        <note>GoldSrc identifier: Spec_Auto</note>
+      </trans-unit>
+      <trans-unit id="s000340" resname="Spec_Time">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Spec_Time
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Spec_Time
+</target>
+        <note>GoldSrc identifier: Spec_Time</note>
+      </trans-unit>
+      <trans-unit id="s000341" resname="Spec_Map">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Spec_Map
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Spec_Map
+</target>
+        <note>GoldSrc identifier: Spec_Map</note>
+      </trans-unit>
+      <trans-unit id="s000342" resname="Spectators">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Spectators
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Spectators
+</target>
+        <note>GoldSrc identifier: Spectators</note>
+      </trans-unit>
+      <trans-unit id="s000343" resname="Unassigned">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Unassigned
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Unassigned
+</target>
+        <note>GoldSrc identifier: Unassigned</note>
+      </trans-unit>
+      <trans-unit id="s000344" resname="Only_CT_Can_Move_Hostages">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Only_CT_Can_Move_Hostages
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Only_CT_Can_Move_Hostages
+</target>
+        <note>GoldSrc identifier: Only_CT_Can_Move_Hostages</note>
+      </trans-unit>
+      <trans-unit id="s000345" resname="Spec_Duck">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Spec_Duck
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Spec_Duck
+</target>
+        <note>GoldSrc identifier: Spec_Duck</note>
+      </trans-unit>
+      <trans-unit id="s000346" resname="Spec_Not_Valid_Choice">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Spec_Not_Valid_Choice
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Spec_Not_Valid_Choice
+</target>
+        <note>GoldSrc identifier: Spec_Not_Valid_Choice</note>
+      </trans-unit>
+      <trans-unit id="s000347" resname="Spec_Not_In_Spectator_Mode">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Spec_Not_In_Spectator_Mode
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Spec_Not_In_Spectator_Mode
+</target>
+        <note>GoldSrc identifier: Spec_Not_In_Spectator_Mode</note>
+      </trans-unit>
+      <trans-unit id="s000348" resname="Spec_NoPlayers">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Spec_NoPlayers
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Spec_NoPlayers
+</target>
+        <note>GoldSrc identifier: Spec_NoPlayers</note>
+      </trans-unit>
+      <trans-unit id="s000349" resname="Spec_ListPlayers">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Spec_ListPlayers
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Spec_ListPlayers
+</target>
+        <note>GoldSrc identifier: Spec_ListPlayers</note>
+      </trans-unit>
+      <trans-unit id="s000350" resname="Selection_Not_Available">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Selection_Not_Available
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Selection_Not_Available
+</target>
+        <note>GoldSrc identifier: Selection_Not_Available</note>
+      </trans-unit>
+      <trans-unit id="s000351" resname="Alias_Not_Avail">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Alias_Not_Avail
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Alias_Not_Avail
+</target>
+        <note>GoldSrc identifier: Alias_Not_Avail</note>
+      </trans-unit>
+      <trans-unit id="s000352" resname="Spec_No_PIP">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Spec_No_PIP
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Spec_No_PIP
+</target>
+        <note>GoldSrc identifier: Spec_No_PIP</note>
+      </trans-unit>
+      <trans-unit id="s000353" resname="Cstrike_Already_Own_Weapon">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Cstrike_Already_Own_Weapon
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Cstrike_Already_Own_Weapon
+</target>
+        <note>GoldSrc identifier: Cstrike_Already_Own_Weapon</note>
       </trans-unit>
     </body>
   </file>
