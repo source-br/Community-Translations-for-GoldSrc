@@ -1,5 +1,3 @@
 files:
-  - source: Crowdin
-    translation: Crowdin
   - source: /Crowdin
-    translation: /Crowdin/*/%language%/%original_file_name%
+    translation: /%original_path%/%locale%/%original_file_name%
