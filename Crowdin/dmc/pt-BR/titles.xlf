@@ -5,7 +5,7 @@
       <trans-unit id="s000001" resname="SECRETAREA">
         <source xml:space="preserve">You Found A Secret Area!
 </source>
-        <target state="needs-translation">You Found A Secret Area!
+        <target state="translated">Você encontrou uma área secreta!
 </target>
         <note>GoldSrc identifier: SECRETAREA</note>
       </trans-unit>
@@ -46,7 +46,7 @@
       <trans-unit id="s000004" resname="Unassigned">
         <source xml:space="preserve">Unassigned
 </source>
-        <target state="needs-translation">Unassigned
+        <target state="translated">Não escolhido
 </target>
         <note>GoldSrc identifier: Unassigned</note>
       </trans-unit>
@@ -88,21 +88,19 @@
       <trans-unit id="s000010" resname="Spec_Mode1">
         <source xml:space="preserve">Locked Chase-Camera
 </source>
-        <target state="needs-translation">Locked Chase-Camera
-</target>
+        <target state="translated">Câmera fixa seguindo um jogador</target>
         <note>GoldSrc identifier: Spec_Mode1</note>
       </trans-unit>
       <trans-unit id="s000011" resname="Spec_Mode2">
         <source xml:space="preserve">Free Chase-Camera
 </source>
-        <target state="needs-translation">Free Chase-Camera
-</target>
+        <target state="translated">Câmera livre seguindo um jogador</target>
         <note>GoldSrc identifier: Spec_Mode2</note>
       </trans-unit>
       <trans-unit id="s000012" resname="Spec_Mode3">
         <source xml:space="preserve">Free Roaming
 </source>
-        <target state="needs-translation">Free Roaming
+        <target state="translated">Visão livre
 </target>
         <note>GoldSrc identifier: Spec_Mode3</note>
       </trans-unit>
@@ -123,7 +121,7 @@
       <trans-unit id="s000015" resname="Directed">
         <source xml:space="preserve">Auto
 </source>
-        <target state="needs-translation">Auto
+        <target state="translated">Automático
 </target>
         <note>GoldSrc identifier: Directed</note>
       </trans-unit>
@@ -144,7 +142,7 @@
       <trans-unit id="s000018" resname="Spec_Help_Title">
         <source xml:space="preserve">Spectator Mode
 </source>
-        <target state="needs-translation">Spectator Mode
+        <target state="translated">Modo espectador
 </target>
         <note>GoldSrc identifier: Spec_Help_Title</note>
       </trans-unit>
@@ -166,22 +164,22 @@ In Overview Map Mode move around with:
  BACK - zoom out
  MOUSE - rotate around map/target
 </source>
-        <target state="needs-translation">Use the following keys to change view styles:
+        <target state="translated">Use as seguintes teclas para alterar estilos de visão:
 
- FIRE1 - Chase next player
- FIRE2 - Chase previous player
- JUMP - Change view modes
- USE - Change inset window mode
+ DISPARO1 - Acompanhar o próximo jogador
+ DISPARO2 - Acompanhar o jogador anterior
+ PULAR - Alternar o modo de visão
+ USAR - Alternar o modo de janela
  
- DUCK  - Enable spectator menu
-  
-In Overview Map Mode move around with:
+ AGACHAR - Ativa menu de espectador
+ 
+Na visão geral do mapa, movimente-se com:
 
- MOVELEFT - move left
- MOVERIGHT - move right
- FORWARD - zoom in
- BACK - zoom out
- MOUSE - rotate around map/target
+ MOVERESQ - mover-se para a esquerda
+ MOVERDIR - mover-se para a direita
+ AVANÇAR - aumentar zoom
+ RECUAR - diminuir zoom
+ MOUSE - girar em torno do mapa/alvo
 </target>
         <note>GoldSrc identifier: Spec_Help_Text</note>
       </trans-unit>
@@ -213,24 +211,24 @@ In Overview Map Mode move around with:
 </target>
         <note>GoldSrc identifier: Spec_Help2</note>
       </trans-unit>
-      <trans-unit id="s000024" resname="Spectators">
+      <trans-unit id="s000024" resname="Spectators" approved="yes">
         <source xml:space="preserve">Spectators
 </source>
-        <target state="needs-translation">Spectators
+        <target state="final">Espectadores
 </target>
         <note>GoldSrc identifier: Spectators</note>
       </trans-unit>
-      <trans-unit id="s000025" resname="TEAMS">
+      <trans-unit id="s000025" resname="TEAMS" approved="yes">
         <source xml:space="preserve">TEAMS
 </source>
-        <target state="needs-translation">TEAMS
+        <target state="final">EQUIPES
 </target>
         <note>GoldSrc identifier: TEAMS</note>
       </trans-unit>
-      <trans-unit id="s000026" resname="PLAYERS">
+      <trans-unit id="s000026" resname="PLAYERS" approved="yes">
         <source xml:space="preserve">PLAYERS
 </source>
-        <target state="needs-translation">PLAYERS
+        <target state="final">JOGADORES
 </target>
         <note>GoldSrc identifier: PLAYERS</note>
       </trans-unit>
@@ -241,31 +239,31 @@ In Overview Map Mode move around with:
 </target>
         <note>GoldSrc identifier: SCORE</note>
       </trans-unit>
-      <trans-unit id="s000028" resname="DEATHS">
+      <trans-unit id="s000028" resname="DEATHS" approved="yes">
         <source xml:space="preserve">DEATHS
 </source>
-        <target state="needs-translation">DEATHS
+        <target state="final">MORTES
 </target>
         <note>GoldSrc identifier: DEATHS</note>
       </trans-unit>
-      <trans-unit id="s000029" resname="LATENCY">
+      <trans-unit id="s000029" resname="LATENCY" approved="yes">
         <source xml:space="preserve">LATENCY
 </source>
-        <target state="needs-translation">LATENCY
+        <target state="final">LATÊNCIA
 </target>
         <note>GoldSrc identifier: LATENCY</note>
       </trans-unit>
-      <trans-unit id="s000030" resname="Menu_OK">
+      <trans-unit id="s000030" resname="Menu_OK" approved="yes">
         <source xml:space="preserve">OK
 </source>
-        <target state="needs-translation">OK
+        <target state="final">OK
 </target>
         <note>GoldSrc identifier: Menu_OK</note>
       </trans-unit>
-      <trans-unit id="s000031" resname="Menu_Cancel">
+      <trans-unit id="s000031" resname="Menu_Cancel" approved="yes">
         <source xml:space="preserve">CANCEL
 </source>
-        <target state="needs-translation">CANCEL
+        <target state="final">CANCELAR
 </target>
         <note>GoldSrc identifier: Menu_Cancel</note>
       </trans-unit>
@@ -402,10 +400,10 @@ In Overview Map Mode move around with:
 </target>
         <note>GoldSrc identifier: Voice_Properties</note>
       </trans-unit>
-      <trans-unit id="s000051" resname="VOICE">
+      <trans-unit id="s000051" resname="VOICE" approved="yes">
         <source xml:space="preserve">VOICE
 </source>
-        <target state="needs-translation">VOICE
+        <target state="final">VOZ
 </target>
         <note>GoldSrc identifier: VOICE</note>
       </trans-unit>
@@ -419,14 +417,14 @@ In Overview Map Mode move around with:
       <trans-unit id="s000053" resname="Player">
         <source xml:space="preserve">player
 </source>
-        <target state="needs-translation">player
+        <target state="translated">jogador
 </target>
         <note>GoldSrc identifier: Player</note>
       </trans-unit>
       <trans-unit id="s000054" resname="Player_plural">
         <source xml:space="preserve">players
 </source>
-        <target state="needs-translation">players
+        <target state="translated">jogadores
 </target>
         <note>GoldSrc identifier: Player_plural</note>
       </trans-unit>
@@ -454,28 +452,28 @@ In Overview Map Mode move around with:
       <trans-unit id="s000058" resname="Spec_Duck">
         <source xml:space="preserve">Press DUCK for Spectator Menu
 </source>
-        <target state="needs-translation">Press DUCK for Spectator Menu
+        <target state="translated">Pressione AGACHAR para ver o menu de espectador
 </target>
         <note>GoldSrc identifier: Spec_Duck</note>
       </trans-unit>
       <trans-unit id="s000059" resname="Spec_Auto">
         <source xml:space="preserve">Auto
 </source>
-        <target state="needs-translation">Auto
+        <target state="translated">Automático
 </target>
         <note>GoldSrc identifier: Spec_Auto</note>
       </trans-unit>
       <trans-unit id="s000060" resname="Spec_Slow_Motion">
         <source xml:space="preserve">Slow Motion
 </source>
-        <target state="needs-translation">Slow Motion
+        <target state="translated">Câmera lenta
 </target>
         <note>GoldSrc identifier: Spec_Slow_Motion</note>
       </trans-unit>
       <trans-unit id="s000061" resname="Spec_Replay">
         <source xml:space="preserve">Instant Replay
 </source>
-        <target state="needs-translation">Instant Replay
+        <target state="translated">Replay instantâneo
 </target>
         <note>GoldSrc identifier: Spec_Replay</note>
       </trans-unit>
