@@ -221,16 +221,16 @@
 
 \w0. Exit
 </source>
-        <target state="needs-translation">\yBuy Equipment\R$   Cost
+        <target state="translated">\yComprar Equipamento\R$ Custo
 
-\w1. Kevlar Vest\y\R650
-\w2. Kevlar Vest &amp; Helmet\y\R1000
-\w3. Flashbang\y\R200	
-\w4. HE Grenade\y\R300
-\w5. Smoke Grenade\y\R300
-\w6. NightVision Goggles\y\R1250
-\d7. Defuse Kit\y\R200
-\w8. Tactical Shield\y\R2200
+\w1. Colete Kevlar\y\R650
+\w2. Colete Kevlar &amp; Capacete\y\R1000
+\w3. Granada de luz\y\R200
+\w4. Granada Explosiva\y\R300
+\w5. Granada de Fumaça\y\R300
+\w6. Óculos de Visão Noturna\y\R1250
+\d7. Kit de Desarme\y\R200
+\w8. Escudo Tático\y\R2200
 
 \w0. Exit
 </target>
@@ -248,16 +248,16 @@
 
 \w0. Exit
 </source>
-        <target state="needs-translation">\yBuy Equipment\R$   Cost
+        <target state="translated">\yComprar Equipamento\R$ Custo
 
-\w1. Kevlar Vest\y\R650
-\w2. Kevlar Vest &amp; Helmet\y\R1000
-\w3. Flashbang\y\R200	
-\w4. HE Grenade\y\R300
-\w5. Smoke Grenade\y\R300
-\w6. NightVision Goggles\y\R1250
+\w1. Colete Kevlar\y\R650
+\w2. Colete Kevlar &amp; Capacete\y\R1000
+\w3. Flashbang\y\R200
+\w4. Granada Explosiva\y\R300
+\w5. Granada de Fumaça\y\R300
+\w6. Óculos de Visão Noturna\y\R1250
 
-\w0. Exit
+\w0. Sair
 </target>
         <note>GoldSrc identifier: T_BuyItem</note>
       </trans-unit>
