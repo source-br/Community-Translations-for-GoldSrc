@@ -1,9 +1,1269 @@
-Bem-vindo ao Deathmatch Classic
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="titles.txt" target-language="pt-BR">
+    <body>
+      <trans-unit id="s000001" resname="CR27">
+        <source xml:space="preserve">Black Mesa Research Facility
+Black Mesa, New Mexico
+</source>
+        <target state="translated">Instalação de pesquisa Black Mesa
+Black Mesa, Novo México
+</target>
+        <note>GoldSrc identifier: CR27</note>
+      </trans-unit>
+      <trans-unit id="s000002" resname="CR1">
+        <source xml:space="preserve">Ted Backman
+</source>
+        <target state="needs-translation">Ted Backman
+</target>
+        <note>GoldSrc identifier: CR1</note>
+      </trans-unit>
+      <trans-unit id="s000003" resname="CR2">
+        <source xml:space="preserve">TK Backman
+</source>
+        <target state="needs-translation">TK Backman
+</target>
+        <note>GoldSrc identifier: CR2</note>
+      </trans-unit>
+      <trans-unit id="s000004" resname="CR3">
+        <source xml:space="preserve">Kelly Bailey
+</source>
+        <target state="needs-translation">Kelly Bailey
+</target>
+        <note>GoldSrc identifier: CR3</note>
+      </trans-unit>
+      <trans-unit id="s000005" resname="CR4">
+        <source xml:space="preserve">Yahn Bernier
+</source>
+        <target state="needs-translation">Yahn Bernier
+</target>
+        <note>GoldSrc identifier: CR4</note>
+      </trans-unit>
+      <trans-unit id="s000006" resname="CR5">
+        <source xml:space="preserve">Ken Birdwell
+</source>
+        <target state="needs-translation">Ken Birdwell
+</target>
+        <note>GoldSrc identifier: CR5</note>
+      </trans-unit>
+      <trans-unit id="s000007" resname="CR6">
+        <source xml:space="preserve">Steve Bond
+</source>
+        <target state="needs-translation">Steve Bond
+</target>
+        <note>GoldSrc identifier: CR6</note>
+      </trans-unit>
+      <trans-unit id="s000008" resname="CR7">
+        <source xml:space="preserve">Dario Casali
+</source>
+        <target state="needs-translation">Dario Casali
+</target>
+        <note>GoldSrc identifier: CR7</note>
+      </trans-unit>
+      <trans-unit id="s000009" resname="CR8">
+        <source xml:space="preserve">John Cook
+</source>
+        <target state="needs-translation">John Cook
+</target>
+        <note>GoldSrc identifier: CR8</note>
+      </trans-unit>
+      <trans-unit id="s000010" resname="CR9">
+        <source xml:space="preserve">Greg Coomer
+</source>
+        <target state="needs-translation">Greg Coomer
+</target>
+        <note>GoldSrc identifier: CR9</note>
+      </trans-unit>
+      <trans-unit id="s000011" resname="CR10">
+        <source xml:space="preserve">Wes Cumberland
+</source>
+        <target state="needs-translation">Wes Cumberland
+</target>
+        <note>GoldSrc identifier: CR10</note>
+      </trans-unit>
+      <trans-unit id="s000012" resname="CR11">
+        <source xml:space="preserve">John Guthrie
+</source>
+        <target state="needs-translation">John Guthrie
+</target>
+        <note>GoldSrc identifier: CR11</note>
+      </trans-unit>
+      <trans-unit id="s000013" resname="CR12">
+        <source xml:space="preserve">Mona Lisa Guthrie
+</source>
+        <target state="needs-translation">Mona Lisa Guthrie
+</target>
+        <note>GoldSrc identifier: CR12</note>
+      </trans-unit>
+      <trans-unit id="s000014" resname="CR13">
+        <source xml:space="preserve">Mike Harrington
+</source>
+        <target state="needs-translation">Mike Harrington
+</target>
+        <note>GoldSrc identifier: CR13</note>
+      </trans-unit>
+      <trans-unit id="s000015" resname="CR14">
+        <source xml:space="preserve">Monica Harrington
+</source>
+        <target state="needs-translation">Monica Harrington
+</target>
+        <note>GoldSrc identifier: CR14</note>
+      </trans-unit>
+      <trans-unit id="s000016" resname="CR15">
+        <source xml:space="preserve">Brett Johnson
+</source>
+        <target state="needs-translation">Brett Johnson
+</target>
+        <note>GoldSrc identifier: CR15</note>
+      </trans-unit>
+      <trans-unit id="s000017" resname="CR16">
+        <source xml:space="preserve">Chuck Jones
+</source>
+        <target state="needs-translation">Chuck Jones
+</target>
+        <note>GoldSrc identifier: CR16</note>
+      </trans-unit>
+      <trans-unit id="s000018" resname="CR17">
+        <source xml:space="preserve">Marc Laidlaw
+</source>
+        <target state="needs-translation">Marc Laidlaw
+</target>
+        <note>GoldSrc identifier: CR17</note>
+      </trans-unit>
+      <trans-unit id="s000019" resname="CR18">
+        <source xml:space="preserve">Karen Laur
+</source>
+        <target state="needs-translation">Karen Laur
+</target>
+        <note>GoldSrc identifier: CR18</note>
+      </trans-unit>
+      <trans-unit id="s000020" resname="CR19">
+        <source xml:space="preserve">Randy Lundeen
+</source>
+        <target state="needs-translation">Randy Lundeen
+</target>
+        <note>GoldSrc identifier: CR19</note>
+      </trans-unit>
+      <trans-unit id="s000021" resname="CR20">
+        <source xml:space="preserve">Yatsze Mark
+</source>
+        <target state="needs-translation">Yatsze Mark
+</target>
+        <note>GoldSrc identifier: CR20</note>
+      </trans-unit>
+      <trans-unit id="s000022" resname="CR21">
+        <source xml:space="preserve">Lisa Mennet
+</source>
+        <target state="needs-translation">Lisa Mennet
+</target>
+        <note>GoldSrc identifier: CR21</note>
+      </trans-unit>
+      <trans-unit id="s000023" resname="CR22">
+        <source xml:space="preserve">Gabe Newell
+</source>
+        <target state="needs-translation">Gabe Newell
+</target>
+        <note>GoldSrc identifier: CR22</note>
+      </trans-unit>
+      <trans-unit id="s000024" resname="CR23">
+        <source xml:space="preserve">Dave Riller
+</source>
+        <target state="needs-translation">Dave Riller
+</target>
+        <note>GoldSrc identifier: CR23</note>
+      </trans-unit>
+      <trans-unit id="s000025" resname="CR24">
+        <source xml:space="preserve">Aaron Stackpole
+</source>
+        <target state="needs-translation">Aaron Stackpole
+</target>
+        <note>GoldSrc identifier: CR24</note>
+      </trans-unit>
+      <trans-unit id="s000026" resname="CR25">
+        <source xml:space="preserve">Jay Stelly
+</source>
+        <target state="needs-translation">Jay Stelly
+</target>
+        <note>GoldSrc identifier: CR25</note>
+      </trans-unit>
+      <trans-unit id="s000027" resname="CR26">
+        <source xml:space="preserve">Harry Teasley 
+</source>
+        <target state="needs-translation">Harry Teasley 
+</target>
+        <note>GoldSrc identifier: CR26</note>
+      </trans-unit>
+      <trans-unit id="s000028" resname="CR35">
+        <source xml:space="preserve">Steve Theodore
+</source>
+        <target state="needs-translation">Steve Theodore
+</target>
+        <note>GoldSrc identifier: CR35</note>
+      </trans-unit>
+      <trans-unit id="s000029" resname="CR36">
+        <source xml:space="preserve">Bill Van Buren
+</source>
+        <target state="needs-translation">Bill Van Buren
+</target>
+        <note>GoldSrc identifier: CR36</note>
+      </trans-unit>
+      <trans-unit id="s000030" resname="CR37">
+        <source xml:space="preserve">Robin Walker
+</source>
+        <target state="needs-translation">Robin Walker
+</target>
+        <note>GoldSrc identifier: CR37</note>
+      </trans-unit>
+      <trans-unit id="s000031" resname="CR38">
+        <source xml:space="preserve">Douglas R. Wood
+</source>
+        <target state="needs-translation">Douglas R. Wood
+</target>
+        <note>GoldSrc identifier: CR38</note>
+      </trans-unit>
+      <trans-unit id="s000032" resname="VALVEIS">
+        <source xml:space="preserve">Valve is:
+</source>
+        <target state="translated">Valve é:
+</target>
+        <note>GoldSrc identifier: VALVEIS</note>
+      </trans-unit>
+      <trans-unit id="s000033" resname="END1">
+        <source xml:space="preserve">Ted Backman
+TK Backman
+Kelly Bailey
+Yahn Bernier
+Ken Birdwell
+Steve Bond
+Dario Casali
+John Cook
+Greg Coomer
+Wes Cumberland
+</source>
+        <target state="needs-translation">Ted Backman
+TK Backman
+Kelly Bailey
+Yahn Bernier
+Ken Birdwell
+Steve Bond
+Dario Casali
+John Cook
+Greg Coomer
+Wes Cumberland
+</target>
+        <note>GoldSrc identifier: END1</note>
+      </trans-unit>
+      <trans-unit id="s000034" resname="END2">
+        <source xml:space="preserve">John Guthrie
+Mona Lisa Guthrie
+Mike Harrington
+Monica Harrington
+Brett Johnson
+Chuck Jones
+Marc Laidlaw
+Karen Laur
+Randy Lundeen
+Yatsze Mark
+</source>
+        <target state="needs-translation">John Guthrie
+Mona Lisa Guthrie
+Mike Harrington
+Monica Harrington
+Brett Johnson
+Chuck Jones
+Marc Laidlaw
+Karen Laur
+Randy Lundeen
+Yatsze Mark
+</target>
+        <note>GoldSrc identifier: END2</note>
+      </trans-unit>
+      <trans-unit id="s000035" resname="END3">
+        <source xml:space="preserve">Lisa Mennet
+Gabe Newell
+Dave Riller
+Aaron Stackpole
+Jay Stelly
+Harry Teasley
+Steve Theodore
+Bill Van Buren
+Robin Walker
+Douglas R. Wood
+</source>
+        <target state="needs-translation">Lisa Mennet
+Gabe Newell
+Dave Riller
+Aaron Stackpole
+Jay Stelly
+Harry Teasley
+Steve Theodore
+Bill Van Buren
+Robin Walker
+Douglas R. Wood
+</target>
+        <note>GoldSrc identifier: END3</note>
+      </trans-unit>
+      <trans-unit id="s000036" resname="CR28">
+        <source xml:space="preserve">SUBJECT:
+Gordon Freeman
+Male, age 27
+</source>
+        <target state="translated">SUJEITO:
+Gordon Freeman
+Homem, idade 27
+</target>
+        <note>GoldSrc identifier: CR28</note>
+      </trans-unit>
+      <trans-unit id="s000037" resname="CR29">
+        <source xml:space="preserve">EDUCATION:
+Ph.D., MIT, Theoretical Physics
+</source>
+        <target state="translated">FORMAÇÃO:
+Ph.D., MIT, Física teórica
+</target>
+        <note>GoldSrc identifier: CR29</note>
+      </trans-unit>
+      <trans-unit id="s000038" resname="CR30">
+        <source xml:space="preserve">POSITION:
+Research Associate
+</source>
+        <target state="translated">CARGO:
+Pesquisador associado</target>
+        <note>GoldSrc identifier: CR30</note>
+      </trans-unit>
+      <trans-unit id="s000039" resname="CR31">
+        <source xml:space="preserve">ASSIGNMENT:
+Anomalous Materials Laboratory
+</source>
+        <target state="translated">ATRIBUIÇÃO:
+Laboratório de materiais anômalos
+</target>
+        <note>GoldSrc identifier: CR31</note>
+      </trans-unit>
+      <trans-unit id="s000040" resname="CR32">
+        <source xml:space="preserve">CLEARANCE:
+Level 3
+</source>
+        <target state="translated">AUTORIZAÇÃO:
+Nível 3
+</target>
+        <note>GoldSrc identifier: CR32</note>
+      </trans-unit>
+      <trans-unit id="s000041" resname="CR33">
+        <source xml:space="preserve">ADMINISTRATIVE SPONSOR:
+Classified
+</source>
+        <target state="translated">PATROCINADOR ADMINISTRATIVO:
+Confidencial
+</target>
+        <note>GoldSrc identifier: CR33</note>
+      </trans-unit>
+      <trans-unit id="s000042" resname="CR34">
+        <source xml:space="preserve">DISASTER RESPONSE PRIORITY:
+Discretionary
+</source>
+        <target state="translated">PRIORIDADE DE REAÇÃO A DESASTRES:
+Autônomo
+</target>
+        <note>GoldSrc identifier: CR34</note>
+      </trans-unit>
+      <trans-unit id="s000043" resname="GAMEOVER">
+        <source xml:space="preserve">SUBJECT:  FREEMAN
 
-A rota??o de mapas deste servidor ?:
+STATUS:  EVALUATION TERMINATED
 
-dmc_dm2
-dmc_dm3
-dmc_dm4
-dmc_dm6
-dmc_e1m2
+POSTMORTEM:
+Subject failed to effectively utilize
+human assets in achievement of goal.
+</source>
+        <target state="translated">SUJEITO: FREEMAN
+
+ESTADO: AVALIAÇÃO FINALIZADA
+
+AUTOPSIA:
+O sujeito falhou ao tentar utilizar
+recursos humanos na realização do objetivo.
+</target>
+        <note>GoldSrc identifier: GAMEOVER</note>
+      </trans-unit>
+      <trans-unit id="s000044" resname="TRAITOR">
+        <source xml:space="preserve">SUBJECT:  FREEMAN
+
+STATUS:  HIRED
+
+AWAITING ASSIGNMENT
+</source>
+        <target state="translated">SUJEITO: FREEMAN
+
+ESTADO: CONTRATADO
+
+AGUARDANDO ATRIBUIÇÃO
+</target>
+        <note>GoldSrc identifier: TRAITOR</note>
+      </trans-unit>
+      <trans-unit id="s000045" resname="LOSER">
+        <source xml:space="preserve">SUBJECT:  FREEMAN
+
+STATUS:  OBSERVATION TERMINATED
+
+POSTMORTEM:
+Subject declined offer of employment.
+</source>
+        <target state="translated">SUJEITO: FREEMAN
+
+ESTADO: OBSERVAÇÃO ENCERRADA
+
+AUTOPSIA:
+O sujeito recusou oferta de emprego.
+</target>
+        <note>GoldSrc identifier: LOSER</note>
+      </trans-unit>
+      <trans-unit id="s000046" resname="T0A0TITLE">
+        <source xml:space="preserve">HAZARD COURSE
+</source>
+        <target state="translated">CURSO DE RISCOS</target>
+        <note>GoldSrc identifier: T0A0TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000047" resname="C0A0TITLE">
+        <source xml:space="preserve">BLACK MESA INBOUND
+</source>
+        <target state="translated">CHEGANDO EM BLACK MESA</target>
+        <note>GoldSrc identifier: C0A0TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000048" resname="OPENTITLE3">
+        <source xml:space="preserve">
+</source>
+        <note>GoldSrc identifier: OPENTITLE3</note>
+      </trans-unit>
+      <trans-unit id="s000049" resname="OPENTITLE4">
+        <source xml:space="preserve">
+</source>
+        <note>GoldSrc identifier: OPENTITLE4</note>
+      </trans-unit>
+      <trans-unit id="s000050" resname="C0A1TITLE">
+        <source xml:space="preserve">ANOMALOUS MATERIALS
+</source>
+        <target state="translated">MATERIAIS ANÔMALOS</target>
+        <note>GoldSrc identifier: C0A1TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000051" resname="C1A1TITLE">
+        <source xml:space="preserve">UNFORESEEN CONSEQUENCES
+</source>
+        <target state="translated">CONSEQUÊNCIAS IMPREVISTAS</target>
+        <note>GoldSrc identifier: C1A1TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000052" resname="C1A2TITLE">
+        <source xml:space="preserve">OFFICE COMPLEX
+</source>
+        <target state="translated">COMPLEXO DE ESCRITÓRIOS</target>
+        <note>GoldSrc identifier: C1A2TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000053" resname="C1A3TITLE">
+        <source xml:space="preserve">"WE'VE GOT HOSTILES"
+</source>
+        <target state="translated">"TEMOS ELEMENTOS HOSTIS"
+</target>
+        <note>GoldSrc identifier: C1A3TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000054" resname="C1A4TITLE">
+        <source xml:space="preserve">BLAST PIT
+</source>
+        <target state="translated">POÇO DE QUEIMA
+</target>
+        <note>GoldSrc identifier: C1A4TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000055" resname="C2A1TITLE">
+        <source xml:space="preserve">POWER UP
+</source>
+        <target state="translated">LIGANDO A ENERGIA
+</target>
+        <note>GoldSrc identifier: C2A1TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000056" resname="C2A2TITLE">
+        <source xml:space="preserve">ON A RAIL
+</source>
+        <target state="translated">SOBRE TRILHOS
+</target>
+        <note>GoldSrc identifier: C2A2TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000057" resname="C2A3TITLE">
+        <source xml:space="preserve">APPREHENSION
+</source>
+        <target state="translated">APREENSÃO
+</target>
+        <note>GoldSrc identifier: C2A3TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000058" resname="C2A4TITLE1">
+        <source xml:space="preserve">RESIDUE PROCESSING
+</source>
+        <target state="translated">PROCESSAMENTO DE RESÍDUOS
+</target>
+        <note>GoldSrc identifier: C2A4TITLE1</note>
+      </trans-unit>
+      <trans-unit id="s000059" resname="C2A4TITLE2">
+        <source xml:space="preserve">QUESTIONABLE ETHICS
+</source>
+        <target state="translated">ÉTICA QUESTIONÁVEL
+</target>
+        <note>GoldSrc identifier: C2A4TITLE2</note>
+      </trans-unit>
+      <trans-unit id="s000060" resname="C2A5TITLE">
+        <source xml:space="preserve">SURFACE TENSION
+</source>
+        <target state="translated">TENSÃO SUPERFICIAL
+</target>
+        <note>GoldSrc identifier: C2A5TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000061" resname="C3A1TITLE">
+        <source xml:space="preserve">"FORGET ABOUT FREEMAN!"
+</source>
+        <target state="translated">"ESQUEÇAM O FREEMAN!"
+</target>
+        <note>GoldSrc identifier: C3A1TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000062" resname="C3A2TITLE">
+        <source xml:space="preserve">LAMBDA CORE
+</source>
+        <target state="translated">NÚCLEO LAMBDA
+</target>
+        <note>GoldSrc identifier: C3A2TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000063" resname="C4A1TITLE">
+        <source xml:space="preserve">XEN
+</source>
+        <target state="translated">XEN
+</target>
+        <note>GoldSrc identifier: C4A1TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000064" resname="C4A1ATITLE">
+        <source xml:space="preserve">INTERLOPER
+</source>
+        <target state="translated">INTRUSO
+</target>
+        <note>GoldSrc identifier: C4A1ATITLE</note>
+      </trans-unit>
+      <trans-unit id="s000065" resname="C4A1BTITLE">
+        <source xml:space="preserve">
+</source>
+        <note>GoldSrc identifier: C4A1BTITLE</note>
+      </trans-unit>
+      <trans-unit id="s000066" resname="C4A1CTITLE">
+        <source xml:space="preserve">
+</source>
+        <note>GoldSrc identifier: C4A1CTITLE</note>
+      </trans-unit>
+      <trans-unit id="s000067" resname="C4A1ETITLE">
+        <source xml:space="preserve">
+</source>
+        <note>GoldSrc identifier: C4A1ETITLE</note>
+      </trans-unit>
+      <trans-unit id="s000068" resname="C4A1FTITLE">
+        <source xml:space="preserve">
+</source>
+        <note>GoldSrc identifier: C4A1FTITLE</note>
+      </trans-unit>
+      <trans-unit id="s000069" resname="C4A2TITLE">
+        <source xml:space="preserve">GONARCH'S LAIR
+</source>
+        <target state="translated">COVIL DA GONARCA
+</target>
+        <note>GoldSrc identifier: C4A2TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000070" resname="C4A3TITLE">
+        <source xml:space="preserve">NIHILANTH
+</source>
+        <target state="translated">NIILANTE
+</target>
+        <note>GoldSrc identifier: C4A3TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000071" resname="C5TITLE">
+        <source xml:space="preserve">ENDGAME
+</source>
+        <target state="translated">FIM DE JOGO
+</target>
+        <note>GoldSrc identifier: C5TITLE</note>
+      </trans-unit>
+      <trans-unit id="s000072" resname="GAMESAVED">
+        <source xml:space="preserve">Saved...
+</source>
+        <target state="translated">Salvo...
+</target>
+        <note>GoldSrc identifier: GAMESAVED</note>
+      </trans-unit>
+      <trans-unit id="s000073" resname="GAMETITLE">
+        <source xml:space="preserve">Half-Life
+</source>
+        <target state="needs-translation">Half-Life
+</target>
+        <note>GoldSrc identifier: GAMETITLE</note>
+      </trans-unit>
+      <trans-unit id="s000074" resname="HZBUTTON1">
+        <source xml:space="preserve">PRESS YOUR USE KEY TO PUSH A BUTTON
+</source>
+        <target state="translated">PRESSIONE A TECLA USAR PARA APERTAR UM BOTÃO</target>
+        <note>GoldSrc identifier: HZBUTTON1</note>
+      </trans-unit>
+      <trans-unit id="s000075" resname="HZBUTTON2">
+        <source xml:space="preserve">PRESS YOUR USE KEY TO PUSH A BUTTON
+</source>
+        <target state="translated">PRESSIONE A TECLA USAR PARA APERTAR UM BOTÃO</target>
+        <note>GoldSrc identifier: HZBUTTON2</note>
+      </trans-unit>
+      <trans-unit id="s000076" resname="HZMOVE">
+        <source xml:space="preserve">MOVE FORWARD BY PRESSING FORWARD KEY
+MOVE BACKWARD BY PRESSING BACKWARD KEY
+MOVE LEFT BY PRESSING MOVELEFT
+MOVE RIGHT BY PRESSING MOVERIGHT
+</source>
+        <target state="translated">MOVA-SE PARA FRENTE PRESIONANDO A TECLA AVANÇAR
+MOVA-SE PARA TRÁS PRESIONANDO A TECLA RECUAR
+MOVA-SE PARA ESQUERDA PRESIONANDO A TECLA MOVERESQ
+MOVA-SE PARA DIREITA PRESIONANDO A TECLA MOVERDIR</target>
+        <note>GoldSrc identifier: HZMOVE</note>
+      </trans-unit>
+      <trans-unit id="s000077" resname="HZJUMP">
+        <source xml:space="preserve">PRESS FORWARD KEY TO RUN FORWARD
+PRESS JUMP KEY TO JUMP
+</source>
+        <target state="translated">PRESSIONE A TECLA AVANÇAR PARA CORRER PARA FRENTE
+PRESSIONE A TECLA PULAR PARA SALTAR</target>
+        <note>GoldSrc identifier: HZJUMP</note>
+      </trans-unit>
+      <trans-unit id="s000078" resname="HZDUCK">
+        <source xml:space="preserve">PRESS FORWARD KEY TO RUN FORWARD
+PRESS DUCK KEY TO DUCK
+PRESS FORWARD + DUCK KEYS TOGETHER 
+TO MOVE IN STEALTH MODE
+</source>
+        <target state="translated">PRESSIONE A TECLA AVANÇAR PARA CORRER PARA FRENTE
+PRESSIONE A TECLA AGACHAR PARA SE ABAIXAR
+PRESSIONE AS TECLAS AVANÇAR + AGACHAR
+PARA SE MOVER EM SILÊNCIO</target>
+        <note>GoldSrc identifier: HZDUCK</note>
+      </trans-unit>
+      <trans-unit id="s000079" resname="HZCOMBO">
+        <source xml:space="preserve">PRESS FORWARD KEY TO RUN FORWARD
+PRESS JUMP KEY TO JUMP
+PRESS DUCK KEY TO DUCK
+PRESS JUMP KEY TO JUMP
+</source>
+        <target state="translated">PRESSIONE A TECLA AVANÇAR PARA CORRER
+PRESSIONE A TECLA PULAR PARA SALTAR
+PRESSIONE A TECLA AGACHAR PARA SE ABAIXAR
+PRESSIONE A TECLA PULAR PARA SALTAR NOVAMENTE</target>
+        <note>GoldSrc identifier: HZCOMBO</note>
+      </trans-unit>
+      <trans-unit id="s000080" resname="HZDUCKJUMP">
+        <source xml:space="preserve">PRESS FORWARD + JUMP TOGETHER,
+THEN THE DUCK KEY
+</source>
+        <target state="translated">PRESSIONE AS TECLAS AVANÇAR + PULAR,
+E, DEPOIS, A TECLA AGACHAR</target>
+        <note>GoldSrc identifier: HZDUCKJUMP</note>
+      </trans-unit>
+      <trans-unit id="s000081" resname="HZLADDER">
+        <source xml:space="preserve">PRESS FORWARD KEY TO MOVE UP LADDERS
+PRESS BACKWARD KEY TO MOVE DOWN LADDERS
+</source>
+        <target state="translated">PRESSIONE A TECLA AVANÇAR PARA SUBIR ESCADAS
+PRESSIONE A TECLA RECUAR PARA DESCER ESCADAS
+</target>
+        <note>GoldSrc identifier: HZLADDER</note>
+      </trans-unit>
+      <trans-unit id="s000082" resname="HZLJUMP">
+        <source xml:space="preserve">WHILE MOVING FORWARD,
+HOLD DOWN DUCK KEY--
+THEN PRESS JUMP
+</source>
+        <target state="translated">ENQUANTO ANDA PARA FRENTE,
+SEGURE A TECLA AGACHAR
+E, ENTÃO, PRESSIONE PULAR</target>
+        <note>GoldSrc identifier: HZLJUMP</note>
+      </trans-unit>
+      <trans-unit id="s000083" resname="HZLMOD">
+        <source xml:space="preserve">BE SURE YOU PICKED UP THE LONG-JUMP MODULE
+AT THE BEGINNING OF THE OBSTACLE
+</source>
+        <target state="translated">CERTIFIQUE-SE DE TER PEGO O MÓDULO DE
+SALTO LONGO NO INÍCIO DO OBSTÁCULO</target>
+        <note>GoldSrc identifier: HZLMOD</note>
+      </trans-unit>
+      <trans-unit id="s000084" resname="HZMEDKIT">
+        <source xml:space="preserve">USE MED-KITS BY HOLDING DOWN THE USE KEY
+HOLD DOWN USE KEY UNTIL HEALTH IS
+AT 100 OR KIT IS DEPLETED
+</source>
+        <target state="translated">USE KITS DE CURA PRESSIONANDO A TECLA USAR
+SEGURE A TECLA ATÉ SUA VIDA ATINGIR 100
+OU ATÉ QUE O KIT TENHA SE ESGOTADO</target>
+        <note>GoldSrc identifier: HZMEDKIT</note>
+      </trans-unit>
+      <trans-unit id="s000085" resname="HZMOMENT">
+        <source xml:space="preserve">ACTIVATE WHEELS AND DIALS 
+BY HOLDING DOWN THE USE KEY
+HOLD USE KEY UNTIL BRIDGE IS IN POSITION
+</source>
+        <target state="translated">ATIVE VÁLVULAS E PAINÉIS
+SEGURANDO A TECLA USAR
+PRESSIONE-A ATÉ QUE A PONTE ESTEJA EM POSIÇÃO</target>
+        <note>GoldSrc identifier: HZMOMENT</note>
+      </trans-unit>
+      <trans-unit id="s000086" resname="HZPUSH">
+        <source xml:space="preserve">PRESS FORWARD KEY TO MOVE AGAINST BOX
+KEEP PRESSING FORWARD TO PUSH BOX
+</source>
+        <target state="translated">PRESSIONE A TECLA AVANÇAR CONTRA A CAIXA
+CONTINUE PRESSIONANDO-A PARA EMPURRAR</target>
+        <note>GoldSrc identifier: HZPUSH</note>
+      </trans-unit>
+      <trans-unit id="s000087" resname="HZPULL">
+        <source xml:space="preserve">PRESS USE + BACKWARD KEYS TOGETHER
+TO PULL BOX BACKWARD
+</source>
+        <target state="translated">PRESSIONE AS TECLAS USAR + RECUAR
+PARA PUXAR A CAIXA PARA TRÁS</target>
+        <note>GoldSrc identifier: HZPULL</note>
+      </trans-unit>
+      <trans-unit id="s000088" resname="HZCROWBAR">
+        <source xml:space="preserve">MOVE UP TO CROWBAR
+PRESS ATTACK1 KEY TO BREAK OBJECTS
+</source>
+        <target state="translated">MOVA-SE ATÉ O PÉ-DE-CABRA
+PRESSIONE A TECLA ATACAR1 PARA QUEBRAR OBJETOS</target>
+        <note>GoldSrc identifier: HZCROWBAR</note>
+      </trans-unit>
+      <trans-unit id="s000089" resname="HZLITEON">
+        <source xml:space="preserve">PRESS FLASHLIGHT KEY 
+TO TURN FLASHLIGHT ON
+</source>
+        <target state="translated">PRESSIONE A TECLA LANTERNA
+PARA LIGAR A LANTERNA</target>
+        <note>GoldSrc identifier: HZLITEON</note>
+      </trans-unit>
+      <trans-unit id="s000090" resname="HZLITEOFF">
+        <source xml:space="preserve">PRESS FLASHLIGHT KEY AGAIN 
+TO TURN FLASHLIGHT OFF
+</source>
+        <target state="translated">PRESSIONE A TECLA LANTERNA NOVAMENTE
+PARA DESLIGAR A LANTERNA
+</target>
+        <note>GoldSrc identifier: HZLITEOFF</note>
+      </trans-unit>
+      <trans-unit id="s000091" resname="HZWEAPON">
+        <source xml:space="preserve">MOVE UP TO WEAPON TO PICK IT UP
+</source>
+        <target state="translated">MOVA-SE ATÉ AS ARMAS PARA PEGÁ-LAS</target>
+        <note>GoldSrc identifier: HZWEAPON</note>
+      </trans-unit>
+      <trans-unit id="s000092" resname="HZFIREWEAP">
+        <source xml:space="preserve">PRESS ATTACK1 KEY FOR PRIMARY ATTACK
+PRESS ATTACK2 KEY FOR ALTERNATE ATTACK
+PRESS RELOAD KEY TO RELOAD AT WILL
+</source>
+        <target state="translated">PRESSIONE ATACAR1 PARA REALIZAR O ATAQUE PRIMÁRIO
+PRESSIONE ATACAR2 PARA REALIZAR O ATAQUE ALTERNATIVO
+PRESSIONE RECARREGAR PARA RECARREGAR À VONTADE</target>
+        <note>GoldSrc identifier: HZFIREWEAP</note>
+      </trans-unit>
+      <trans-unit id="s000093" resname="HZARMOR">
+        <source xml:space="preserve">PRESS AND HOLD YOUR USE KEY
+HOLD DOWN UNTIL SUIT ARMOR IS CHARGED
+OR CHARGER IS DEPLETED
+</source>
+        <target state="translated">PRESSIONE E SEGURE A TECLAR USAR
+ATÉ QUE SEU TRAJE ESTEJA CARREGADO
+OU O CARREGADOR TENHA SE ESGOTADO</target>
+        <note>GoldSrc identifier: HZARMOR</note>
+      </trans-unit>
+      <trans-unit id="s000094" resname="HZSWIM">
+        <source xml:space="preserve">PRESS YOUR FORWARD KEY
+AIM WITH THE MOUSE AS YOU SWIM
+FIND AIR IF YOU BEGIN TO LOSE HEALTH
+WAIT IN THE AIR UNTIL HEALTH 
+RETURNS TO FORMER LEVEL
+</source>
+        <target state="translated">PRESSIONE A TECLA AVANÇAR
+MIRE COM SEU MOUSE ENQUANTO VOCÊ NADA
+BUSQUE AR SE COMEÇAR A PERDER VIDA
+AGUARDE ATÉ QUE SUA VIDA RETORNE
+ANTES DE SE SUBMERGIR NOVAMENTE</target>
+        <note>GoldSrc identifier: HZSWIM</note>
+      </trans-unit>
+      <trans-unit id="s000095" resname="HZDAMAGE">
+        <source xml:space="preserve">CERTAIN TYPES OF DAMAGE WILL REGISTER 
+ON YOUR HEADS-UP DISPLAY.
+DIRECTION OF DAMAGE IS INDICATED BY RED 
+FLASHES IN THE CENTER OF YOUR SCREEN
+</source>
+        <target state="translated">CERTOS TIPOS DE DANO IRÃO SER
+REGISTRADOS NA SUA INTERFACE.
+A DIREÇÃO DO DANO É INDICADA
+POR SINAIS VERMELHOS NO CENTRO DA TELA</target>
+        <note>GoldSrc identifier: HZDAMAGE</note>
+      </trans-unit>
+      <trans-unit id="s000096" resname="HZHAZARD">
+        <source xml:space="preserve">RADIATION HAZARDS 
+ACTIVATE A GEIGER COUNTER
+</source>
+        <target state="translated">SINAIS DE RADIAÇÃO
+ATIVARÃO O CONTADOR GEIGER</target>
+        <note>GoldSrc identifier: HZHAZARD</note>
+      </trans-unit>
+      <trans-unit id="s000097" resname="HZSCIENTIST">
+        <source xml:space="preserve">APPROACH SCIENTIST
+PRESS USE KEY TO RECEIVE HEALTH FROM SCIENTIST
+</source>
+        <target state="translated">APROXIME-SE DO CIENTISTA
+PRECIONE A TECLA USAR PARA SER CURADO POR ELE</target>
+        <note>GoldSrc identifier: HZSCIENTIST</note>
+      </trans-unit>
+      <trans-unit id="s000098" resname="HZBARNEY">
+        <source xml:space="preserve">APPROACH SECURITY GUARD
+PRESS YOUR USE KEY TO GET HIS HELP
+WALK TOWARD DOOR AND GUARD
+WILL ACTIVATE BUTTONS
+</source>
+        <target state="translated">APROXIME-SE DO AGENTE DE SEGURANÇA
+PRESSIONE A TECLA USAR PARA OBTER SUA AJUDA
+CAMINHE EM DIREÇÃO DE PORTAS PARA
+QUE O AGENTE LIBERE SUA PASSAGEM</target>
+        <note>GoldSrc identifier: HZBARNEY</note>
+      </trans-unit>
+      <trans-unit id="s000099" resname="HZTRAIN">
+        <source xml:space="preserve">PRESS USE KEY TO ENGAGE TRAIN
+PRESS FORWARD KEY TO ACCELERATE
+PRESS BACKWARD KEY TO DECELERATE
+PRESS USE KEY AGAIN TO DISENGAGE
+</source>
+        <target state="translated">PRESSIONE A TECLA USAR PARA ATIVAR O VEÍCULO
+PRESSIONE A TECLA AVANÇAR PARA ACELERAR
+PRESSIONE A TECLA RECUAR PARA DESACELERAR
+PRESSIONE A TECLA USAR PARA DESATIVAR O VEÍCULO</target>
+        <note>GoldSrc identifier: HZTRAIN</note>
+      </trans-unit>
+      <trans-unit id="s000100" resname="HZDONE">
+        <source xml:space="preserve">CONGRATULATIONS!
+YOU HAVE COMPLETED 
+THE BLACK MESA HAZARD COURSE.
+COME BACK ANY TIME.
+</source>
+        <target state="translated">PARABÉNS!
+VOCÊ CONCLUIU
+O CURSO DE RISCOS DA BLACK MESA.
+RETORNE QUANDO QUISER.</target>
+        <note>GoldSrc identifier: HZDONE</note>
+      </trans-unit>
+      <trans-unit id="s000101" resname="Spec_Mode1">
+        <source xml:space="preserve">Locked Chase-Camera
+</source>
+        <target state="translated">Câmera fixa seguindo um jogador</target>
+        <note>GoldSrc identifier: Spec_Mode1</note>
+      </trans-unit>
+      <trans-unit id="s000102" resname="Spec_Mode2">
+        <source xml:space="preserve">Free Chase-Camera
+</source>
+        <target state="translated">Câmera livre seguindo um jogador</target>
+        <note>GoldSrc identifier: Spec_Mode2</note>
+      </trans-unit>
+      <trans-unit id="s000103" resname="Spec_Mode3">
+        <source xml:space="preserve">Free-Look
+</source>
+        <target state="translated">Visão livre</target>
+        <note>GoldSrc identifier: Spec_Mode3</note>
+      </trans-unit>
+      <trans-unit id="s000104" resname="Spec_Mode4">
+        <source xml:space="preserve">First Person
+</source>
+        <target state="translated">Primeira pessoa</target>
+        <note>GoldSrc identifier: Spec_Mode4</note>
+      </trans-unit>
+      <trans-unit id="s000105" resname="Spec_Mode5">
+        <source xml:space="preserve">Free Map Overview
+</source>
+        <target state="translated">Visão geral livre do mapa</target>
+        <note>GoldSrc identifier: Spec_Mode5</note>
+      </trans-unit>
+      <trans-unit id="s000106" resname="Spec_Mode6">
+        <source xml:space="preserve">Chase Map Overview
+</source>
+        <target state="translated">Visão geral do mapa seguindo um jogador
+</target>
+        <note>GoldSrc identifier: Spec_Mode6</note>
+      </trans-unit>
+      <trans-unit id="s000107" resname="Spec_NoTarget">
+        <source xml:space="preserve">No valid targets. Cannot switch to Chase-Camera Mode.
+</source>
+        <target state="translated">Sem alvos válidos. Não é possível alterar para a câmera de perseguição.</target>
+        <note>GoldSrc identifier: Spec_NoTarget</note>
+      </trans-unit>
+      <trans-unit id="s000108" resname="Spec_Help_Title">
+        <source xml:space="preserve">Spectator Mode
+</source>
+        <target state="translated">Modo espectador</target>
+        <note>GoldSrc identifier: Spec_Help_Title</note>
+      </trans-unit>
+      <trans-unit id="s000109" resname="Spec_Help_Text">
+        <source xml:space="preserve">Use the following keys to change view styles:
+
+ FIRE1 - Chase next player
+ FIRE2 - Chase previous player
+ JUMP - Change view modes
+ USE - Change inset window mode
+ 
+ DUCK  - Enable spectator menu
+  
+In Overview Map Mode move around with:
+
+ MOVELEFT - move left
+ MOVERIGHT - move right
+ FORWARD - zoom in
+ BACK - zoom out
+ MOUSE - rotate around map/target
+</source>
+        <target state="translated">Use as seguintes teclas para alterar estilos de visão:
+
+ DISPARO1 - Acompanhar o próximo jogador
+ DISPARO2 - Acompanhar o jogador anterior
+ PULAR - Alternar o modo de visão
+ USAR - Alternar o modo de janela
+ 
+ AGACHAR - Ativa menu de espectador
+ 
+Na visão geral do mapa, movimente-se com:
+
+ MOVERESQ - mover-se para a esquerda
+ MOVERDIR - mover-se para a direita
+ AVANÇAR - aumentar zoom
+ RECUAR - diminuir zoom
+ MOUSE - girar em torno do mapa/alvo
+</target>
+        <note>GoldSrc identifier: Spec_Help_Text</note>
+      </trans-unit>
+      <trans-unit id="s000110" resname="Spec_Slow_Motion">
+        <source xml:space="preserve">Slow Motion
+</source>
+        <target state="translated">Câmera lenta</target>
+        <note>GoldSrc identifier: Spec_Slow_Motion</note>
+      </trans-unit>
+      <trans-unit id="s000111" resname="Spec_Replay">
+        <source xml:space="preserve">Instant Replay
+</source>
+        <target state="translated">Replay instantâneo
+</target>
+        <note>GoldSrc identifier: Spec_Replay</note>
+      </trans-unit>
+      <trans-unit id="s000112" resname="Spec_Auto">
+        <source xml:space="preserve">Auto
+</source>
+        <target state="translated">Automático</target>
+        <note>GoldSrc identifier: Spec_Auto</note>
+      </trans-unit>
+      <trans-unit id="s000113" resname="Spec_Map">
+        <source xml:space="preserve">Map
+</source>
+        <target state="translated">Mapa</target>
+        <note>GoldSrc identifier: Spec_Map</note>
+      </trans-unit>
+      <trans-unit id="s000114" resname="Spectators">
+        <source xml:space="preserve">Spectators
+</source>
+        <target state="translated">Espectadores</target>
+        <note>GoldSrc identifier: Spectators</note>
+      </trans-unit>
+      <trans-unit id="s000115" resname="Unassigned">
+        <source xml:space="preserve">Unassigned
+</source>
+        <target state="translated">Não escolhido</target>
+        <note>GoldSrc identifier: Unassigned</note>
+      </trans-unit>
+      <trans-unit id="s000116" resname="TEAMS">
+        <source xml:space="preserve">TEAMS
+</source>
+        <target state="translated">EQUIPES</target>
+        <note>GoldSrc identifier: TEAMS</note>
+      </trans-unit>
+      <trans-unit id="s000117" resname="PLAYERS">
+        <source xml:space="preserve">PLAYERS
+</source>
+        <target state="translated">JOGADORES</target>
+        <note>GoldSrc identifier: PLAYERS</note>
+      </trans-unit>
+      <trans-unit id="s000118" resname="CLASS">
+        <source xml:space="preserve">CLASS
+</source>
+        <target state="translated">CLASSE
+</target>
+        <note>GoldSrc identifier: CLASS</note>
+      </trans-unit>
+      <trans-unit id="s000119" resname="SCORE">
+        <source xml:space="preserve">SCORE
+</source>
+        <target state="translated">PONTUAÇÃO</target>
+        <note>GoldSrc identifier: SCORE</note>
+      </trans-unit>
+      <trans-unit id="s000120" resname="DEATHS">
+        <source xml:space="preserve">DEATHS
+</source>
+        <target state="translated">MORTES</target>
+        <note>GoldSrc identifier: DEATHS</note>
+      </trans-unit>
+      <trans-unit id="s000121" resname="LATENCY">
+        <source xml:space="preserve">PING
+</source>
+        <target state="translated">LATÊNCIA</target>
+        <note>GoldSrc identifier: LATENCY</note>
+      </trans-unit>
+      <trans-unit id="s000122" resname="VOICE">
+        <source xml:space="preserve">VOICE
+</source>
+        <target state="translated">VOZ</target>
+        <note>GoldSrc identifier: VOICE</note>
+      </trans-unit>
+      <trans-unit id="s000123" resname="Menu_OK">
+        <source xml:space="preserve">OK
+</source>
+        <target state="translated">OK</target>
+        <note>GoldSrc identifier: Menu_OK</note>
+      </trans-unit>
+      <trans-unit id="s000124" resname="Menu_Cancel">
+        <source xml:space="preserve">CANCEL
+</source>
+        <target state="translated">CANCELAR</target>
+        <note>GoldSrc identifier: Menu_Cancel</note>
+      </trans-unit>
+      <trans-unit id="s000125" resname="Mic_Volume">
+        <source xml:space="preserve">Mic Volume
+</source>
+        <target state="translated">Volume do microfone</target>
+        <note>GoldSrc identifier: Mic_Volume</note>
+      </trans-unit>
+      <trans-unit id="s000126" resname="Speaker_Volume">
+        <source xml:space="preserve">Speaker Volume
+</source>
+        <target state="translated">Volume dos alto-falantes</target>
+        <note>GoldSrc identifier: Speaker_Volume</note>
+      </trans-unit>
+      <trans-unit id="s000127" resname="Voice_Properties">
+        <source xml:space="preserve">Voice Properties
+</source>
+        <target state="translated">Propriedades de voz</target>
+        <note>GoldSrc identifier: Voice_Properties</note>
+      </trans-unit>
+      <trans-unit id="s000128" resname="Map_Description_not_available">
+        <source xml:space="preserve">Map Description not available.
+</source>
+        <target state="translated">Descrição do mapa não disponível.</target>
+        <note>GoldSrc identifier: Map_Description_not_available</note>
+      </trans-unit>
+      <trans-unit id="s000129" resname="Player">
+        <source xml:space="preserve">player
+</source>
+        <target state="translated">jogador</target>
+        <note>GoldSrc identifier: Player</note>
+      </trans-unit>
+      <trans-unit id="s000130" resname="Player_plural">
+        <source xml:space="preserve">players
+</source>
+        <target state="translated">jogadores</target>
+        <note>GoldSrc identifier: Player_plural</note>
+      </trans-unit>
+      <trans-unit id="s000131" resname="Muted">
+        <source xml:space="preserve">You have muted %s.
+</source>
+        <target state="translated">Você desativou a voz de %s.</target>
+        <note>GoldSrc identifier: Muted</note>
+      </trans-unit>
+      <trans-unit id="s000132" resname="Unmuted">
+        <source xml:space="preserve">You have unmuted %s.
+</source>
+        <target state="translated">Você reativou a voz de %s.</target>
+        <note>GoldSrc identifier: Unmuted</note>
+      </trans-unit>
+      <trans-unit id="s000133" resname="No_longer_hear_that_player">
+        <source xml:space="preserve">You will no longer hear that player speak.
+</source>
+        <target state="translated">Você não ouvirá mais esse jogador falar.</target>
+        <note>GoldSrc identifier: No_longer_hear_that_player</note>
+      </trans-unit>
+      <trans-unit id="s000134" resname="OBS_NONE">
+        <source xml:space="preserve">Camera Options
+</source>
+        <target state="translated">Opções da câmera</target>
+        <note>GoldSrc identifier: OBS_NONE</note>
+      </trans-unit>
+      <trans-unit id="s000135" resname="OBS_CHASE_LOCKED">
+        <source xml:space="preserve">Locked Chase-Cam
+</source>
+        <target state="translated">Câmera fixa seguindo um jogador</target>
+        <note>GoldSrc identifier: OBS_CHASE_LOCKED</note>
+      </trans-unit>
+      <trans-unit id="s000136" resname="OBS_CHASE_FREE">
+        <source xml:space="preserve">Free Chase-Cam
+</source>
+        <target state="translated">Câmera livre seguindo um jogador</target>
+        <note>GoldSrc identifier: OBS_CHASE_FREE</note>
+      </trans-unit>
+      <trans-unit id="s000137" resname="OBS_ROAMING">
+        <source xml:space="preserve">Roaming
+</source>
+        <target state="translated">Livre movimentação</target>
+        <note>GoldSrc identifier: OBS_ROAMING</note>
+      </trans-unit>
+      <trans-unit id="s000138" resname="OBS_IN_EYE">
+        <source xml:space="preserve">First Person
+</source>
+        <target state="translated">Primeira pessoa
+</target>
+        <note>GoldSrc identifier: OBS_IN_EYE</note>
+      </trans-unit>
+      <trans-unit id="s000139" resname="OBS_MAP_FREE">
+        <source xml:space="preserve">Free Overview
+</source>
+        <target state="translated">Visão geral livre</target>
+        <note>GoldSrc identifier: OBS_MAP_FREE</note>
+      </trans-unit>
+      <trans-unit id="s000140" resname="OBS_MAP_CHASE">
+        <source xml:space="preserve">Chase-Cam Overview
+</source>
+        <target state="translated">Visão aérea — perseguição
+</target>
+        <note>GoldSrc identifier: OBS_MAP_CHASE</note>
+      </trans-unit>
+      <trans-unit id="s000141" resname="SPECT_OPTIONS">
+        <source xml:space="preserve">Options
+</source>
+        <target state="translated">Opções</target>
+        <note>GoldSrc identifier: SPECT_OPTIONS</note>
+      </trans-unit>
+      <trans-unit id="s000142" resname="CAM_OPTIONS">
+        <source xml:space="preserve">Camera Options
+</source>
+        <target state="translated">Opções da câmera</target>
+        <note>GoldSrc identifier: CAM_OPTIONS</note>
+      </trans-unit>
+      <trans-unit id="s000143" resname="Spec_Duck">
+        <source xml:space="preserve">Press DUCK for Spectator Menu
+</source>
+        <target state="translated">Pressione AGACHAR para ver o menu de espectador</target>
+        <note>GoldSrc identifier: Spec_Duck</note>
+      </trans-unit>
+      <trans-unit id="s000144" resname="Valve_Close">
+        <source xml:space="preserve">Close
+</source>
+        <target state="translated">Fechar</target>
+        <note>GoldSrc identifier: Valve_Close</note>
+      </trans-unit>
+      <trans-unit id="s000145" resname="Valve_Help">
+        <source xml:space="preserve">Help
+</source>
+        <target state="translated">Ajuda</target>
+        <note>GoldSrc identifier: Valve_Help</note>
+      </trans-unit>
+      <trans-unit id="s000146" resname="Valve_Settings">
+        <source xml:space="preserve">Settings
+</source>
+        <target state="translated">Configurações</target>
+        <note>GoldSrc identifier: Valve_Settings</note>
+      </trans-unit>
+      <trans-unit id="s000147" resname="Valve_Chat_Messages">
+        <source xml:space="preserve">Chat Messages
+</source>
+        <target state="translated">Mensagens de conversa</target>
+        <note>GoldSrc identifier: Valve_Chat_Messages</note>
+      </trans-unit>
+      <trans-unit id="s000148" resname="Valve_Show_Status">
+        <source xml:space="preserve">Show Status
+</source>
+        <target state="translated">Exibir status</target>
+        <note>GoldSrc identifier: Valve_Show_Status</note>
+      </trans-unit>
+      <trans-unit id="s000149" resname="Valve_View_Cone">
+        <source xml:space="preserve">View Cone
+</source>
+        <target state="translated">Cone de visão</target>
+        <note>GoldSrc identifier: Valve_View_Cone</note>
+      </trans-unit>
+      <trans-unit id="s000150" resname="Valve_Player_Names">
+        <source xml:space="preserve">Player Names
+</source>
+        <target state="translated">Nomes dos jogadores</target>
+        <note>GoldSrc identifier: Valve_Player_Names</note>
+      </trans-unit>
+      <trans-unit id="s000151" resname="Valve_PIP">
+        <source xml:space="preserve">Picture-In-Picture
+</source>
+        <target state="translated">Picture-in-picture</target>
+        <note>GoldSrc identifier: Valve_PIP</note>
+      </trans-unit>
+      <trans-unit id="s000152" resname="Valve_Auto_Director">
+        <source xml:space="preserve">Auto Director
+</source>
+        <target state="translated">Diretor automático</target>
+        <note>GoldSrc identifier: Valve_Auto_Director</note>
+      </trans-unit>
+      <trans-unit id="s000153" resname="Valve_Show_Score">
+        <source xml:space="preserve">Show Scores
+</source>
+        <target state="translated">Exibir pontuações</target>
+        <note>GoldSrc identifier: Valve_Show_Score</note>
+      </trans-unit>
+      <trans-unit id="s000154" resname="DEMOTITLE">
+        <source xml:space="preserve">UPLINK
+</source>
+        <target state="translated">UPLINK
+</target>
+        <note>GoldSrc identifier: DEMOTITLE</note>
+      </trans-unit>
+      <trans-unit id="s000155" resname="DEMOTXT1">
+        <source xml:space="preserve">SUBJECT:
+GORDON FREEMAN, Ph.D.
+</source>
+        <target state="translated">SUJEITO:
+GORDON FREEMAN, Ph.D.</target>
+        <note>GoldSrc identifier: DEMOTXT1</note>
+      </trans-unit>
+      <trans-unit id="s000156" resname="DEMOTXT2">
+        <source xml:space="preserve">CURRENT LOCATION:
+LAMBDA REACTOR COMPLEX
+BLACK MESA RESEARCH FACILITY
+</source>
+        <target state="translated">LOCALIZAÇÃO ATUAL:
+COMPLEXO DO REATOR LAMBDA
+INSTALAÇÃO DE PESQUISA BLACK MESA</target>
+        <note>GoldSrc identifier: DEMOTXT2</note>
+      </trans-unit>
+      <trans-unit id="s000157" resname="DEMOTXT3">
+        <source xml:space="preserve">TIME:
+CONTAINMENT FAILURE + 48.00 HRS
+</source>
+        <target state="translated">HORÁRIO:
+FALHA DE CONTENÇÃO + 48.00 HRS</target>
+        <note>GoldSrc identifier: DEMOTXT3</note>
+      </trans-unit>
+      <trans-unit id="s000158" resname="DEMOTXT4">
+        <source xml:space="preserve">STATUS:
+EVALUATION IN PROGRESS
+</source>
+        <target state="translated">SITUAÇÃO:
+AVALIAÇÃO EM ANDAMENTO
+</target>
+        <note>GoldSrc identifier: DEMOTXT4</note>
+      </trans-unit>
+      <trans-unit id="s000159" resname="DEMOTXT6">
+        <source xml:space="preserve">CURRENT EVALUATION:
+UPLINK COMPLETED.
+</source>
+        <target state="translated">AVALIAÇÃO ATUAL:
+UPLINK COMCLUÍDO.</target>
+        <note>GoldSrc identifier: DEMOTXT6</note>
+      </trans-unit>
+      <trans-unit id="s000160" resname="DEMOTXT7">
+        <source xml:space="preserve">REQUIRE FURTHER DATA.
+</source>
+        <target state="translated">REQUER MAIS DADOS.
+</target>
+        <note>GoldSrc identifier: DEMOTXT7</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
