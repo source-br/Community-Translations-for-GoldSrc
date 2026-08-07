@@ -1,0 +1,17 @@
+Dust - Bomba/Desarmar
+por DaveJ (http://www.johnsto.co.uk/)
+texturas por Macman (MacManInfi@aol.com)
+
+Contraterroristas: Evite que os
+terroristas bombardeiem caixas
+de armas químicas. Os membros da
+equipe devem desarmar as bombas
+que ameaçam as áreas visadas.
+
+Terroristas: O terrorista que
+estiver carregando o C4 deve
+destruir um dos esconderijos
+de armas químicas. 
+
+Outras observações: Há 2 esconderijos
+e armas químicas na missão.
