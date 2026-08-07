@@ -1,0 +1,14 @@
+DOD_MERDERET by Arjan "IR" Bak (arjanb@invasionworks.com)
+
+German troops are attempting to regain a foothold against
+the invading Allied forces - in order to do so, they need 
+to capture a key bridge.
+
+Allied Objectives:
+   - Capture the 5 flag points
+
+Axis Objectives:
+   - Capture the 5 flag points
+
+Textures: Martijn "wizzard" Bak, Daniel "kleinluka" Luka, 
+Scott "Kamikazi!" Jordan 
