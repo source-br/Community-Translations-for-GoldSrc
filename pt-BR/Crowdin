@@ -137,8 +137,9 @@
 2. Elite Crew
 3. Arctic Avengers
 4. Guerilla Warfare
+5. Midwest Militia
 
-5. Auto-select
+6. Auto-select
 </source>
         <target state="needs-translation">\ySelect your appearance\w
 
@@ -146,8 +147,9 @@
 2. Elite Crew
 3. Arctic Avengers
 4. Guerilla Warfare
+5. Midwest Militia
 
-5. Auto-select
+6. Auto-select
 </target>
         <note>GoldSrc identifier: Terrorist_Select</note>
       </trans-unit>
@@ -158,8 +160,9 @@
 2. GSG-9
 3. SAS
 4. GIGN
+5. Spetsnaz
 
-5. Auto-select
+6. Auto-select
 </source>
         <target state="needs-translation">\ySelect your appearance\w
 
@@ -167,8 +170,9 @@
 2. GSG-9
 3. SAS
 4. GIGN
+5. Spetsnaz
 
-5. Auto-select
+6. Auto-select
 </target>
         <note>GoldSrc identifier: CT_Select</note>
       </trans-unit>
@@ -2972,6 +2976,41 @@
         <target state="needs-translation">#Cstrike_TitlesTXT_Cstrike_Already_Own_Weapon
 </target>
         <note>GoldSrc identifier: Cstrike_Already_Own_Weapon</note>
+      </trans-unit>
+      <trans-unit id="s000354" resname="Humans_Join_Team_CT">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Humans_Join_Team_CT
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Humans_Join_Team_CT
+</target>
+        <note>GoldSrc identifier: Humans_Join_Team_CT</note>
+      </trans-unit>
+      <trans-unit id="s000355" resname="Humans_Join_Team_T">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Humans_Join_Team_T
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Humans_Join_Team_T
+</target>
+        <note>GoldSrc identifier: Humans_Join_Team_T</note>
+      </trans-unit>
+      <trans-unit id="s000356" resname="Task_Complete_Solo">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Task_Complete_Solo
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Task_Complete_Solo
+</target>
+        <note>GoldSrc identifier: Task_Complete_Solo</note>
+      </trans-unit>
+      <trans-unit id="s000357" resname="Task_Complete_Team">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Task_Complete_Team
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Task_Complete_Team
+</target>
+        <note>GoldSrc identifier: Task_Complete_Team</note>
+      </trans-unit>
+      <trans-unit id="s000358" resname="Task_Complete_Indiv">
+        <source xml:space="preserve">#Cstrike_TitlesTXT_Task_Complete_Indiv
+</source>
+        <target state="needs-translation">#Cstrike_TitlesTXT_Task_Complete_Indiv
+</target>
+        <note>GoldSrc identifier: Task_Complete_Indiv</note>
       </trans-unit>
     </body>
   </file>
