@@ -1,0 +1,4918 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="titles.txt" target-language="pt-BR">
+    <body>
+      <trans-unit id="s000001" resname="FITH">
+        <source xml:space="preserve">FIRE IN THE HOLE!
+</source>
+        <target state="needs-translation">FIRE IN THE HOLE!
+</target>
+        <note>GoldSrc identifier: FITH</note>
+      </trans-unit>
+      <trans-unit id="s000002" resname="SpreadsCheer">
+        <source xml:space="preserve">%s spreads good cheer!
+</source>
+        <target state="needs-translation">%s spreads good cheer!
+</target>
+        <note>GoldSrc identifier: SpreadsCheer</note>
+      </trans-unit>
+      <trans-unit id="s000003" resname="Disarming_detpack">
+        <source xml:space="preserve">Disarming detpack...
+</source>
+        <target state="needs-translation">Disarming detpack...
+</target>
+        <note>GoldSrc identifier: Disarming_detpack</note>
+      </trans-unit>
+      <trans-unit id="s000004" resname="Detpack_fizzle">
+        <source xml:space="preserve">Your detpack fizzled out.
+</source>
+        <target state="needs-translation">Your detpack fizzled out.
+</target>
+        <note>GoldSrc identifier: Detpack_fizzle</note>
+      </trans-unit>
+      <trans-unit id="s000005" resname="Detpack_someone">
+        <source xml:space="preserve">You can't set a detpack on someone!
+</source>
+        <target state="needs-translation">You can't set a detpack on someone!
+</target>
+        <note>GoldSrc identifier: Detpack_someone</note>
+      </trans-unit>
+      <trans-unit id="s000006" resname="Detpack_sentry">
+        <source xml:space="preserve">You can't set a detpack on a sentry gun!\n
+</source>
+        <target state="needs-translation">You can't set a detpack on a sentry gun!\n
+</target>
+        <note>GoldSrc identifier: Detpack_sentry</note>
+      </trans-unit>
+      <trans-unit id="s000007" resname="Detpack_dispenser">
+        <source xml:space="preserve">You can't set a detpack on a dispenser!
+</source>
+        <target state="needs-translation">You can't set a detpack on a dispenser!
+</target>
+        <note>GoldSrc identifier: Detpack_dispenser</note>
+      </trans-unit>
+      <trans-unit id="s000008" resname="Detpack_stack">
+        <source xml:space="preserve">Detpacks can't be stacked!
+</source>
+        <target state="needs-translation">Detpacks can't be stacked!
+</target>
+        <note>GoldSrc identifier: Detpack_stack</note>
+      </trans-unit>
+      <trans-unit id="s000009" resname="Detpack_air">
+        <source xml:space="preserve">You can't set detpacks in the air!
+</source>
+        <target state="needs-translation">You can't set detpacks in the air!
+</target>
+        <note>GoldSrc identifier: Detpack_air</note>
+      </trans-unit>
+      <trans-unit id="s000010" resname="Detpack_oneactive">
+        <source xml:space="preserve">You can only have 1 detpack active at a time.
+</source>
+        <target state="needs-translation">You can only have 1 detpack active at a time.
+</target>
+        <note>GoldSrc identifier: Detpack_oneactive</note>
+      </trans-unit>
+      <trans-unit id="s000011" resname="Detpack_fivesec">
+        <source xml:space="preserve">You can't set detpacks for less than 5 seconds.
+</source>
+        <target state="needs-translation">You can't set detpacks for less than 5 seconds.
+</target>
+        <note>GoldSrc identifier: Detpack_fivesec</note>
+      </trans-unit>
+      <trans-unit id="s000012" resname="Detpack_set">
+        <source xml:space="preserve">Setting detpack for %s seconds...
+</source>
+        <target state="needs-translation">Setting detpack for %s seconds...
+</target>
+        <note>GoldSrc identifier: Detpack_set</note>
+      </trans-unit>
+      <trans-unit id="s000013" resname="Detpack_retrieve">
+        <source xml:space="preserve">Detpack retrieved.
+</source>
+        <target state="needs-translation">Detpack retrieved.
+</target>
+        <note>GoldSrc identifier: Detpack_retrieve</note>
+      </trans-unit>
+      <trans-unit id="s000014" resname="Detpack_countdown">
+        <source xml:space="preserve">%s...
+</source>
+        <target state="needs-translation">%s...
+</target>
+        <note>GoldSrc identifier: Detpack_countdown</note>
+      </trans-unit>
+      <trans-unit id="s000015" resname="Detpack_finishset">
+        <source xml:space="preserve">Detpack set!
+</source>
+        <target state="needs-translation">Detpack set!
+</target>
+        <note>GoldSrc identifier: Detpack_finishset</note>
+      </trans-unit>
+      <trans-unit id="s000016" resname="Demoman_detpacking">
+        <source xml:space="preserve">Setting detpack...
+</source>
+        <target state="needs-translation">Setting detpack...
+</target>
+        <note>GoldSrc identifier: Demoman_detpacking</note>
+      </trans-unit>
+      <trans-unit id="s000017" resname="Dispenser_finish">
+        <source xml:space="preserve">You finish building the dispenser.
+</source>
+        <target state="needs-translation">You finish building the dispenser.
+</target>
+        <note>GoldSrc identifier: Dispenser_finish</note>
+      </trans-unit>
+      <trans-unit id="s000018" resname="Dispenser_built">
+        <source xml:space="preserve">%s has built a Dispenser.
+</source>
+        <target state="needs-translation">%s has built a Dispenser.
+</target>
+        <note>GoldSrc identifier: Dispenser_built</note>
+      </trans-unit>
+      <trans-unit id="s000019" resname="Dispenser_has">
+        <source xml:space="preserve">Dispenser has %s health, %s rockets, %s armor, and %s cells
+</source>
+        <target state="needs-translation">Dispenser has %s health, %s rockets, %s armor, and %s cells
+</target>
+        <note>GoldSrc identifier: Dispenser_has</note>
+      </trans-unit>
+      <trans-unit id="s000020" resname="Dispenser_AmmoNoMore">
+        <source xml:space="preserve">You can not put any more ammo in the dispenser.
+</source>
+        <target state="needs-translation">You can not put any more ammo in the dispenser.
+</target>
+        <note>GoldSrc identifier: Dispenser_AmmoNoMore</note>
+      </trans-unit>
+      <trans-unit id="s000021" resname="Dispenser_destroyed">
+        <source xml:space="preserve">Your dispenser was destroyed.
+</source>
+        <target state="needs-translation">Your dispenser was destroyed.
+</target>
+        <note>GoldSrc identifier: Dispenser_destroyed</note>
+      </trans-unit>
+      <trans-unit id="s000022" resname="Dispenser_used">
+        <source xml:space="preserve">Enemies are using your dispenser!
+</source>
+        <target state="needs-translation">Enemies are using your dispenser!
+</target>
+        <note>GoldSrc identifier: Dispenser_used</note>
+      </trans-unit>
+      <trans-unit id="s000023" resname="Dispenser_dismantle">
+        <source xml:space="preserve">You dismantle the Dispenser.
+</source>
+        <target state="needs-translation">You dismantle the Dispenser.
+</target>
+        <note>GoldSrc identifier: Dispenser_dismantle</note>
+      </trans-unit>
+      <trans-unit id="s000024" resname="Dispenser_otherdismantled">
+        <source xml:space="preserve">%s dismantled your Dispenser.
+</source>
+        <target state="needs-translation">%s dismantled your Dispenser.
+</target>
+        <note>GoldSrc identifier: Dispenser_otherdismantled</note>
+      </trans-unit>
+      <trans-unit id="s000025" resname="Dispenser_otherdismantledhis">
+        <source xml:space="preserve">%s dismantled %s's Dispenser.
+</source>
+        <target state="needs-translation">%s dismantled %s's Dispenser.
+</target>
+        <note>GoldSrc identifier: Dispenser_otherdismantledhis</note>
+      </trans-unit>
+      <trans-unit id="s000026" resname="Dispenser_empty">
+        <source xml:space="preserve">The dispenser is empty.
+</source>
+        <target state="needs-translation">The dispenser is empty.
+</target>
+        <note>GoldSrc identifier: Dispenser_empty</note>
+      </trans-unit>
+      <trans-unit id="s000027" resname="Sentry_finish">
+        <source xml:space="preserve">You finish building the sentry gun.
+</source>
+        <target state="needs-translation">You finish building the sentry gun.
+</target>
+        <note>GoldSrc identifier: Sentry_finish</note>
+      </trans-unit>
+      <trans-unit id="s000028" resname="Sentry_built">
+        <source xml:space="preserve">%s has built a sentry gun
+</source>
+        <target state="needs-translation">%s has built a sentry gun
+</target>
+        <note>GoldSrc identifier: Sentry_built</note>
+      </trans-unit>
+      <trans-unit id="s000029" resname="Sentry_upgrade">
+        <source xml:space="preserve">You upgrade the Sentry Gun to level %s
+</source>
+        <target state="needs-translation">You upgrade the Sentry Gun to level %s
+</target>
+        <note>GoldSrc identifier: Sentry_upgrade</note>
+      </trans-unit>
+      <trans-unit id="s000030" resname="Sentry_rocketslow">
+        <source xml:space="preserve">Sentry Gun is low on rockets.
+</source>
+        <target state="needs-translation">Sentry Gun is low on rockets.
+</target>
+        <note>GoldSrc identifier: Sentry_rocketslow</note>
+      </trans-unit>
+      <trans-unit id="s000031" resname="Sentry_rocketsout">
+        <source xml:space="preserve">Sentry Gun is out of rockets.
+</source>
+        <target state="needs-translation">Sentry Gun is out of rockets.
+</target>
+        <note>GoldSrc identifier: Sentry_rocketsout</note>
+      </trans-unit>
+      <trans-unit id="s000032" resname="Sentry_shellsout">
+        <source xml:space="preserve">Sentry Gun is out of shells.
+</source>
+        <target state="needs-translation">Sentry Gun is out of shells.
+</target>
+        <note>GoldSrc identifier: Sentry_shellsout</note>
+      </trans-unit>
+      <trans-unit id="s000033" resname="Sentry_shellslow">
+        <source xml:space="preserve">Sentry Gun is low on shells.
+</source>
+        <target state="needs-translation">Sentry Gun is low on shells.
+</target>
+        <note>GoldSrc identifier: Sentry_shellslow</note>
+      </trans-unit>
+      <trans-unit id="s000034" resname="Sentry_malfunc">
+        <source xml:space="preserve">%s's sentry gun malfunctioned
+</source>
+        <target state="needs-translation">%s's sentry gun malfunctioned
+</target>
+        <note>GoldSrc identifier: Sentry_malfunc</note>
+      </trans-unit>
+      <trans-unit id="s000035" resname="Sentry_destroyed">
+        <source xml:space="preserve">Your sentry gun was destroyed.
+</source>
+        <target state="needs-translation">Your sentry gun was destroyed.
+</target>
+        <note>GoldSrc identifier: Sentry_destroyed</note>
+      </trans-unit>
+      <trans-unit id="s000036" resname="Sentry_detail">
+        <source xml:space="preserve">Level %s SentryGun has %s health, %s shells
+</source>
+        <target state="needs-translation">Level %s SentryGun has %s health, %s shells
+</target>
+        <note>GoldSrc identifier: Sentry_detail</note>
+      </trans-unit>
+      <trans-unit id="s000037" resname="Sentry_detailrox">
+        <source xml:space="preserve">Level %s SentryGun has %s health, %s shells, %s rockets
+</source>
+        <target state="needs-translation">Level %s SentryGun has %s health, %s shells, %s rockets
+</target>
+        <note>GoldSrc identifier: Sentry_detailrox</note>
+      </trans-unit>
+      <trans-unit id="s000038" resname="Sentry_dismantle">
+        <source xml:space="preserve">You dismantle the Sentry Gun
+</source>
+        <target state="needs-translation">You dismantle the Sentry Gun
+</target>
+        <note>GoldSrc identifier: Sentry_dismantle</note>
+      </trans-unit>
+      <trans-unit id="s000039" resname="Sentry_otherdismantled">
+        <source xml:space="preserve">%s dismantled your Sentry Gun.
+</source>
+        <target state="needs-translation">%s dismantled your Sentry Gun.
+</target>
+        <note>GoldSrc identifier: Sentry_otherdismantled</note>
+      </trans-unit>
+      <trans-unit id="s000040" resname="Sentry_otherdismantledhis">
+        <source xml:space="preserve">%s dismantled %s's Sentry Gun
+</source>
+        <target state="needs-translation">%s dismantled %s's Sentry Gun
+</target>
+        <note>GoldSrc identifier: Sentry_otherdismantledhis</note>
+      </trans-unit>
+      <trans-unit id="s000041" resname="Sentry_rotate">
+        <source xml:space="preserve">Rotating 45 degrees to the left...
+</source>
+        <target state="needs-translation">Rotating 45 degrees to the left...
+</target>
+        <note>GoldSrc identifier: Sentry_rotate</note>
+      </trans-unit>
+      <trans-unit id="s000042" resname="Sentry_rotate180">
+        <source xml:space="preserve">Rotating 180 degrees...
+</source>
+        <target state="needs-translation">Rotating 180 degrees...
+</target>
+        <note>GoldSrc identifier: Sentry_rotate180</note>
+      </trans-unit>
+      <trans-unit id="s000043" resname="Build_air">
+        <source xml:space="preserve">You can't build in the air!
+</source>
+        <target state="needs-translation">You can't build in the air!
+</target>
+        <note>GoldSrc identifier: Build_air</note>
+      </trans-unit>
+      <trans-unit id="s000044" resname="Build_nometal">
+        <source xml:space="preserve">You don't have enough metal to 
+build anything.
+</source>
+        <target state="needs-translation">You don't have enough metal to 
+build anything.
+</target>
+        <note>GoldSrc identifier: Build_nometal</note>
+      </trans-unit>
+      <trans-unit id="s000045" resname="Build_stop">
+        <source xml:space="preserve">You stop building.
+</source>
+        <target state="needs-translation">You stop building.
+</target>
+        <note>GoldSrc identifier: Build_stop</note>
+      </trans-unit>
+      <trans-unit id="s000046" resname="Build_onedispenser">
+        <source xml:space="preserve">You can only have one dispenser.
+Try dismantling your old one.
+</source>
+        <target state="needs-translation">You can only have one dispenser.
+Try dismantling your old one.
+</target>
+        <note>GoldSrc identifier: Build_onedispenser</note>
+      </trans-unit>
+      <trans-unit id="s000047" resname="Build_onesentry">
+        <source xml:space="preserve">You can only have one sentry gun.
+Try dismantling your old one.
+</source>
+        <target state="needs-translation">You can only have one sentry gun.
+Try dismantling your old one.
+</target>
+        <note>GoldSrc identifier: Build_onesentry</note>
+      </trans-unit>
+      <trans-unit id="s000048" resname="Build_noroom">
+        <source xml:space="preserve">Not enough room to build here
+</source>
+        <target state="needs-translation">Not enough room to build here
+</target>
+        <note>GoldSrc identifier: Build_noroom</note>
+      </trans-unit>
+      <trans-unit id="s000049" resname="Build_nobuild">
+        <source xml:space="preserve">You're not allowed to build here
+</source>
+        <target state="needs-translation">You're not allowed to build here
+</target>
+        <note>GoldSrc identifier: Build_nobuild</note>
+      </trans-unit>
+      <trans-unit id="s000050" resname="Detpack_disarm">
+        <source xml:space="preserve">%s's detpack was defused by %s!
+</source>
+        <target state="needs-translation">%s's detpack was defused by %s!
+</target>
+        <note>GoldSrc identifier: Detpack_disarm</note>
+      </trans-unit>
+      <trans-unit id="s000051" resname="Detpack_disarm_bday">
+        <source xml:space="preserve">%s stole %s's birthday present!
+</source>
+        <target state="needs-translation">%s stole %s's birthday present!
+</target>
+        <note>GoldSrc identifier: Detpack_disarm_bday</note>
+      </trans-unit>
+      <trans-unit id="s000052" resname="Menu_DetDisp">
+        <source xml:space="preserve">Remotely Detonate Dispenser
+</source>
+        <target state="needs-translation">Remotely Detonate Dispenser
+</target>
+        <note>GoldSrc identifier: Menu_DetDisp</note>
+      </trans-unit>
+      <trans-unit id="s000053" resname="Sentry_sbar">
+        <source xml:space="preserve">Sentry gun health:
+</source>
+        <target state="needs-translation">Sentry gun health:
+</target>
+        <note>GoldSrc identifier: Sentry_sbar</note>
+      </trans-unit>
+      <trans-unit id="s000054" resname="Engineer_building">
+        <source xml:space="preserve">Building...
+</source>
+        <target state="needs-translation">Building...
+</target>
+        <note>GoldSrc identifier: Engineer_building</note>
+      </trans-unit>
+      <trans-unit id="s000055" resname="No_Rockets">
+        <source xml:space="preserve">No rockets
+</source>
+        <target state="needs-translation">No rockets
+</target>
+        <note>GoldSrc identifier: No_Rockets</note>
+      </trans-unit>
+      <trans-unit id="s000056" resname="No_Shells">
+        <source xml:space="preserve">No shells
+</source>
+        <target state="needs-translation">No shells
+</target>
+        <note>GoldSrc identifier: No_Shells</note>
+      </trans-unit>
+      <trans-unit id="s000057" resname="No_Ammo">
+        <source xml:space="preserve">No ammunition
+</source>
+        <target state="needs-translation">No ammunition
+</target>
+        <note>GoldSrc identifier: No_Ammo</note>
+      </trans-unit>
+      <trans-unit id="s000058" resname="Menu_BuildDisp">
+        <source xml:space="preserve">Build Ammo&amp;Armor Dispenser
+</source>
+        <target state="needs-translation">Build Ammo&amp;Armor Dispenser
+</target>
+        <note>GoldSrc identifier: Menu_BuildDisp</note>
+      </trans-unit>
+      <trans-unit id="s000059" resname="Menu_DetSentry">
+        <source xml:space="preserve">Remotely Detonate Sentry Gun
+</source>
+        <target state="needs-translation">Remotely Detonate Sentry Gun
+</target>
+        <note>GoldSrc identifier: Menu_DetSentry</note>
+      </trans-unit>
+      <trans-unit id="s000060" resname="Menu_BuildSentry">
+        <source xml:space="preserve">Build Sentry Gun
+</source>
+        <target state="needs-translation">Build Sentry Gun
+</target>
+        <note>GoldSrc identifier: Menu_BuildSentry</note>
+      </trans-unit>
+      <trans-unit id="s000061" resname="Menu_DismantleDisp">
+        <source xml:space="preserve">Dismantle Dispenser
+</source>
+        <target state="needs-translation">Dismantle Dispenser
+</target>
+        <note>GoldSrc identifier: Menu_DismantleDisp</note>
+      </trans-unit>
+      <trans-unit id="s000062" resname="Menu_RepairDisp">
+        <source xml:space="preserve">Repair Dispenser
+</source>
+        <target state="needs-translation">Repair Dispenser
+</target>
+        <note>GoldSrc identifier: Menu_RepairDisp</note>
+      </trans-unit>
+      <trans-unit id="s000063" resname="Menu_ArmorDisp">
+        <source xml:space="preserve">Put Armor into Dispenser
+</source>
+        <target state="needs-translation">Put Armor into Dispenser
+</target>
+        <note>GoldSrc identifier: Menu_ArmorDisp</note>
+      </trans-unit>
+      <trans-unit id="s000064" resname="Menu_AmmoDisp">
+        <source xml:space="preserve">Put Ammo into Dispenser
+</source>
+        <target state="needs-translation">Put Ammo into Dispenser
+</target>
+        <note>GoldSrc identifier: Menu_AmmoDisp</note>
+      </trans-unit>
+      <trans-unit id="s000065" resname="Menu_AmmoSentry">
+        <source xml:space="preserve">Put Ammo into Sentry Gun
+</source>
+        <target state="needs-translation">Put Ammo into Sentry Gun
+</target>
+        <note>GoldSrc identifier: Menu_AmmoSentry</note>
+      </trans-unit>
+      <trans-unit id="s000066" resname="Menu_UpgradeSentry">
+        <source xml:space="preserve">Upgrade Sentry Gun
+</source>
+        <target state="needs-translation">Upgrade Sentry Gun
+</target>
+        <note>GoldSrc identifier: Menu_UpgradeSentry</note>
+      </trans-unit>
+      <trans-unit id="s000067" resname="Menu_RepairSentry">
+        <source xml:space="preserve">Repair Sentry Gun
+</source>
+        <target state="needs-translation">Repair Sentry Gun
+</target>
+        <note>GoldSrc identifier: Menu_RepairSentry</note>
+      </trans-unit>
+      <trans-unit id="s000068" resname="Menu_DismantleSentry">
+        <source xml:space="preserve">Dismantle Sentry Gun
+</source>
+        <target state="needs-translation">Dismantle Sentry Gun
+</target>
+        <note>GoldSrc identifier: Menu_DismantleSentry</note>
+      </trans-unit>
+      <trans-unit id="s000069" resname="Menu_RotateSentry">
+        <source xml:space="preserve">Rotate Sentry Gun
+</source>
+        <target state="needs-translation">Rotate Sentry Gun
+</target>
+        <note>GoldSrc identifier: Menu_RotateSentry</note>
+      </trans-unit>
+      <trans-unit id="s000070" resname="Menu_Dispenser">
+        <source xml:space="preserve">Use Dispenser:
+1. Withdraw some Ammo
+2. Withdraw some Armor
+3. Nothing
+
+</source>
+        <target state="needs-translation">Use Dispenser:
+1. Withdraw some Ammo
+2. Withdraw some Armor
+3. Nothing
+
+</target>
+        <note>GoldSrc identifier: Menu_Dispenser</note>
+      </trans-unit>
+      <trans-unit id="s000071" resname="Spy_glowing">
+        <source xml:space="preserve">You can't go undercover while glowing.
+</source>
+        <target state="needs-translation">You can't go undercover while glowing.
+</target>
+        <note>GoldSrc identifier: Spy_glowing</note>
+      </trans-unit>
+      <trans-unit id="s000072" resname="Spy_unable">
+        <source xml:space="preserve">You can't go undercover right now.
+</source>
+        <target state="needs-translation">You can't go undercover right now.
+</target>
+        <note>GoldSrc identifier: Spy_unable</note>
+      </trans-unit>
+      <trans-unit id="s000073" resname="Feign_unabletogetup">
+        <source xml:space="preserve">You can't get up while 
+something is on you.
+</source>
+        <target state="needs-translation">You can't get up while 
+something is on you.
+</target>
+        <note>GoldSrc identifier: Feign_unabletogetup</note>
+      </trans-unit>
+      <trans-unit id="s000074" resname="Feign_unable">
+        <source xml:space="preserve">You can't feign right now.
+</source>
+        <target state="needs-translation">You can't feign right now.
+</target>
+        <note>GoldSrc identifier: Feign_unable</note>
+      </trans-unit>
+      <trans-unit id="s000075" resname="Feign_air">
+        <source xml:space="preserve">You can't feign in the air.
+</source>
+        <target state="needs-translation">You can't feign in the air.
+</target>
+        <note>GoldSrc identifier: Feign_air</note>
+      </trans-unit>
+      <trans-unit id="s000076" resname="Feign_onspy">
+        <source xml:space="preserve">You can't feign this close 
+to another player.
+</source>
+        <target state="needs-translation">You can't feign this close 
+to another player.
+</target>
+        <note>GoldSrc identifier: Feign_onspy</note>
+      </trans-unit>
+      <trans-unit id="s000077" resname="Feign_noroom">
+        <source xml:space="preserve">Not enough room to feign here.
+</source>
+        <target state="needs-translation">Not enough room to feign here.
+</target>
+        <note>GoldSrc identifier: Feign_noroom</note>
+      </trans-unit>
+      <trans-unit id="s000078" resname="Disguise_stop">
+        <source xml:space="preserve">You stop going undercover.
+</source>
+        <target state="needs-translation">You stop going undercover.
+</target>
+        <note>GoldSrc identifier: Disguise_stop</note>
+      </trans-unit>
+      <trans-unit id="s000079" resname="Disguise_start">
+        <source xml:space="preserve">Going undercover...
+</source>
+        <target state="needs-translation">Going undercover...
+</target>
+        <note>GoldSrc identifier: Disguise_start</note>
+      </trans-unit>
+      <trans-unit id="s000080" resname="Disguise_resetclass">
+        <source xml:space="preserve">Disguised Class reset.
+</source>
+        <target state="needs-translation">Disguised Class reset.
+</target>
+        <note>GoldSrc identifier: Disguise_resetclass</note>
+      </trans-unit>
+      <trans-unit id="s000081" resname="Disguise_resetteam">
+        <source xml:space="preserve">Disguised Team reset.
+</source>
+        <target state="needs-translation">Disguised Team reset.
+</target>
+        <note>GoldSrc identifier: Disguise_resetteam</note>
+      </trans-unit>
+      <trans-unit id="s000082" resname="Disguise_asclass">
+        <source xml:space="preserve">Now disguised as a %s
+</source>
+        <target state="needs-translation">Now disguised as a %s
+</target>
+        <note>GoldSrc identifier: Disguise_asclass</note>
+      </trans-unit>
+      <trans-unit id="s000083" resname="Disguise_asteam">
+        <source xml:space="preserve">Now disguised as team %s
+</source>
+        <target state="needs-translation">Now disguised as team %s
+</target>
+        <note>GoldSrc identifier: Disguise_asteam</note>
+      </trans-unit>
+      <trans-unit id="s000084" resname="Disguise_now">
+        <source xml:space="preserve">You are now disguised.
+</source>
+        <target state="needs-translation">You are now disguised.
+</target>
+        <note>GoldSrc identifier: Disguise_now</note>
+      </trans-unit>
+      <trans-unit id="s000085" resname="Spy_tranq">
+        <source xml:space="preserve">You feel tired...
+</source>
+        <target state="needs-translation">You feel tired...
+</target>
+        <note>GoldSrc identifier: Spy_tranq</note>
+      </trans-unit>
+      <trans-unit id="s000086" resname="Halluc_finished">
+        <source xml:space="preserve">You feel a little better now.
+</source>
+        <target state="needs-translation">You feel a little better now.
+</target>
+        <note>GoldSrc identifier: Halluc_finished</note>
+      </trans-unit>
+      <trans-unit id="s000087" resname="Tranq_finished">
+        <source xml:space="preserve">You feel more alert now.
+</source>
+        <target state="needs-translation">You feel more alert now.
+</target>
+        <note>GoldSrc identifier: Tranq_finished</note>
+      </trans-unit>
+      <trans-unit id="s000088" resname="Spy_changeskin">
+        <source xml:space="preserve">Change Skin
+</source>
+        <target state="needs-translation">Change Skin
+</target>
+        <note>GoldSrc identifier: Spy_changeskin</note>
+      </trans-unit>
+      <trans-unit id="s000089" resname="Spy_changecolor">
+        <source xml:space="preserve">Change Color
+</source>
+        <target state="needs-translation">Change Color
+</target>
+        <note>GoldSrc identifier: Spy_changecolor</note>
+      </trans-unit>
+      <trans-unit id="s000090" resname="Spy_startfeign">
+        <source xml:space="preserve">Start Feigning
+</source>
+        <target state="needs-translation">Start Feigning
+</target>
+        <note>GoldSrc identifier: Spy_startfeign</note>
+      </trans-unit>
+      <trans-unit id="s000091" resname="Spy_stopfeign">
+        <source xml:space="preserve">Stop Feigning
+</source>
+        <target state="needs-translation">Stop Feigning
+</target>
+        <note>GoldSrc identifier: Spy_stopfeign</note>
+      </trans-unit>
+      <trans-unit id="s000092" resname="Spy_resetskin">
+        <source xml:space="preserve">Reset Skin
+</source>
+        <target state="needs-translation">Reset Skin
+</target>
+        <note>GoldSrc identifier: Spy_resetskin</note>
+      </trans-unit>
+      <trans-unit id="s000093" resname="Spy_resetcolor">
+        <source xml:space="preserve">Reset Color
+</source>
+        <target state="needs-translation">Reset Color
+</target>
+        <note>GoldSrc identifier: Spy_resetcolor</note>
+      </trans-unit>
+      <trans-unit id="s000094" resname="Spy_resetskinandcolor">
+        <source xml:space="preserve">Reset Skin and Color
+</source>
+        <target state="needs-translation">Reset Skin and Color
+</target>
+        <note>GoldSrc identifier: Spy_resetskinandcolor</note>
+      </trans-unit>
+      <trans-unit id="s000095" resname="Spy_skinmenu">
+        <source xml:space="preserve">Change Skin to:
+</source>
+        <target state="needs-translation">Change Skin to:
+</target>
+        <note>GoldSrc identifier: Spy_skinmenu</note>
+      </trans-unit>
+      <trans-unit id="s000096" resname="Spy_colormenu">
+        <source xml:space="preserve">=== Change Color to the Same Color as  ===
+</source>
+        <target state="needs-translation">=== Change Color to the Same Color as  ===
+</target>
+        <note>GoldSrc identifier: Spy_colormenu</note>
+      </trans-unit>
+      <trans-unit id="s000097" resname="Spy_disguised">
+        <source xml:space="preserve">Disguise:
+</source>
+        <target state="needs-translation">Disguise:
+</target>
+        <note>GoldSrc identifier: Spy_disguised</note>
+      </trans-unit>
+      <trans-unit id="s000098" resname="Spy_disguising">
+        <source xml:space="preserve">Disguising...
+</source>
+        <target state="needs-translation">Disguising...
+</target>
+        <note>GoldSrc identifier: Spy_disguising</note>
+      </trans-unit>
+      <trans-unit id="s000099" resname="Nothing">
+        <source xml:space="preserve">Nothing
+</source>
+        <target state="needs-translation">Nothing
+</target>
+        <note>GoldSrc identifier: Nothing</note>
+      </trans-unit>
+      <trans-unit id="s000100" resname="Action">
+        <source xml:space="preserve">Action:
+</source>
+        <target state="needs-translation">Action:
+</target>
+        <note>GoldSrc identifier: Action</note>
+      </trans-unit>
+      <trans-unit id="s000101" resname="Medic_infect">
+        <source xml:space="preserve">You have infected %s!
+</source>
+        <target state="needs-translation">You have infected %s!
+</target>
+        <note>GoldSrc identifier: Medic_infect</note>
+      </trans-unit>
+      <trans-unit id="s000102" resname="Medic_infected">
+        <source xml:space="preserve">You have been infected by %s!
+</source>
+        <target state="needs-translation">You have been infected by %s!
+</target>
+        <note>GoldSrc identifier: Medic_infected</note>
+      </trans-unit>
+      <trans-unit id="s000103" resname="Medic_cureconc">
+        <source xml:space="preserve">%s cured %s's concussion
+</source>
+        <target state="needs-translation">%s cured %s's concussion
+</target>
+        <note>GoldSrc identifier: Medic_cureconc</note>
+      </trans-unit>
+      <trans-unit id="s000104" resname="Medic_curehalluc">
+        <source xml:space="preserve">%s cured %s's of his hallucinations.
+</source>
+        <target state="needs-translation">%s cured %s's of his hallucinations.
+</target>
+        <note>GoldSrc identifier: Medic_curehalluc</note>
+      </trans-unit>
+      <trans-unit id="s000105" resname="Medic_curetranq">
+        <source xml:space="preserve">%s healed %s's tranquilisation.
+</source>
+        <target state="needs-translation">%s healed %s's tranquilisation.
+</target>
+        <note>GoldSrc identifier: Medic_curetranq</note>
+      </trans-unit>
+      <trans-unit id="s000106" resname="Medic_cureinfection">
+        <source xml:space="preserve">%s healed %s's infection.
+</source>
+        <target state="needs-translation">%s healed %s's infection.
+</target>
+        <note>GoldSrc identifier: Medic_cureinfection</note>
+      </trans-unit>
+      <trans-unit id="s000107" resname="Medic_curefire">
+        <source xml:space="preserve">%s put out %s's fire.
+</source>
+        <target state="needs-translation">%s put out %s's fire.
+</target>
+        <note>GoldSrc identifier: Medic_curefire</note>
+      </trans-unit>
+      <trans-unit id="s000108" resname="Sniper_headshot">
+        <source xml:space="preserve">Head shot!
+</source>
+        <target state="needs-translation">Head shot!
+</target>
+        <note>GoldSrc identifier: Sniper_headshot</note>
+      </trans-unit>
+      <trans-unit id="s000109" resname="Sniper_leginjury">
+        <source xml:space="preserve">Leg injury!
+</source>
+        <target state="needs-translation">Leg injury!
+</target>
+        <note>GoldSrc identifier: Sniper_leginjury</note>
+      </trans-unit>
+      <trans-unit id="s000110" resname="Sniper_legshot">
+        <source xml:space="preserve">Leg shot - that'll slow him down!
+</source>
+        <target state="needs-translation">Leg shot - that'll slow him down!
+</target>
+        <note>GoldSrc identifier: Sniper_legshot</note>
+      </trans-unit>
+      <trans-unit id="s000111" resname="Pyro_onfire">
+        <source xml:space="preserve">You are on fire!
+</source>
+        <target state="needs-translation">You are on fire!
+</target>
+        <note>GoldSrc identifier: Pyro_onfire</note>
+      </trans-unit>
+      <trans-unit id="s000112" resname="Game_ceasefire">
+        <source xml:space="preserve">CEASE FIRE MODE
+</source>
+        <target state="needs-translation">CEASE FIRE MODE
+</target>
+        <note>GoldSrc identifier: Game_ceasefire</note>
+      </trans-unit>
+      <trans-unit id="s000113" resname="Game_christmas">
+        <source xml:space="preserve">MERRY CHRISTMAS!!
+</source>
+        <target state="needs-translation">MERRY CHRISTMAS!!
+</target>
+        <note>GoldSrc identifier: Game_christmas</note>
+      </trans-unit>
+      <trans-unit id="s000114" resname="Game_happybday">
+        <source xml:space="preserve">HAPPY BIRTHDAY TEAMFORTRESS!
+</source>
+        <target state="needs-translation">HAPPY BIRTHDAY TEAMFORTRESS!
+</target>
+        <note>GoldSrc identifier: Game_happybday</note>
+      </trans-unit>
+      <trans-unit id="s000115" resname="Game_nocolorchange">
+        <source xml:space="preserve">No Color changing allowed in deathmatch.
+</source>
+        <target state="needs-translation">No Color changing allowed in deathmatch.
+</target>
+        <note>GoldSrc identifier: Game_nocolorchange</note>
+      </trans-unit>
+      <trans-unit id="s000116" resname="Game_cantplayclass">
+        <source xml:space="preserve">You cannot play that playerclass on this map. 
+</source>
+        <target state="needs-translation">You cannot play that playerclass on this map. 
+</target>
+        <note>GoldSrc identifier: Game_cantplayclass</note>
+      </trans-unit>
+      <trans-unit id="s000117" resname="Game_spydisabled">
+        <source xml:space="preserve">The spy class has been disabled on the server by the administrator.
+</source>
+        <target state="needs-translation">The spy class has been disabled on the server by the administrator.
+</target>
+        <note>GoldSrc identifier: Game_spydisabled</note>
+      </trans-unit>
+      <trans-unit id="s000118" resname="Game_enoughofclass">
+        <source xml:space="preserve">Your team already has enough of that class.
+</source>
+        <target state="needs-translation">Your team already has enough of that class.
+</target>
+        <note>GoldSrc identifier: Game_enoughofclass</note>
+      </trans-unit>
+      <trans-unit id="s000119" resname="Game_nochangeclass">
+        <source xml:space="preserve">You cannot change class.
+</source>
+        <target state="needs-translation">You cannot change class.
+</target>
+        <note>GoldSrc identifier: Game_nochangeclass</note>
+      </trans-unit>
+      <trans-unit id="s000120" resname="Game_changeclass">
+        <source xml:space="preserve">After dying, you will return as a %s
+</source>
+        <target state="needs-translation">After dying, you will return as a %s
+</target>
+        <note>GoldSrc identifier: Game_changeclass</note>
+      </trans-unit>
+      <trans-unit id="s000121" resname="Game_mustteam">
+        <source xml:space="preserve">You must join a team first.
+</source>
+        <target state="needs-translation">You must join a team first.
+</target>
+        <note>GoldSrc identifier: Game_mustteam</note>
+      </trans-unit>
+      <trans-unit id="s000122" resname="Game_nolives">
+        <source xml:space="preserve">You have no lives left.
+</source>
+        <target state="needs-translation">You have no lives left.
+</target>
+        <note>GoldSrc identifier: Game_nolives</note>
+      </trans-unit>
+      <trans-unit id="s000123" resname="Game_random">
+        <source xml:space="preserve">Random Playerclass.
+</source>
+        <target state="needs-translation">Random Playerclass.
+</target>
+        <note>GoldSrc identifier: Game_random</note>
+      </trans-unit>
+      <trans-unit id="s000124" resname="Game_playingas">
+        <source xml:space="preserve">%s is playing as a %s
+</source>
+        <target state="needs-translation">%s is playing as a %s
+</target>
+        <note>GoldSrc identifier: Game_playingas</note>
+      </trans-unit>
+      <trans-unit id="s000125" resname="Game_legalclasses">
+        <source xml:space="preserve">Legal Classes for your team are:
+</source>
+        <target state="needs-translation">Legal Classes for your team are:
+</target>
+        <note>GoldSrc identifier: Game_legalclasses</note>
+      </trans-unit>
+      <trans-unit id="s000126" resname="Game_noteams">
+        <source xml:space="preserve">Teamplay is not On, Teams are inactive.
+</source>
+        <target state="needs-translation">Teamplay is not On, Teams are inactive.
+</target>
+        <note>GoldSrc identifier: Game_noteams</note>
+      </trans-unit>
+      <trans-unit id="s000127" resname="Game_onlyteams">
+        <source xml:space="preserve">There can be only %s teams on this map.
+</source>
+        <target state="needs-translation">There can be only %s teams on this map.
+</target>
+        <note>GoldSrc identifier: Game_onlyteams</note>
+      </trans-unit>
+      <trans-unit id="s000128" resname="Game_alreadyteam">
+        <source xml:space="preserve">You're already in Team %s.
+</source>
+        <target state="needs-translation">You're already in Team %s.
+</target>
+        <note>GoldSrc identifier: Game_alreadyteam</note>
+      </trans-unit>
+      <trans-unit id="s000129" resname="Game_teamfull">
+        <source xml:space="preserve">That team is full. Pick another.
+</source>
+        <target state="needs-translation">That team is full. Pick another.
+</target>
+        <note>GoldSrc identifier: Game_teamfull</note>
+      </trans-unit>
+      <trans-unit id="s000130" resname="Game_noteamstart">
+        <source xml:space="preserve">You can't start a new team with your color, since another is already using that color. 
+Change your color, then try again.
+</source>
+        <target state="needs-translation">You can't start a new team with your color, since another is already using that color. 
+Change your color, then try again.
+</target>
+        <note>GoldSrc identifier: Game_noteamstart</note>
+      </trans-unit>
+      <trans-unit id="s000131" resname="Game_others">
+        <source xml:space="preserve">The other members of your team are:
+</source>
+        <target state="needs-translation">The other members of your team are:
+</target>
+        <note>GoldSrc identifier: Game_others</note>
+      </trans-unit>
+      <trans-unit id="s000132" resname="Game_othersdetails">
+        <source xml:space="preserve">   %s : %s
+</source>
+        <target state="needs-translation">   %s : %s
+</target>
+        <note>GoldSrc identifier: Game_othersdetails</note>
+      </trans-unit>
+      <trans-unit id="s000133" resname="Game_noothers">
+        <source xml:space="preserve">There are no other players on your team.
+</source>
+        <target state="needs-translation">There are no other players on your team.
+</target>
+        <note>GoldSrc identifier: Game_noothers</note>
+      </trans-unit>
+      <trans-unit id="s000134" resname="Game_nolives">
+        <source xml:space="preserve">NO lives left, returning to Observer mode.\n
+</source>
+        <target state="needs-translation">NO lives left, returning to Observer mode.\n
+</target>
+        <note>GoldSrc identifier: Game_nolives</note>
+      </trans-unit>
+      <trans-unit id="s000135" resname="Game_lastlife">
+        <source xml:space="preserve">LAST life.
+</source>
+        <target state="needs-translation">LAST life.
+</target>
+        <note>GoldSrc identifier: Game_lastlife</note>
+      </trans-unit>
+      <trans-unit id="s000136" resname="Game_Xlives">
+        <source xml:space="preserve">%s lives left.
+</source>
+        <target state="needs-translation">%s lives left.
+</target>
+        <note>GoldSrc identifier: Game_Xlives</note>
+      </trans-unit>
+      <trans-unit id="s000137" resname="Game_tillrespawn">
+        <source xml:space="preserve">%s seconds till respawn.
+</source>
+        <target state="needs-translation">%s seconds till respawn.
+</target>
+        <note>GoldSrc identifier: Game_tillrespawn</note>
+      </trans-unit>
+      <trans-unit id="s000138" resname="Game_battleid">
+        <source xml:space="preserve">Your Battle ID is %s
+</source>
+        <target state="needs-translation">Your Battle ID is %s
+</target>
+        <note>GoldSrc identifier: Game_battleid</note>
+      </trans-unit>
+      <trans-unit id="s000139" resname="Game_welcomeback">
+        <source xml:space="preserve">Welcome Back!
+</source>
+        <target state="needs-translation">Welcome Back!
+</target>
+        <note>GoldSrc identifier: Game_welcomeback</note>
+      </trans-unit>
+      <trans-unit id="s000140" resname="Game_locked">
+        <source xml:space="preserve">Closed Server. Clan Battle in progress.
+</source>
+        <target state="needs-translation">Closed Server. Clan Battle in progress.
+</target>
+        <note>GoldSrc identifier: Game_locked</note>
+      </trans-unit>
+      <trans-unit id="s000141" resname="Game_playerjoin">
+        <source xml:space="preserve">%s has joined the game
+</source>
+        <target state="needs-translation">%s has joined the game
+</target>
+        <note>GoldSrc identifier: Game_playerjoin</note>
+      </trans-unit>
+      <trans-unit id="s000142" resname="Game_startedteam">
+        <source xml:space="preserve">%s has started Team %s.
+</source>
+        <target state="needs-translation">%s has started Team %s.
+</target>
+        <note>GoldSrc identifier: Game_startedteam</note>
+      </trans-unit>
+      <trans-unit id="s000143" resname="Game_joinedteam">
+        <source xml:space="preserve">%s has joined Team %s.
+</source>
+        <target state="needs-translation">%s has joined Team %s.
+</target>
+        <note>GoldSrc identifier: Game_joinedteam</note>
+      </trans-unit>
+      <trans-unit id="s000144" resname="Game_changedteam">
+        <source xml:space="preserve">%s has changed to Team %s.
+</source>
+        <target state="needs-translation">%s has changed to Team %s.
+</target>
+        <note>GoldSrc identifier: Game_changedteam</note>
+      </trans-unit>
+      <trans-unit id="s000145" resname="Game_minsleft">
+        <source xml:space="preserve">%s minutes left till Match begins.
+</source>
+        <target state="needs-translation">%s minutes left till Match begins.
+</target>
+        <note>GoldSrc identifier: Game_minsleft</note>
+      </trans-unit>
+      <trans-unit id="s000146" resname="Game_oneminleft">
+        <source xml:space="preserve">one minute left till Match begins.
+</source>
+        <target state="needs-translation">one minute left till Match begins.
+</target>
+        <note>GoldSrc identifier: Game_oneminleft</note>
+      </trans-unit>
+      <trans-unit id="s000147" resname="Game_thirtysecleft">
+        <source xml:space="preserve">30 seconds left till Match begins.
+</source>
+        <target state="needs-translation">30 seconds left till Match begins.
+</target>
+        <note>GoldSrc identifier: Game_thirtysecleft</note>
+      </trans-unit>
+      <trans-unit id="s000148" resname="Game_secsleft">
+        <source xml:space="preserve">%s seconds.
+</source>
+        <target state="needs-translation">%s seconds.
+</target>
+        <note>GoldSrc identifier: Game_secsleft</note>
+      </trans-unit>
+      <trans-unit id="s000149" resname="Game_onesec">
+        <source xml:space="preserve">1 second.
+</source>
+        <target state="needs-translation">1 second.
+</target>
+        <note>GoldSrc identifier: Game_onesec</note>
+      </trans-unit>
+      <trans-unit id="s000150" resname="Game_matchbegin">
+        <source xml:space="preserve">MATCH BEGINS NOW
+</source>
+        <target state="needs-translation">MATCH BEGINS NOW
+</target>
+        <note>GoldSrc identifier: Game_matchbegin</note>
+      </trans-unit>
+      <trans-unit id="s000151" resname="Game_matchlocked">
+        <source xml:space="preserve">GAME IS NOW LOCKED
+</source>
+        <target state="needs-translation">GAME IS NOW LOCKED
+</target>
+        <note>GoldSrc identifier: Game_matchlocked</note>
+      </trans-unit>
+      <trans-unit id="s000152" resname="Game_resumefire">
+        <source xml:space="preserve">RESUME FIRE
+</source>
+        <target state="needs-translation">RESUME FIRE
+</target>
+        <note>GoldSrc identifier: Game_resumefire</note>
+      </trans-unit>
+      <trans-unit id="s000153" resname="Scout">
+        <source xml:space="preserve">SCOUT
+</source>
+        <target state="needs-translation">SCOUT
+</target>
+        <note>GoldSrc identifier: Scout</note>
+      </trans-unit>
+      <trans-unit id="s000154" resname="Sniper">
+        <source xml:space="preserve">SNIPER
+</source>
+        <target state="needs-translation">SNIPER
+</target>
+        <note>GoldSrc identifier: Sniper</note>
+      </trans-unit>
+      <trans-unit id="s000155" resname="Soldier">
+        <source xml:space="preserve">SOLDIER
+</source>
+        <target state="needs-translation">SOLDIER
+</target>
+        <note>GoldSrc identifier: Soldier</note>
+      </trans-unit>
+      <trans-unit id="s000156" resname="Demoman">
+        <source xml:space="preserve">DEMOMAN
+</source>
+        <target state="needs-translation">DEMOMAN
+</target>
+        <note>GoldSrc identifier: Demoman</note>
+      </trans-unit>
+      <trans-unit id="s000157" resname="Medic">
+        <source xml:space="preserve">MEDIC
+</source>
+        <target state="needs-translation">MEDIC
+</target>
+        <note>GoldSrc identifier: Medic</note>
+      </trans-unit>
+      <trans-unit id="s000158" resname="HWGuy">
+        <source xml:space="preserve">HWGUY
+</source>
+        <target state="needs-translation">HWGUY
+</target>
+        <note>GoldSrc identifier: HWGuy</note>
+      </trans-unit>
+      <trans-unit id="s000159" resname="Pyro">
+        <source xml:space="preserve">PYRO
+</source>
+        <target state="needs-translation">PYRO
+</target>
+        <note>GoldSrc identifier: Pyro</note>
+      </trans-unit>
+      <trans-unit id="s000160" resname="Spy">
+        <source xml:space="preserve">SPY
+</source>
+        <target state="needs-translation">SPY
+</target>
+        <note>GoldSrc identifier: Spy</note>
+      </trans-unit>
+      <trans-unit id="s000161" resname="Engineer">
+        <source xml:space="preserve">ENGINEER
+</source>
+        <target state="needs-translation">ENGINEER
+</target>
+        <note>GoldSrc identifier: Engineer</note>
+      </trans-unit>
+      <trans-unit id="s000162" resname="RandomPC">
+        <source xml:space="preserve">Random Playerclass
+</source>
+        <target state="needs-translation">Random Playerclass
+</target>
+        <note>GoldSrc identifier: RandomPC</note>
+      </trans-unit>
+      <trans-unit id="s000163" resname="Random">
+        <source xml:space="preserve">RANDOM
+</source>
+        <target state="needs-translation">RANDOM
+</target>
+        <note>GoldSrc identifier: Random</note>
+      </trans-unit>
+      <trans-unit id="s000164" resname="Civilian">
+        <source xml:space="preserve">CIVILIAN
+</source>
+        <target state="needs-translation">CIVILIAN
+</target>
+        <note>GoldSrc identifier: Civilian</note>
+      </trans-unit>
+      <trans-unit id="s000165" resname="Observer">
+        <source xml:space="preserve">OBSERVER
+</source>
+        <target state="needs-translation">OBSERVER
+</target>
+        <note>GoldSrc identifier: Observer</note>
+      </trans-unit>
+      <trans-unit id="s000166" resname="Sniper_cantfire">
+        <source xml:space="preserve">You can't fire the sniper rifle without
+both feet on the ground.
+</source>
+        <target state="needs-translation">You can't fire the sniper rifle without
+both feet on the ground.
+</target>
+        <note>GoldSrc identifier: Sniper_cantfire</note>
+      </trans-unit>
+      <trans-unit id="s000167" resname="Admin_nopassword">
+        <source xml:space="preserve">Server has no Admin password set (tfc_adminpwd)
+</source>
+        <target state="needs-translation">Server has no Admin password set (tfc_adminpwd)
+</target>
+        <note>GoldSrc identifier: Admin_nopassword</note>
+      </trans-unit>
+      <trans-unit id="s000168" resname="Admin_access">
+        <source xml:space="preserve">Admin Password accepted. Admin rights granted.
+</source>
+        <target state="needs-translation">Admin Password accepted. Admin rights granted.
+</target>
+        <note>GoldSrc identifier: Admin_access</note>
+      </trans-unit>
+      <trans-unit id="s000169" resname="Admin_badpassword">
+        <source xml:space="preserve">Admin Password incorrect.
+</source>
+        <target state="needs-translation">Admin Password incorrect.
+</target>
+        <note>GoldSrc identifier: Admin_badpassword</note>
+      </trans-unit>
+      <trans-unit id="s000170" resname="Admin_noplayers">
+        <source xml:space="preserve">Players In Game : %s
+</source>
+        <target state="needs-translation">Players In Game : %s
+</target>
+        <note>GoldSrc identifier: Admin_noplayers</note>
+      </trans-unit>
+      <trans-unit id="s000171" resname="Admin_noteamplayers">
+        <source xml:space="preserve">Players In Team %s: %s
+</source>
+        <target state="needs-translation">Players In Team %s: %s
+</target>
+        <note>GoldSrc identifier: Admin_noteamplayers</note>
+      </trans-unit>
+      <trans-unit id="s000172" resname="Admin_gameempty">
+        <source xml:space="preserve">No other players in the game.
+</source>
+        <target state="needs-translation">No other players in the game.
+</target>
+        <note>GoldSrc identifier: Admin_gameempty</note>
+      </trans-unit>
+      <trans-unit id="s000173" resname="Admin_kickban">
+        <source xml:space="preserve">%s (%s)  KICK/BAN/NEXT?
+</source>
+        <target state="needs-translation">%s (%s)  KICK/BAN/NEXT?
+</target>
+        <note>GoldSrc identifier: Admin_kickban</note>
+      </trans-unit>
+      <trans-unit id="s000174" resname="Admin_listip">
+        <source xml:space="preserve">%s (%s)
+</source>
+        <target state="needs-translation">%s (%s)
+</target>
+        <note>GoldSrc identifier: Admin_listip</note>
+      </trans-unit>
+      <trans-unit id="s000175" resname="Admin_endlist">
+        <source xml:space="preserve">End of player list
+</source>
+        <target state="needs-translation">End of player list
+</target>
+        <note>GoldSrc identifier: Admin_endlist</note>
+      </trans-unit>
+      <trans-unit id="s000176" resname="Admin_kick">
+        <source xml:space="preserve">%s was kicked by %s
+</source>
+        <target state="needs-translation">%s was kicked by %s
+</target>
+        <note>GoldSrc identifier: Admin_kick</note>
+      </trans-unit>
+      <trans-unit id="s000177" resname="Admin_ban">
+        <source xml:space="preserve">%s was banned by %s
+</source>
+        <target state="needs-translation">%s was banned by %s
+</target>
+        <note>GoldSrc identifier: Admin_ban</note>
+      </trans-unit>
+      <trans-unit id="s000178" resname="Admin_ceasefire">
+        <source xml:space="preserve">CEASE FIRE
+</source>
+        <target state="needs-translation">CEASE FIRE
+</target>
+        <note>GoldSrc identifier: Admin_ceasefire</note>
+      </trans-unit>
+      <trans-unit id="s000179" resname="AKick_kicked">
+        <source xml:space="preserve">%s was kicked for killing teammates.
+</source>
+        <target state="needs-translation">%s was kicked for killing teammates.
+</target>
+        <note>GoldSrc identifier: AKick_kicked</note>
+      </trans-unit>
+      <trans-unit id="s000180" resname="AKick_warn">
+        <source xml:space="preserve">Kill one more teammate, and you will be
+removed from this server.
+</source>
+        <target state="needs-translation">Kill one more teammate, and you will be
+removed from this server.
+</target>
+        <note>GoldSrc identifier: AKick_warn</note>
+      </trans-unit>
+      <trans-unit id="s000181" resname="Item_medikitammo">
+        <source xml:space="preserve">You gather %s medikit ammo
+</source>
+        <target state="needs-translation">You gather %s medikit ammo
+</target>
+        <note>GoldSrc identifier: Item_medikitammo</note>
+      </trans-unit>
+      <trans-unit id="s000182" resname="Item_medhealed">
+        <source xml:space="preserve">You have been healed of your infection!
+</source>
+        <target state="needs-translation">You have been healed of your infection!
+</target>
+        <note>GoldSrc identifier: Item_medhealed</note>
+      </trans-unit>
+      <trans-unit id="s000183" resname="Item_metal">
+        <source xml:space="preserve">you got %s metal
+</source>
+        <target state="needs-translation">you got %s metal
+</target>
+        <note>GoldSrc identifier: Item_metal</note>
+      </trans-unit>
+      <trans-unit id="s000184" resname="Grenade">
+        <source xml:space="preserve">grenade
+</source>
+        <target state="needs-translation">grenade
+</target>
+        <note>GoldSrc identifier: Grenade</note>
+      </trans-unit>
+      <trans-unit id="s000185" resname="Canister">
+        <source xml:space="preserve">canister
+</source>
+        <target state="needs-translation">canister
+</target>
+        <note>GoldSrc identifier: Canister</note>
+      </trans-unit>
+      <trans-unit id="s000186" resname="Grenade_found">
+        <source xml:space="preserve">You found a %s %s
+</source>
+        <target state="needs-translation">You found a %s %s
+</target>
+        <note>GoldSrc identifier: Grenade_found</note>
+      </trans-unit>
+      <trans-unit id="s000187" resname="Grenade_primed">
+        <source xml:space="preserve">Primed.
+</source>
+        <target state="needs-translation">Primed.
+</target>
+        <note>GoldSrc identifier: Grenade_primed</note>
+      </trans-unit>
+      <trans-unit id="s000188" resname="Caltrop_primed">
+        <source xml:space="preserve">Caltrops Primed
+</source>
+        <target state="needs-translation">Caltrops Primed
+</target>
+        <note>GoldSrc identifier: Caltrop_primed</note>
+      </trans-unit>
+      <trans-unit id="s000189" resname="Caltrop_exc">
+        <source xml:space="preserve">Caltrop!
+</source>
+        <target state="needs-translation">Caltrop!
+</target>
+        <note>GoldSrc identifier: Caltrop_exc</note>
+      </trans-unit>
+      <trans-unit id="s000190" resname="Item_missing">
+        <source xml:space="preserve">Item is missing.
+</source>
+        <target state="needs-translation">Item is missing.
+</target>
+        <note>GoldSrc identifier: Item_missing</note>
+      </trans-unit>
+      <trans-unit id="s000191" resname="Normal">
+        <source xml:space="preserve">Normal
+</source>
+        <target state="needs-translation">Normal
+</target>
+        <note>GoldSrc identifier: Normal</note>
+      </trans-unit>
+      <trans-unit id="s000192" resname="Concussion">
+        <source xml:space="preserve">Concussion
+</source>
+        <target state="needs-translation">Concussion
+</target>
+        <note>GoldSrc identifier: Concussion</note>
+      </trans-unit>
+      <trans-unit id="s000193" resname="Nail">
+        <source xml:space="preserve">Nail
+</source>
+        <target state="needs-translation">Nail
+</target>
+        <note>GoldSrc identifier: Nail</note>
+      </trans-unit>
+      <trans-unit id="s000194" resname="Mirv">
+        <source xml:space="preserve">Mirv
+</source>
+        <target state="needs-translation">Mirv
+</target>
+        <note>GoldSrc identifier: Mirv</note>
+      </trans-unit>
+      <trans-unit id="s000195" resname="Napalm">
+        <source xml:space="preserve">Napalm
+</source>
+        <target state="needs-translation">Napalm
+</target>
+        <note>GoldSrc identifier: Napalm</note>
+      </trans-unit>
+      <trans-unit id="s000196" resname="Flare">
+        <source xml:space="preserve">Flare
+</source>
+        <target state="needs-translation">Flare
+</target>
+        <note>GoldSrc identifier: Flare</note>
+      </trans-unit>
+      <trans-unit id="s000197" resname="Gas">
+        <source xml:space="preserve">Gas
+</source>
+        <target state="needs-translation">Gas
+</target>
+        <note>GoldSrc identifier: Gas</note>
+      </trans-unit>
+      <trans-unit id="s000198" resname="EMP">
+        <source xml:space="preserve">EMP
+</source>
+        <target state="needs-translation">EMP
+</target>
+        <note>GoldSrc identifier: EMP</note>
+      </trans-unit>
+      <trans-unit id="s000199" resname="Caltrop">
+        <source xml:space="preserve">Caltrop
+</source>
+        <target state="needs-translation">Caltrop
+</target>
+        <note>GoldSrc identifier: Caltrop</note>
+      </trans-unit>
+      <trans-unit id="s000200" resname="Flash">
+        <source xml:space="preserve">Flash
+</source>
+        <target state="needs-translation">Flash
+</target>
+        <note>GoldSrc identifier: Flash</note>
+      </trans-unit>
+      <trans-unit id="s000201" resname="Item_ringfade">
+        <source xml:space="preserve">Ring of Shadows magic is fading
+</source>
+        <target state="needs-translation">Ring of Shadows magic is fading
+</target>
+        <note>GoldSrc identifier: Item_ringfade</note>
+      </trans-unit>
+      <trans-unit id="s000202" resname="Item_pentfade">
+        <source xml:space="preserve">Protection is almost burned out
+</source>
+        <target state="needs-translation">Protection is almost burned out
+</target>
+        <note>GoldSrc identifier: Item_pentfade</note>
+      </trans-unit>
+      <trans-unit id="s000203" resname="Item_quadfade">
+        <source xml:space="preserve">Quad Damage is wearing off
+</source>
+        <target state="needs-translation">Quad Damage is wearing off
+</target>
+        <note>GoldSrc identifier: Item_quadfade</note>
+      </trans-unit>
+      <trans-unit id="s000204" resname="Item_suitfade">
+        <source xml:space="preserve">Air supply in Biosuit expiring
+</source>
+        <target state="needs-translation">Air supply in Biosuit expiring
+</target>
+        <note>GoldSrc identifier: Item_suitfade</note>
+      </trans-unit>
+      <trans-unit id="s000205" resname="Menu_chooseteam">
+        <source xml:space="preserve">=== Choose Your Team ===
+
+</source>
+        <target state="needs-translation">=== Choose Your Team ===
+
+</target>
+        <note>GoldSrc identifier: Menu_chooseteam</note>
+      </trans-unit>
+      <trans-unit id="s000206" resname="AutoTeam">
+        <source xml:space="preserve">Auto Team
+</source>
+        <target state="needs-translation">Auto Team
+</target>
+        <note>GoldSrc identifier: AutoTeam</note>
+      </trans-unit>
+      <trans-unit id="s000207" resname="BlueTeam">
+        <source xml:space="preserve">Blue Team
+</source>
+        <target state="needs-translation">Blue Team
+</target>
+        <note>GoldSrc identifier: BlueTeam</note>
+      </trans-unit>
+      <trans-unit id="s000208" resname="RedTeam">
+        <source xml:space="preserve">Red Team
+</source>
+        <target state="needs-translation">Red Team
+</target>
+        <note>GoldSrc identifier: RedTeam</note>
+      </trans-unit>
+      <trans-unit id="s000209" resname="YellowTeam">
+        <source xml:space="preserve">Yellow Team
+</source>
+        <target state="needs-translation">Yellow Team
+</target>
+        <note>GoldSrc identifier: YellowTeam</note>
+      </trans-unit>
+      <trans-unit id="s000210" resname="GreenTeam">
+        <source xml:space="preserve">Green Team
+</source>
+        <target state="needs-translation">Green Team
+</target>
+        <note>GoldSrc identifier: GreenTeam</note>
+      </trans-unit>
+      <trans-unit id="s000211" resname="Menu_onlycivs">
+        <source xml:space="preserve">Your team can only be Civilians.
+</source>
+        <target state="needs-translation">Your team can only be Civilians.
+</target>
+        <note>GoldSrc identifier: Menu_onlycivs</note>
+      </trans-unit>
+      <trans-unit id="s000212" resname="Menu_class">
+        <source xml:space="preserve">=== Choose Your Class ===
+
+</source>
+        <target state="needs-translation">=== Choose Your Class ===
+
+</target>
+        <note>GoldSrc identifier: Menu_class</note>
+      </trans-unit>
+      <trans-unit id="s000213" resname="Menu_repeathelp">
+        <source xml:space="preserve">Press 8 to see this help again
+</source>
+        <target state="needs-translation">Press 8 to see this help again
+</target>
+        <note>GoldSrc identifier: Menu_repeathelp</note>
+      </trans-unit>
+      <trans-unit id="s000214" resname="Menu_scoutdetails">
+        <source xml:space="preserve">SCOUT Details:               
+WEAPONS:                     \n2. Shotgun                  \n4. Nailgun                  \n\nPress 8 for alias help\n
+</source>
+        <target state="needs-translation">SCOUT Details:               
+WEAPONS:                     \n2. Shotgun                  \n4. Nailgun                  \n\nPress 8 for alias help\n
+</target>
+        <note>GoldSrc identifier: Menu_scoutdetails</note>
+      </trans-unit>
+      <trans-unit id="s000215" resname="Help_scout">
+        <source xml:space="preserve">SCOUT Details:
+WEAPONS:
+   1. Crowbar
+   2. Shotgun
+   4. Nailgun
+GRENADES:
+   Concussion
+   Caltrop
+SPECIAL SKILL:
+   Display Flag Status.
+</source>
+        <target state="needs-translation">SCOUT Details:
+WEAPONS:
+   1. Crowbar
+   2. Shotgun
+   4. Nailgun
+GRENADES:
+   Concussion
+   Caltrop
+SPECIAL SKILL:
+   Display Flag Status.
+</target>
+        <note>GoldSrc identifier: Help_scout</note>
+      </trans-unit>
+      <trans-unit id="s000216" resname="Help_sniper">
+        <source xml:space="preserve">SNIPER Details:
+WEAPONS:
+   1. Crowbar
+   2. Sniper Rifle
+   3. Auto Rifle
+   4. Nailgun
+GRENADE:
+   Hand Grenade
+SPECIAL SKILL:
+   Toggle Rifle Zoom
+</source>
+        <target state="needs-translation">SNIPER Details:
+WEAPONS:
+   1. Crowbar
+   2. Sniper Rifle
+   3. Auto Rifle
+   4. Nailgun
+GRENADE:
+   Hand Grenade
+SPECIAL SKILL:
+   Toggle Rifle Zoom
+</target>
+        <note>GoldSrc identifier: Help_sniper</note>
+      </trans-unit>
+      <trans-unit id="s000217" resname="Help_soldier">
+        <source xml:space="preserve">SOLDIER Details:
+WEAPONS:
+   1. Crowbar   
+   2. Shotgun
+   3. Super Shotgun
+   5. Rocket Launcher
+GRENADES:
+   Hand Grenade
+   Nail Grenade
+SPECIAL SKILL:
+   Reload
+</source>
+        <target state="needs-translation">SOLDIER Details:
+WEAPONS:
+   1. Crowbar   
+   2. Shotgun
+   3. Super Shotgun
+   5. Rocket Launcher
+GRENADES:
+   Hand Grenade
+   Nail Grenade
+SPECIAL SKILL:
+   Reload
+</target>
+        <note>GoldSrc identifier: Help_soldier</note>
+      </trans-unit>
+      <trans-unit id="s000218" resname="Help_demoman">
+        <source xml:space="preserve">DEMOLITIONS MAN Details:
+WEAPONS:
+   1. Crowbar
+   2. Shotgun
+   4. Grenade Launcher
+   5. Pipebomb Launcher
+GRENADES:
+   Hand Grenade
+   Mirv Grenade
+SPECIAL SKILL:
+   Detonate Pipebombs
+OTHER:
+   Set Detpack : +det5,+det20,+det50
+</source>
+        <target state="needs-translation">DEMOLITIONS MAN Details:
+WEAPONS:
+   1. Crowbar
+   2. Shotgun
+   4. Grenade Launcher
+   5. Pipebomb Launcher
+GRENADES:
+   Hand Grenade
+   Mirv Grenade
+SPECIAL SKILL:
+   Detonate Pipebombs
+OTHER:
+   Set Detpack : +det5,+det20,+det50
+</target>
+        <note>GoldSrc identifier: Help_demoman</note>
+      </trans-unit>
+      <trans-unit id="s000219" resname="Help_medic">
+        <source xml:space="preserve">MEDIC Details:
+WEAPONS:
+   1. Medikit/BioWeapon
+   2. Shotgun
+   3. Super Shotgun
+   5. Super Nailgun
+GRENADES:
+   Hand Grenade
+   Concussion Grenade
+SPECIAL SKILL:
+   Select Medikit
+</source>
+        <target state="needs-translation">MEDIC Details:
+WEAPONS:
+   1. Medikit/BioWeapon
+   2. Shotgun
+   3. Super Shotgun
+   5. Super Nailgun
+GRENADES:
+   Hand Grenade
+   Concussion Grenade
+SPECIAL SKILL:
+   Select Medikit
+</target>
+        <note>GoldSrc identifier: Help_medic</note>
+      </trans-unit>
+      <trans-unit id="s000220" resname="Help_hwguy">
+        <source xml:space="preserve">HEAVY WEAPONS GUY Details:
+WEAPONS:
+   1. Crowbar
+   2. Shotgun
+   3. Super Shotgun
+   5. Assault Cannon
+GRENADES:
+   Hand Grenade
+   Mirv Grenade
+SPECIAL SKILL:
+   Select Assault Cannon
+</source>
+        <target state="needs-translation">HEAVY WEAPONS GUY Details:
+WEAPONS:
+   1. Crowbar
+   2. Shotgun
+   3. Super Shotgun
+   5. Assault Cannon
+GRENADES:
+   Hand Grenade
+   Mirv Grenade
+SPECIAL SKILL:
+   Select Assault Cannon
+</target>
+        <note>GoldSrc identifier: Help_hwguy</note>
+      </trans-unit>
+      <trans-unit id="s000221" resname="Help_pyro">
+        <source xml:space="preserve">PYRO Details:
+WEAPONS:
+   1. Crowbar
+   2. Shotgun
+   4. Flamethrower
+   5. Incendiary Cannon
+GRENADES:
+   Hand Grenade
+   Napalm Grenade
+SPECIAL SKILL:
+   Select Flamethrower
+</source>
+        <target state="needs-translation">PYRO Details:
+WEAPONS:
+   1. Crowbar
+   2. Shotgun
+   4. Flamethrower
+   5. Incendiary Cannon
+GRENADES:
+   Hand Grenade
+   Napalm Grenade
+SPECIAL SKILL:
+   Select Flamethrower
+</target>
+        <note>GoldSrc identifier: Help_pyro</note>
+      </trans-unit>
+      <trans-unit id="s000222" resname="Help_spy">
+        <source xml:space="preserve">SPY Details:
+WEAPONS:
+   1. Knife
+   2. Tranquilizer Gun
+   3. Super Shotgun
+   4. Nailgun
+GRENADES:
+   Hand Grenade
+   Hallucinogenic Grenade
+SPECIAL SKILL:
+   Open Disguise menu
+</source>
+        <target state="needs-translation">SPY Details:
+WEAPONS:
+   1. Knife
+   2. Tranquilizer Gun
+   3. Super Shotgun
+   4. Nailgun
+GRENADES:
+   Hand Grenade
+   Hallucinogenic Grenade
+SPECIAL SKILL:
+   Open Disguise menu
+</target>
+        <note>GoldSrc identifier: Help_spy</note>
+      </trans-unit>
+      <trans-unit id="s000223" resname="Help_engineer">
+        <source xml:space="preserve">ENGINEER Details:
+WEAPONS:
+   1. Spanner
+   2. RailGun
+   3. Super Shotgun
+GRENADES:
+   Hand Grenade
+   EMP Grenade
+SPECIAL SKILL:
+   Open Build menu
+</source>
+        <target state="needs-translation">ENGINEER Details:
+WEAPONS:
+   1. Spanner
+   2. RailGun
+   3. Super Shotgun
+GRENADES:
+   Hand Grenade
+   EMP Grenade
+SPECIAL SKILL:
+   Open Build menu
+</target>
+        <note>GoldSrc identifier: Help_engineer</note>
+      </trans-unit>
+      <trans-unit id="s000224" resname="Help_civilian">
+        <source xml:space="preserve">CIVILIAN Details:
+WEAPONS:
+    None
+
+GRENADES:
+    None
+
+SPECIAL SKILL:
+    None
+</source>
+        <target state="needs-translation">CIVILIAN Details:
+WEAPONS:
+    None
+
+GRENADES:
+    None
+
+SPECIAL SKILL:
+    None
+</target>
+        <note>GoldSrc identifier: Help_civilian</note>
+      </trans-unit>
+      <trans-unit id="s000225" resname="Help_classhelp2">
+        <source xml:space="preserve">
+</source>
+        <note>GoldSrc identifier: Help_classhelp2</note>
+      </trans-unit>
+      <trans-unit id="s000226" resname="Sbar_prematch">
+        <source xml:space="preserve">0PREMATCH MODE. GAME START:
+2 %i2 MINUTES
+4 1 MINUTE
+1 %i1 SECONDS
+3 1 SECOND
+</source>
+        <target state="needs-translation">0PREMATCH MODE. GAME START:
+2 %i2 MINUTES
+4 1 MINUTE
+1 %i1 SECONDS
+3 1 SECOND
+</target>
+        <note>GoldSrc identifier: Sbar_prematch</note>
+      </trans-unit>
+      <trans-unit id="s000227" resname="Sbar_battleid">
+        <source xml:space="preserve">0YOUR BATTLE ID: %i5
+6         CEASE FIRE ACTIVE!!
+</source>
+        <target state="needs-translation">0YOUR BATTLE ID: %i5
+6         CEASE FIRE ACTIVE!!
+</target>
+        <note>GoldSrc identifier: Sbar_battleid</note>
+      </trans-unit>
+      <trans-unit id="s000228" resname="Sbar_dead">
+        <source xml:space="preserve">0YOU CAN RESPAWN IN: 
+2 %i2 MINUTES
+4 1 MINUTE
+1 %i1 SECONDS
+3 1 SECOND
+</source>
+        <target state="needs-translation">0YOU CAN RESPAWN IN: 
+2 %i2 MINUTES
+4 1 MINUTE
+1 %i1 SECONDS
+3 1 SECOND
+</target>
+        <note>GoldSrc identifier: Sbar_dead</note>
+      </trans-unit>
+      <trans-unit id="s000229" resname="Scout_disarming">
+        <source xml:space="preserve">0Disarming detpack...
+</source>
+        <target state="needs-translation">0Disarming detpack...
+</target>
+        <note>GoldSrc identifier: Scout_disarming</note>
+      </trans-unit>
+      <trans-unit id="s000230" resname="Match_results">
+        <source xml:space="preserve">=------= MATCH RESULTS =------=
+</source>
+        <target state="needs-translation">=------= MATCH RESULTS =------=
+</target>
+        <note>GoldSrc identifier: Match_results</note>
+      </trans-unit>
+      <trans-unit id="s000231" resname="Match_draw">
+        <source xml:space="preserve"> DRAW 
+</source>
+        <target state="needs-translation"> DRAW 
+</target>
+        <note>GoldSrc identifier: Match_draw</note>
+      </trans-unit>
+      <trans-unit id="s000232" resname="Match_winner">
+        <source xml:space="preserve">%s defeated %s
+</source>
+        <target state="needs-translation">%s defeated %s
+</target>
+        <note>GoldSrc identifier: Match_winner</note>
+      </trans-unit>
+      <trans-unit id="s000233" resname="Match_losers3">
+        <source xml:space="preserve">and %s
+</source>
+        <target state="needs-translation">and %s
+</target>
+        <note>GoldSrc identifier: Match_losers3</note>
+      </trans-unit>
+      <trans-unit id="s000234" resname="Match_losers4">
+        <source xml:space="preserve">, %s
+</source>
+        <target state="needs-translation">, %s
+</target>
+        <note>GoldSrc identifier: Match_losers4</note>
+      </trans-unit>
+      <trans-unit id="s000235" resname="Match_team">
+        <source xml:space="preserve">
+=------= TEAM%s RESULTS =------=
+%s players. 
+</source>
+        <target state="needs-translation">
+=------= TEAM%s RESULTS =------=
+%s players. 
+</target>
+        <note>GoldSrc identifier: Match_team</note>
+      </trans-unit>
+      <trans-unit id="s000236" resname="Match_teamdump">
+        <source xml:space="preserve">%s frags, %s unaccounted for.
+%s team score.
+</source>
+        <target state="needs-translation">%s frags, %s unaccounted for.
+%s team score.
+</target>
+        <note>GoldSrc identifier: Match_teamdump</note>
+      </trans-unit>
+      <trans-unit id="s000237" resname="Drop_shells">
+        <source xml:space="preserve">You make some shells.
+</source>
+        <target state="needs-translation">You make some shells.
+</target>
+        <note>GoldSrc identifier: Drop_shells</note>
+      </trans-unit>
+      <trans-unit id="s000238" resname="Drop_rockets">
+        <source xml:space="preserve">You make some rockets.
+</source>
+        <target state="needs-translation">You make some rockets.
+</target>
+        <note>GoldSrc identifier: Drop_rockets</note>
+      </trans-unit>
+      <trans-unit id="s000239" resname="Drop_nails">
+        <source xml:space="preserve">You make some nails.
+</source>
+        <target state="needs-translation">You make some nails.
+</target>
+        <note>GoldSrc identifier: Drop_nails</note>
+      </trans-unit>
+      <trans-unit id="s000240" resname="Drop_cells">
+        <source xml:space="preserve">You make some cells.
+</source>
+        <target state="needs-translation">You make some cells.
+</target>
+        <note>GoldSrc identifier: Drop_cells</note>
+      </trans-unit>
+      <trans-unit id="s000241" resname="Spy_uncovered">
+        <source xml:space="preserve">%s uncovered an enemy spy!
+</source>
+        <target state="needs-translation">%s uncovered an enemy spy!
+</target>
+        <note>GoldSrc identifier: Spy_uncovered</note>
+      </trans-unit>
+      <trans-unit id="s000242" resname="cz_bcap1">
+        <source xml:space="preserve">%s [Blue Team] captures Command Point 1
+</source>
+        <target state="needs-translation">%s [Blue Team] captures Command Point 1
+</target>
+        <note>GoldSrc identifier: cz_bcap1</note>
+      </trans-unit>
+      <trans-unit id="s000243" resname="cz_bcap2">
+        <source xml:space="preserve">%s [Blue Team] captures Command Point 2
+</source>
+        <target state="needs-translation">%s [Blue Team] captures Command Point 2
+</target>
+        <note>GoldSrc identifier: cz_bcap2</note>
+      </trans-unit>
+      <trans-unit id="s000244" resname="cz_bcap3">
+        <source xml:space="preserve">%s [Blue Team] captures Command Point 3
+</source>
+        <target state="needs-translation">%s [Blue Team] captures Command Point 3
+</target>
+        <note>GoldSrc identifier: cz_bcap3</note>
+      </trans-unit>
+      <trans-unit id="s000245" resname="cz_bcap4">
+        <source xml:space="preserve">%s [Blue Team] captures Command Point 4
+</source>
+        <target state="needs-translation">%s [Blue Team] captures Command Point 4
+</target>
+        <note>GoldSrc identifier: cz_bcap4</note>
+      </trans-unit>
+      <trans-unit id="s000246" resname="cz_bcap5">
+        <source xml:space="preserve">%s [Blue Team] captures Command Point 5
+</source>
+        <target state="needs-translation">%s [Blue Team] captures Command Point 5
+</target>
+        <note>GoldSrc identifier: cz_bcap5</note>
+      </trans-unit>
+      <trans-unit id="s000247" resname="cz_rcap1">
+        <source xml:space="preserve">%s [Red Team] captures Command Point 1
+</source>
+        <target state="needs-translation">%s [Red Team] captures Command Point 1
+</target>
+        <note>GoldSrc identifier: cz_rcap1</note>
+      </trans-unit>
+      <trans-unit id="s000248" resname="cz_rcap2">
+        <source xml:space="preserve">%s [Red Team] captures Command Point 2
+</source>
+        <target state="needs-translation">%s [Red Team] captures Command Point 2
+</target>
+        <note>GoldSrc identifier: cz_rcap2</note>
+      </trans-unit>
+      <trans-unit id="s000249" resname="cz_rcap3">
+        <source xml:space="preserve">%s [Red Team] captures Command Point 3
+</source>
+        <target state="needs-translation">%s [Red Team] captures Command Point 3
+</target>
+        <note>GoldSrc identifier: cz_rcap3</note>
+      </trans-unit>
+      <trans-unit id="s000250" resname="cz_rcap4">
+        <source xml:space="preserve">%s [Red Team] captures Command Point 4
+</source>
+        <target state="needs-translation">%s [Red Team] captures Command Point 4
+</target>
+        <note>GoldSrc identifier: cz_rcap4</note>
+      </trans-unit>
+      <trans-unit id="s000251" resname="cz_rcap5">
+        <source xml:space="preserve">%s [Red Team] captures Command Point 5
+</source>
+        <target state="needs-translation">%s [Red Team] captures Command Point 5
+</target>
+        <note>GoldSrc identifier: cz_rcap5</note>
+      </trans-unit>
+      <trans-unit id="s000252" resname="cz_ccdefend">
+        <source xml:space="preserve">This is your Control Center.
+Defend it at all costs.
+</source>
+        <target state="needs-translation">This is your Control Center.
+Defend it at all costs.
+</target>
+        <note>GoldSrc identifier: cz_ccdefend</note>
+      </trans-unit>
+      <trans-unit id="s000253" resname="cz_rwins">
+        <source xml:space="preserve">Red has Captured the Blue Base!
+RED TEAM WINS!!!
+</source>
+        <target state="needs-translation">Red has Captured the Blue Base!
+RED TEAM WINS!!!
+</target>
+        <note>GoldSrc identifier: cz_rwins</note>
+      </trans-unit>
+      <trans-unit id="s000254" resname="cz_bwins">
+        <source xml:space="preserve">Blue has Captured the Red Base!
+BLUE TEAM WINS!!!
+</source>
+        <target state="needs-translation">Blue has Captured the Red Base!
+BLUE TEAM WINS!!!
+</target>
+        <note>GoldSrc identifier: cz_bwins</note>
+      </trans-unit>
+      <trans-unit id="s000255" resname="cz_b_tooearly">
+        <source xml:space="preserve">You can't take over Blue Base without
+owning all of the Command Points.
+</source>
+        <target state="needs-translation">You can't take over Blue Base without
+owning all of the Command Points.
+</target>
+        <note>GoldSrc identifier: cz_b_tooearly</note>
+      </trans-unit>
+      <trans-unit id="s000256" resname="cz_r_tooearly">
+        <source xml:space="preserve">You can't take over Red Base without
+owning all of the Command Points.
+</source>
+        <target state="needs-translation">You can't take over Red Base without
+owning all of the Command Points.
+</target>
+        <note>GoldSrc identifier: cz_r_tooearly</note>
+      </trans-unit>
+      <trans-unit id="s000257" resname="cz_bluedoors">
+        <source xml:space="preserve">You open the Blue doors.
+</source>
+        <target state="needs-translation">You open the Blue doors.
+</target>
+        <note>GoldSrc identifier: cz_bluedoors</note>
+      </trans-unit>
+      <trans-unit id="s000258" resname="cz_reddoors">
+        <source xml:space="preserve">You open the Red doors.
+</source>
+        <target state="needs-translation">You open the Red doors.
+</target>
+        <note>GoldSrc identifier: cz_reddoors</note>
+      </trans-unit>
+      <trans-unit id="s000259" resname="cz_cant_use_item">
+        <source xml:space="preserve">Your team can't use this item without
+control of this command point.
+</source>
+        <target state="needs-translation">Your team can't use this item without
+control of this command point.
+</target>
+        <note>GoldSrc identifier: cz_cant_use_item</note>
+      </trans-unit>
+      <trans-unit id="s000260" resname="cz_cant_use_door">
+        <source xml:space="preserve">This door won't open for your team.
+</source>
+        <target state="needs-translation">This door won't open for your team.
+</target>
+        <note>GoldSrc identifier: cz_cant_use_door</note>
+      </trans-unit>
+      <trans-unit id="s000261" resname="cz_cap_all_1">
+        <source xml:space="preserve">Your team just captured all of the
+Command Points! Your team gets 25
+bonus points!
+</source>
+        <target state="needs-translation">Your team just captured all of the
+Command Points! Your team gets 25
+bonus points!
+</target>
+        <note>GoldSrc identifier: cz_cap_all_1</note>
+      </trans-unit>
+      <trans-unit id="s000262" resname="cz_cap_all_2">
+        <source xml:space="preserve">The ENEMY just captured all of the
+Command Points! They get 25 bonus
+points.
+</source>
+        <target state="needs-translation">The ENEMY just captured all of the
+Command Points! They get 25 bonus
+points.
+</target>
+        <note>GoldSrc identifier: cz_cap_all_2</note>
+      </trans-unit>
+      <trans-unit id="s000263" resname="cz_base_open">
+        <source xml:space="preserve">Your Base is open to attack!
+</source>
+        <target state="needs-translation">Your Base is open to attack!
+</target>
+        <note>GoldSrc identifier: cz_base_open</note>
+      </trans-unit>
+      <trans-unit id="s000264" resname="cz_blue_base_open">
+        <source xml:space="preserve">Blue base is open to attack!
+</source>
+        <target state="needs-translation">Blue base is open to attack!
+</target>
+        <note>GoldSrc identifier: cz_blue_base_open</note>
+      </trans-unit>
+      <trans-unit id="s000265" resname="cz_red_base_open">
+        <source xml:space="preserve">Red Base is open to attack!
+</source>
+        <target state="needs-translation">Red Base is open to attack!
+</target>
+        <note>GoldSrc identifier: cz_red_base_open</note>
+      </trans-unit>
+      <trans-unit id="s000266" resname="cz_blue_holds_base">
+        <source xml:space="preserve">BLUE has held their base!
+Command Points reset.
+</source>
+        <target state="needs-translation">BLUE has held their base!
+Command Points reset.
+</target>
+        <note>GoldSrc identifier: cz_blue_holds_base</note>
+      </trans-unit>
+      <trans-unit id="s000267" resname="cz_red_holds_base">
+        <source xml:space="preserve">RED has held their base!
+Command Points reset.
+</source>
+        <target state="needs-translation">RED has held their base!
+Command Points reset.
+</target>
+        <note>GoldSrc identifier: cz_red_holds_base</note>
+      </trans-unit>
+      <trans-unit id="s000268" resname="cz_cant_capture">
+        <source xml:space="preserve">You can't capture command points
+while your base is open to attack.
+</source>
+        <target state="needs-translation">You can't capture command points
+while your base is open to attack.
+</target>
+        <note>GoldSrc identifier: cz_cant_capture</note>
+      </trans-unit>
+      <trans-unit id="s000269" resname="cz_b_cc_destroy_1">
+        <source xml:space="preserve">Blue's Command Center
+has been destroyed!
+</source>
+        <target state="needs-translation">Blue's Command Center
+has been destroyed!
+</target>
+        <note>GoldSrc identifier: cz_b_cc_destroy_1</note>
+      </trans-unit>
+      <trans-unit id="s000270" resname="cz_b_cc_destroy_2">
+        <source xml:space="preserve">%s destroys the Blue Command Center!
+</source>
+        <target state="needs-translation">%s destroys the Blue Command Center!
+</target>
+        <note>GoldSrc identifier: cz_b_cc_destroy_2</note>
+      </trans-unit>
+      <trans-unit id="s000271" resname="cz_r_cc_destroy_1">
+        <source xml:space="preserve">Red's Command Center
+has been destroyed!
+</source>
+        <target state="needs-translation">Red's Command Center
+has been destroyed!
+</target>
+        <note>GoldSrc identifier: cz_r_cc_destroy_1</note>
+      </trans-unit>
+      <trans-unit id="s000272" resname="cz_r_cc_destroy_2">
+        <source xml:space="preserve">%s destroys the Red Command Center!
+</source>
+        <target state="needs-translation">%s destroys the Red Command Center!
+</target>
+        <note>GoldSrc identifier: cz_r_cc_destroy_2</note>
+      </trans-unit>
+      <trans-unit id="s000273" resname="cz_restock">
+        <source xml:space="preserve">Restocking grenades.
+</source>
+        <target state="needs-translation">Restocking grenades.
+</target>
+        <note>GoldSrc identifier: cz_restock</note>
+      </trans-unit>
+      <trans-unit id="s000274" resname="2fort_you_capped_flag">
+        <source xml:space="preserve">You captured the ENEMY flag!
+</source>
+        <target state="needs-translation">You captured the ENEMY flag!
+</target>
+        <note>GoldSrc identifier: 2fort_you_capped_flag</note>
+      </trans-unit>
+      <trans-unit id="s000275" resname="2fort_your_team_capped">
+        <source xml:space="preserve">Your team captured the ENEMY flag!
+</source>
+        <target state="needs-translation">Your team captured the ENEMY flag!
+</target>
+        <note>GoldSrc identifier: 2fort_your_team_capped</note>
+      </trans-unit>
+      <trans-unit id="s000276" resname="2fort_your_flag_capped">
+        <source xml:space="preserve">YOUR flag was CAPTURED!
+</source>
+        <target state="needs-translation">YOUR flag was CAPTURED!
+</target>
+        <note>GoldSrc identifier: 2fort_your_flag_capped</note>
+      </trans-unit>
+      <trans-unit id="s000277" resname="2fort_your_flag_returned">
+        <source xml:space="preserve">Your FLAG was RETURNED!!
+</source>
+        <target state="needs-translation">Your FLAG was RETURNED!!
+</target>
+        <note>GoldSrc identifier: 2fort_your_flag_returned</note>
+      </trans-unit>
+      <trans-unit id="s000278" resname="2fort_enemy_flag_returned">
+        <source xml:space="preserve">The ENEMY flag was RETURNED!
+</source>
+        <target state="needs-translation">The ENEMY flag was RETURNED!
+</target>
+        <note>GoldSrc identifier: 2fort_enemy_flag_returned</note>
+      </trans-unit>
+      <trans-unit id="s000279" resname="2fort_got_enemy_flag">
+        <source xml:space="preserve">%s GOT the ENEMY flag!
+</source>
+        <target state="needs-translation">%s GOT the ENEMY flag!
+</target>
+        <note>GoldSrc identifier: 2fort_got_enemy_flag</note>
+      </trans-unit>
+      <trans-unit id="s000280" resname="2fort_team_takes_enemy_flag">
+        <source xml:space="preserve">Your team has TAKEN the ENEMY flag!
+</source>
+        <target state="needs-translation">Your team has TAKEN the ENEMY flag!
+</target>
+        <note>GoldSrc identifier: 2fort_team_takes_enemy_flag</note>
+      </trans-unit>
+      <trans-unit id="s000281" resname="2fort_enemy_takes_flag">
+        <source xml:space="preserve">%s has TAKEN your flag!
+</source>
+        <target state="needs-translation">%s has TAKEN your flag!
+</target>
+        <note>GoldSrc identifier: 2fort_enemy_takes_flag</note>
+      </trans-unit>
+      <trans-unit id="s000282" resname="2fort_your_flag_taken">
+        <source xml:space="preserve">Your FLAG was taken!
+</source>
+        <target state="needs-translation">Your FLAG was taken!
+</target>
+        <note>GoldSrc identifier: 2fort_your_flag_taken</note>
+      </trans-unit>
+      <trans-unit id="s000283" resname="2fort_you_take_enemy_flag">
+        <source xml:space="preserve">You have the ENEMY flag!
+Take it to your BATTLEMENTS!
+</source>
+        <target state="needs-translation">You have the ENEMY flag!
+Take it to your BATTLEMENTS!
+</target>
+        <note>GoldSrc identifier: 2fort_you_take_enemy_flag</note>
+      </trans-unit>
+      <trans-unit id="s000284" resname="2fort_enemy_lost_flag">
+        <source xml:space="preserve">The ENEMY lost your FLAG!
+</source>
+        <target state="needs-translation">The ENEMY lost your FLAG!
+</target>
+        <note>GoldSrc identifier: 2fort_enemy_lost_flag</note>
+      </trans-unit>
+      <trans-unit id="s000285" resname="2fort_lost_red_flag">
+        <source xml:space="preserve">%s LOST the RED flag!
+</source>
+        <target state="needs-translation">%s LOST the RED flag!
+</target>
+        <note>GoldSrc identifier: 2fort_lost_red_flag</note>
+      </trans-unit>
+      <trans-unit id="s000286" resname="2fort_lost_blue_flag">
+        <source xml:space="preserve">%s LOST the BLUE flag!
+</source>
+        <target state="needs-translation">%s LOST the BLUE flag!
+</target>
+        <note>GoldSrc identifier: 2fort_lost_blue_flag</note>
+      </trans-unit>
+      <trans-unit id="s000287" resname="2fort_lost_enemy_flag">
+        <source xml:space="preserve">Your team lost the ENEMY flag!
+</source>
+        <target state="needs-translation">Your team lost the ENEMY flag!
+</target>
+        <note>GoldSrc identifier: 2fort_lost_enemy_flag</note>
+      </trans-unit>
+      <trans-unit id="s000288" resname="2fort_elevator">
+        <source xml:space="preserve">This elevator won't
+work for your team.
+</source>
+        <target state="needs-translation">This elevator won't
+work for your team.
+</target>
+        <note>GoldSrc identifier: 2fort_elevator</note>
+      </trans-unit>
+      <trans-unit id="s000289" resname="2fort_door">
+        <source xml:space="preserve">This door won't open for your team.
+</source>
+        <target state="needs-translation">This door won't open for your team.
+</target>
+        <note>GoldSrc identifier: 2fort_door</note>
+      </trans-unit>
+      <trans-unit id="s000290" resname="2fort_flag_in_base">
+        <source xml:space="preserve">Your flag is in your base.
+</source>
+        <target state="needs-translation">Your flag is in your base.
+</target>
+        <note>GoldSrc identifier: 2fort_flag_in_base</note>
+      </trans-unit>
+      <trans-unit id="s000291" resname="2fort_flag_loose">
+        <source xml:space="preserve">Your flag is lying around.
+</source>
+        <target state="needs-translation">Your flag is lying around.
+</target>
+        <note>GoldSrc identifier: 2fort_flag_loose</note>
+      </trans-unit>
+      <trans-unit id="s000292" resname="2fort_flag_carried">
+        <source xml:space="preserve">Your flag is being carried by %s
+</source>
+        <target state="needs-translation">Your flag is being carried by %s
+</target>
+        <note>GoldSrc identifier: 2fort_flag_carried</note>
+      </trans-unit>
+      <trans-unit id="s000293" resname="2fort_enemy_flag_in_base">
+        <source xml:space="preserve">The enemy flag is in their base.
+</source>
+        <target state="needs-translation">The enemy flag is in their base.
+</target>
+        <note>GoldSrc identifier: 2fort_enemy_flag_in_base</note>
+      </trans-unit>
+      <trans-unit id="s000294" resname="2fort_enemy_flag_loose">
+        <source xml:space="preserve">The enemy flag is lying around.
+</source>
+        <target state="needs-translation">The enemy flag is lying around.
+</target>
+        <note>GoldSrc identifier: 2fort_enemy_flag_loose</note>
+      </trans-unit>
+      <trans-unit id="s000295" resname="2fort_enemy_flag_carried">
+        <source xml:space="preserve">The enemy flag is being carried by %s
+</source>
+        <target state="needs-translation">The enemy flag is being carried by %s
+</target>
+        <note>GoldSrc identifier: 2fort_enemy_flag_carried</note>
+      </trans-unit>
+      <trans-unit id="s000296" resname="well_got_enemy_flag">
+        <source xml:space="preserve">You have the ENEMY FLAG!
+Return it to your SILO!
+</source>
+        <target state="needs-translation">You have the ENEMY FLAG!
+Return it to your SILO!
+</target>
+        <note>GoldSrc identifier: well_got_enemy_flag</note>
+      </trans-unit>
+      <trans-unit id="s000297" resname="well_enemy_flag_returned">
+        <source xml:space="preserve">The ENEMY FLAG was RETURNED to base!
+</source>
+        <target state="needs-translation">The ENEMY FLAG was RETURNED to base!
+</target>
+        <note>GoldSrc identifier: well_enemy_flag_returned</note>
+      </trans-unit>
+      <trans-unit id="s000298" resname="well_your_flag_returned">
+        <source xml:space="preserve">Your FLAG has been RETURNED!
+</source>
+        <target state="needs-translation">Your FLAG has been RETURNED!
+</target>
+        <note>GoldSrc identifier: well_your_flag_returned</note>
+      </trans-unit>
+      <trans-unit id="s000299" resname="well_team_got_enemy_flag">
+        <source xml:space="preserve">Your team has the ENEMY FLAG!
+</source>
+        <target state="needs-translation">Your team has the ENEMY FLAG!
+</target>
+        <note>GoldSrc identifier: well_team_got_enemy_flag</note>
+      </trans-unit>
+      <trans-unit id="s000300" resname="well_your_flag_taken">
+        <source xml:space="preserve">Your FLAG has been STOLEN!
+</source>
+        <target state="needs-translation">Your FLAG has been STOLEN!
+</target>
+        <note>GoldSrc identifier: well_your_flag_taken</note>
+      </trans-unit>
+      <trans-unit id="s000301" resname="well_capture">
+        <source xml:space="preserve">Good Capture!
+Go For It Again!
+</source>
+        <target state="needs-translation">Good Capture!
+Go For It Again!
+</target>
+        <note>GoldSrc identifier: well_capture</note>
+      </trans-unit>
+      <trans-unit id="s000302" resname="well_blue_scores">
+        <source xml:space="preserve">Red is no match for the mighty Blue!
+Blue team scores!
+</source>
+        <target state="needs-translation">Red is no match for the mighty Blue!
+Blue team scores!
+</target>
+        <note>GoldSrc identifier: well_blue_scores</note>
+      </trans-unit>
+      <trans-unit id="s000303" resname="well_blue_scores_2">
+        <source xml:space="preserve">Blue team has captured your flag.
+</source>
+        <target state="needs-translation">Blue team has captured your flag.
+</target>
+        <note>GoldSrc identifier: well_blue_scores_2</note>
+      </trans-unit>
+      <trans-unit id="s000304" resname="well_red_scores">
+        <source xml:space="preserve">Blue is no match for the mighty Red!
+Red team scores!
+</source>
+        <target state="needs-translation">Blue is no match for the mighty Red!
+Red team scores!
+</target>
+        <note>GoldSrc identifier: well_red_scores</note>
+      </trans-unit>
+      <trans-unit id="s000305" resname="well_red_scores_2">
+        <source xml:space="preserve">Red team has captured your flag.
+</source>
+        <target state="needs-translation">Red team has captured your flag.
+</target>
+        <note>GoldSrc identifier: well_red_scores_2</note>
+      </trans-unit>
+      <trans-unit id="s000306" resname="well_you_det_bgrate">
+        <source xml:space="preserve">You destroyed BLUE'S grate!
+</source>
+        <target state="needs-translation">You destroyed BLUE'S grate!
+</target>
+        <note>GoldSrc identifier: well_you_det_bgrate</note>
+      </trans-unit>
+      <trans-unit id="s000307" resname="well_bgrate_destroyed">
+        <source xml:space="preserve">Blue's GRATE has been destroyed.
+</source>
+        <target state="needs-translation">Blue's GRATE has been destroyed.
+</target>
+        <note>GoldSrc identifier: well_bgrate_destroyed</note>
+      </trans-unit>
+      <trans-unit id="s000308" resname="well_you_det_rgrate">
+        <source xml:space="preserve">You destroyed RED'S grate!
+</source>
+        <target state="needs-translation">You destroyed RED'S grate!
+</target>
+        <note>GoldSrc identifier: well_you_det_rgrate</note>
+      </trans-unit>
+      <trans-unit id="s000309" resname="well_rgrate_destroyed">
+        <source xml:space="preserve">Red's GRATE has been destroyed.
+</source>
+        <target state="needs-translation">Red's GRATE has been destroyed.
+</target>
+        <note>GoldSrc identifier: well_rgrate_destroyed</note>
+      </trans-unit>
+      <trans-unit id="s000310" resname="well_flag_in_base">
+        <source xml:space="preserve">Your flag is in your base.
+</source>
+        <target state="needs-translation">Your flag is in your base.
+</target>
+        <note>GoldSrc identifier: well_flag_in_base</note>
+      </trans-unit>
+      <trans-unit id="s000311" resname="well_flag_loose">
+        <source xml:space="preserve">Your flag has been dropped somewhere.
+</source>
+        <target state="needs-translation">Your flag has been dropped somewhere.
+</target>
+        <note>GoldSrc identifier: well_flag_loose</note>
+      </trans-unit>
+      <trans-unit id="s000312" resname="well_flag_carried">
+        <source xml:space="preserve">Your flag is being carried by %s
+</source>
+        <target state="needs-translation">Your flag is being carried by %s
+</target>
+        <note>GoldSrc identifier: well_flag_carried</note>
+      </trans-unit>
+      <trans-unit id="s000313" resname="well_enemy_flag_in_base">
+        <source xml:space="preserve">The enemy flag is in their base.
+</source>
+        <target state="needs-translation">The enemy flag is in their base.
+</target>
+        <note>GoldSrc identifier: well_enemy_flag_in_base</note>
+      </trans-unit>
+      <trans-unit id="s000314" resname="well_enemy_flag_loose">
+        <source xml:space="preserve">The enemy flag has been dropped somewhere.
+</source>
+        <target state="needs-translation">The enemy flag has been dropped somewhere.
+</target>
+        <note>GoldSrc identifier: well_enemy_flag_loose</note>
+      </trans-unit>
+      <trans-unit id="s000315" resname="well_enemy_flag_carried">
+        <source xml:space="preserve">The enemy flag is being carried by %s
+</source>
+        <target state="needs-translation">The enemy flag is being carried by %s
+</target>
+        <note>GoldSrc identifier: well_enemy_flag_carried</note>
+      </trans-unit>
+      <trans-unit id="s000316" resname="well_door">
+        <source xml:space="preserve">This door won't open for your team.
+</source>
+        <target state="needs-translation">This door won't open for your team.
+</target>
+        <note>GoldSrc identifier: well_door</note>
+      </trans-unit>
+      <trans-unit id="s000317" resname="hunted_target_welcome">
+        <source xml:space="preserve">You must survive!
+</source>
+        <target state="needs-translation">You must survive!
+</target>
+        <note>GoldSrc identifier: hunted_target_welcome</note>
+      </trans-unit>
+      <trans-unit id="s000318" resname="hunted_bodyguard_welcome">
+        <source xml:space="preserve">Protect The Hunted!
+</source>
+        <target state="needs-translation">Protect The Hunted!
+</target>
+        <note>GoldSrc identifier: hunted_bodyguard_welcome</note>
+      </trans-unit>
+      <trans-unit id="s000319" resname="hunted_assassin_welcome">
+        <source xml:space="preserve">Eliminate The Hunted!
+</source>
+        <target state="needs-translation">Eliminate The Hunted!
+</target>
+        <note>GoldSrc identifier: hunted_assassin_welcome</note>
+      </trans-unit>
+      <trans-unit id="s000320" resname="hunted_target_scores">
+        <source xml:space="preserve">THE HUNTED ESCAPED!
+The Good Guys score!
+</source>
+        <target state="needs-translation">THE HUNTED ESCAPED!
+The Good Guys score!
+</target>
+        <note>GoldSrc identifier: hunted_target_scores</note>
+      </trans-unit>
+      <trans-unit id="s000321" resname="hunted_netname_target_scores">
+        <source xml:space="preserve">THE HUNTED [%S] ESCAPED!
+The Good Guys score!
+</source>
+        <target state="needs-translation">THE HUNTED [%S] ESCAPED!
+The Good Guys score!
+</target>
+        <note>GoldSrc identifier: hunted_netname_target_scores</note>
+      </trans-unit>
+      <trans-unit id="s000322" resname="hunted_target_killed">
+        <source xml:space="preserve">The Hunted was ELIMINATED!
+The Assassins score!
+</source>
+        <target state="needs-translation">The Hunted was ELIMINATED!
+The Assassins score!
+</target>
+        <note>GoldSrc identifier: hunted_target_killed</note>
+      </trans-unit>
+      <trans-unit id="s000323" resname="hunted_netname_target_killed">
+        <source xml:space="preserve">The Hunted [%s] was ELIMINATED!
+The Assassins score!
+</source>
+        <target state="needs-translation">The Hunted [%s] was ELIMINATED!
+The Assassins score!
+</target>
+        <note>GoldSrc identifier: hunted_netname_target_killed</note>
+      </trans-unit>
+      <trans-unit id="s000324" resname="hunted_status_ruins_roof">
+        <source xml:space="preserve">%s is on TOP of the RUINS!
+</source>
+        <target state="needs-translation">%s is on TOP of the RUINS!
+</target>
+        <note>GoldSrc identifier: hunted_status_ruins_roof</note>
+      </trans-unit>
+      <trans-unit id="s000325" resname="hunted_status_field">
+        <source xml:space="preserve">%s is in the FIELD!
+</source>
+        <target state="needs-translation">%s is in the FIELD!
+</target>
+        <note>GoldSrc identifier: hunted_status_field</note>
+      </trans-unit>
+      <trans-unit id="s000326" resname="hunted_status_fuel">
+        <source xml:space="preserve">%s is by the FUEL STORAGE ROOM!
+</source>
+        <target state="needs-translation">%s is by the FUEL STORAGE ROOM!
+</target>
+        <note>GoldSrc identifier: hunted_status_fuel</note>
+      </trans-unit>
+      <trans-unit id="s000327" resname="hunted_status_tower">
+        <source xml:space="preserve">%s is IN THE TOWER!
+</source>
+        <target state="needs-translation">%s is IN THE TOWER!
+</target>
+        <note>GoldSrc identifier: hunted_status_tower</note>
+      </trans-unit>
+      <trans-unit id="s000328" resname="hunted_status_warehouse_tunnel">
+        <source xml:space="preserve">%s is in the WAREHOUSE TUNNEL!
+</source>
+        <target state="needs-translation">%s is in the WAREHOUSE TUNNEL!
+</target>
+        <note>GoldSrc identifier: hunted_status_warehouse_tunnel</note>
+      </trans-unit>
+      <trans-unit id="s000329" resname="hunted_status_warehouse">
+        <source xml:space="preserve">%s is in the WAREHOUSE!
+</source>
+        <target state="needs-translation">%s is in the WAREHOUSE!
+</target>
+        <note>GoldSrc identifier: hunted_status_warehouse</note>
+      </trans-unit>
+      <trans-unit id="s000330" resname="hunted_status_approaching_warehouse">
+        <source xml:space="preserve">%s is APPROACHING THE WAREHOUSE RAMP!
+</source>
+        <target state="needs-translation">%s is APPROACHING THE WAREHOUSE RAMP!
+</target>
+        <note>GoldSrc identifier: hunted_status_approaching_warehouse</note>
+      </trans-unit>
+      <trans-unit id="s000331" resname="hunted_status_storage_3">
+        <source xml:space="preserve">%s is in STORAGE AREA 3.
+</source>
+        <target state="needs-translation">%s is in STORAGE AREA 3.
+</target>
+        <note>GoldSrc identifier: hunted_status_storage_3</note>
+      </trans-unit>
+      <trans-unit id="s000332" resname="hunted_status_upper_storage_3">
+        <source xml:space="preserve">%s is in UPPER LEVEL of STORAGE AREA 3.
+</source>
+        <target state="needs-translation">%s is in UPPER LEVEL of STORAGE AREA 3.
+</target>
+        <note>GoldSrc identifier: hunted_status_upper_storage_3</note>
+      </trans-unit>
+      <trans-unit id="s000333" resname="hunted_status_upper_ruins">
+        <source xml:space="preserve">%s is in the UPPER RUINS!
+</source>
+        <target state="needs-translation">%s is in the UPPER RUINS!
+</target>
+        <note>GoldSrc identifier: hunted_status_upper_ruins</note>
+      </trans-unit>
+      <trans-unit id="s000334" resname="hunted_status_lower_ruins">
+        <source xml:space="preserve">%s is in the LOWER RUINS!
+</source>
+        <target state="needs-translation">%s is in the LOWER RUINS!
+</target>
+        <note>GoldSrc identifier: hunted_status_lower_ruins</note>
+      </trans-unit>
+      <trans-unit id="s000335" resname="hunted_status_ruins_exit">
+        <source xml:space="preserve">%s is by the RUINS EXIT!
+</source>
+        <target state="needs-translation">%s is by the RUINS EXIT!
+</target>
+        <note>GoldSrc identifier: hunted_status_ruins_exit</note>
+      </trans-unit>
+      <trans-unit id="s000336" resname="hunted_status_behind_red">
+        <source xml:space="preserve">%s is BEHIND the RED CONTAINERS!
+</source>
+        <target state="needs-translation">%s is BEHIND the RED CONTAINERS!
+</target>
+        <note>GoldSrc identifier: hunted_status_behind_red</note>
+      </trans-unit>
+      <trans-unit id="s000337" resname="hunted_status_alley">
+        <source xml:space="preserve">%s is in the ALLEY!
+</source>
+        <target state="needs-translation">%s is in the ALLEY!
+</target>
+        <note>GoldSrc identifier: hunted_status_alley</note>
+      </trans-unit>
+      <trans-unit id="s000338" resname="hunted_status_perimeter">
+        <source xml:space="preserve">%s is on the PERIMETER of BUILDING 1.
+</source>
+        <target state="needs-translation">%s is on the PERIMETER of BUILDING 1.
+</target>
+        <note>GoldSrc identifier: hunted_status_perimeter</note>
+      </trans-unit>
+      <trans-unit id="s000339" resname="hunted_status_roof1">
+        <source xml:space="preserve">%s is on the ROOF of BUILDING ONE 1!
+</source>
+        <target state="needs-translation">%s is on the ROOF of BUILDING ONE 1!
+</target>
+        <note>GoldSrc identifier: hunted_status_roof1</note>
+      </trans-unit>
+      <trans-unit id="s000340" resname="hunted_status_main_road">
+        <source xml:space="preserve">%s is on the MAIN ROAD.
+</source>
+        <target state="needs-translation">%s is on the MAIN ROAD.
+</target>
+        <note>GoldSrc identifier: hunted_status_main_road</note>
+      </trans-unit>
+      <trans-unit id="s000341" resname="hunted_status_above_road">
+        <source xml:space="preserve">%s is ABOVE the MAIN ROAD.
+</source>
+        <target state="needs-translation">%s is ABOVE the MAIN ROAD.
+</target>
+        <note>GoldSrc identifier: hunted_status_above_road</note>
+      </trans-unit>
+      <trans-unit id="s000342" resname="hunted_status_road_end">
+        <source xml:space="preserve">%s is hiding at the END of the MAIN ROAD.
+</source>
+        <target state="needs-translation">%s is hiding at the END of the MAIN ROAD.
+</target>
+        <note>GoldSrc identifier: hunted_status_road_end</note>
+      </trans-unit>
+      <trans-unit id="s000343" resname="hunted_status_sewers">
+        <source xml:space="preserve">%s is in the SEWERS.
+</source>
+        <target state="needs-translation">%s is in the SEWERS.
+</target>
+        <note>GoldSrc identifier: hunted_status_sewers</note>
+      </trans-unit>
+      <trans-unit id="s000344" resname="hunted_status_entry_1">
+        <source xml:space="preserve">%s is by the ENTRY of BUILDING 1.
+</source>
+        <target state="needs-translation">%s is by the ENTRY of BUILDING 1.
+</target>
+        <note>GoldSrc identifier: hunted_status_entry_1</note>
+      </trans-unit>
+      <trans-unit id="s000345" resname="hunted_status_building1">
+        <source xml:space="preserve">%s is in BUILDING 1.
+</source>
+        <target state="needs-translation">%s is in BUILDING 1.
+</target>
+        <note>GoldSrc identifier: hunted_status_building1</note>
+      </trans-unit>
+      <trans-unit id="s000346" resname="hunted_teams">
+        <source xml:space="preserve">=== Choose Your Team ===
+
+1.. The Hunted (Limit 1)
+2.. A Bodyguard  
+3.. An Assassin  
+</source>
+        <target state="needs-translation">=== Choose Your Team ===
+
+1.. The Hunted (Limit 1)
+2.. A Bodyguard  
+3.. An Assassin  
+</target>
+        <note>GoldSrc identifier: hunted_teams</note>
+      </trans-unit>
+      <trans-unit id="s000347" resname="rock_falling_death">
+        <source xml:space="preserve">%s fell to his death.
+</source>
+        <target state="needs-translation">%s fell to his death.
+</target>
+        <note>GoldSrc identifier: rock_falling_death</note>
+      </trans-unit>
+      <trans-unit id="s000348" resname="rock_you_got_key">
+        <source xml:space="preserve">You've got the key!
+Take it to the enemy gas chamber!
+</source>
+        <target state="needs-translation">You've got the key!
+Take it to the enemy gas chamber!
+</target>
+        <note>GoldSrc identifier: rock_you_got_key</note>
+      </trans-unit>
+      <trans-unit id="s000349" resname="rock_team_dropped_key">
+        <source xml:space="preserve">Your team dropped the enemy key!
+</source>
+        <target state="needs-translation">Your team dropped the enemy key!
+</target>
+        <note>GoldSrc identifier: rock_team_dropped_key</note>
+      </trans-unit>
+      <trans-unit id="s000350" resname="rock_enemy_dropped_key">
+        <source xml:space="preserve">The enemy has dropped your key!
+</source>
+        <target state="needs-translation">The enemy has dropped your key!
+</target>
+        <note>GoldSrc identifier: rock_enemy_dropped_key</note>
+      </trans-unit>
+      <trans-unit id="s000351" resname="rock_your_key_returned">
+        <source xml:space="preserve">Your key has been returned.
+</source>
+        <target state="needs-translation">Your key has been returned.
+</target>
+        <note>GoldSrc identifier: rock_your_key_returned</note>
+      </trans-unit>
+      <trans-unit id="s000352" resname="rock_enemy_key_returned">
+        <source xml:space="preserve">The enemy key has been returned.
+</source>
+        <target state="needs-translation">The enemy key has been returned.
+</target>
+        <note>GoldSrc identifier: rock_enemy_key_returned</note>
+      </trans-unit>
+      <trans-unit id="s000353" resname="rock_blue_scores">
+        <source xml:space="preserve">Blue team scores!
+Nerve gas released!
+</source>
+        <target state="needs-translation">Blue team scores!
+Nerve gas released!
+</target>
+        <note>GoldSrc identifier: rock_blue_scores</note>
+      </trans-unit>
+      <trans-unit id="s000354" resname="rock_red_scores">
+        <source xml:space="preserve">Red team scores!
+Nerve gas released!
+</source>
+        <target state="needs-translation">Red team scores!
+Nerve gas released!
+</target>
+        <note>GoldSrc identifier: rock_red_scores</note>
+      </trans-unit>
+      <trans-unit id="s000355" resname="rock_gasmask_message">
+        <source xml:space="preserve">Better get a protective suit.
+They're going quick!
+</source>
+        <target state="needs-translation">Better get a protective suit.
+They're going quick!
+</target>
+        <note>GoldSrc identifier: rock_gasmask_message</note>
+      </trans-unit>
+      <trans-unit id="s000356" resname="rock_cant_use_door">
+        <source xml:space="preserve">This door won't open for your team.
+</source>
+        <target state="needs-translation">This door won't open for your team.
+</target>
+        <note>GoldSrc identifier: rock_cant_use_door</note>
+      </trans-unit>
+      <trans-unit id="s000357" resname="rock_enemy_key_carry">
+        <source xml:space="preserve">The enemy key is being carried by %s
+</source>
+        <target state="needs-translation">The enemy key is being carried by %s
+</target>
+        <note>GoldSrc identifier: rock_enemy_key_carry</note>
+      </trans-unit>
+      <trans-unit id="s000358" resname="rock_enemy_key_moved">
+        <source xml:space="preserve">The enemy key has been dropped somewhere.
+</source>
+        <target state="needs-translation">The enemy key has been dropped somewhere.
+</target>
+        <note>GoldSrc identifier: rock_enemy_key_moved</note>
+      </trans-unit>
+      <trans-unit id="s000359" resname="rock_enemy_key_home">
+        <source xml:space="preserve">The enemy key is in their Warden's Office.
+</source>
+        <target state="needs-translation">The enemy key is in their Warden's Office.
+</target>
+        <note>GoldSrc identifier: rock_enemy_key_home</note>
+      </trans-unit>
+      <trans-unit id="s000360" resname="rock_your_key_carry">
+        <source xml:space="preserve">Your key is being carried by %s
+</source>
+        <target state="needs-translation">Your key is being carried by %s
+</target>
+        <note>GoldSrc identifier: rock_your_key_carry</note>
+      </trans-unit>
+      <trans-unit id="s000361" resname="rock_your_key_moved">
+        <source xml:space="preserve">Your key has been dropped somewhere.
+</source>
+        <target state="needs-translation">Your key has been dropped somewhere.
+</target>
+        <note>GoldSrc identifier: rock_your_key_moved</note>
+      </trans-unit>
+      <trans-unit id="s000362" resname="rock_your_key_home">
+        <source xml:space="preserve">Your key is in your Warden's Office.
+</source>
+        <target state="needs-translation">Your key is in your Warden's Office.
+</target>
+        <note>GoldSrc identifier: rock_your_key_home</note>
+      </trans-unit>
+      <trans-unit id="s000363" resname="rock_protected">
+        <source xml:space="preserve">You're now protected from the nerve gas.
+</source>
+        <target state="needs-translation">You're now protected from the nerve gas.
+</target>
+        <note>GoldSrc identifier: rock_protected</note>
+      </trans-unit>
+      <trans-unit id="s000364" resname="rock_access_denied">
+        <source xml:space="preserve">You can't enter the enemy supply rooms.
+</source>
+        <target state="needs-translation">You can't enter the enemy supply rooms.
+</target>
+        <note>GoldSrc identifier: rock_access_denied</note>
+      </trans-unit>
+      <trans-unit id="s000365" resname="rock_you_opened_red_yard">
+        <source xml:space="preserve">You blew a hole in Red's yard.
+</source>
+        <target state="needs-translation">You blew a hole in Red's yard.
+</target>
+        <note>GoldSrc identifier: rock_you_opened_red_yard</note>
+      </trans-unit>
+      <trans-unit id="s000366" resname="rock_red_yard_opened">
+        <source xml:space="preserve">Red's yard has a hole in it!
+</source>
+        <target state="needs-translation">Red's yard has a hole in it!
+</target>
+        <note>GoldSrc identifier: rock_red_yard_opened</note>
+      </trans-unit>
+      <trans-unit id="s000367" resname="rock_you_opened_blue_yard">
+        <source xml:space="preserve">You blew a hole in Blue's yard.
+</source>
+        <target state="needs-translation">You blew a hole in Blue's yard.
+</target>
+        <note>GoldSrc identifier: rock_you_opened_blue_yard</note>
+      </trans-unit>
+      <trans-unit id="s000368" resname="rock_blue_yard_opened">
+        <source xml:space="preserve">Blue's yard has a hole in it!
+</source>
+        <target state="needs-translation">Blue's yard has a hole in it!
+</target>
+        <note>GoldSrc identifier: rock_blue_yard_opened</note>
+      </trans-unit>
+      <trans-unit id="s000369" resname="rock_gas_kill">
+        <source xml:space="preserve">%s was killed by a lethal dose of nerve gas.
+</source>
+        <target state="needs-translation">%s was killed by a lethal dose of nerve gas.
+</target>
+        <note>GoldSrc identifier: rock_gas_kill</note>
+      </trans-unit>
+      <trans-unit id="s000370" resname="rock_laser_kill">
+        <source xml:space="preserve">%s tried to invade an enemy spawnroom.
+</source>
+        <target state="needs-translation">%s tried to invade an enemy spawnroom.
+</target>
+        <note>GoldSrc identifier: rock_laser_kill</note>
+      </trans-unit>
+      <trans-unit id="s000371" resname="rock_team_got_key">
+        <source xml:space="preserve">Your team has the enemy key!
+</source>
+        <target state="needs-translation">Your team has the enemy key!
+</target>
+        <note>GoldSrc identifier: rock_team_got_key</note>
+      </trans-unit>
+      <trans-unit id="s000372" resname="rock_enemy_got_key">
+        <source xml:space="preserve">The enemy has your key!
+</source>
+        <target state="needs-translation">The enemy has your key!
+</target>
+        <note>GoldSrc identifier: rock_enemy_got_key</note>
+      </trans-unit>
+      <trans-unit id="s000373" resname="football_blue_scores">
+        <source xml:space="preserve">Blue team scores!
+</source>
+        <target state="needs-translation">Blue team scores!
+</target>
+        <note>GoldSrc identifier: football_blue_scores</note>
+      </trans-unit>
+      <trans-unit id="s000374" resname="football_blue_netname_scores">
+        <source xml:space="preserve">%s [Blue Team] scores!
+</source>
+        <target state="needs-translation">%s [Blue Team] scores!
+</target>
+        <note>GoldSrc identifier: football_blue_netname_scores</note>
+      </trans-unit>
+      <trans-unit id="s000375" resname="football_red_scores">
+        <source xml:space="preserve">Red team scores!
+</source>
+        <target state="needs-translation">Red team scores!
+</target>
+        <note>GoldSrc identifier: football_red_scores</note>
+      </trans-unit>
+      <trans-unit id="s000376" resname="football_red_netname_scores">
+        <source xml:space="preserve">%s [Red Team] scores!
+</source>
+        <target state="needs-translation">%s [Red Team] scores!
+</target>
+        <note>GoldSrc identifier: football_red_netname_scores</note>
+      </trans-unit>
+      <trans-unit id="s000377" resname="football_flag_drop">
+        <source xml:space="preserve">The ball has been dropped!
+</source>
+        <target state="needs-translation">The ball has been dropped!
+</target>
+        <note>GoldSrc identifier: football_flag_drop</note>
+      </trans-unit>
+      <trans-unit id="s000378" resname="football_flag_netname_drop">
+        <source xml:space="preserve">%s dropped the ball!
+</source>
+        <target state="needs-translation">%s dropped the ball!
+</target>
+        <note>GoldSrc identifier: football_flag_netname_drop</note>
+      </trans-unit>
+      <trans-unit id="s000379" resname="football_needflag">
+        <source xml:space="preserve">You need the ball to score here.
+</source>
+        <target state="needs-translation">You need the ball to score here.
+</target>
+        <note>GoldSrc identifier: football_needflag</note>
+      </trans-unit>
+      <trans-unit id="s000380" resname="football_wronggoal">
+        <source xml:space="preserve">Take the ball to the ENEMY goal.
+</source>
+        <target state="needs-translation">Take the ball to the ENEMY goal.
+</target>
+        <note>GoldSrc identifier: football_wronggoal</note>
+      </trans-unit>
+      <trans-unit id="s000381" resname="football_flag_home">
+        <source xml:space="preserve">No one has the ball yet. Get it!
+</source>
+        <target state="needs-translation">No one has the ball yet. Get it!
+</target>
+        <note>GoldSrc identifier: football_flag_home</note>
+      </trans-unit>
+      <trans-unit id="s000382" resname="football_flag_moved">
+        <source xml:space="preserve">The ball is loose!
+</source>
+        <target state="needs-translation">The ball is loose!
+</target>
+        <note>GoldSrc identifier: football_flag_moved</note>
+      </trans-unit>
+      <trans-unit id="s000383" resname="football_flag_carried">
+        <source xml:space="preserve">The ball is being carried by %s!
+</source>
+        <target state="needs-translation">The ball is being carried by %s!
+</target>
+        <note>GoldSrc identifier: football_flag_carried</note>
+      </trans-unit>
+      <trans-unit id="s000384" resname="football_class_list">
+        <source xml:space="preserve">=== Choose Your Class ===
+
+1. Scout
+2. Sniper
+3. Soldier
+4. Demoman
+5. Medic
+6. HWGuy
+7. Pyro
+
+
+0. RandomPC
+</source>
+        <target state="needs-translation">=== Choose Your Class ===
+
+1. Scout
+2. Sniper
+3. Soldier
+4. Demoman
+5. Medic
+6. HWGuy
+7. Pyro
+
+
+0. RandomPC
+</target>
+        <note>GoldSrc identifier: football_class_list</note>
+      </trans-unit>
+      <trans-unit id="s000385" resname="dustbowl_you_secure_one">
+        <source xml:space="preserve">You secured
+Command Point ONE !!
+</source>
+        <target state="needs-translation">You secured
+Command Point ONE !!
+</target>
+        <note>GoldSrc identifier: dustbowl_you_secure_one</note>
+      </trans-unit>
+      <trans-unit id="s000386" resname="dustbowl_you_secure_two">
+        <source xml:space="preserve">You secured
+Command Point TWO !!
+</source>
+        <target state="needs-translation">You secured
+Command Point TWO !!
+</target>
+        <note>GoldSrc identifier: dustbowl_you_secure_two</note>
+      </trans-unit>
+      <trans-unit id="s000387" resname="dustbowl_protect_HQ">
+        <source xml:space="preserve">Protect your HQ from
+the Blue Team !!
+</source>
+        <target state="needs-translation">Protect your HQ from
+the Blue Team !!
+</target>
+        <note>GoldSrc identifier: dustbowl_protect_HQ</note>
+      </trans-unit>
+      <trans-unit id="s000388" resname="dustbowl_bring_flag">
+        <source xml:space="preserve">Bring your flag to
+Red's HQ !!
+</source>
+        <target state="needs-translation">Bring your flag to
+Red's HQ !!
+</target>
+        <note>GoldSrc identifier: dustbowl_bring_flag</note>
+      </trans-unit>
+      <trans-unit id="s000389" resname="dustbowl_take_flag_one">
+        <source xml:space="preserve">Take the flag to
+Command Point ONE.
+</source>
+        <target state="needs-translation">Take the flag to
+Command Point ONE.
+</target>
+        <note>GoldSrc identifier: dustbowl_take_flag_one</note>
+      </trans-unit>
+      <trans-unit id="s000390" resname="dustbowl_take_flag_two">
+        <source xml:space="preserve">Take the flag to
+Command Point TWO.
+</source>
+        <target state="needs-translation">Take the flag to
+Command Point TWO.
+</target>
+        <note>GoldSrc identifier: dustbowl_take_flag_two</note>
+      </trans-unit>
+      <trans-unit id="s000391" resname="dustbowl_take_flag_HQ">
+        <source xml:space="preserve">Take the flag to Red's HQ!
+</source>
+        <target state="needs-translation">Take the flag to Red's HQ!
+</target>
+        <note>GoldSrc identifier: dustbowl_take_flag_HQ</note>
+      </trans-unit>
+      <trans-unit id="s000392" resname="dustbowl_grenades">
+        <source xml:space="preserve">Grenades!!
+</source>
+        <target state="needs-translation">Grenades!!
+</target>
+        <note>GoldSrc identifier: dustbowl_grenades</note>
+      </trans-unit>
+      <trans-unit id="s000393" resname="dustbowl_blue_secures_one">
+        <source xml:space="preserve">Blue Team Secures
+Command Point ONE !!
+</source>
+        <target state="needs-translation">Blue Team Secures
+Command Point ONE !!
+</target>
+        <note>GoldSrc identifier: dustbowl_blue_secures_one</note>
+      </trans-unit>
+      <trans-unit id="s000394" resname="dustbowl_blue_secures_two">
+        <source xml:space="preserve">Blue Team Secures
+Command Point TWO !!
+</source>
+        <target state="needs-translation">Blue Team Secures
+Command Point TWO !!
+</target>
+        <note>GoldSrc identifier: dustbowl_blue_secures_two</note>
+      </trans-unit>
+      <trans-unit id="s000395" resname="dustbowl_flag_returned">
+        <source xml:space="preserve">Flag has returned to base
+</source>
+        <target state="needs-translation">Flag has returned to base
+</target>
+        <note>GoldSrc identifier: dustbowl_flag_returned</note>
+      </trans-unit>
+      <trans-unit id="s000396" resname="dustbowl_blue_caps">
+        <source xml:space="preserve">Blue team captured Red's
+Headquarters!
+</source>
+        <target state="needs-translation">Blue team captured Red's
+Headquarters!
+</target>
+        <note>GoldSrc identifier: dustbowl_blue_caps</note>
+      </trans-unit>
+      <trans-unit id="s000397" resname="dustbowl_90_secs">
+        <source xml:space="preserve">90 seconds till gates open.
+</source>
+        <target state="needs-translation">90 seconds till gates open.
+</target>
+        <note>GoldSrc identifier: dustbowl_90_secs</note>
+      </trans-unit>
+      <trans-unit id="s000398" resname="dustbowl_60_secs">
+        <source xml:space="preserve">60 seconds till gates open.
+</source>
+        <target state="needs-translation">60 seconds till gates open.
+</target>
+        <note>GoldSrc identifier: dustbowl_60_secs</note>
+      </trans-unit>
+      <trans-unit id="s000399" resname="dustbowl_30_secs">
+        <source xml:space="preserve">30 seconds till gates open.
+</source>
+        <target state="needs-translation">30 seconds till gates open.
+</target>
+        <note>GoldSrc identifier: dustbowl_30_secs</note>
+      </trans-unit>
+      <trans-unit id="s000400" resname="dustbowl_10_secs">
+        <source xml:space="preserve">10 seconds till gates open.
+</source>
+        <target state="needs-translation">10 seconds till gates open.
+</target>
+        <note>GoldSrc identifier: dustbowl_10_secs</note>
+      </trans-unit>
+      <trans-unit id="s000401" resname="dustbowl_gates_open">
+        <source xml:space="preserve">Gates are open !!.
+</source>
+        <target state="needs-translation">Gates are open !!.
+</target>
+        <note>GoldSrc identifier: dustbowl_gates_open</note>
+      </trans-unit>
+      <trans-unit id="s000402" resname="dustbowl_red_defends">
+        <source xml:space="preserve">Red team successfully defended
+their Headquarters!
+</source>
+        <target state="needs-translation">Red team successfully defended
+their Headquarters!
+</target>
+        <note>GoldSrc identifier: dustbowl_red_defends</note>
+      </trans-unit>
+      <trans-unit id="s000403" resname="dustbowl_five_minutes_left">
+        <source xml:space="preserve">Time remaining:
+Five minutes
+</source>
+        <target state="needs-translation">Time remaining:
+Five minutes
+</target>
+        <note>GoldSrc identifier: dustbowl_five_minutes_left</note>
+      </trans-unit>
+      <trans-unit id="s000404" resname="dustbowl_four_minutes_left">
+        <source xml:space="preserve">Time remaining:
+Four minutes
+</source>
+        <target state="needs-translation">Time remaining:
+Four minutes
+</target>
+        <note>GoldSrc identifier: dustbowl_four_minutes_left</note>
+      </trans-unit>
+      <trans-unit id="s000405" resname="dustbowl_three_minutes_left">
+        <source xml:space="preserve">Time remaining:
+Three minutes
+</source>
+        <target state="needs-translation">Time remaining:
+Three minutes
+</target>
+        <note>GoldSrc identifier: dustbowl_three_minutes_left</note>
+      </trans-unit>
+      <trans-unit id="s000406" resname="dustbowl_two_minutes_left">
+        <source xml:space="preserve">Time remaining:
+Two minutes
+</source>
+        <target state="needs-translation">Time remaining:
+Two minutes
+</target>
+        <note>GoldSrc identifier: dustbowl_two_minutes_left</note>
+      </trans-unit>
+      <trans-unit id="s000407" resname="dustbowl_sixty_seconds_left">
+        <source xml:space="preserve">Time remaining:
+Sixty seconds
+</source>
+        <target state="needs-translation">Time remaining:
+Sixty seconds
+</target>
+        <note>GoldSrc identifier: dustbowl_sixty_seconds_left</note>
+      </trans-unit>
+      <trans-unit id="s000408" resname="dustbowl_thirty_seconds_left">
+        <source xml:space="preserve">Time remaining:
+Thirty seconds
+</source>
+        <target state="needs-translation">Time remaining:
+Thirty seconds
+</target>
+        <note>GoldSrc identifier: dustbowl_thirty_seconds_left</note>
+      </trans-unit>
+      <trans-unit id="s000409" resname="dblmint_you_got_flag">
+        <source xml:space="preserve">You have the flag!
+Take it to your APC.
+</source>
+        <target state="needs-translation">You have the flag!
+Take it to your APC.
+</target>
+        <note>GoldSrc identifier: dblmint_you_got_flag</note>
+      </trans-unit>
+      <trans-unit id="s000410" resname="dblmint_x_has_flag">
+        <source xml:space="preserve">%s has your team's flag.
+</source>
+        <target state="needs-translation">%s has your team's flag.
+</target>
+        <note>GoldSrc identifier: dblmint_x_has_flag</note>
+      </trans-unit>
+      <trans-unit id="s000411" resname="dblmint_you_capped_flag">
+        <source xml:space="preserve">You escaped with your team's flag!
+Good job!
+</source>
+        <target state="needs-translation">You escaped with your team's flag!
+Good job!
+</target>
+        <note>GoldSrc identifier: dblmint_you_capped_flag</note>
+      </trans-unit>
+      <trans-unit id="s000412" resname="dblmint_enemy_capped_flag">
+        <source xml:space="preserve">The enemy captured the flag!
+</source>
+        <target state="needs-translation">The enemy captured the flag!
+</target>
+        <note>GoldSrc identifier: dblmint_enemy_capped_flag</note>
+      </trans-unit>
+      <trans-unit id="s000413" resname="dblmint_team_capped_flag">
+        <source xml:space="preserve">Your team captured the flag!
+</source>
+        <target state="needs-translation">Your team captured the flag!
+</target>
+        <note>GoldSrc identifier: dblmint_team_capped_flag</note>
+      </trans-unit>
+      <trans-unit id="s000414" resname="dblmint_flagcage">
+        <source xml:space="preserve">This cage will open within 45 seconds.
+</source>
+        <target state="needs-translation">This cage will open within 45 seconds.
+</target>
+        <note>GoldSrc identifier: dblmint_flagcage</note>
+      </trans-unit>
+      <trans-unit id="s000415" resname="warpath_cap_1_first">
+        <source xml:space="preserve">Your team must capture point 1 first!
+</source>
+        <target state="needs-translation">Your team must capture point 1 first!
+</target>
+        <note>GoldSrc identifier: warpath_cap_1_first</note>
+      </trans-unit>
+      <trans-unit id="s000416" resname="warpath_cap_2_first">
+        <source xml:space="preserve">Your team must capture point 2 first!
+</source>
+        <target state="needs-translation">Your team must capture point 2 first!
+</target>
+        <note>GoldSrc identifier: warpath_cap_2_first</note>
+      </trans-unit>
+      <trans-unit id="s000417" resname="warpath_cap_3_first">
+        <source xml:space="preserve">Your team must capture point 3 first!
+</source>
+        <target state="needs-translation">Your team must capture point 3 first!
+</target>
+        <note>GoldSrc identifier: warpath_cap_3_first</note>
+      </trans-unit>
+      <trans-unit id="s000418" resname="warpath_cap_4_first">
+        <source xml:space="preserve">Your team must capture point 4 first!
+</source>
+        <target state="needs-translation">Your team must capture point 4 first!
+</target>
+        <note>GoldSrc identifier: warpath_cap_4_first</note>
+      </trans-unit>
+      <trans-unit id="s000419" resname="warpath_cap_5_first">
+        <source xml:space="preserve">Your team must capture point 5 first!
+</source>
+        <target state="needs-translation">Your team must capture point 5 first!
+</target>
+        <note>GoldSrc identifier: warpath_cap_5_first</note>
+      </trans-unit>
+      <trans-unit id="s000420" resname="warpath_enemy_in_base">
+        <source xml:space="preserve">The enemy is inside your base!
+</source>
+        <target state="needs-translation">The enemy is inside your base!
+</target>
+        <note>GoldSrc identifier: warpath_enemy_in_base</note>
+      </trans-unit>
+      <trans-unit id="s000421" resname="warpath_45_secs">
+        <source xml:space="preserve">45 seconds till gates open.
+</source>
+        <target state="needs-translation">45 seconds till gates open.
+</target>
+        <note>GoldSrc identifier: warpath_45_secs</note>
+      </trans-unit>
+      <trans-unit id="s000422" resname="warpath_30_secs">
+        <source xml:space="preserve">30 seconds till gates open.
+</source>
+        <target state="needs-translation">30 seconds till gates open.
+</target>
+        <note>GoldSrc identifier: warpath_30_secs</note>
+      </trans-unit>
+      <trans-unit id="s000423" resname="warpath_20_secs">
+        <source xml:space="preserve">20 seconds till gates open.
+</source>
+        <target state="needs-translation">20 seconds till gates open.
+</target>
+        <note>GoldSrc identifier: warpath_20_secs</note>
+      </trans-unit>
+      <trans-unit id="s000424" resname="warpath_10_secs">
+        <source xml:space="preserve">10 seconds till gates open.
+</source>
+        <target state="needs-translation">10 seconds till gates open.
+</target>
+        <note>GoldSrc identifier: warpath_10_secs</note>
+      </trans-unit>
+      <trans-unit id="s000425" resname="warpath_gates_open">
+        <source xml:space="preserve">Gates are open !!
+</source>
+        <target state="needs-translation">Gates are open !!
+</target>
+        <note>GoldSrc identifier: warpath_gates_open</note>
+      </trans-unit>
+      <trans-unit id="s000426" resname="warpath_red_wins">
+        <source xml:space="preserve">Red team wins the round!
+</source>
+        <target state="needs-translation">Red team wins the round!
+</target>
+        <note>GoldSrc identifier: warpath_red_wins</note>
+      </trans-unit>
+      <trans-unit id="s000427" resname="warpath_blue_wins">
+        <source xml:space="preserve">Blue team wins the round!
+</source>
+        <target state="needs-translation">Blue team wins the round!
+</target>
+        <note>GoldSrc identifier: warpath_blue_wins</note>
+      </trans-unit>
+      <trans-unit id="s000428" resname="war_u_stole_1">
+        <source xml:space="preserve">You stole flag 1!
+Return it to your capture point!
+</source>
+        <target state="needs-translation">You stole flag 1!
+Return it to your capture point!
+</target>
+        <note>GoldSrc identifier: war_u_stole_1</note>
+      </trans-unit>
+      <trans-unit id="s000429" resname="war_tm_stole_1">
+        <source xml:space="preserve">Your team has stolen FLAG 1!
+</source>
+        <target state="needs-translation">Your team has stolen FLAG 1!
+</target>
+        <note>GoldSrc identifier: war_tm_stole_1</note>
+      </trans-unit>
+      <trans-unit id="s000430" resname="war_en_stole_1">
+        <source xml:space="preserve">The enemy has stolen FLAG 1!
+</source>
+        <target state="needs-translation">The enemy has stolen FLAG 1!
+</target>
+        <note>GoldSrc identifier: war_en_stole_1</note>
+      </trans-unit>
+      <trans-unit id="s000431" resname="war_u_stole_2">
+        <source xml:space="preserve">You stole flag 2!
+Return it to your capture point!
+</source>
+        <target state="needs-translation">You stole flag 2!
+Return it to your capture point!
+</target>
+        <note>GoldSrc identifier: war_u_stole_2</note>
+      </trans-unit>
+      <trans-unit id="s000432" resname="war_tm_stole_2">
+        <source xml:space="preserve">Your team has stolen FLAG 2!
+</source>
+        <target state="needs-translation">Your team has stolen FLAG 2!
+</target>
+        <note>GoldSrc identifier: war_tm_stole_2</note>
+      </trans-unit>
+      <trans-unit id="s000433" resname="war_en_stole_2">
+        <source xml:space="preserve">The enemy has stolen FLAG 2!
+</source>
+        <target state="needs-translation">The enemy has stolen FLAG 2!
+</target>
+        <note>GoldSrc identifier: war_en_stole_2</note>
+      </trans-unit>
+      <trans-unit id="s000434" resname="war_u_stole_3">
+        <source xml:space="preserve">You stole flag 3!
+Return it to your capture point!
+</source>
+        <target state="needs-translation">You stole flag 3!
+Return it to your capture point!
+</target>
+        <note>GoldSrc identifier: war_u_stole_3</note>
+      </trans-unit>
+      <trans-unit id="s000435" resname="war_tm_stole_3">
+        <source xml:space="preserve">Your team has stolen FLAG 3!
+</source>
+        <target state="needs-translation">Your team has stolen FLAG 3!
+</target>
+        <note>GoldSrc identifier: war_tm_stole_3</note>
+      </trans-unit>
+      <trans-unit id="s000436" resname="war_en_stole_3">
+        <source xml:space="preserve">The enemy has stolen FLAG 3!
+</source>
+        <target state="needs-translation">The enemy has stolen FLAG 3!
+</target>
+        <note>GoldSrc identifier: war_en_stole_3</note>
+      </trans-unit>
+      <trans-unit id="s000437" resname="war_u_stole_4">
+        <source xml:space="preserve">You stole flag 4!
+Return it to your capture point!
+</source>
+        <target state="needs-translation">You stole flag 4!
+Return it to your capture point!
+</target>
+        <note>GoldSrc identifier: war_u_stole_4</note>
+      </trans-unit>
+      <trans-unit id="s000438" resname="war_tm_stole_4">
+        <source xml:space="preserve">Your team has stolen FLAG 4!
+</source>
+        <target state="needs-translation">Your team has stolen FLAG 4!
+</target>
+        <note>GoldSrc identifier: war_tm_stole_4</note>
+      </trans-unit>
+      <trans-unit id="s000439" resname="war_en_stole_4">
+        <source xml:space="preserve">The enemy has stolen FLAG 4!
+</source>
+        <target state="needs-translation">The enemy has stolen FLAG 4!
+</target>
+        <note>GoldSrc identifier: war_en_stole_4</note>
+      </trans-unit>
+      <trans-unit id="s000440" resname="war_uhave_flag_1">
+        <source xml:space="preserve">You have FLAG 1
+Return it to your capture point!
+</source>
+        <target state="needs-translation">You have FLAG 1
+Return it to your capture point!
+</target>
+        <note>GoldSrc identifier: war_uhave_flag_1</note>
+      </trans-unit>
+      <trans-unit id="s000441" resname="war_uhave_flag1">
+        <source xml:space="preserve">You have FLAG 1
+Return it to your capture point!
+</source>
+        <target state="needs-translation">You have FLAG 1
+Return it to your capture point!
+</target>
+        <note>GoldSrc identifier: war_uhave_flag1</note>
+      </trans-unit>
+      <trans-unit id="s000442" resname="war_uhave_flag_2">
+        <source xml:space="preserve">You have FLAG 2
+Return it to your capture point!
+</source>
+        <target state="needs-translation">You have FLAG 2
+Return it to your capture point!
+</target>
+        <note>GoldSrc identifier: war_uhave_flag_2</note>
+      </trans-unit>
+      <trans-unit id="s000443" resname="war_uhave_flag_3">
+        <source xml:space="preserve">You have FLAG 3
+Return it to your capture point!
+</source>
+        <target state="needs-translation">You have FLAG 3
+Return it to your capture point!
+</target>
+        <note>GoldSrc identifier: war_uhave_flag_3</note>
+      </trans-unit>
+      <trans-unit id="s000444" resname="war_uhave_flag_4">
+        <source xml:space="preserve">You have FLAG 4
+Return it to your capture point!
+</source>
+        <target state="needs-translation">You have FLAG 4
+Return it to your capture point!
+</target>
+        <note>GoldSrc identifier: war_uhave_flag_4</note>
+      </trans-unit>
+      <trans-unit id="s000445" resname="war_tmsec_flag1">
+        <source xml:space="preserve">Your team secured FLAG 1
+</source>
+        <target state="needs-translation">Your team secured FLAG 1
+</target>
+        <note>GoldSrc identifier: war_tmsec_flag1</note>
+      </trans-unit>
+      <trans-unit id="s000446" resname="war_tmsec_flag2">
+        <source xml:space="preserve">Your team secured FLAG 2
+</source>
+        <target state="needs-translation">Your team secured FLAG 2
+</target>
+        <note>GoldSrc identifier: war_tmsec_flag2</note>
+      </trans-unit>
+      <trans-unit id="s000447" resname="war_tmsec_flag3">
+        <source xml:space="preserve">Your team secured FLAG 3
+</source>
+        <target state="needs-translation">Your team secured FLAG 3
+</target>
+        <note>GoldSrc identifier: war_tmsec_flag3</note>
+      </trans-unit>
+      <trans-unit id="s000448" resname="war_tmsec_3">
+        <source xml:space="preserve">Your team secured FLAG 3
+</source>
+        <target state="needs-translation">Your team secured FLAG 3
+</target>
+        <note>GoldSrc identifier: war_tmsec_3</note>
+      </trans-unit>
+      <trans-unit id="s000449" resname="war_tmsec_flag4">
+        <source xml:space="preserve">Your team secured FLAG 4
+</source>
+        <target state="needs-translation">Your team secured FLAG 4
+</target>
+        <note>GoldSrc identifier: war_tmsec_flag4</note>
+      </trans-unit>
+      <trans-unit id="s000450" resname="war_usec_flag1">
+        <source xml:space="preserve">You secured FLAG 1
+</source>
+        <target state="needs-translation">You secured FLAG 1
+</target>
+        <note>GoldSrc identifier: war_usec_flag1</note>
+      </trans-unit>
+      <trans-unit id="s000451" resname="war_usec_flag2">
+        <source xml:space="preserve">You secured FLAG 2
+</source>
+        <target state="needs-translation">You secured FLAG 2
+</target>
+        <note>GoldSrc identifier: war_usec_flag2</note>
+      </trans-unit>
+      <trans-unit id="s000452" resname="war_usec_flag3">
+        <source xml:space="preserve">You secured FLAG 3
+</source>
+        <target state="needs-translation">You secured FLAG 3
+</target>
+        <note>GoldSrc identifier: war_usec_flag3</note>
+      </trans-unit>
+      <trans-unit id="s000453" resname="war_usec_flag4">
+        <source xml:space="preserve">You secured FLAG 4
+</source>
+        <target state="needs-translation">You secured FLAG 4
+</target>
+        <note>GoldSrc identifier: war_usec_flag4</note>
+      </trans-unit>
+      <trans-unit id="s000454" resname="war_uret_flag1">
+        <source xml:space="preserve">You returned FLAG 1
+</source>
+        <target state="needs-translation">You returned FLAG 1
+</target>
+        <note>GoldSrc identifier: war_uret_flag1</note>
+      </trans-unit>
+      <trans-unit id="s000455" resname="war_uret_flag2">
+        <source xml:space="preserve">You returned FLAG 2
+</source>
+        <target state="needs-translation">You returned FLAG 2
+</target>
+        <note>GoldSrc identifier: war_uret_flag2</note>
+      </trans-unit>
+      <trans-unit id="s000456" resname="war_uret_flag3">
+        <source xml:space="preserve">You returned FLAG 3
+</source>
+        <target state="needs-translation">You returned FLAG 3
+</target>
+        <note>GoldSrc identifier: war_uret_flag3</note>
+      </trans-unit>
+      <trans-unit id="s000457" resname="war_uret_flag4">
+        <source xml:space="preserve">You returned FLAG 4
+</source>
+        <target state="needs-translation">You returned FLAG 4
+</target>
+        <note>GoldSrc identifier: war_uret_flag4</note>
+      </trans-unit>
+      <trans-unit id="s000458" resname="war_tret_flag1">
+        <source xml:space="preserve">Your team returned FLAG 1
+</source>
+        <target state="needs-translation">Your team returned FLAG 1
+</target>
+        <note>GoldSrc identifier: war_tret_flag1</note>
+      </trans-unit>
+      <trans-unit id="s000459" resname="war_tret_flag2">
+        <source xml:space="preserve">Your team returned FLAG 2
+</source>
+        <target state="needs-translation">Your team returned FLAG 2
+</target>
+        <note>GoldSrc identifier: war_tret_flag2</note>
+      </trans-unit>
+      <trans-unit id="s000460" resname="war_tret_flag3">
+        <source xml:space="preserve">Your team returned FLAG 3
+</source>
+        <target state="needs-translation">Your team returned FLAG 3
+</target>
+        <note>GoldSrc identifier: war_tret_flag3</note>
+      </trans-unit>
+      <trans-unit id="s000461" resname="war_tret_flag4">
+        <source xml:space="preserve">Your team returned FLAG 4
+</source>
+        <target state="needs-translation">Your team returned FLAG 4
+</target>
+        <note>GoldSrc identifier: war_tret_flag4</note>
+      </trans-unit>
+      <trans-unit id="s000462" resname="war_eret_flag1">
+        <source xml:space="preserve">The ENEMY returned FLAG 1
+</source>
+        <target state="needs-translation">The ENEMY returned FLAG 1
+</target>
+        <note>GoldSrc identifier: war_eret_flag1</note>
+      </trans-unit>
+      <trans-unit id="s000463" resname="war_eret_flag2">
+        <source xml:space="preserve">The ENEMY returned FLAG 2
+</source>
+        <target state="needs-translation">The ENEMY returned FLAG 2
+</target>
+        <note>GoldSrc identifier: war_eret_flag2</note>
+      </trans-unit>
+      <trans-unit id="s000464" resname="war_eret_flag3">
+        <source xml:space="preserve">The ENEMY returned FLAG 3
+</source>
+        <target state="needs-translation">The ENEMY returned FLAG 3
+</target>
+        <note>GoldSrc identifier: war_eret_flag3</note>
+      </trans-unit>
+      <trans-unit id="s000465" resname="war_eret_flag4">
+        <source xml:space="preserve">The ENEMY returned FLAG 4
+</source>
+        <target state="needs-translation">The ENEMY returned FLAG 4
+</target>
+        <note>GoldSrc identifier: war_eret_flag4</note>
+      </trans-unit>
+      <trans-unit id="s000466" resname="war_esec_flag1">
+        <source xml:space="preserve">The ENEMY team secured FLAG 1!
+</source>
+        <target state="needs-translation">The ENEMY team secured FLAG 1!
+</target>
+        <note>GoldSrc identifier: war_esec_flag1</note>
+      </trans-unit>
+      <trans-unit id="s000467" resname="war_esec_flag2">
+        <source xml:space="preserve">The ENEMY team secured FLAG 2!
+</source>
+        <target state="needs-translation">The ENEMY team secured FLAG 2!
+</target>
+        <note>GoldSrc identifier: war_esec_flag2</note>
+      </trans-unit>
+      <trans-unit id="s000468" resname="war_esec_flag3">
+        <source xml:space="preserve">The ENEMY team secured FLAG 3!
+</source>
+        <target state="needs-translation">The ENEMY team secured FLAG 3!
+</target>
+        <note>GoldSrc identifier: war_esec_flag3</note>
+      </trans-unit>
+      <trans-unit id="s000469" resname="war_esec_flag4">
+        <source xml:space="preserve">The ENEMY team secured FLAG 4!
+</source>
+        <target state="needs-translation">The ENEMY team secured FLAG 4!
+</target>
+        <note>GoldSrc identifier: war_esec_flag4</note>
+      </trans-unit>
+      <trans-unit id="s000470" resname="war_avail">
+        <source xml:space="preserve">Neutral flags are now available!
+</source>
+        <target state="needs-translation">Neutral flags are now available!
+</target>
+        <note>GoldSrc identifier: war_avail</note>
+      </trans-unit>
+      <trans-unit id="s000471" resname="war_removedflag">
+        <source xml:space="preserve">!!! You lost the flag because 
+you entered the spawn room !!!
+</source>
+        <target state="needs-translation">!!! You lost the flag because 
+you entered the spawn room !!!
+</target>
+        <note>GoldSrc identifier: war_removedflag</note>
+      </trans-unit>
+      <trans-unit id="s000472" resname="war_cant_withflag">
+        <source xml:space="preserve">You can't enter the spawn 
+room while carrying the flag 
+</source>
+        <target state="needs-translation">You can't enter the spawn 
+room while carrying the flag 
+</target>
+        <note>GoldSrc identifier: war_cant_withflag</note>
+      </trans-unit>
+      <trans-unit id="s000473" resname="italy_take_flag_to_1">
+        <source xml:space="preserve">Take this flag to Command Point 1.
+</source>
+        <target state="needs-translation">Take this flag to Command Point 1.
+</target>
+        <note>GoldSrc identifier: italy_take_flag_to_1</note>
+      </trans-unit>
+      <trans-unit id="s000474" resname="italy_take_flag_to_2">
+        <source xml:space="preserve">Take this flag to Command Point 2.
+</source>
+        <target state="needs-translation">Take this flag to Command Point 2.
+</target>
+        <note>GoldSrc identifier: italy_take_flag_to_2</note>
+      </trans-unit>
+      <trans-unit id="s000475" resname="italy_take_flag_to_3">
+        <source xml:space="preserve">Take this flag to Command Point 3.
+</source>
+        <target state="needs-translation">Take this flag to Command Point 3.
+</target>
+        <note>GoldSrc identifier: italy_take_flag_to_3</note>
+      </trans-unit>
+      <trans-unit id="s000476" resname="italy_take_flag_to_4">
+        <source xml:space="preserve">Take this flag to the church.
+</source>
+        <target state="needs-translation">Take this flag to the church.
+</target>
+        <note>GoldSrc identifier: italy_take_flag_to_4</note>
+      </trans-unit>
+      <trans-unit id="s000477" resname="italy_yourflag_at_0">
+        <source xml:space="preserve">Your flag has returned to the bottom of the town.
+</source>
+        <target state="needs-translation">Your flag has returned to the bottom of the town.
+</target>
+        <note>GoldSrc identifier: italy_yourflag_at_0</note>
+      </trans-unit>
+      <trans-unit id="s000478" resname="italy_yourflag_at_1">
+        <source xml:space="preserve">Your flag has returned to Command Point 1.
+</source>
+        <target state="needs-translation">Your flag has returned to Command Point 1.
+</target>
+        <note>GoldSrc identifier: italy_yourflag_at_1</note>
+      </trans-unit>
+      <trans-unit id="s000479" resname="italy_yourflag_at_2">
+        <source xml:space="preserve">Your flag has returned to Command Point 2.
+</source>
+        <target state="needs-translation">Your flag has returned to Command Point 2.
+</target>
+        <note>GoldSrc identifier: italy_yourflag_at_2</note>
+      </trans-unit>
+      <trans-unit id="s000480" resname="italy_yourflag_at_3">
+        <source xml:space="preserve">Your flag has returned to Command Point 3.
+</source>
+        <target state="needs-translation">Your flag has returned to Command Point 3.
+</target>
+        <note>GoldSrc identifier: italy_yourflag_at_3</note>
+      </trans-unit>
+      <trans-unit id="s000481" resname="italy_eflag_at_0">
+        <source xml:space="preserve">The enemy flag has returned to bottom of the town.
+</source>
+        <target state="needs-translation">The enemy flag has returned to bottom of the town.
+</target>
+        <note>GoldSrc identifier: italy_eflag_at_0</note>
+      </trans-unit>
+      <trans-unit id="s000482" resname="italy_eflag_at_1">
+        <source xml:space="preserve">The enemy flag has returned to Command Point 1.
+</source>
+        <target state="needs-translation">The enemy flag has returned to Command Point 1.
+</target>
+        <note>GoldSrc identifier: italy_eflag_at_1</note>
+      </trans-unit>
+      <trans-unit id="s000483" resname="italy_eflag_at_2">
+        <source xml:space="preserve">The enemy flag has returned to Command Point 2.
+</source>
+        <target state="needs-translation">The enemy flag has returned to Command Point 2.
+</target>
+        <note>GoldSrc identifier: italy_eflag_at_2</note>
+      </trans-unit>
+      <trans-unit id="s000484" resname="italy_eflag_at_3">
+        <source xml:space="preserve">The enemy flag has returned to Command Point 3.
+</source>
+        <target state="needs-translation">The enemy flag has returned to Command Point 3.
+</target>
+        <note>GoldSrc identifier: italy_eflag_at_3</note>
+      </trans-unit>
+      <trans-unit id="s000485" resname="italy_you_secure_cp1">
+        <source xml:space="preserve">You secured Command Point 1!
+Take the next flag to Command Point 2.
+</source>
+        <target state="needs-translation">You secured Command Point 1!
+Take the next flag to Command Point 2.
+</target>
+        <note>GoldSrc identifier: italy_you_secure_cp1</note>
+      </trans-unit>
+      <trans-unit id="s000486" resname="italy_team_secured_cp1">
+        <source xml:space="preserve">Your team secured Command Point 1!
+Take the next flag to Command Point 2.
+</source>
+        <target state="needs-translation">Your team secured Command Point 1!
+Take the next flag to Command Point 2.
+</target>
+        <note>GoldSrc identifier: italy_team_secured_cp1</note>
+      </trans-unit>
+      <trans-unit id="s000487" resname="italy_lost_cp1">
+        <source xml:space="preserve">The enemy team secured Command Point 1!
+Defend Command Point 2.
+</source>
+        <target state="needs-translation">The enemy team secured Command Point 1!
+Defend Command Point 2.
+</target>
+        <note>GoldSrc identifier: italy_lost_cp1</note>
+      </trans-unit>
+      <trans-unit id="s000488" resname="italy_you_secure_cp2">
+        <source xml:space="preserve">You secured Command Point 2!
+Take the next flag to Command Point 3.
+</source>
+        <target state="needs-translation">You secured Command Point 2!
+Take the next flag to Command Point 3.
+</target>
+        <note>GoldSrc identifier: italy_you_secure_cp2</note>
+      </trans-unit>
+      <trans-unit id="s000489" resname="italy_team_secured_cp2">
+        <source xml:space="preserve">Your team secured Command Point 2!
+Take the next flag to Command Point 3.
+</source>
+        <target state="needs-translation">Your team secured Command Point 2!
+Take the next flag to Command Point 3.
+</target>
+        <note>GoldSrc identifier: italy_team_secured_cp2</note>
+      </trans-unit>
+      <trans-unit id="s000490" resname="italy_lost_cp2">
+        <source xml:space="preserve">The enemy team secured Command Point 2!
+Defend Command Point 3.
+</source>
+        <target state="needs-translation">The enemy team secured Command Point 2!
+Defend Command Point 3.
+</target>
+        <note>GoldSrc identifier: italy_lost_cp2</note>
+      </trans-unit>
+      <trans-unit id="s000491" resname="italy_you_secure_cp3">
+        <source xml:space="preserve">You secured Command Point 3!
+Take the next flag to the church.
+</source>
+        <target state="needs-translation">You secured Command Point 3!
+Take the next flag to the church.
+</target>
+        <note>GoldSrc identifier: italy_you_secure_cp3</note>
+      </trans-unit>
+      <trans-unit id="s000492" resname="italy_team_secured_cp3">
+        <source xml:space="preserve">Your team secured Command Point 3!
+Take the next flag to the church.
+</source>
+        <target state="needs-translation">Your team secured Command Point 3!
+Take the next flag to the church.
+</target>
+        <note>GoldSrc identifier: italy_team_secured_cp3</note>
+      </trans-unit>
+      <trans-unit id="s000493" resname="italy_lost_cp3">
+        <source xml:space="preserve">The enemy team secured Command Point 3!
+Defend the church.
+</source>
+        <target state="needs-translation">The enemy team secured Command Point 3!
+Defend the church.
+</target>
+        <note>GoldSrc identifier: italy_lost_cp3</note>
+      </trans-unit>
+      <trans-unit id="s000494" resname="italy_you_secure_cp4">
+        <source xml:space="preserve">You secured the church!
+Victory is yours!
+</source>
+        <target state="needs-translation">You secured the church!
+Victory is yours!
+</target>
+        <note>GoldSrc identifier: italy_you_secure_cp4</note>
+      </trans-unit>
+      <trans-unit id="s000495" resname="italy_team_secured_cp4">
+        <source xml:space="preserve">Your team secured the church!
+Victory is yours!
+</source>
+        <target state="needs-translation">Your team secured the church!
+Victory is yours!
+</target>
+        <note>GoldSrc identifier: italy_team_secured_cp4</note>
+      </trans-unit>
+      <trans-unit id="s000496" resname="italy_lost_cp4">
+        <source xml:space="preserve">The enemy team secured the church!
+You've lost control of the town!
+</source>
+        <target state="needs-translation">The enemy team secured the church!
+You've lost control of the town!
+</target>
+        <note>GoldSrc identifier: italy_lost_cp4</note>
+      </trans-unit>
+      <trans-unit id="s000497" resname="italy_endround_win">
+        <source xml:space="preserve">Your team secured all 4 Command Points.
+You now control the town!
+
+Prepare for a counterattack. Defend the town!
+</source>
+        <target state="needs-translation">Your team secured all 4 Command Points.
+You now control the town!
+
+Prepare for a counterattack. Defend the town!
+</target>
+        <note>GoldSrc identifier: italy_endround_win</note>
+      </trans-unit>
+      <trans-unit id="s000498" resname="italy_endround_lose">
+        <source xml:space="preserve">The enemy team secured all 4 Command Points.
+You've lost control of the town!
+
+Prepare to counterattack. Take back the town!
+</source>
+        <target state="needs-translation">The enemy team secured all 4 Command Points.
+You've lost control of the town!
+
+Prepare to counterattack. Take back the town!
+</target>
+        <note>GoldSrc identifier: italy_endround_lose</note>
+      </trans-unit>
+      <trans-unit id="s000499" resname="italy_attacker_1">
+        <source xml:space="preserve">You're on the attacking team.
+Move uphill and capture Command Point 1!
+</source>
+        <target state="needs-translation">You're on the attacking team.
+Move uphill and capture Command Point 1!
+</target>
+        <note>GoldSrc identifier: italy_attacker_1</note>
+      </trans-unit>
+      <trans-unit id="s000500" resname="italy_attacker_2">
+        <source xml:space="preserve">You're on the attacking team.
+Move uphill and capture Command Point 2!
+</source>
+        <target state="needs-translation">You're on the attacking team.
+Move uphill and capture Command Point 2!
+</target>
+        <note>GoldSrc identifier: italy_attacker_2</note>
+      </trans-unit>
+      <trans-unit id="s000501" resname="italy_attacker_3">
+        <source xml:space="preserve">You're on the attacking team.
+Move uphill and capture Command Point 3!
+</source>
+        <target state="needs-translation">You're on the attacking team.
+Move uphill and capture Command Point 3!
+</target>
+        <note>GoldSrc identifier: italy_attacker_3</note>
+      </trans-unit>
+      <trans-unit id="s000502" resname="italy_attacker_4">
+        <source xml:space="preserve">You're on the attacking team.
+Move uphill and capture the church!
+</source>
+        <target state="needs-translation">You're on the attacking team.
+Move uphill and capture the church!
+</target>
+        <note>GoldSrc identifier: italy_attacker_4</note>
+      </trans-unit>
+      <trans-unit id="s000503" resname="italy_defender_1">
+        <source xml:space="preserve">You're on the defending team.
+Move downhill and defend Command Point 1!
+</source>
+        <target state="needs-translation">You're on the defending team.
+Move downhill and defend Command Point 1!
+</target>
+        <note>GoldSrc identifier: italy_defender_1</note>
+      </trans-unit>
+      <trans-unit id="s000504" resname="italy_defender_2">
+        <source xml:space="preserve">You're on the defending team.
+Move downhill and defend Command Point 2!
+</source>
+        <target state="needs-translation">You're on the defending team.
+Move downhill and defend Command Point 2!
+</target>
+        <note>GoldSrc identifier: italy_defender_2</note>
+      </trans-unit>
+      <trans-unit id="s000505" resname="italy_defender_3">
+        <source xml:space="preserve">You're on the defending team.
+Move downhill and defend Command Point 3!
+</source>
+        <target state="needs-translation">You're on the defending team.
+Move downhill and defend Command Point 3!
+</target>
+        <note>GoldSrc identifier: italy_defender_3</note>
+      </trans-unit>
+      <trans-unit id="s000506" resname="italy_defender_4">
+        <source xml:space="preserve">You're on the defending team.
+Move downhill and defend the church!
+</source>
+        <target state="needs-translation">You're on the defending team.
+Move downhill and defend the church!
+</target>
+        <note>GoldSrc identifier: italy_defender_4</note>
+      </trans-unit>
+      <trans-unit id="s000507" resname="italy_hole_text">
+        <source xml:space="preserve">Command Point 4 has been breached!
+</source>
+        <target state="needs-translation">Command Point 4 has been breached!
+</target>
+        <note>GoldSrc identifier: italy_hole_text</note>
+      </trans-unit>
+      <trans-unit id="s000508" resname="ctf_yougotflag">
+        <source xml:space="preserve">You have the enemy flag!
+Take it back to your base!
+</source>
+        <target state="needs-translation">You have the enemy flag!
+Take it back to your base!
+</target>
+        <note>GoldSrc identifier: ctf_yougotflag</note>
+      </trans-unit>
+      <trans-unit id="s000509" resname="ctf_cantuseitem">
+        <source xml:space="preserve">Your team can't use this item.
+</source>
+        <target state="needs-translation">Your team can't use this item.
+</target>
+        <note>GoldSrc identifier: ctf_cantuseitem</note>
+      </trans-unit>
+      <trans-unit id="s000510" resname="ctf_cant_use_door">
+        <source xml:space="preserve">This door won't open for your team.
+</source>
+        <target state="needs-translation">This door won't open for your team.
+</target>
+        <note>GoldSrc identifier: ctf_cant_use_door</note>
+      </trans-unit>
+      <trans-unit id="s000511" resname="Detpack_telefragged">
+        <source xml:space="preserve">%s's detpack was telefragged by %s
+</source>
+        <target state="needs-translation">%s's detpack was telefragged by %s
+</target>
+        <note>GoldSrc identifier: Detpack_telefragged</note>
+      </trans-unit>
+      <trans-unit id="s000512" resname="Dropitems_noroom">
+        <source xml:space="preserve">Not enough room to drop items here.
+</source>
+        <target state="needs-translation">Not enough room to drop items here.
+</target>
+        <note>GoldSrc identifier: Dropitems_noroom</note>
+      </trans-unit>
+      <trans-unit id="s000513" resname="Sentry_DistDismantle">
+        <source xml:space="preserve">You need to be closer to your sentry gun to dismantle it.
+</source>
+        <target state="needs-translation">You need to be closer to your sentry gun to dismantle it.
+</target>
+        <note>GoldSrc identifier: Sentry_DistDismantle</note>
+      </trans-unit>
+      <trans-unit id="s000514" resname="Sentry_repair">
+        <source xml:space="preserve">You repair your sentry gun.
+</source>
+        <target state="needs-translation">You repair your sentry gun.
+</target>
+        <note>GoldSrc identifier: Sentry_repair</note>
+      </trans-unit>
+      <trans-unit id="s000515" resname="Sentry_inshells">
+        <source xml:space="preserve">You put some shells into your sentry gun.
+</source>
+        <target state="needs-translation">You put some shells into your sentry gun.
+</target>
+        <note>GoldSrc identifier: Sentry_inshells</note>
+      </trans-unit>
+      <trans-unit id="s000516" resname="Sentry_inrockets">
+        <source xml:space="preserve">You put some rockets into your sentry gun.
+</source>
+        <target state="needs-translation">You put some rockets into your sentry gun.
+</target>
+        <note>GoldSrc identifier: Sentry_inrockets</note>
+      </trans-unit>
+      <trans-unit id="s000517" resname="Dispenser_DistDismantle">
+        <source xml:space="preserve">You need to be closer to your dispenser to dismantle it.
+</source>
+        <target state="needs-translation">You need to be closer to your dispenser to dismantle it.
+</target>
+        <note>GoldSrc identifier: Dispenser_DistDismantle</note>
+      </trans-unit>
+      <trans-unit id="s000518" resname="Build_notenoughmetal">
+        <source xml:space="preserve">You don't have enough metal.
+</source>
+        <target state="needs-translation">You don't have enough metal.
+</target>
+        <note>GoldSrc identifier: Build_notenoughmetal</note>
+      </trans-unit>
+      <trans-unit id="s000519" resname="Title_scout">
+        <source xml:space="preserve">Scout
+</source>
+        <target state="needs-translation">Scout
+</target>
+        <note>GoldSrc identifier: Title_scout</note>
+      </trans-unit>
+      <trans-unit id="s000520" resname="Title_sniper">
+        <source xml:space="preserve">Sniper
+</source>
+        <target state="needs-translation">Sniper
+</target>
+        <note>GoldSrc identifier: Title_sniper</note>
+      </trans-unit>
+      <trans-unit id="s000521" resname="Title_soldier">
+        <source xml:space="preserve">Soldier
+</source>
+        <target state="needs-translation">Soldier
+</target>
+        <note>GoldSrc identifier: Title_soldier</note>
+      </trans-unit>
+      <trans-unit id="s000522" resname="Title_demoman">
+        <source xml:space="preserve">Demolitions Man
+</source>
+        <target state="needs-translation">Demolitions Man
+</target>
+        <note>GoldSrc identifier: Title_demoman</note>
+      </trans-unit>
+      <trans-unit id="s000523" resname="Title_medic">
+        <source xml:space="preserve">Combat Medic
+</source>
+        <target state="needs-translation">Combat Medic
+</target>
+        <note>GoldSrc identifier: Title_medic</note>
+      </trans-unit>
+      <trans-unit id="s000524" resname="Title_hwguy">
+        <source xml:space="preserve">Heavy Weapons Guy
+</source>
+        <target state="needs-translation">Heavy Weapons Guy
+</target>
+        <note>GoldSrc identifier: Title_hwguy</note>
+      </trans-unit>
+      <trans-unit id="s000525" resname="Title_pyro">
+        <source xml:space="preserve">Pyro
+</source>
+        <target state="needs-translation">Pyro
+</target>
+        <note>GoldSrc identifier: Title_pyro</note>
+      </trans-unit>
+      <trans-unit id="s000526" resname="Title_spy">
+        <source xml:space="preserve">Spy
+</source>
+        <target state="needs-translation">Spy
+</target>
+        <note>GoldSrc identifier: Title_spy</note>
+      </trans-unit>
+      <trans-unit id="s000527" resname="Title_engineer">
+        <source xml:space="preserve">Engineer
+</source>
+        <target state="needs-translation">Engineer
+</target>
+        <note>GoldSrc identifier: Title_engineer</note>
+      </trans-unit>
+      <trans-unit id="s000528" resname="Title_randompc">
+        <source xml:space="preserve">Random
+</source>
+        <target state="needs-translation">Random
+</target>
+        <note>GoldSrc identifier: Title_randompc</note>
+      </trans-unit>
+      <trans-unit id="s000529" resname="Title_civilian">
+        <source xml:space="preserve">Civilian
+</source>
+        <target state="needs-translation">Civilian
+</target>
+        <note>GoldSrc identifier: Title_civilian</note>
+      </trans-unit>
+      <trans-unit id="s000530" resname="Title_SelectYourTeam">
+        <source xml:space="preserve">SELECT YOUR TEAM
+</source>
+        <target state="needs-translation">SELECT YOUR TEAM
+</target>
+        <note>GoldSrc identifier: Title_SelectYourTeam</note>
+      </trans-unit>
+      <trans-unit id="s000531" resname="Title_SelectYourClass">
+        <source xml:space="preserve">SELECT YOUR CLASS
+</source>
+        <target state="needs-translation">SELECT YOUR CLASS
+</target>
+        <note>GoldSrc identifier: Title_SelectYourClass</note>
+      </trans-unit>
+      <trans-unit id="s000532" resname="Title_CurrentlyOnYourTeam">
+        <source xml:space="preserve">There are %d on your team
+</source>
+        <target state="needs-translation">There are %d on your team
+</target>
+        <note>GoldSrc identifier: Title_CurrentlyOnYourTeam</note>
+      </trans-unit>
+      <trans-unit id="s000533" resname="Team_Blue">
+        <source xml:space="preserve">BLUE
+</source>
+        <target state="needs-translation">BLUE
+</target>
+        <note>GoldSrc identifier: Team_Blue</note>
+      </trans-unit>
+      <trans-unit id="s000534" resname="Team_Red">
+        <source xml:space="preserve">RED
+</source>
+        <target state="needs-translation">RED
+</target>
+        <note>GoldSrc identifier: Team_Red</note>
+      </trans-unit>
+      <trans-unit id="s000535" resname="Team_Green">
+        <source xml:space="preserve">GREEN
+</source>
+        <target state="needs-translation">GREEN
+</target>
+        <note>GoldSrc identifier: Team_Green</note>
+      </trans-unit>
+      <trans-unit id="s000536" resname="Team_Yellow">
+        <source xml:space="preserve">YELLOW
+</source>
+        <target state="needs-translation">YELLOW
+</target>
+        <note>GoldSrc identifier: Team_Yellow</note>
+      </trans-unit>
+      <trans-unit id="s000537" resname="Team_AutoAssign">
+        <source xml:space="preserve">AUTO ASSIGN
+</source>
+        <target state="needs-translation">AUTO ASSIGN
+</target>
+        <note>GoldSrc identifier: Team_AutoAssign</note>
+      </trans-unit>
+      <trans-unit id="s000538" resname="Hunted_team1">
+        <source xml:space="preserve">The Hunted
+</source>
+        <target state="needs-translation">The Hunted
+</target>
+        <note>GoldSrc identifier: Hunted_team1</note>
+      </trans-unit>
+      <trans-unit id="s000539" resname="Hunted_team2">
+        <source xml:space="preserve">Bodyguards
+</source>
+        <target state="needs-translation">Bodyguards
+</target>
+        <note>GoldSrc identifier: Hunted_team2</note>
+      </trans-unit>
+      <trans-unit id="s000540" resname="Hunted_team3">
+        <source xml:space="preserve">Assassins
+</source>
+        <target state="needs-translation">Assassins
+</target>
+        <note>GoldSrc identifier: Hunted_team3</note>
+      </trans-unit>
+      <trans-unit id="s000541" resname="Dustbowl_team1">
+        <source xml:space="preserve">Attackers
+</source>
+        <target state="needs-translation">Attackers
+</target>
+        <note>GoldSrc identifier: Dustbowl_team1</note>
+      </trans-unit>
+      <trans-unit id="s000542" resname="Dustbowl_team2">
+        <source xml:space="preserve">Defenders
+</source>
+        <target state="needs-translation">Defenders
+</target>
+        <note>GoldSrc identifier: Dustbowl_team2</note>
+      </trans-unit>
+      <trans-unit id="s000543" resname="Disguise_AsAFriendly">
+        <source xml:space="preserve">AS A FRIENDLY
+</source>
+        <target state="needs-translation">AS A FRIENDLY
+</target>
+        <note>GoldSrc identifier: Disguise_AsAFriendly</note>
+      </trans-unit>
+      <trans-unit id="s000544" resname="Disguise_AsAnEnemy">
+        <source xml:space="preserve">AS AN ENEMY
+</source>
+        <target state="needs-translation">AS AN ENEMY
+</target>
+        <note>GoldSrc identifier: Disguise_AsAnEnemy</note>
+      </trans-unit>
+      <trans-unit id="s000545" resname="DetpackSet_For5Seconds">
+        <source xml:space="preserve">FOR 5 SECONDS
+</source>
+        <target state="needs-translation">FOR 5 SECONDS
+</target>
+        <note>GoldSrc identifier: DetpackSet_For5Seconds</note>
+      </trans-unit>
+      <trans-unit id="s000546" resname="DetpackSet_For20Seconds">
+        <source xml:space="preserve">FOR 20 SECONDS
+</source>
+        <target state="needs-translation">FOR 20 SECONDS
+</target>
+        <note>GoldSrc identifier: DetpackSet_For20Seconds</note>
+      </trans-unit>
+      <trans-unit id="s000547" resname="DetpackSet_For50Seconds">
+        <source xml:space="preserve">FOR 50 SECONDS
+</source>
+        <target state="needs-translation">FOR 50 SECONDS
+</target>
+        <note>GoldSrc identifier: DetpackSet_For50Seconds</note>
+      </trans-unit>
+      <trans-unit id="s000548" resname="Build_Dispenser">
+        <source xml:space="preserve">DISPENSER
+</source>
+        <target state="needs-translation">DISPENSER
+</target>
+        <note>GoldSrc identifier: Build_Dispenser</note>
+      </trans-unit>
+      <trans-unit id="s000549" resname="Build_Rotate45">
+        <source xml:space="preserve">ROTATE 45 DEGREES
+</source>
+        <target state="needs-translation">ROTATE 45 DEGREES
+</target>
+        <note>GoldSrc identifier: Build_Rotate45</note>
+      </trans-unit>
+      <trans-unit id="s000550" resname="Build_SentryGun">
+        <source xml:space="preserve">SENTRY GUN
+</source>
+        <target state="needs-translation">SENTRY GUN
+</target>
+        <note>GoldSrc identifier: Build_SentryGun</note>
+      </trans-unit>
+      <trans-unit id="s000551" resname="Build_Dismantle">
+        <source xml:space="preserve">DISMANTLE
+</source>
+        <target state="needs-translation">DISMANTLE
+</target>
+        <note>GoldSrc identifier: Build_Dismantle</note>
+      </trans-unit>
+      <trans-unit id="s000552" resname="Build_Detonate">
+        <source xml:space="preserve">DETONATE
+</source>
+        <target state="needs-translation">DETONATE
+</target>
+        <note>GoldSrc identifier: Build_Detonate</note>
+      </trans-unit>
+      <trans-unit id="s000553" resname="Build_Rotate180">
+        <source xml:space="preserve">ROTATE 180 DEGREES
+</source>
+        <target state="needs-translation">ROTATE 180 DEGREES
+</target>
+        <note>GoldSrc identifier: Build_Rotate180</note>
+      </trans-unit>
+      <trans-unit id="s000554" resname="Menu_OK">
+        <source xml:space="preserve">OK
+</source>
+        <target state="needs-translation">OK
+</target>
+        <note>GoldSrc identifier: Menu_OK</note>
+      </trans-unit>
+      <trans-unit id="s000555" resname="Menu_Cancel">
+        <source xml:space="preserve">CANCEL
+</source>
+        <target state="needs-translation">CANCEL
+</target>
+        <note>GoldSrc identifier: Menu_Cancel</note>
+      </trans-unit>
+      <trans-unit id="s000556" resname="Menu_Spectate">
+        <source xml:space="preserve">SPECTATE
+</source>
+        <target state="needs-translation">SPECTATE
+</target>
+        <note>GoldSrc identifier: Menu_Spectate</note>
+      </trans-unit>
+      <trans-unit id="s000557" resname="Spec_Mode_Inset0">
+        <source xml:space="preserve">Inset Window Off
+</source>
+        <target state="needs-translation">Inset Window Off
+</target>
+        <note>GoldSrc identifier: Spec_Mode_Inset0</note>
+      </trans-unit>
+      <trans-unit id="s000558" resname="Spec_Mode_Inset1">
+        <source xml:space="preserve">Inset Chase-Camera Mode
+</source>
+        <target state="needs-translation">Inset Chase-Camera Mode
+</target>
+        <note>GoldSrc identifier: Spec_Mode_Inset1</note>
+      </trans-unit>
+      <trans-unit id="s000559" resname="Spec_Mode_Inset2">
+        <source xml:space="preserve">Inset First Person Mode
+</source>
+        <target state="needs-translation">Inset First Person Mode
+</target>
+        <note>GoldSrc identifier: Spec_Mode_Inset2</note>
+      </trans-unit>
+      <trans-unit id="s000560" resname="Spec_Mode_Inset3">
+        <source xml:space="preserve">Inset Map Mode
+</source>
+        <target state="needs-translation">Inset Map Mode
+</target>
+        <note>GoldSrc identifier: Spec_Mode_Inset3</note>
+      </trans-unit>
+      <trans-unit id="s000561" resname="Spec_Mode1">
+        <source xml:space="preserve">Locked Chase-Camera
+</source>
+        <target state="needs-translation">Locked Chase-Camera
+</target>
+        <note>GoldSrc identifier: Spec_Mode1</note>
+      </trans-unit>
+      <trans-unit id="s000562" resname="Spec_Mode2">
+        <source xml:space="preserve">Free Chase-Camera
+</source>
+        <target state="needs-translation">Free Chase-Camera
+</target>
+        <note>GoldSrc identifier: Spec_Mode2</note>
+      </trans-unit>
+      <trans-unit id="s000563" resname="Spec_Mode3">
+        <source xml:space="preserve">Free-Look
+</source>
+        <target state="needs-translation">Free-Look
+</target>
+        <note>GoldSrc identifier: Spec_Mode3</note>
+      </trans-unit>
+      <trans-unit id="s000564" resname="Spec_Mode4">
+        <source xml:space="preserve">First Person
+</source>
+        <target state="needs-translation">First Person
+</target>
+        <note>GoldSrc identifier: Spec_Mode4</note>
+      </trans-unit>
+      <trans-unit id="s000565" resname="Spec_Mode5">
+        <source xml:space="preserve">Free Map Overview
+</source>
+        <target state="needs-translation">Free Map Overview
+</target>
+        <note>GoldSrc identifier: Spec_Mode5</note>
+      </trans-unit>
+      <trans-unit id="s000566" resname="Spec_Mode6">
+        <source xml:space="preserve">Chase Map Overview
+</source>
+        <target state="needs-translation">Chase Map Overview
+</target>
+        <note>GoldSrc identifier: Spec_Mode6</note>
+      </trans-unit>
+      <trans-unit id="s000567" resname="Spec_NoTarget">
+        <source xml:space="preserve">No valid targets. Cannot switch to Chase-Camera Mode.
+</source>
+        <target state="needs-translation">No valid targets. Cannot switch to Chase-Camera Mode.
+</target>
+        <note>GoldSrc identifier: Spec_NoTarget</note>
+      </trans-unit>
+      <trans-unit id="s000568" resname="Spec_Help">
+        <source xml:space="preserve">ENTER to Play  FIRE for Next Target  ALT-FIRE for Prev Target  JUMP to Change Modes
+</source>
+        <target state="needs-translation">ENTER to Play  FIRE for Next Target  ALT-FIRE for Prev Target  JUMP to Change Modes
+</target>
+        <note>GoldSrc identifier: Spec_Help</note>
+      </trans-unit>
+      <trans-unit id="s000569" resname="Spec_Help_Title">
+        <source xml:space="preserve">Spectator Mode
+</source>
+        <target state="needs-translation">Spectator Mode
+</target>
+        <note>GoldSrc identifier: Spec_Help_Title</note>
+      </trans-unit>
+      <trans-unit id="s000570" resname="Spec_Help_Text">
+        <source xml:space="preserve">Use the following keys to change view styles:
+
+ FIRE1 - Chase next player
+ FIRE2 - Chase previous player
+ JUMP - Change view modes
+ USE - Change inset window mode
+ 
+ DUCK  - Enable spectator menu
+  
+In Overview Map Mode move around with:
+
+ MOVELEFT - move left
+ MOVERIGHT - move right
+ FORWARD - zoom in
+ BACK - zoom out
+ MOUSE - rotate around map/target
+</source>
+        <target state="needs-translation">Use the following keys to change view styles:
+
+ FIRE1 - Chase next player
+ FIRE2 - Chase previous player
+ JUMP - Change view modes
+ USE - Change inset window mode
+ 
+ DUCK  - Enable spectator menu
+  
+In Overview Map Mode move around with:
+
+ MOVELEFT - move left
+ MOVERIGHT - move right
+ FORWARD - zoom in
+ BACK - zoom out
+ MOUSE - rotate around map/target
+</target>
+        <note>GoldSrc identifier: Spec_Help_Text</note>
+      </trans-unit>
+      <trans-unit id="s000571" resname="Spec_Slow_Motion">
+        <source xml:space="preserve">Slow Motion
+</source>
+        <target state="needs-translation">Slow Motion
+</target>
+        <note>GoldSrc identifier: Spec_Slow_Motion</note>
+      </trans-unit>
+      <trans-unit id="s000572" resname="Spec_Replay">
+        <source xml:space="preserve">Instant Replay
+</source>
+        <target state="needs-translation">Instant Replay
+</target>
+        <note>GoldSrc identifier: Spec_Replay</note>
+      </trans-unit>
+      <trans-unit id="s000573" resname="Spec_Auto">
+        <source xml:space="preserve">Auto
+</source>
+        <target state="needs-translation">Auto
+</target>
+        <note>GoldSrc identifier: Spec_Auto</note>
+      </trans-unit>
+      <trans-unit id="s000574" resname="Spec_Time">
+        <source xml:space="preserve">Time
+</source>
+        <target state="needs-translation">Time
+</target>
+        <note>GoldSrc identifier: Spec_Time</note>
+      </trans-unit>
+      <trans-unit id="s000575" resname="Spec_Map">
+        <source xml:space="preserve">Map
+</source>
+        <target state="needs-translation">Map
+</target>
+        <note>GoldSrc identifier: Spec_Map</note>
+      </trans-unit>
+      <trans-unit id="s000576" resname="Spectators">
+        <source xml:space="preserve">Spectators
+</source>
+        <target state="needs-translation">Spectators
+</target>
+        <note>GoldSrc identifier: Spectators</note>
+      </trans-unit>
+      <trans-unit id="s000577" resname="Unassigned">
+        <source xml:space="preserve">Unassigned
+</source>
+        <target state="needs-translation">Unassigned
+</target>
+        <note>GoldSrc identifier: Unassigned</note>
+      </trans-unit>
+      <trans-unit id="s000578" resname="TEAMS">
+        <source xml:space="preserve">TEAMS
+</source>
+        <target state="needs-translation">TEAMS
+</target>
+        <note>GoldSrc identifier: TEAMS</note>
+      </trans-unit>
+      <trans-unit id="s000579" resname="PLAYERS">
+        <source xml:space="preserve">PLAYERS
+</source>
+        <target state="needs-translation">PLAYERS
+</target>
+        <note>GoldSrc identifier: PLAYERS</note>
+      </trans-unit>
+      <trans-unit id="s000580" resname="CLASS">
+        <source xml:space="preserve">CLASS
+</source>
+        <target state="needs-translation">CLASS
+</target>
+        <note>GoldSrc identifier: CLASS</note>
+      </trans-unit>
+      <trans-unit id="s000581" resname="SCORE">
+        <source xml:space="preserve">SCORE
+</source>
+        <target state="needs-translation">SCORE
+</target>
+        <note>GoldSrc identifier: SCORE</note>
+      </trans-unit>
+      <trans-unit id="s000582" resname="DEATHS">
+        <source xml:space="preserve">DEATHS
+</source>
+        <target state="needs-translation">DEATHS
+</target>
+        <note>GoldSrc identifier: DEATHS</note>
+      </trans-unit>
+      <trans-unit id="s000583" resname="LATENCY">
+        <source xml:space="preserve">LATENCY
+</source>
+        <target state="needs-translation">LATENCY
+</target>
+        <note>GoldSrc identifier: LATENCY</note>
+      </trans-unit>
+      <trans-unit id="s000584" resname="VOICE">
+        <source xml:space="preserve">VOICE
+</source>
+        <target state="needs-translation">VOICE
+</target>
+        <note>GoldSrc identifier: VOICE</note>
+      </trans-unit>
+      <trans-unit id="s000585" resname="Disguise_Lost">
+        <source xml:space="preserve">You've lost your Disguise!
+</source>
+        <target state="needs-translation">You've lost your Disguise!
+</target>
+        <note>GoldSrc identifier: Disguise_Lost</note>
+      </trans-unit>
+      <trans-unit id="s000586" resname="Game_unknown_command">
+        <source xml:space="preserve">Unknown command: %s
+</source>
+        <target state="needs-translation">Unknown command: %s
+</target>
+        <note>GoldSrc identifier: Game_unknown_command</note>
+      </trans-unit>
+      <trans-unit id="s000587" resname="Detpack_blocking_door_destroyed">
+        <source xml:space="preserve">Your detpack was blocking a 
+door and has been removed.
+</source>
+        <target state="needs-translation">Your detpack was blocking a 
+door and has been removed.
+</target>
+        <note>GoldSrc identifier: Detpack_blocking_door_destroyed</note>
+      </trans-unit>
+      <trans-unit id="s000588" resname="Mic_Volume">
+        <source xml:space="preserve">Mic Volume
+</source>
+        <target state="needs-translation">Mic Volume
+</target>
+        <note>GoldSrc identifier: Mic_Volume</note>
+      </trans-unit>
+      <trans-unit id="s000589" resname="Speaker_Volume">
+        <source xml:space="preserve">Speaker Volume
+</source>
+        <target state="needs-translation">Speaker Volume
+</target>
+        <note>GoldSrc identifier: Speaker_Volume</note>
+      </trans-unit>
+      <trans-unit id="s000590" resname="Voice_Properties">
+        <source xml:space="preserve">Voice Properties
+</source>
+        <target state="needs-translation">Voice Properties
+</target>
+        <note>GoldSrc identifier: Voice_Properties</note>
+      </trans-unit>
+      <trans-unit id="s000591" resname="Map_Description_not_available">
+        <source xml:space="preserve">Map Description not available.
+</source>
+        <target state="needs-translation">Map Description not available.
+</target>
+        <note>GoldSrc identifier: Map_Description_not_available</note>
+      </trans-unit>
+      <trans-unit id="s000592" resname="Player">
+        <source xml:space="preserve">player
+</source>
+        <target state="needs-translation">player
+</target>
+        <note>GoldSrc identifier: Player</note>
+      </trans-unit>
+      <trans-unit id="s000593" resname="Player_plural">
+        <source xml:space="preserve">players
+</source>
+        <target state="needs-translation">players
+</target>
+        <note>GoldSrc identifier: Player_plural</note>
+      </trans-unit>
+      <trans-unit id="s000594" resname="Muted">
+        <source xml:space="preserve">You have muted %s.
+</source>
+        <target state="needs-translation">You have muted %s.
+</target>
+        <note>GoldSrc identifier: Muted</note>
+      </trans-unit>
+      <trans-unit id="s000595" resname="Unmuted">
+        <source xml:space="preserve">You have unmuted %s.
+</source>
+        <target state="needs-translation">You have unmuted %s.
+</target>
+        <note>GoldSrc identifier: Unmuted</note>
+      </trans-unit>
+      <trans-unit id="s000596" resname="No_longer_hear_that_player">
+        <source xml:space="preserve">You will no longer hear that player speak.
+</source>
+        <target state="needs-translation">You will no longer hear that player speak.
+</target>
+        <note>GoldSrc identifier: No_longer_hear_that_player</note>
+      </trans-unit>
+      <trans-unit id="s000597" resname="OBS_NONE">
+        <source xml:space="preserve">Camera Options
+</source>
+        <target state="needs-translation">Camera Options
+</target>
+        <note>GoldSrc identifier: OBS_NONE</note>
+      </trans-unit>
+      <trans-unit id="s000598" resname="OBS_CHASE_LOCKED">
+        <source xml:space="preserve">Locked Chase-Cam
+</source>
+        <target state="needs-translation">Locked Chase-Cam
+</target>
+        <note>GoldSrc identifier: OBS_CHASE_LOCKED</note>
+      </trans-unit>
+      <trans-unit id="s000599" resname="OBS_CHASE_FREE">
+        <source xml:space="preserve">Free Chase-Cam
+</source>
+        <target state="needs-translation">Free Chase-Cam
+</target>
+        <note>GoldSrc identifier: OBS_CHASE_FREE</note>
+      </trans-unit>
+      <trans-unit id="s000600" resname="OBS_ROAMING">
+        <source xml:space="preserve">Roaming
+</source>
+        <target state="needs-translation">Roaming
+</target>
+        <note>GoldSrc identifier: OBS_ROAMING</note>
+      </trans-unit>
+      <trans-unit id="s000601" resname="OBS_IN_EYE">
+        <source xml:space="preserve">First Person
+</source>
+        <target state="needs-translation">First Person
+</target>
+        <note>GoldSrc identifier: OBS_IN_EYE</note>
+      </trans-unit>
+      <trans-unit id="s000602" resname="OBS_MAP_FREE">
+        <source xml:space="preserve">Free Overview
+</source>
+        <target state="needs-translation">Free Overview
+</target>
+        <note>GoldSrc identifier: OBS_MAP_FREE</note>
+      </trans-unit>
+      <trans-unit id="s000603" resname="OBS_MAP_CHASE">
+        <source xml:space="preserve">Chase-Cam Overview
+</source>
+        <target state="needs-translation">Chase-Cam Overview
+</target>
+        <note>GoldSrc identifier: OBS_MAP_CHASE</note>
+      </trans-unit>
+      <trans-unit id="s000604" resname="SPECT_OPTIONS">
+        <source xml:space="preserve">Options
+</source>
+        <target state="needs-translation">Options
+</target>
+        <note>GoldSrc identifier: SPECT_OPTIONS</note>
+      </trans-unit>
+      <trans-unit id="s000605" resname="CAM_OPTIONS">
+        <source xml:space="preserve">Camera Options
+</source>
+        <target state="needs-translation">Camera Options
+</target>
+        <note>GoldSrc identifier: CAM_OPTIONS</note>
+      </trans-unit>
+      <trans-unit id="s000606" resname="Spec_Duck">
+        <source xml:space="preserve">Press DUCK for Spectator Menu
+</source>
+        <target state="needs-translation">Press DUCK for Spectator Menu
+</target>
+        <note>GoldSrc identifier: Spec_Duck</note>
+      </trans-unit>
+      <trans-unit id="s000607" resname="Game_no_timelimit">
+        <source xml:space="preserve">* No Time Limit *
+</source>
+        <target state="needs-translation">* No Time Limit *
+</target>
+        <note>GoldSrc identifier: Game_no_timelimit</note>
+      </trans-unit>
+      <trans-unit id="s000608" resname="Game_timelimit">
+        <source xml:space="preserve">Time Remaining:  %s:%.2s
+</source>
+        <target state="needs-translation">Time Remaining:  %s:%.2s
+</target>
+        <note>GoldSrc identifier: Game_timelimit</note>
+      </trans-unit>
+      <trans-unit id="s000609" resname="Teleporter_Entrance_Destroyed">
+        <source xml:space="preserve">Your teleporter entrance was destroyed.
+</source>
+        <target state="needs-translation">Your teleporter entrance was destroyed.
+</target>
+        <note>GoldSrc identifier: Teleporter_Entrance_Destroyed</note>
+      </trans-unit>
+      <trans-unit id="s000610" resname="Teleporter_Exit_Destroyed">
+        <source xml:space="preserve">Your teleporter exit was destroyed.
+</source>
+        <target state="needs-translation">Your teleporter exit was destroyed.
+</target>
+        <note>GoldSrc identifier: Teleporter_Exit_Destroyed</note>
+      </trans-unit>
+      <trans-unit id="s000611" resname="Teleporter_Entrance_Finished">
+        <source xml:space="preserve">You finish building the teleporter entrance.
+</source>
+        <target state="needs-translation">You finish building the teleporter entrance.
+</target>
+        <note>GoldSrc identifier: Teleporter_Entrance_Finished</note>
+      </trans-unit>
+      <trans-unit id="s000612" resname="Teleporter_Entrance_Built">
+        <source xml:space="preserve">%s has built
+a teleporter entrance.
+</source>
+        <target state="needs-translation">%s has built
+a teleporter entrance.
+</target>
+        <note>GoldSrc identifier: Teleporter_Entrance_Built</note>
+      </trans-unit>
+      <trans-unit id="s000613" resname="Teleporter_Exit_Finished">
+        <source xml:space="preserve">You finish building the teleporter exit.
+</source>
+        <target state="needs-translation">You finish building the teleporter exit.
+</target>
+        <note>GoldSrc identifier: Teleporter_Exit_Finished</note>
+      </trans-unit>
+      <trans-unit id="s000614" resname="Teleporter_Exit_Built">
+        <source xml:space="preserve">%s has built
+a teleporter exit.
+</source>
+        <target state="needs-translation">%s has built
+a teleporter exit.
+</target>
+        <note>GoldSrc identifier: Teleporter_Exit_Built</note>
+      </trans-unit>
+      <trans-unit id="s000615" resname="Teleporter_entrance_enemy_use">
+        <source xml:space="preserve">Enemies are near your
+teleporter entrance!
+</source>
+        <target state="needs-translation">Enemies are near your
+teleporter entrance!
+</target>
+        <note>GoldSrc identifier: Teleporter_entrance_enemy_use</note>
+      </trans-unit>
+      <trans-unit id="s000616" resname="Teleporter_exit_enemy_use">
+        <source xml:space="preserve">Enemies are near your
+teleporter exit!
+</source>
+        <target state="needs-translation">Enemies are near your
+teleporter exit!
+</target>
+        <note>GoldSrc identifier: Teleporter_exit_enemy_use</note>
+      </trans-unit>
+      <trans-unit id="s000617" resname="Teleporter_carrying_goal">
+        <source xml:space="preserve">You cannot teleport while 
+carrying the %s!
+</source>
+        <target state="needs-translation">You cannot teleport while 
+carrying the %s!
+</target>
+        <note>GoldSrc identifier: Teleporter_carrying_goal</note>
+      </trans-unit>
+      <trans-unit id="s000618" resname="Teleporter_Entrance_Repaired">
+        <source xml:space="preserve">You repair your
+teleporter entrance.
+</source>
+        <target state="needs-translation">You repair your
+teleporter entrance.
+</target>
+        <note>GoldSrc identifier: Teleporter_Entrance_Repaired</note>
+      </trans-unit>
+      <trans-unit id="s000619" resname="Teleporter_Exit_Repaired">
+        <source xml:space="preserve">You repair your
+teleporter exit.
+</source>
+        <target state="needs-translation">You repair your
+teleporter exit.
+</target>
+        <note>GoldSrc identifier: Teleporter_Exit_Repaired</note>
+      </trans-unit>
+      <trans-unit id="s000620" resname="Teleporter_entry_sbar">
+        <source xml:space="preserve">Entrance health:
+</source>
+        <target state="needs-translation">Entrance health:
+</target>
+        <note>GoldSrc identifier: Teleporter_entry_sbar</note>
+      </trans-unit>
+      <trans-unit id="s000621" resname="Teleporter_exit_sbar">
+        <source xml:space="preserve">Exit health:
+</source>
+        <target state="needs-translation">Exit health:
+</target>
+        <note>GoldSrc identifier: Teleporter_exit_sbar</note>
+      </trans-unit>
+      <trans-unit id="s000622" resname="Teleporter_entrance_dismantle">
+        <source xml:space="preserve">You dismantle the
+teleporter entrance.
+</source>
+        <target state="needs-translation">You dismantle the
+teleporter entrance.
+</target>
+        <note>GoldSrc identifier: Teleporter_entrance_dismantle</note>
+      </trans-unit>
+      <trans-unit id="s000623" resname="Teleporter_exit_dismantle">
+        <source xml:space="preserve">You dismantle the
+teleporter exit.
+</source>
+        <target state="needs-translation">You dismantle the
+teleporter exit.
+</target>
+        <note>GoldSrc identifier: Teleporter_exit_dismantle</note>
+      </trans-unit>
+      <trans-unit id="s000624" resname="Teleporter_DistDismantle">
+        <source xml:space="preserve">You need to be closer to your
+teleporter to dismantle it.
+</source>
+        <target state="needs-translation">You need to be closer to your
+teleporter to dismantle it.
+</target>
+        <note>GoldSrc identifier: Teleporter_DistDismantle</note>
+      </trans-unit>
+      <trans-unit id="s000625" resname="Teleporter_entrance_idle">
+        <source xml:space="preserve">Teleporter entrance is idle.
+There is no teleporter exit.
+</source>
+        <target state="needs-translation">Teleporter entrance is idle.
+There is no teleporter exit.
+</target>
+        <note>GoldSrc identifier: Teleporter_entrance_idle</note>
+      </trans-unit>
+      <trans-unit id="s000626" resname="Teleporter_exit_idle">
+        <source xml:space="preserve">Teleporter exit is idle.
+There is no teleporter entrance.
+</source>
+        <target state="needs-translation">Teleporter exit is idle.
+There is no teleporter entrance.
+</target>
+        <note>GoldSrc identifier: Teleporter_exit_idle</note>
+      </trans-unit>
+      <trans-unit id="s000627" resname="Teleporter_Entrance_Gone_Player_Killed">
+        <source xml:space="preserve">The teleporter entrance was destroyed
+while you were teleporting!
+</source>
+        <target state="needs-translation">The teleporter entrance was destroyed
+while you were teleporting!
+</target>
+        <note>GoldSrc identifier: Teleporter_Entrance_Gone_Player_Killed</note>
+      </trans-unit>
+      <trans-unit id="s000628" resname="Teleporter_Exit_Gone_Player_Killed">
+        <source xml:space="preserve">The teleporter exit was destroyed
+while you were teleporting!
+</source>
+        <target state="needs-translation">The teleporter exit was destroyed
+while you were teleporting!
+</target>
+        <note>GoldSrc identifier: Teleporter_Exit_Gone_Player_Killed</note>
+      </trans-unit>
+      <trans-unit id="s000629" resname="Teleporter_UseDismantle">
+        <source xml:space="preserve">You can't dismantle your teleporter
+while someone is using it!
+</source>
+        <target state="needs-translation">You can't dismantle your teleporter
+while someone is using it!
+</target>
+        <note>GoldSrc identifier: Teleporter_UseDismantle</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
