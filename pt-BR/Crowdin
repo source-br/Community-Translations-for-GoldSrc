@@ -1,31 +1,9 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-<meta charset="UTF-8">
-<title></title>
-<style type="text/css">
-       body {
-            background: #000;
-            margin: 8px;
-            color: #FFB000;
-            font: normal 16px/20px Verdana, Tahoma, sans-serif;
-        }
+Bem-vindo ao Deathmatch Classic
 
-        a {
-            color: #FFF;
-            text-decoration: underline;
-        }
+A rota??o de mapas deste servidor ?:
 
-        a:hover {
-            color: #EEE;
-            text-decoration: none;
-        }
-</style>
-</head>
-<body>
-Você está jogando Counter-Strike v1.6<br>
-Acesse o site oficial do CS em:<br>
-www.counter-strike.net<br>
-<a href="http://www.counter-strike.net">Visite Counter-Strike.net</a>
-</body>
-</html>
+dmc_dm2
+dmc_dm3
+dmc_dm4
+dmc_dm6
+dmc_e1m2
