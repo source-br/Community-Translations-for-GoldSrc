@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="titles.txt" target-language="pt-BR">
+    <body>
+      <trans-unit id="s000001" resname="Menu_OK" approved="yes">
+        <source xml:space="preserve">OK
+</source>
+        <target state="final">OK
+</target>
+        <note>GoldSrc identifier: Menu_OK</note>
+      </trans-unit>
+      <trans-unit id="s000002" resname="Menu_Cancel" approved="yes">
+        <source xml:space="preserve">CANCEL
+</source>
+        <target state="final">CANCELAR
+</target>
+        <note>GoldSrc identifier: Menu_Cancel</note>
+      </trans-unit>
+      <trans-unit id="s000003" resname="Menu_Spectate">
+        <source xml:space="preserve">SPECTATE
+</source>
+        <target state="translated">ASSISTIR
+</target>
+        <note>GoldSrc identifier: Menu_Spectate</note>
+      </trans-unit>
+      <trans-unit id="s000004" resname="Spec_Mode1">
+        <source xml:space="preserve">Locked Chase-Camera Mode
+</source>
+        <target state="translated">Câmera fixa seguindo um jogador
+</target>
+        <note>GoldSrc identifier: Spec_Mode1</note>
+      </trans-unit>
+      <trans-unit id="s000005" resname="Spec_Mode2">
+        <source xml:space="preserve">Free Chase-Camera Mode
+</source>
+        <target state="translated">Câmera livre seguindo um jogador
+</target>
+        <note>GoldSrc identifier: Spec_Mode2</note>
+      </trans-unit>
+      <trans-unit id="s000006" resname="Spec_Mode3">
+        <source xml:space="preserve">Free Roaming Mode
+</source>
+        <target state="translated">Visão livre
+</target>
+        <note>GoldSrc identifier: Spec_Mode3</note>
+      </trans-unit>
+      <trans-unit id="s000007" resname="Spec_Mode4">
+        <source xml:space="preserve">
+</source>
+        <note>GoldSrc identifier: Spec_Mode4</note>
+      </trans-unit>
+      <trans-unit id="s000008" resname="Spec_NoTarget">
+        <source xml:space="preserve">No Valid Targets. Cannot Switch to Chase-Camera Mode.
+</source>
+        <target state="translated">Sem alvos válidos. Não é possível alterar para a câmera de perseguição.
+</target>
+        <note>GoldSrc identifier: Spec_NoTarget</note>
+      </trans-unit>
+      <trans-unit id="s000009" resname="Spectators">
+        <source xml:space="preserve">Spectators
+</source>
+        <target state="translated">Espectadores
+</target>
+        <note>GoldSrc identifier: Spectators</note>
+      </trans-unit>
+      <trans-unit id="s000010" resname="Unassigned">
+        <source xml:space="preserve">Unassigned
+</source>
+        <target state="translated">Não escolhido
+</target>
+        <note>GoldSrc identifier: Unassigned</note>
+      </trans-unit>
+      <trans-unit id="s000011" resname="TEAMS" approved="yes">
+        <source xml:space="preserve">TEAMS
+</source>
+        <target state="final">EQUIPES
+</target>
+        <note>GoldSrc identifier: TEAMS</note>
+      </trans-unit>
+      <trans-unit id="s000012" resname="PLAYERS" approved="yes">
+        <source xml:space="preserve">PLAYERS
+</source>
+        <target state="final">JOGADORES
+</target>
+        <note>GoldSrc identifier: PLAYERS</note>
+      </trans-unit>
+      <trans-unit id="s000013" resname="CLASS" approved="yes">
+        <source xml:space="preserve">CLASS
+</source>
+        <target state="final">CLASSE
+</target>
+        <note>GoldSrc identifier: CLASS</note>
+      </trans-unit>
+      <trans-unit id="s000014" resname="SCORE">
+        <source xml:space="preserve">SCORE
+</source>
+        <target state="translated">PONTUAÇÃO
+</target>
+        <note>GoldSrc identifier: SCORE</note>
+      </trans-unit>
+      <trans-unit id="s000015" resname="DEATHS">
+        <source xml:space="preserve">DEATHS
+</source>
+        <target state="translated">MORTES
+</target>
+        <note>GoldSrc identifier: DEATHS</note>
+      </trans-unit>
+      <trans-unit id="s000016" resname="LATENCY">
+        <source xml:space="preserve">LATENCY
+</source>
+        <target state="translated">LATÊNCIA
+</target>
+        <note>GoldSrc identifier: LATENCY</note>
+      </trans-unit>
+      <trans-unit id="s000017" resname="Versus">
+        <source xml:space="preserve">VS
+</source>
+        <target state="translated">VS
+</target>
+        <note>GoldSrc identifier: Versus</note>
+      </trans-unit>
+      <trans-unit id="s000018" resname="Queue">
+        <source xml:space="preserve">Queue
+</source>
+        <target state="translated">Fila
+</target>
+        <note>GoldSrc identifier: Queue</note>
+      </trans-unit>
+      <trans-unit id="s000019" resname="PLACE">
+        <source xml:space="preserve">QUEUE
+</source>
+        <target state="translated">FILA
+</target>
+        <note>GoldSrc identifier: PLACE</note>
+      </trans-unit>
+      <trans-unit id="s000020" resname="WINS">
+        <source xml:space="preserve">WINS
+</source>
+        <target state="translated">VITÓRIAS
+</target>
+        <note>GoldSrc identifier: WINS</note>
+      </trans-unit>
+      <trans-unit id="s000021" resname="POINTS">
+        <source xml:space="preserve">POINTS
+</source>
+        <target state="translated">PONTOS
+</target>
+        <note>GoldSrc identifier: POINTS</note>
+      </trans-unit>
+      <trans-unit id="s000022" resname="Triple">
+        <source xml:space="preserve">Triple Shot
+</source>
+        <target state="translated">Arremesso triplo
+</target>
+        <note>GoldSrc identifier: Triple</note>
+      </trans-unit>
+      <trans-unit id="s000023" resname="Fast">
+        <source xml:space="preserve">Fast Shot
+</source>
+        <target state="translated">Arremesso rápido
+</target>
+        <note>GoldSrc identifier: Fast</note>
+      </trans-unit>
+      <trans-unit id="s000024" resname="Hard">
+        <source xml:space="preserve">Power Shot
+</source>
+        <target state="translated">Arremesso potente
+</target>
+        <note>GoldSrc identifier: Hard</note>
+      </trans-unit>
+      <trans-unit id="s000025" resname="Freeze">
+        <source xml:space="preserve">Freeze Shot
+</source>
+        <target state="translated">Arremesso congelante
+</target>
+        <note>GoldSrc identifier: Freeze</note>
+      </trans-unit>
+      <trans-unit id="s000026" resname="Spec_Help">
+        <source xml:space="preserve">SPACE for Next Target  CTRL for Prev Target  ENTER to Change Modes
+</source>
+        <target state="translated">ESPAÇO para o próximo alvo  CTRL para o alvo anterior  ENTER para alterar os modos
+</target>
+        <note>GoldSrc identifier: Spec_Help</note>
+      </trans-unit>
+      <trans-unit id="s000027" resname="Spec_Help2">
+        <source xml:space="preserve">You will automatically be placed in the game when it's your turn to play
+</source>
+        <target state="translated">Você será automaticamente colocado no jogo quando for sua vez de jogar
+</target>
+        <note>GoldSrc identifier: Spec_Help2</note>
+      </trans-unit>
+      <trans-unit id="s000028" resname="Hit_Direct">
+        <source xml:space="preserve">Direct Hit Kill! 1 Point!
+</source>
+        <target state="translated">Ataque crítico! 1 ponto!
+</target>
+        <note>GoldSrc identifier: Hit_Direct</note>
+      </trans-unit>
+      <trans-unit id="s000029" resname="Hit_One">
+        <source xml:space="preserve">Single Rebound Kill! 2 Points!
+</source>
+        <target state="translated">Ricocheteada mortal! 2 pontos!
+</target>
+        <note>GoldSrc identifier: Hit_One</note>
+      </trans-unit>
+      <trans-unit id="s000030" resname="Hit_Two">
+        <source xml:space="preserve">Double Rebound Kill! 3 Points!
+</source>
+        <target state="translated">Ricocheteada mortal dupla! 3 pontos!
+</target>
+        <note>GoldSrc identifier: Hit_Two</note>
+      </trans-unit>
+      <trans-unit id="s000031" resname="Hit_Three">
+        <source xml:space="preserve">Triple Rebound Kill! 4 Points!
+</source>
+        <target state="translated">Ricocheteada mortal tripla! 4 pontos!
+</target>
+        <note>GoldSrc identifier: Hit_Three</note>
+      </trans-unit>
+      <trans-unit id="s000032" resname="Hit_Decap">
+        <source xml:space="preserve">Decapitation! 1 Point!
+</source>
+        <target state="translated">Decapitação! 1 ponto!
+</target>
+        <note>GoldSrc identifier: Hit_Decap</note>
+      </trans-unit>
+      <trans-unit id="s000033" resname="Hit_Multiple">
+        <source xml:space="preserve">Multiple Kill Disc! 5 Points!
+</source>
+        <target state="translated">Disco de múltiplas mortes! 5 pontos!
+</target>
+        <note>GoldSrc identifier: Hit_Multiple</note>
+      </trans-unit>
+      <trans-unit id="s000034" resname="Hit_Tele">
+        <source xml:space="preserve">Teleport Bonus! 1 Point!
+</source>
+        <target state="translated">Teleporte bônus! 1 ponto!
+</target>
+        <note>GoldSrc identifier: Hit_Tele</note>
+      </trans-unit>
+      <trans-unit id="s000035" resname="Time_Warning">
+        <source xml:space="preserve">10 Seconds till round ends!
+</source>
+        <target state="translated">Faltam 10 segundos para o fim da rodada!
+</target>
+        <note>GoldSrc identifier: Time_Warning</note>
+      </trans-unit>
+      <trans-unit id="s000036" resname="Time_Over">
+        <source xml:space="preserve">Time limit reached.
+</source>
+        <target state="translated">Tempo limite atingido.
+</target>
+        <note>GoldSrc identifier: Time_Over</note>
+      </trans-unit>
+      <trans-unit id="s000037" resname="Opponent">
+        <source xml:space="preserve">Opponent: %s
+Wins: %d  Points: %d
+</source>
+        <target state="translated">Adversário: %s
+Vitórias: %d  Pontos: %d
+</target>
+        <note>GoldSrc identifier: Opponent</note>
+      </trans-unit>
+      <trans-unit id="s000038" resname="Game_connected">
+        <source xml:space="preserve">%s connected
+</source>
+        <target state="translated">%s conectou-se
+</target>
+        <note>GoldSrc identifier: Game_connected</note>
+      </trans-unit>
+      <trans-unit id="s000039" resname="Game_disconnected">
+        <source xml:space="preserve">%s has left the game
+</source>
+        <target state="translated">%s saiu da partida
+</target>
+        <note>GoldSrc identifier: Game_disconnected</note>
+      </trans-unit>
+      <trans-unit id="s000040" resname="Game_unknown_command">
+        <source xml:space="preserve">Unknown command: %s
+</source>
+        <target state="translated">Comando desconhecido: %s
+</target>
+        <note>GoldSrc identifier: Game_unknown_command</note>
+      </trans-unit>
+      <trans-unit id="s000041" resname="Player" approved="yes">
+        <source xml:space="preserve">player
+</source>
+        <target state="final">jogador
+</target>
+        <note>GoldSrc identifier: Player</note>
+      </trans-unit>
+      <trans-unit id="s000042" resname="Player_plural" approved="yes">
+        <source xml:space="preserve">players
+</source>
+        <target state="final">jogadores
+</target>
+        <note>GoldSrc identifier: Player_plural</note>
+      </trans-unit>
+      <trans-unit id="s000043" resname="VOICE" approved="yes">
+        <source xml:space="preserve">VOICE
+</source>
+        <target state="final">VOZ
+</target>
+        <note>GoldSrc identifier: VOICE</note>
+      </trans-unit>
+      <trans-unit id="s000044" resname="Muted">
+        <source xml:space="preserve">You have muted %s.
+</source>
+        <target state="translated">Você desativou a voz de %s.
+</target>
+        <note>GoldSrc identifier: Muted</note>
+      </trans-unit>
+      <trans-unit id="s000045" resname="Unmuted">
+        <source xml:space="preserve">You have unmuted %s.
+</source>
+        <target state="translated">Você reativou a voz de %s.
+</target>
+        <note>GoldSrc identifier: Unmuted</note>
+      </trans-unit>
+      <trans-unit id="s000046" resname="No_longer_hear_that_player">
+        <source xml:space="preserve">You will no longer hear that player speak.
+</source>
+        <target state="translated">Você não ouvirá mais esse jogador falar.
+</target>
+        <note>GoldSrc identifier: No_longer_hear_that_player</note>
+      </trans-unit>
+      <trans-unit id="s000047" resname="Round_Start_n_Seconds">
+        <source xml:space="preserve">Round %d, Starting in %d seconds...
+</source>
+        <target state="translated">Rodada %d, começando em %d segundo...
+</target>
+        <note>GoldSrc identifier: Round_Start_n_Seconds</note>
+      </trans-unit>
+      <trans-unit id="s000048" resname="Round_Start_1_Second">
+        <source xml:space="preserve">Round %d, Starting in %d second...
+</source>
+        <target state="translated">Rodada %d, começando em %d segundo...
+</target>
+        <note>GoldSrc identifier: Round_Start_1_Second</note>
+      </trans-unit>
+      <trans-unit id="s000049" resname="Round_Won">
+        <source xml:space="preserve">Round %d, Won By:
+</source>
+        <target state="translated">Rodada %d, vencida por:
+</target>
+        <note>GoldSrc identifier: Round_Won</note>
+      </trans-unit>
+      <trans-unit id="s000050" resname="And">
+        <source xml:space="preserve"> and 
+</source>
+        <target state="translated"> e
+</target>
+        <note>GoldSrc identifier: And</note>
+      </trans-unit>
+      <trans-unit id="s000051" resname="Round_Tied">
+        <source xml:space="preserve">Tied at %d
+</source>
+        <target state="translated">Empatado em %d
+</target>
+        <note>GoldSrc identifier: Round_Tied</note>
+      </trans-unit>
+      <trans-unit id="s000052" resname="Round_Leads">
+        <source xml:space="preserve">%s leads %d to %d
+</source>
+        <target state="translated">%s leva %d com %d
+</target>
+        <note>GoldSrc identifier: Round_Leads</note>
+      </trans-unit>
+      <trans-unit id="s000053" resname="Round_Lead">
+        <source xml:space="preserve">%s lead %d to %d
+</source>
+        <target state="translated">%s leva %d com %d
+</target>
+        <note>GoldSrc identifier: Round_Lead</note>
+      </trans-unit>
+      <trans-unit id="s000054" resname="Round_Won_Scores">
+        <source xml:space="preserve">%s won %d to %d
+</source>
+        <target state="translated">%s vence %d com %d
+</target>
+        <note>GoldSrc identifier: Round_Won_Scores</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="titles.txt" target-language="pt-BR">
+    <body>
+      <trans-unit id="s000001" resname="SECRETAREA">
+        <source xml:space="preserve">You Found A Secret Area!
+</source>
+        <target state="translated">Você encontrou uma área secreta!
+</target>
+        <note>GoldSrc identifier: SECRETAREA</note>
+      </trans-unit>
+      <trans-unit id="s000002" resname="Team_Menu_Join">
+        <source xml:space="preserve">Please Select a Team:
+
+1. Red
+2. Blue
+5. Auto-Team
+</source>
+        <target state="needs-translation">Please Select a Team:
+
+1. Red
+2. Blue
+5. Auto-Team
+</target>
+        <note>GoldSrc identifier: Team_Menu_Join</note>
+      </trans-unit>
+      <trans-unit id="s000003" resname="Team_Menu_Join_IG">
+        <source xml:space="preserve">Please Select a Team:
+
+1. Red
+2. Blue
+5. Auto-Team
+
+0. Cancel
+</source>
+        <target state="needs-translation">Please Select a Team:
+
+1. Red
+2. Blue
+5. Auto-Team
+
+0. Cancel
+</target>
+        <note>GoldSrc identifier: Team_Menu_Join_IG</note>
+      </trans-unit>
+      <trans-unit id="s000004" resname="Unassigned">
+        <source xml:space="preserve">Unassigned
+</source>
+        <target state="translated">Não escolhido
+</target>
+        <note>GoldSrc identifier: Unassigned</note>
+      </trans-unit>
+      <trans-unit id="s000005" resname="Spec_Mode_Inset0">
+        <source xml:space="preserve">Inset Window Off
+</source>
+        <target state="needs-translation">Inset Window Off
+</target>
+        <note>GoldSrc identifier: Spec_Mode_Inset0</note>
+      </trans-unit>
+      <trans-unit id="s000006" resname="Spec_Mode_Inset1">
+        <source xml:space="preserve">Inset Window On
+</source>
+        <target state="needs-translation">Inset Window On
+</target>
+        <note>GoldSrc identifier: Spec_Mode_Inset1</note>
+      </trans-unit>
+      <trans-unit id="s000007" resname="Spec_Mode_Inset2">
+        <source xml:space="preserve">Inset Window Wide Screen
+</source>
+        <target state="needs-translation">Inset Window Wide Screen
+</target>
+        <note>GoldSrc identifier: Spec_Mode_Inset2</note>
+      </trans-unit>
+      <trans-unit id="s000008" resname="Spec_Mode_Inset3">
+        <source xml:space="preserve">Inset Window Map
+</source>
+        <target state="needs-translation">Inset Window Map
+</target>
+        <note>GoldSrc identifier: Spec_Mode_Inset3</note>
+      </trans-unit>
+      <trans-unit id="s000009" resname="Spec_Mode_Inset4">
+        <source xml:space="preserve">Inset Window Map Chase
+</source>
+        <target state="needs-translation">Inset Window Map Chase
+</target>
+        <note>GoldSrc identifier: Spec_Mode_Inset4</note>
+      </trans-unit>
+      <trans-unit id="s000010" resname="Spec_Mode1">
+        <source xml:space="preserve">Locked Chase-Camera
+</source>
+        <target state="translated">Câmera fixa seguindo um jogador</target>
+        <note>GoldSrc identifier: Spec_Mode1</note>
+      </trans-unit>
+      <trans-unit id="s000011" resname="Spec_Mode2">
+        <source xml:space="preserve">Free Chase-Camera
+</source>
+        <target state="translated">Câmera livre seguindo um jogador</target>
+        <note>GoldSrc identifier: Spec_Mode2</note>
+      </trans-unit>
+      <trans-unit id="s000012" resname="Spec_Mode3">
+        <source xml:space="preserve">Free Roaming
+</source>
+        <target state="translated">Visão livre
+</target>
+        <note>GoldSrc identifier: Spec_Mode3</note>
+      </trans-unit>
+      <trans-unit id="s000013" resname="Spec_Mode4">
+        <source xml:space="preserve">Directed Mode
+</source>
+        <target state="needs-translation">Directed Mode
+</target>
+        <note>GoldSrc identifier: Spec_Mode4</note>
+      </trans-unit>
+      <trans-unit id="s000014" resname="Spec_Mode5">
+        <source xml:space="preserve">Free Map Mode
+</source>
+        <target state="needs-translation">Free Map Mode
+</target>
+        <note>GoldSrc identifier: Spec_Mode5</note>
+      </trans-unit>
+      <trans-unit id="s000015" resname="Directed">
+        <source xml:space="preserve">Auto
+</source>
+        <target state="translated">Automático
+</target>
+        <note>GoldSrc identifier: Directed</note>
+      </trans-unit>
+      <trans-unit id="s000016" resname="Spec_Mode6">
+        <source xml:space="preserve">Chase Map Mode
+</source>
+        <target state="needs-translation">Chase Map Mode
+</target>
+        <note>GoldSrc identifier: Spec_Mode6</note>
+      </trans-unit>
+      <trans-unit id="s000017" resname="Spec_NoTarget">
+        <source xml:space="preserve">No valid targets. Cannot switch to Chase-Camera Mode.
+</source>
+        <target state="needs-translation">No valid targets. Cannot switch to Chase-Camera Mode.
+</target>
+        <note>GoldSrc identifier: Spec_NoTarget</note>
+      </trans-unit>
+      <trans-unit id="s000018" resname="Spec_Help_Title">
+        <source xml:space="preserve">Spectator Mode
+</source>
+        <target state="translated">Modo espectador
+</target>
+        <note>GoldSrc identifier: Spec_Help_Title</note>
+      </trans-unit>
+      <trans-unit id="s000019" resname="Spec_Help_Text">
+        <source xml:space="preserve">Use the following keys to change view styles:
+
+ FIRE1 - Chase next player
+ FIRE2 - Chase previous player
+ JUMP - Change view modes
+ USE - Change inset window mode
+ 
+ DUCK  - Enable spectator menu
+  
+In Overview Map Mode move around with:
+
+ MOVELEFT - move left
+ MOVERIGHT - move right
+ FORWARD - zoom in
+ BACK - zoom out
+ MOUSE - rotate around map/target
+</source>
+        <target state="translated">Use as seguintes teclas para alterar estilos de visão:
+
+ DISPARO1 - Acompanhar o próximo jogador
+ DISPARO2 - Acompanhar o jogador anterior
+ PULAR - Alternar o modo de visão
+ USAR - Alternar o modo de janela
+ 
+ AGACHAR - Ativa menu de espectador
+ 
+Na visão geral do mapa, movimente-se com:
+
+ MOVERESQ - mover-se para a esquerda
+ MOVERDIR - mover-se para a direita
+ AVANÇAR - aumentar zoom
+ RECUAR - diminuir zoom
+ MOUSE - girar em torno do mapa/alvo
+</target>
+        <note>GoldSrc identifier: Spec_Help_Text</note>
+      </trans-unit>
+      <trans-unit id="s000020" resname="Spec_Help">
+        <source xml:space="preserve">ENTER to Play  FIRE for Next Target  ALT-FIRE for Prev Target  JUMP to Change Modes
+</source>
+        <target state="needs-translation">ENTER to Play  FIRE for Next Target  ALT-FIRE for Prev Target  JUMP to Change Modes
+</target>
+        <note>GoldSrc identifier: Spec_Help</note>
+      </trans-unit>
+      <trans-unit id="s000021" resname="Spec_Only_Help">
+        <source xml:space="preserve">DUCK to Change Inset Mode FIRE for Next Target  ALT-FIRE for Prev Target  JUMP to Change Modes
+</source>
+        <target state="needs-translation">DUCK to Change Inset Mode FIRE for Next Target  ALT-FIRE for Prev Target  JUMP to Change Modes
+</target>
+        <note>GoldSrc identifier: Spec_Only_Help</note>
+      </trans-unit>
+      <trans-unit id="s000022" resname="Spec_Map_Free_Help">
+        <source xml:space="preserve">DUCK to Change Inset Mode  FIRE to Zoom In  ALT-FIRE to Zoom Out  JUMP to Change Modes
+</source>
+        <target state="needs-translation">DUCK to Change Inset Mode  FIRE to Zoom In  ALT-FIRE to Zoom Out  JUMP to Change Modes
+</target>
+        <note>GoldSrc identifier: Spec_Map_Free_Help</note>
+      </trans-unit>
+      <trans-unit id="s000023" resname="Spec_Help2">
+        <source xml:space="preserve">Your text messages can only be seen by other Spectators
+</source>
+        <target state="needs-translation">Your text messages can only be seen by other Spectators
+</target>
+        <note>GoldSrc identifier: Spec_Help2</note>
+      </trans-unit>
+      <trans-unit id="s000024" resname="Spectators" approved="yes">
+        <source xml:space="preserve">Spectators
+</source>
+        <target state="final">Espectadores
+</target>
+        <note>GoldSrc identifier: Spectators</note>
+      </trans-unit>
+      <trans-unit id="s000025" resname="TEAMS" approved="yes">
+        <source xml:space="preserve">TEAMS
+</source>
+        <target state="final">EQUIPES
+</target>
+        <note>GoldSrc identifier: TEAMS</note>
+      </trans-unit>
+      <trans-unit id="s000026" resname="PLAYERS" approved="yes">
+        <source xml:space="preserve">PLAYERS
+</source>
+        <target state="final">JOGADORES
+</target>
+        <note>GoldSrc identifier: PLAYERS</note>
+      </trans-unit>
+      <trans-unit id="s000027" resname="SCORE">
+        <source xml:space="preserve">FRAGS
+</source>
+        <target state="needs-translation">FRAGS
+</target>
+        <note>GoldSrc identifier: SCORE</note>
+      </trans-unit>
+      <trans-unit id="s000028" resname="DEATHS" approved="yes">
+        <source xml:space="preserve">DEATHS
+</source>
+        <target state="final">MORTES
+</target>
+        <note>GoldSrc identifier: DEATHS</note>
+      </trans-unit>
+      <trans-unit id="s000029" resname="LATENCY" approved="yes">
+        <source xml:space="preserve">LATENCY
+</source>
+        <target state="final">LATÊNCIA
+</target>
+        <note>GoldSrc identifier: LATENCY</note>
+      </trans-unit>
+      <trans-unit id="s000030" resname="Menu_OK" approved="yes">
+        <source xml:space="preserve">OK
+</source>
+        <target state="final">OK
+</target>
+        <note>GoldSrc identifier: Menu_OK</note>
+      </trans-unit>
+      <trans-unit id="s000031" resname="Menu_Cancel" approved="yes">
+        <source xml:space="preserve">CANCEL
+</source>
+        <target state="final">CANCELAR
+</target>
+        <note>GoldSrc identifier: Menu_Cancel</note>
+      </trans-unit>
+      <trans-unit id="s000032" resname="Quad_Damage_Off">
+        <source xml:space="preserve">Quad Damage is wearing off
+</source>
+        <target state="needs-translation">Quad Damage is wearing off
+</target>
+        <note>GoldSrc identifier: Quad_Damage_Off</note>
+      </trans-unit>
+      <trans-unit id="s000033" resname="BioSuit_Off">
+        <source xml:space="preserve">Air supply in Biosuit expiring
+</source>
+        <target state="needs-translation">Air supply in Biosuit expiring
+</target>
+        <note>GoldSrc identifier: BioSuit_Off</note>
+      </trans-unit>
+      <trans-unit id="s000034" resname="Ring_Shadows_Off">
+        <source xml:space="preserve">Ring of Shadows magic is fading
+</source>
+        <target state="needs-translation">Ring of Shadows magic is fading
+</target>
+        <note>GoldSrc identifier: Ring_Shadows_Off</note>
+      </trans-unit>
+      <trans-unit id="s000035" resname="Protection_Off">
+        <source xml:space="preserve">Protection is almost burned out
+</source>
+        <target state="needs-translation">Protection is almost burned out
+</target>
+        <note>GoldSrc identifier: Protection_Off</note>
+      </trans-unit>
+      <trans-unit id="s000036" resname="Get_Health">
+        <source xml:space="preserve">You receive %s health
+</source>
+        <target state="needs-translation">You receive %s health
+</target>
+        <note>GoldSrc identifier: Get_Health</note>
+      </trans-unit>
+      <trans-unit id="s000037" resname="Additional_Health">
+        <source xml:space="preserve">10 addition health
+</source>
+        <target state="needs-translation">10 addition health
+</target>
+        <note>GoldSrc identifier: Additional_Health</note>
+      </trans-unit>
+      <trans-unit id="s000038" resname="Bonus_Power">
+        <source xml:space="preserve">%s attains bonus powers!!!
+</source>
+        <target state="needs-translation">%s attains bonus powers!!!
+</target>
+        <note>GoldSrc identifier: Bonus_Power</note>
+      </trans-unit>
+      <trans-unit id="s000039" resname="You_Get_SS">
+        <source xml:space="preserve">You get the Double-barrelled Shotgun, %s shells, %s nails, %s rockets, %s cells. 
+</source>
+        <target state="needs-translation">You get the Double-barrelled Shotgun, %s shells, %s nails, %s rockets, %s cells. 
+</target>
+        <note>GoldSrc identifier: You_Get_SS</note>
+      </trans-unit>
+      <trans-unit id="s000040" resname="You_Get_NG">
+        <source xml:space="preserve">You get the Nailgun, %s shells, %s nails, %s rockets, %s cells. 
+</source>
+        <target state="needs-translation">You get the Nailgun, %s shells, %s nails, %s rockets, %s cells. 
+</target>
+        <note>GoldSrc identifier: You_Get_NG</note>
+      </trans-unit>
+      <trans-unit id="s000041" resname="You_Get_SG">
+        <source xml:space="preserve">You get the Super Nailgun, %s shells, %s nails, %s rockets, %s cells. 
+</source>
+        <target state="needs-translation">You get the Super Nailgun, %s shells, %s nails, %s rockets, %s cells. 
+</target>
+        <note>GoldSrc identifier: You_Get_SG</note>
+      </trans-unit>
+      <trans-unit id="s000042" resname="You_Get_GL">
+        <source xml:space="preserve">You get the Grenade Launcher, %s shells, %s nails, %s rockets, %s cells. 
+</source>
+        <target state="needs-translation">You get the Grenade Launcher, %s shells, %s nails, %s rockets, %s cells. 
+</target>
+        <note>GoldSrc identifier: You_Get_GL</note>
+      </trans-unit>
+      <trans-unit id="s000043" resname="You_Get_RL">
+        <source xml:space="preserve">You get the Rocket Launcher, %s shells, %s nails, %s rockets, %s cells. 
+</source>
+        <target state="needs-translation">You get the Rocket Launcher, %s shells, %s nails, %s rockets, %s cells. 
+</target>
+        <note>GoldSrc identifier: You_Get_RL</note>
+      </trans-unit>
+      <trans-unit id="s000044" resname="You_Get_LG">
+        <source xml:space="preserve">You get the Thunderbolt, %s shells, %s nails, %s rockets, %s cells. 
+</source>
+        <target state="needs-translation">You get the Thunderbolt, %s shells, %s nails, %s rockets, %s cells. 
+</target>
+        <note>GoldSrc identifier: You_Get_LG</note>
+      </trans-unit>
+      <trans-unit id="s000045" resname="You_Get_NoGun">
+        <source xml:space="preserve">You get %s shells, %s nails, %s rockets, %s cells. 
+</source>
+        <target state="needs-translation">You get %s shells, %s nails, %s rockets, %s cells. 
+</target>
+        <note>GoldSrc identifier: You_Get_NoGun</note>
+      </trans-unit>
+      <trans-unit id="s000046" resname="No_Weapon">
+        <source xml:space="preserve">No weapon.
+</source>
+        <target state="needs-translation">No weapon.
+</target>
+        <note>GoldSrc identifier: No_Weapon</note>
+      </trans-unit>
+      <trans-unit id="s000047" resname="No_Ammo">
+        <source xml:space="preserve">Not enough ammo.
+</source>
+        <target state="needs-translation">Not enough ammo.
+</target>
+        <note>GoldSrc identifier: No_Ammo</note>
+      </trans-unit>
+      <trans-unit id="s000048" resname="Mic_Volume">
+        <source xml:space="preserve">Mic Volume
+</source>
+        <target state="needs-translation">Mic Volume
+</target>
+        <note>GoldSrc identifier: Mic_Volume</note>
+      </trans-unit>
+      <trans-unit id="s000049" resname="Speaker_Volume">
+        <source xml:space="preserve">Speaker Volume
+</source>
+        <target state="needs-translation">Speaker Volume
+</target>
+        <note>GoldSrc identifier: Speaker_Volume</note>
+      </trans-unit>
+      <trans-unit id="s000050" resname="Voice_Properties">
+        <source xml:space="preserve">Voice Properties
+</source>
+        <target state="needs-translation">Voice Properties
+</target>
+        <note>GoldSrc identifier: Voice_Properties</note>
+      </trans-unit>
+      <trans-unit id="s000051" resname="VOICE" approved="yes">
+        <source xml:space="preserve">VOICE
+</source>
+        <target state="final">VOZ
+</target>
+        <note>GoldSrc identifier: VOICE</note>
+      </trans-unit>
+      <trans-unit id="s000052" resname="Map_Description_not_available">
+        <source xml:space="preserve">Map Description not available.
+</source>
+        <target state="needs-translation">Map Description not available.
+</target>
+        <note>GoldSrc identifier: Map_Description_not_available</note>
+      </trans-unit>
+      <trans-unit id="s000053" resname="Player">
+        <source xml:space="preserve">player
+</source>
+        <target state="translated">jogador
+</target>
+        <note>GoldSrc identifier: Player</note>
+      </trans-unit>
+      <trans-unit id="s000054" resname="Player_plural">
+        <source xml:space="preserve">players
+</source>
+        <target state="translated">jogadores
+</target>
+        <note>GoldSrc identifier: Player_plural</note>
+      </trans-unit>
+      <trans-unit id="s000055" resname="Muted">
+        <source xml:space="preserve">You have muted %s.
+</source>
+        <target state="needs-translation">You have muted %s.
+</target>
+        <note>GoldSrc identifier: Muted</note>
+      </trans-unit>
+      <trans-unit id="s000056" resname="Unmuted">
+        <source xml:space="preserve">You have unmuted %s.
+</source>
+        <target state="needs-translation">You have unmuted %s.
+</target>
+        <note>GoldSrc identifier: Unmuted</note>
+      </trans-unit>
+      <trans-unit id="s000057" resname="No_longer_hear_that_player">
+        <source xml:space="preserve">You will no longer hear that player speak.
+</source>
+        <target state="needs-translation">You will no longer hear that player speak.
+</target>
+        <note>GoldSrc identifier: No_longer_hear_that_player</note>
+      </trans-unit>
+      <trans-unit id="s000058" resname="Spec_Duck">
+        <source xml:space="preserve">Press DUCK for Spectator Menu
+</source>
+        <target state="translated">Pressione AGACHAR para ver o menu de espectador
+</target>
+        <note>GoldSrc identifier: Spec_Duck</note>
+      </trans-unit>
+      <trans-unit id="s000059" resname="Spec_Auto">
+        <source xml:space="preserve">Auto
+</source>
+        <target state="translated">Automático
+</target>
+        <note>GoldSrc identifier: Spec_Auto</note>
+      </trans-unit>
+      <trans-unit id="s000060" resname="Spec_Slow_Motion">
+        <source xml:space="preserve">Slow Motion
+</source>
+        <target state="translated">Câmera lenta
+</target>
+        <note>GoldSrc identifier: Spec_Slow_Motion</note>
+      </trans-unit>
+      <trans-unit id="s000061" resname="Spec_Replay">
+        <source xml:space="preserve">Instant Replay
+</source>
+        <target state="translated">Replay instantâneo
+</target>
+        <note>GoldSrc identifier: Spec_Replay</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

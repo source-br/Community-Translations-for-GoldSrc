@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="titles.txt" target-language="pt-BR">
+    <body>
+      <trans-unit id="s000001" resname="Menu_Spectate">
+        <source xml:space="preserve">#Menu_Spectate
+</source>
+        <target state="needs-translation">#Menu_Spectate
+</target>
+        <note>GoldSrc identifier: Menu_Spectate</note>
+      </trans-unit>
+      <trans-unit id="s000002" resname="Spec_Mode_Inset0">
+        <source xml:space="preserve">#Spec_Mode_Inset0
+</source>
+        <target state="needs-translation">#Spec_Mode_Inset0
+</target>
+        <note>GoldSrc identifier: Spec_Mode_Inset0</note>
+      </trans-unit>
+      <trans-unit id="s000003" resname="Spec_Mode_Inset1">
+        <source xml:space="preserve">#Spec_Mode_Inset1
+</source>
+        <target state="needs-translation">#Spec_Mode_Inset1
+</target>
+        <note>GoldSrc identifier: Spec_Mode_Inset1</note>
+      </trans-unit>
+      <trans-unit id="s000004" resname="Spec_Mode_Inset2">
+        <source xml:space="preserve">#Spec_Mode_Inset2
+</source>
+        <target state="needs-translation">#Spec_Mode_Inset2
+</target>
+        <note>GoldSrc identifier: Spec_Mode_Inset2</note>
+      </trans-unit>
+      <trans-unit id="s000005" resname="Spec_Mode_Inset3">
+        <source xml:space="preserve">#Spec_Mode_Inset3
+</source>
+        <target state="needs-translation">#Spec_Mode_Inset3
+</target>
+        <note>GoldSrc identifier: Spec_Mode_Inset3</note>
+      </trans-unit>
+      <trans-unit id="s000006" resname="Spec_Mode1">
+        <source xml:space="preserve">#Spec_Mode1
+</source>
+        <target state="needs-translation">#Spec_Mode1
+</target>
+        <note>GoldSrc identifier: Spec_Mode1</note>
+      </trans-unit>
+      <trans-unit id="s000007" resname="Spec_Mode2">
+        <source xml:space="preserve">#Spec_Mode2
+</source>
+        <target state="needs-translation">#Spec_Mode2
+</target>
+        <note>GoldSrc identifier: Spec_Mode2</note>
+      </trans-unit>
+      <trans-unit id="s000008" resname="Spec_Mode3">
+        <source xml:space="preserve">#Spec_Mode3
+</source>
+        <target state="needs-translation">#Spec_Mode3
+</target>
+        <note>GoldSrc identifier: Spec_Mode3</note>
+      </trans-unit>
+      <trans-unit id="s000009" resname="Spec_Mode4">
+        <source xml:space="preserve">#Spec_Mode4
+</source>
+        <target state="needs-translation">#Spec_Mode4
+</target>
+        <note>GoldSrc identifier: Spec_Mode4</note>
+      </trans-unit>
+      <trans-unit id="s000010" resname="Spec_Mode5">
+        <source xml:space="preserve">#Spec_Mode5
+</source>
+        <target state="needs-translation">#Spec_Mode5
+</target>
+        <note>GoldSrc identifier: Spec_Mode5</note>
+      </trans-unit>
+      <trans-unit id="s000011" resname="Spec_Mode6">
+        <source xml:space="preserve">#Spec_Mode6
+</source>
+        <target state="needs-translation">#Spec_Mode6
+</target>
+        <note>GoldSrc identifier: Spec_Mode6</note>
+      </trans-unit>
+      <trans-unit id="s000012" resname="Spec_NoTarget">
+        <source xml:space="preserve">#Spec_NoTarget
+</source>
+        <target state="needs-translation">#Spec_NoTarget
+</target>
+        <note>GoldSrc identifier: Spec_NoTarget</note>
+      </trans-unit>
+      <trans-unit id="s000013" resname="Spec_Only_Help">
+        <source xml:space="preserve">#Spec_Only_Help
+</source>
+        <target state="needs-translation">#Spec_Only_Help
+</target>
+        <note>GoldSrc identifier: Spec_Only_Help</note>
+      </trans-unit>
+      <trans-unit id="s000014" resname="Spec_Help">
+        <source xml:space="preserve">#Spec_Help
+</source>
+        <target state="needs-translation">#Spec_Help
+</target>
+        <note>GoldSrc identifier: Spec_Help</note>
+      </trans-unit>
+      <trans-unit id="s000015" resname="Spec_Help_Title">
+        <source xml:space="preserve">#Spec_Help_Title
+</source>
+        <target state="needs-translation">#Spec_Help_Title
+</target>
+        <note>GoldSrc identifier: Spec_Help_Title</note>
+      </trans-unit>
+      <trans-unit id="s000016" resname="Spec_Help_Text">
+        <source xml:space="preserve">#Spec_Help_Text
+</source>
+        <target state="needs-translation">#Spec_Help_Text
+</target>
+        <note>GoldSrc identifier: Spec_Help_Text</note>
+      </trans-unit>
+      <trans-unit id="s000017" resname="Spec_Slow_Motion">
+        <source xml:space="preserve">#Spec_Slow_Motion
+</source>
+        <target state="needs-translation">#Spec_Slow_Motion
+</target>
+        <note>GoldSrc identifier: Spec_Slow_Motion</note>
+      </trans-unit>
+      <trans-unit id="s000018" resname="Spec_Replay">
+        <source xml:space="preserve">#Spec_Replay
+</source>
+        <target state="needs-translation">#Spec_Replay
+</target>
+        <note>GoldSrc identifier: Spec_Replay</note>
+      </trans-unit>
+      <trans-unit id="s000019" resname="Spec_Auto">
+        <source xml:space="preserve">#Spec_Auto
+</source>
+        <target state="needs-translation">#Spec_Auto
+</target>
+        <note>GoldSrc identifier: Spec_Auto</note>
+      </trans-unit>
+      <trans-unit id="s000020" resname="Spec_Time">
+        <source xml:space="preserve">#Spec_Time
+</source>
+        <target state="needs-translation">#Spec_Time
+</target>
+        <note>GoldSrc identifier: Spec_Time</note>
+      </trans-unit>
+      <trans-unit id="s000021" resname="Spec_Map">
+        <source xml:space="preserve">#Spec_Map
+</source>
+        <target state="needs-translation">#Spec_Map
+</target>
+        <note>GoldSrc identifier: Spec_Map</note>
+      </trans-unit>
+      <trans-unit id="s000022" resname="Spectators">
+        <source xml:space="preserve">#Spectators
+</source>
+        <target state="needs-translation">#Spectators
+</target>
+        <note>GoldSrc identifier: Spectators</note>
+      </trans-unit>
+      <trans-unit id="s000023" resname="Unassigned">
+        <source xml:space="preserve">#Unassigned
+</source>
+        <target state="needs-translation">#Unassigned
+</target>
+        <note>GoldSrc identifier: Unassigned</note>
+      </trans-unit>
+      <trans-unit id="s000024" resname="Directed">
+        <source xml:space="preserve">#Directed
+</source>
+        <target state="needs-translation">#Directed
+</target>
+        <note>GoldSrc identifier: Directed</note>
+      </trans-unit>
+      <trans-unit id="s000025" resname="Muted">
+        <source xml:space="preserve">#Muted
+</source>
+        <target state="needs-translation">#Muted
+</target>
+        <note>GoldSrc identifier: Muted</note>
+      </trans-unit>
+      <trans-unit id="s000026" resname="Unmuted">
+        <source xml:space="preserve">#Unmuted
+</source>
+        <target state="needs-translation">#Unmuted
+</target>
+        <note>GoldSrc identifier: Unmuted</note>
+      </trans-unit>
+      <trans-unit id="s000027" resname="OBS_NONE">
+        <source xml:space="preserve">#OBS_NONE
+</source>
+        <target state="needs-translation">#OBS_NONE
+</target>
+        <note>GoldSrc identifier: OBS_NONE</note>
+      </trans-unit>
+      <trans-unit id="s000028" resname="OBS_CHASE_LOCKED">
+        <source xml:space="preserve">#OBS_CHASE_LOCKED
+</source>
+        <target state="needs-translation">#OBS_CHASE_LOCKED
+</target>
+        <note>GoldSrc identifier: OBS_CHASE_LOCKED</note>
+      </trans-unit>
+      <trans-unit id="s000029" resname="OBS_CHASE_FREE">
+        <source xml:space="preserve">#OBS_CHASE_FREE
+</source>
+        <target state="needs-translation">#OBS_CHASE_FREE
+</target>
+        <note>GoldSrc identifier: OBS_CHASE_FREE</note>
+      </trans-unit>
+      <trans-unit id="s000030" resname="OBS_ROAMING">
+        <source xml:space="preserve">#OBS_ROAMING
+</source>
+        <target state="needs-translation">#OBS_ROAMING
+</target>
+        <note>GoldSrc identifier: OBS_ROAMING</note>
+      </trans-unit>
+      <trans-unit id="s000031" resname="OBS_IN_EYE">
+        <source xml:space="preserve">#OBS_IN_EYE
+</source>
+        <target state="needs-translation">#OBS_IN_EYE
+</target>
+        <note>GoldSrc identifier: OBS_IN_EYE</note>
+      </trans-unit>
+      <trans-unit id="s000032" resname="OBS_MAP_FREE">
+        <source xml:space="preserve">#OBS_MAP_FREE
+</source>
+        <target state="needs-translation">#OBS_MAP_FREE
+</target>
+        <note>GoldSrc identifier: OBS_MAP_FREE</note>
+      </trans-unit>
+      <trans-unit id="s000033" resname="OBS_MAP_CHASE">
+        <source xml:space="preserve">#OBS_MAP_CHASE
+</source>
+        <target state="needs-translation">#OBS_MAP_CHASE
+</target>
+        <note>GoldSrc identifier: OBS_MAP_CHASE</note>
+      </trans-unit>
+      <trans-unit id="s000034" resname="SPECT_OPTIONS">
+        <source xml:space="preserve">#SPECT_OPTIONS
+</source>
+        <target state="needs-translation">#SPECT_OPTIONS
+</target>
+        <note>GoldSrc identifier: SPECT_OPTIONS</note>
+      </trans-unit>
+      <trans-unit id="s000035" resname="CAM_OPTIONS">
+        <source xml:space="preserve">#CAM_OPTIONS
+</source>
+        <target state="needs-translation">#CAM_OPTIONS
+</target>
+        <note>GoldSrc identifier: CAM_OPTIONS</note>
+      </trans-unit>
+      <trans-unit id="s000036" resname="Spec_Duck">
+        <source xml:space="preserve">#Spec_Duck
+</source>
+        <target state="needs-translation">#Spec_Duck
+</target>
+        <note>GoldSrc identifier: Spec_Duck</note>
+      </trans-unit>
+      <trans-unit id="s000037" resname="Menu_AmerVoice1">
+        <source xml:space="preserve">#Menu_AmerVoice1
+</source>
+        <target state="needs-translation">#Menu_AmerVoice1
+</target>
+        <note>GoldSrc identifier: Menu_AmerVoice1</note>
+      </trans-unit>
+      <trans-unit id="s000038" resname="Menu_AmerVoice2">
+        <source xml:space="preserve">#Menu_AmerVoice2
+</source>
+        <target state="needs-translation">#Menu_AmerVoice2
+</target>
+        <note>GoldSrc identifier: Menu_AmerVoice2</note>
+      </trans-unit>
+      <trans-unit id="s000039" resname="Menu_AmerVoice3">
+        <source xml:space="preserve">#Menu_AmerVoice3
+</source>
+        <target state="needs-translation">#Menu_AmerVoice3
+</target>
+        <note>GoldSrc identifier: Menu_AmerVoice3</note>
+      </trans-unit>
+      <trans-unit id="s000040" resname="Menu_BritVoice1">
+        <source xml:space="preserve">#Menu_BritVoice1
+</source>
+        <target state="needs-translation">#Menu_BritVoice1
+</target>
+        <note>GoldSrc identifier: Menu_BritVoice1</note>
+      </trans-unit>
+      <trans-unit id="s000041" resname="Menu_BritVoice2">
+        <source xml:space="preserve">#Menu_BritVoice2
+</source>
+        <target state="needs-translation">#Menu_BritVoice2
+</target>
+        <note>GoldSrc identifier: Menu_BritVoice2</note>
+      </trans-unit>
+      <trans-unit id="s000042" resname="Menu_BritVoice3">
+        <source xml:space="preserve">#Menu_BritVoice3
+</source>
+        <target state="needs-translation">#Menu_BritVoice3
+</target>
+        <note>GoldSrc identifier: Menu_BritVoice3</note>
+      </trans-unit>
+      <trans-unit id="s000043" resname="Menu_GerVoice1">
+        <source xml:space="preserve">#Menu_GerVoice1
+</source>
+        <target state="needs-translation">#Menu_GerVoice1
+</target>
+        <note>GoldSrc identifier: Menu_GerVoice1</note>
+      </trans-unit>
+      <trans-unit id="s000044" resname="Menu_GerVoice2">
+        <source xml:space="preserve">#Menu_GerVoice2
+</source>
+        <target state="needs-translation">#Menu_GerVoice2
+</target>
+        <note>GoldSrc identifier: Menu_GerVoice2</note>
+      </trans-unit>
+      <trans-unit id="s000045" resname="Menu_GerVoice3">
+        <source xml:space="preserve">#Menu_GerVoice3
+</source>
+        <target state="needs-translation">#Menu_GerVoice3
+</target>
+        <note>GoldSrc identifier: Menu_GerVoice3</note>
+      </trans-unit>
+      <trans-unit id="s000046" resname="MAP_SPAWN_WARNING">
+        <source xml:space="preserve">#MAP_SPAWN_WARNING
+</source>
+        <target state="needs-translation">#MAP_SPAWN_WARNING
+</target>
+        <note>GoldSrc identifier: MAP_SPAWN_WARNING</note>
+      </trans-unit>
+      <trans-unit id="s000047" resname="MAP_ALLIED_VICTORY1">
+        <source xml:space="preserve">#MAP_ALLIED_VICTORY1
+</source>
+        <target state="needs-translation">#MAP_ALLIED_VICTORY1
+</target>
+        <note>GoldSrc identifier: MAP_ALLIED_VICTORY1</note>
+      </trans-unit>
+      <trans-unit id="s000048" resname="MAP_ALLIED_VICTORY2">
+        <source xml:space="preserve">#MAP_ALLIED_VICTORY2
+</source>
+        <target state="needs-translation">#MAP_ALLIED_VICTORY2
+</target>
+        <note>GoldSrc identifier: MAP_ALLIED_VICTORY2</note>
+      </trans-unit>
+      <trans-unit id="s000049" resname="MAP_AXIS_VICTORY1">
+        <source xml:space="preserve">#MAP_AXIS_VICTORY1
+</source>
+        <target state="needs-translation">#MAP_AXIS_VICTORY1
+</target>
+        <note>GoldSrc identifier: MAP_AXIS_VICTORY1</note>
+      </trans-unit>
+      <trans-unit id="s000050" resname="MAP_AXIS_VICTORY2">
+        <source xml:space="preserve">#MAP_AXIS_VICTORY2
+</source>
+        <target state="needs-translation">#MAP_AXIS_VICTORY2
+</target>
+        <note>GoldSrc identifier: MAP_AXIS_VICTORY2</note>
+      </trans-unit>
+      <trans-unit id="s000051" resname="MAP_NULL_MSG">
+        <source xml:space="preserve">#MAP_NULL_MSG
+</source>
+        <target state="needs-translation">#MAP_NULL_MSG
+</target>
+        <note>GoldSrc identifier: MAP_NULL_MSG</note>
+      </trans-unit>
+      <trans-unit id="s000052" resname="MAP_PLAYER_CAP">
+        <source xml:space="preserve">#MAP_PLAYER_CAP
+</source>
+        <target state="needs-translation">#MAP_PLAYER_CAP
+</target>
+        <note>GoldSrc identifier: MAP_PLAYER_CAP</note>
+      </trans-unit>
+      <trans-unit id="s000053" resname="MAP_GROUP_CAP">
+        <source xml:space="preserve">#MAP_GROUP_CAP
+</source>
+        <target state="needs-translation">#MAP_GROUP_CAP
+</target>
+        <note>GoldSrc identifier: MAP_GROUP_CAP</note>
+      </trans-unit>
+      <trans-unit id="s000054" resname="THE_ALLIES">
+        <source xml:space="preserve">#THE_ALLIES
+</source>
+        <target state="needs-translation">#THE_ALLIES
+</target>
+        <note>GoldSrc identifier: THE_ALLIES</note>
+      </trans-unit>
+      <trans-unit id="s000055" resname="THE_AXIS">
+        <source xml:space="preserve">#THE_AXIS
+</source>
+        <target state="needs-translation">#THE_AXIS
+</target>
+        <note>GoldSrc identifier: THE_AXIS</note>
+      </trans-unit>
+      <trans-unit id="s000056" resname="Health">
+        <source xml:space="preserve">#Health
+</source>
+        <target state="needs-translation">#Health
+</target>
+        <note>GoldSrc identifier: Health</note>
+      </trans-unit>
+      <trans-unit id="s000057" resname="MAP_USE_BAZOOKA_HINT">
+        <source xml:space="preserve">#MAP_USE_BAZOOKA_HINT
+</source>
+        <target state="needs-translation">#MAP_USE_BAZOOKA_HINT
+</target>
+        <note>GoldSrc identifier: MAP_USE_BAZOOKA_HINT</note>
+      </trans-unit>
+      <trans-unit id="s000058" resname="MAP_USE_PSCHREK_HINT">
+        <source xml:space="preserve">#MAP_USE_PSCHREK_HINT
+</source>
+        <target state="needs-translation">#MAP_USE_PSCHREK_HINT
+</target>
+        <note>GoldSrc identifier: MAP_USE_PSCHREK_HINT</note>
+      </trans-unit>
+      <trans-unit id="s000059" resname="MAP_USE_PIAT_HINT">
+        <source xml:space="preserve">#MAP_USE_PIAT_HINT
+</source>
+        <target state="needs-translation">#MAP_USE_PIAT_HINT
+</target>
+        <note>GoldSrc identifier: MAP_USE_PIAT_HINT</note>
+      </trans-unit>
+      <trans-unit id="s000060" resname="Teamname_Allies">
+        <source xml:space="preserve">Allies
+</source>
+        <target state="needs-translation">Allies
+</target>
+        <note>GoldSrc identifier: Teamname_Allies</note>
+      </trans-unit>
+      <trans-unit id="s000061" resname="Teamname_Brit">
+        <source xml:space="preserve">British
+</source>
+        <target state="needs-translation">British
+</target>
+        <note>GoldSrc identifier: Teamname_Brit</note>
+      </trans-unit>
+      <trans-unit id="s000062" resname="Teamname_Axis">
+        <source xml:space="preserve">Axis
+</source>
+        <target state="needs-translation">Axis
+</target>
+        <note>GoldSrc identifier: Teamname_Axis</note>
+      </trans-unit>
+      <trans-unit id="s000063" resname="Teamname_Spectators">
+        <source xml:space="preserve">Spectators
+</source>
+        <target state="needs-translation">Spectators
+</target>
+        <note>GoldSrc identifier: Teamname_Spectators</note>
+      </trans-unit>
+      <trans-unit id="s000064" resname="CHARLIE_AXISBRIEFING">
+        <source xml:space="preserve">#CHARLIE_AXISBRIEFING
+</source>
+        <target state="needs-translation">#CHARLIE_AXISBRIEFING
+</target>
+        <note>GoldSrc identifier: CHARLIE_AXISBRIEFING</note>
+      </trans-unit>
+      <trans-unit id="s000065" resname="vic_axis_obj_text">
+        <source xml:space="preserve">#vic_axis_obj_text
+</source>
+        <target state="needs-translation">#vic_axis_obj_text
+</target>
+        <note>GoldSrc identifier: vic_axis_obj_text</note>
+      </trans-unit>
+      <trans-unit id="s000066" resname="glider_axis_brief">
+        <source xml:space="preserve">#glider_axis_brief
+</source>
+        <target state="needs-translation">#glider_axis_brief
+</target>
+        <note>GoldSrc identifier: glider_axis_brief</note>
+      </trans-unit>
+      <trans-unit id="s000067" resname="jagd_axisbriefing">
+        <source xml:space="preserve">#jagd_axisbriefing
+</source>
+        <target state="needs-translation">#jagd_axisbriefing
+</target>
+        <note>GoldSrc identifier: jagd_axisbriefing</note>
+      </trans-unit>
+      <trans-unit id="s000068" resname="ZALEC_AXISBRIEFING1">
+        <source xml:space="preserve">#ZALEC_AXISBRIEFING1
+</source>
+        <target state="needs-translation">#ZALEC_AXISBRIEFING1
+</target>
+        <note>GoldSrc identifier: ZALEC_AXISBRIEFING1</note>
+      </trans-unit>
+      <trans-unit id="s000069" resname="ZALEC_AXISBRIEFING2">
+        <source xml:space="preserve">#ZALEC_AXISBRIEFING2
+</source>
+        <target state="needs-translation">#ZALEC_AXISBRIEFING2
+</target>
+        <note>GoldSrc identifier: ZALEC_AXISBRIEFING2</note>
+      </trans-unit>
+      <trans-unit id="s000070" resname="ZALEC_ALLIEDBRIEFING1">
+        <source xml:space="preserve">#ZALEC_ALLIEDBRIEFING1
+</source>
+        <target state="needs-translation">#ZALEC_ALLIEDBRIEFING1
+</target>
+        <note>GoldSrc identifier: ZALEC_ALLIEDBRIEFING1</note>
+      </trans-unit>
+      <trans-unit id="s000071" resname="ZALEC_ALLIEDBRIEFING2">
+        <source xml:space="preserve">#ZALEC_ALLIEDBRIEFING2
+</source>
+        <target state="needs-translation">#ZALEC_ALLIEDBRIEFING2
+</target>
+        <note>GoldSrc identifier: ZALEC_ALLIEDBRIEFING2</note>
+      </trans-unit>
+      <trans-unit id="s000072" resname="ZALEC_AIRSTRIKE">
+        <source xml:space="preserve">#ZALEC_AIRSTRIKE
+</source>
+        <target state="needs-translation">#ZALEC_AIRSTRIKE
+</target>
+        <note>GoldSrc identifier: ZALEC_AIRSTRIKE</note>
+      </trans-unit>
+      <trans-unit id="s000073" resname="vic_allies_obj_text">
+        <source xml:space="preserve">#vic_allies_obj_text
+</source>
+        <target state="needs-translation">#vic_allies_obj_text
+</target>
+        <note>GoldSrc identifier: vic_allies_obj_text</note>
+      </trans-unit>
+      <trans-unit id="s000074" resname="CHARLIE_ALLIEDBRIEFING">
+        <source xml:space="preserve">#CHARLIE_ALLIEDBRIEFING
+</source>
+        <target state="needs-translation">#CHARLIE_ALLIEDBRIEFING
+</target>
+        <note>GoldSrc identifier: CHARLIE_ALLIEDBRIEFING</note>
+      </trans-unit>
+      <trans-unit id="s000075" resname="glider_allied_brief">
+        <source xml:space="preserve">#glider_allied_brief
+</source>
+        <target state="needs-translation">#glider_allied_brief
+</target>
+        <note>GoldSrc identifier: glider_allied_brief</note>
+      </trans-unit>
+      <trans-unit id="s000076" resname="jagd_alliedbriefing">
+        <source xml:space="preserve">#jagd_alliedbriefing
+</source>
+        <target state="needs-translation">#jagd_alliedbriefing
+</target>
+        <note>GoldSrc identifier: jagd_alliedbriefing</note>
+      </trans-unit>
+      <trans-unit id="s000077" resname="ESCAPE_MRTNT_AXIS">
+        <source xml:space="preserve">#ESCAPE_MRTNT_AXIS
+</source>
+        <target state="needs-translation">#ESCAPE_MRTNT_AXIS
+</target>
+        <note>GoldSrc identifier: ESCAPE_MRTNT_AXIS</note>
+      </trans-unit>
+      <trans-unit id="s000078" resname="ESCAPE_TNT_HINT">
+        <source xml:space="preserve">#ESCAPE_TNT_HINT
+</source>
+        <target state="needs-translation">#ESCAPE_TNT_HINT
+</target>
+        <note>GoldSrc identifier: ESCAPE_TNT_HINT</note>
+      </trans-unit>
+      <trans-unit id="s000079" resname="jagd_camp_axis">
+        <source xml:space="preserve">#jagd_camp_axis
+</source>
+        <target state="needs-translation">#jagd_camp_axis
+</target>
+        <note>GoldSrc identifier: jagd_camp_axis</note>
+      </trans-unit>
+      <trans-unit id="s000080" resname="jagd_allied_documents_msg">
+        <source xml:space="preserve">#jagd_allied_documents_msg
+</source>
+        <target state="needs-translation">#jagd_allied_documents_msg
+</target>
+        <note>GoldSrc identifier: jagd_allied_documents_msg</note>
+      </trans-unit>
+      <trans-unit id="s000081" resname="jagd_bazookamsg">
+        <source xml:space="preserve">#jagd_bazookamsg
+</source>
+        <target state="needs-translation">#jagd_bazookamsg
+</target>
+        <note>GoldSrc identifier: jagd_bazookamsg</note>
+      </trans-unit>
+      <trans-unit id="s000082" resname="glider_snipers">
+        <source xml:space="preserve">#glider_snipers
+</source>
+        <target state="needs-translation">#glider_snipers
+</target>
+        <note>GoldSrc identifier: glider_snipers</note>
+      </trans-unit>
+      <trans-unit id="s000083" resname="glider_allied_warning_zone">
+        <source xml:space="preserve">#glider_allied_warning_zone
+</source>
+        <target state="needs-translation">#glider_allied_warning_zone
+</target>
+        <note>GoldSrc identifier: glider_allied_warning_zone</note>
+      </trans-unit>
+      <trans-unit id="s000084" resname="CHARLIE_BEACH_WARNING">
+        <source xml:space="preserve">#CHARLIE_BEACH_WARNING
+</source>
+        <target state="needs-translation">#CHARLIE_BEACH_WARNING
+</target>
+        <note>GoldSrc identifier: CHARLIE_BEACH_WARNING</note>
+      </trans-unit>
+      <trans-unit id="s000085" resname="CHARLIE_MIDBREACH">
+        <source xml:space="preserve">#CHARLIE_MIDBREACH
+</source>
+        <target state="needs-translation">#CHARLIE_MIDBREACH
+</target>
+        <note>GoldSrc identifier: CHARLIE_MIDBREACH</note>
+      </trans-unit>
+      <trans-unit id="s000086" resname="CHARLIE_SHINGLE_BREACH">
+        <source xml:space="preserve">#CHARLIE_SHINGLE_BREACH
+</source>
+        <target state="needs-translation">#CHARLIE_SHINGLE_BREACH
+</target>
+        <note>GoldSrc identifier: CHARLIE_SHINGLE_BREACH</note>
+      </trans-unit>
+      <trans-unit id="s000087" resname="CHARLIE_WESTERN_BREACH">
+        <source xml:space="preserve">#CHARLIE_WESTERN_BREACH
+</source>
+        <target state="needs-translation">#CHARLIE_WESTERN_BREACH
+</target>
+        <note>GoldSrc identifier: CHARLIE_WESTERN_BREACH</note>
+      </trans-unit>
+      <trans-unit id="s000088" resname="ANZIO_ALLIES_MSG">
+        <source xml:space="preserve">#ANZIO_ALLIES_MSG
+</source>
+        <target state="needs-translation">#ANZIO_ALLIES_MSG
+</target>
+        <note>GoldSrc identifier: ANZIO_ALLIES_MSG</note>
+      </trans-unit>
+      <trans-unit id="s000089" resname="vic_tnt_msg">
+        <source xml:space="preserve">#vic_tnt_msg
+</source>
+        <target state="needs-translation">#vic_tnt_msg
+</target>
+        <note>GoldSrc identifier: vic_tnt_msg</note>
+      </trans-unit>
+      <trans-unit id="s000090" resname="vic_allies_spawn_warning">
+        <source xml:space="preserve">#vic_allies_spawn_warning
+</source>
+        <target state="needs-translation">#vic_allies_spawn_warning
+</target>
+        <note>GoldSrc identifier: vic_allies_spawn_warning</note>
+      </trans-unit>
+      <trans-unit id="s000091" resname="vic_allies_sniper_wall_text">
+        <source xml:space="preserve">#vic_allies_sniper_wall_text
+</source>
+        <target state="needs-translation">#vic_allies_sniper_wall_text
+</target>
+        <note>GoldSrc identifier: vic_allies_sniper_wall_text</note>
+      </trans-unit>
+      <trans-unit id="s000092" resname="vic_allies_defense_text">
+        <source xml:space="preserve">#vic_allies_defense_text
+</source>
+        <target state="needs-translation">#vic_allies_defense_text
+</target>
+        <note>GoldSrc identifier: vic_allies_defense_text</note>
+      </trans-unit>
+      <trans-unit id="s000093" resname="glider_allies_blow_wall">
+        <source xml:space="preserve">#glider_allies_blow_wall
+</source>
+        <target state="needs-translation">#glider_allies_blow_wall
+</target>
+        <note>GoldSrc identifier: glider_allies_blow_wall</note>
+      </trans-unit>
+      <trans-unit id="s000094" resname="ESCAPE_MRTNT_ALLIES">
+        <source xml:space="preserve">#ESCAPE_MRTNT_ALLIES
+</source>
+        <target state="needs-translation">#ESCAPE_MRTNT_ALLIES
+</target>
+        <note>GoldSrc identifier: ESCAPE_MRTNT_ALLIES</note>
+      </trans-unit>
+      <trans-unit id="s000095" resname="ESCAPE_SATCHEL_HINT">
+        <source xml:space="preserve">#ESCAPE_SATCHEL_HINT
+</source>
+        <target state="needs-translation">#ESCAPE_SATCHEL_HINT
+</target>
+        <note>GoldSrc identifier: ESCAPE_SATCHEL_HINT</note>
+      </trans-unit>
+      <trans-unit id="s000096" resname="ZALEC_ZOOKAHINT">
+        <source xml:space="preserve">#ZALEC_ZOOKAHINT
+</source>
+        <target state="needs-translation">#ZALEC_ZOOKAHINT
+</target>
+        <note>GoldSrc identifier: ZALEC_ZOOKAHINT</note>
+      </trans-unit>
+      <trans-unit id="s000097" resname="glider_glider_shooters">
+        <source xml:space="preserve">#glider_glider_shooters
+</source>
+        <target state="needs-translation">#glider_glider_shooters
+</target>
+        <note>GoldSrc identifier: glider_glider_shooters</note>
+      </trans-unit>
+      <trans-unit id="s000098" resname="glider_glider_bust_crates">
+        <source xml:space="preserve">#glider_glider_bust_crates
+</source>
+        <target state="needs-translation">#glider_glider_bust_crates
+</target>
+        <note>GoldSrc identifier: glider_glider_bust_crates</note>
+      </trans-unit>
+      <trans-unit id="s000099" resname="glider_bunkeratry">
+        <source xml:space="preserve">#glider_bunkeratry
+</source>
+        <target state="needs-translation">#glider_bunkeratry
+</target>
+        <note>GoldSrc identifier: glider_bunkeratry</note>
+      </trans-unit>
+      <trans-unit id="s000100" resname="glider_tanker_sequence2">
+        <source xml:space="preserve">#glider_tanker_sequence2
+</source>
+        <target state="needs-translation">#glider_tanker_sequence2
+</target>
+        <note>GoldSrc identifier: glider_tanker_sequence2</note>
+      </trans-unit>
+      <trans-unit id="s000101" resname="glider_wallpatchtext5">
+        <source xml:space="preserve">#glider_wallpatchtext5
+</source>
+        <target state="needs-translation">#glider_wallpatchtext5
+</target>
+        <note>GoldSrc identifier: glider_wallpatchtext5</note>
+      </trans-unit>
+      <trans-unit id="s000102" resname="CHARLIE_MIDNEST_HINT">
+        <source xml:space="preserve">#CHARLIE_MIDNEST_HINT
+</source>
+        <target state="needs-translation">#CHARLIE_MIDNEST_HINT
+</target>
+        <note>GoldSrc identifier: CHARLIE_MIDNEST_HINT</note>
+      </trans-unit>
+      <trans-unit id="s000103" resname="CHARLIE_SATCHEL_HINT">
+        <source xml:space="preserve">#CHARLIE_SATCHEL_HINT
+</source>
+        <target state="needs-translation">#CHARLIE_SATCHEL_HINT
+</target>
+        <note>GoldSrc identifier: CHARLIE_SATCHEL_HINT</note>
+      </trans-unit>
+      <trans-unit id="s000104" resname="CHARLIE_INTRUDER_WARN">
+        <source xml:space="preserve">#CHARLIE_INTRUDER_WARN
+</source>
+        <target state="needs-translation">#CHARLIE_INTRUDER_WARN
+</target>
+        <note>GoldSrc identifier: CHARLIE_INTRUDER_WARN</note>
+      </trans-unit>
+      <trans-unit id="s000105" resname="CHARLIE_ALLIED_88_HINT">
+        <source xml:space="preserve">#CHARLIE_ALLIED_88_HINT
+</source>
+        <target state="needs-translation">#CHARLIE_ALLIED_88_HINT
+</target>
+        <note>GoldSrc identifier: CHARLIE_ALLIED_88_HINT</note>
+      </trans-unit>
+      <trans-unit id="s000106" resname="CHARLIE_ALLIED_RADIO_HINT">
+        <source xml:space="preserve">#CHARLIE_ALLIED_RADIO_HINT
+</source>
+        <target state="needs-translation">#CHARLIE_ALLIED_RADIO_HINT
+</target>
+        <note>GoldSrc identifier: CHARLIE_ALLIED_RADIO_HINT</note>
+      </trans-unit>
+      <trans-unit id="s000107" resname="CHARLIE_ALLIED_CP4_HINT">
+        <source xml:space="preserve">#CHARLIE_ALLIED_CP4_HINT
+</source>
+        <target state="needs-translation">#CHARLIE_ALLIED_CP4_HINT
+</target>
+        <note>GoldSrc identifier: CHARLIE_ALLIED_CP4_HINT</note>
+      </trans-unit>
+      <trans-unit id="s000108" resname="ANZIO_AXIS_MSG">
+        <source xml:space="preserve">#ANZIO_AXIS_MSG
+</source>
+        <target state="needs-translation">#ANZIO_AXIS_MSG
+</target>
+        <note>GoldSrc identifier: ANZIO_AXIS_MSG</note>
+      </trans-unit>
+      <trans-unit id="s000109" resname="vic_satchel_msg">
+        <source xml:space="preserve">#vic_satchel_msg
+</source>
+        <target state="needs-translation">#vic_satchel_msg
+</target>
+        <note>GoldSrc identifier: vic_satchel_msg</note>
+      </trans-unit>
+      <trans-unit id="s000110" resname="vic_defend_barrier_text">
+        <source xml:space="preserve">#vic_defend_barrier_text
+</source>
+        <target state="needs-translation">#vic_defend_barrier_text
+</target>
+        <note>GoldSrc identifier: vic_defend_barrier_text</note>
+      </trans-unit>
+      <trans-unit id="s000111" resname="vic_defend_jeep_text">
+        <source xml:space="preserve">#vic_defend_jeep_text
+</source>
+        <target state="needs-translation">#vic_defend_jeep_text
+</target>
+        <note>GoldSrc identifier: vic_defend_jeep_text</note>
+      </trans-unit>
+      <trans-unit id="s000112" resname="vic_axis_sniper_wall_text">
+        <source xml:space="preserve">#vic_axis_sniper_wall_text
+</source>
+        <target state="needs-translation">#vic_axis_sniper_wall_text
+</target>
+        <note>GoldSrc identifier: vic_axis_sniper_wall_text</note>
+      </trans-unit>
+      <trans-unit id="s000113" resname="vic_axis_spawn_warning">
+        <source xml:space="preserve">#vic_axis_spawn_warning
+</source>
+        <target state="needs-translation">#vic_axis_spawn_warning
+</target>
+        <note>GoldSrc identifier: vic_axis_spawn_warning</note>
+      </trans-unit>
+      <trans-unit id="s000114" resname="vic_axis_defense_text">
+        <source xml:space="preserve">#vic_axis_defense_text
+</source>
+        <target state="needs-translation">#vic_axis_defense_text
+</target>
+        <note>GoldSrc identifier: vic_axis_defense_text</note>
+      </trans-unit>
+      <trans-unit id="s000115" resname="jagd_foundglider_hint">
+        <source xml:space="preserve">#jagd_foundglider_hint
+</source>
+        <target state="needs-translation">#jagd_foundglider_hint
+</target>
+        <note>GoldSrc identifier: jagd_foundglider_hint</note>
+      </trans-unit>
+      <trans-unit id="s000116" resname="jagd_allied_protect_hint">
+        <source xml:space="preserve">#jagd_allied_protect_hint
+</source>
+        <target state="needs-translation">#jagd_allied_protect_hint
+</target>
+        <note>GoldSrc identifier: jagd_allied_protect_hint</note>
+      </trans-unit>
+      <trans-unit id="s000117" resname="jagd_camp">
+        <source xml:space="preserve">#jagd_camp
+</source>
+        <target state="needs-translation">#jagd_camp
+</target>
+        <note>GoldSrc identifier: jagd_camp</note>
+      </trans-unit>
+      <trans-unit id="s000118" resname="jagd_allied_cap_area">
+        <source xml:space="preserve">#jagd_allied_cap_area
+</source>
+        <target state="needs-translation">#jagd_allied_cap_area
+</target>
+        <note>GoldSrc identifier: jagd_allied_cap_area</note>
+      </trans-unit>
+      <trans-unit id="s000119" resname="FLUG_GAS1">
+        <source xml:space="preserve">#FLUG_GAS1
+</source>
+        <target state="needs-translation">#FLUG_GAS1
+</target>
+        <note>GoldSrc identifier: FLUG_GAS1</note>
+      </trans-unit>
+      <trans-unit id="s000120" resname="FLUG_GAS1A">
+        <source xml:space="preserve">#FLUG_GAS1A
+</source>
+        <target state="needs-translation">#FLUG_GAS1A
+</target>
+        <note>GoldSrc identifier: FLUG_GAS1A</note>
+      </trans-unit>
+      <trans-unit id="s000121" resname="ZALEC_DESTTANK">
+        <source xml:space="preserve">#ZALEC_DESTTANK
+</source>
+        <target state="needs-translation">#ZALEC_DESTTANK
+</target>
+        <note>GoldSrc identifier: ZALEC_DESTTANK</note>
+      </trans-unit>
+      <trans-unit id="s000122" resname="jagd_tank1_offmsg">
+        <source xml:space="preserve">#jagd_tank1_offmsg
+</source>
+        <target state="needs-translation">#jagd_tank1_offmsg
+</target>
+        <note>GoldSrc identifier: jagd_tank1_offmsg</note>
+      </trans-unit>
+      <trans-unit id="s000123" resname="jagd_tank2_offmsg">
+        <source xml:space="preserve">#jagd_tank2_offmsg
+</source>
+        <target state="needs-translation">#jagd_tank2_offmsg
+</target>
+        <note>GoldSrc identifier: jagd_tank2_offmsg</note>
+      </trans-unit>
+      <trans-unit id="s000124" resname="glider_wallpatchtext3">
+        <source xml:space="preserve">#glider_wallpatchtext3
+</source>
+        <target state="needs-translation">#glider_wallpatchtext3
+</target>
+        <note>GoldSrc identifier: glider_wallpatchtext3</note>
+      </trans-unit>
+      <trans-unit id="s000125" resname="glider_mortar2Boff">
+        <source xml:space="preserve">#glider_mortar2Boff
+</source>
+        <target state="needs-translation">#glider_mortar2Boff
+</target>
+        <note>GoldSrc identifier: glider_mortar2Boff</note>
+      </trans-unit>
+      <trans-unit id="s000126" resname="glider_cannon_flag_relay">
+        <source xml:space="preserve">#glider_cannon_flag_relay
+</source>
+        <target state="needs-translation">#glider_cannon_flag_relay
+</target>
+        <note>GoldSrc identifier: glider_cannon_flag_relay</note>
+      </trans-unit>
+      <trans-unit id="s000127" resname="glider_bridgesmall">
+        <source xml:space="preserve">#glider_bridgesmall
+</source>
+        <target state="needs-translation">#glider_bridgesmall
+</target>
+        <note>GoldSrc identifier: glider_bridgesmall</note>
+      </trans-unit>
+      <trans-unit id="s000128" resname="glider_bunkerblow_txt">
+        <source xml:space="preserve">#glider_bunkerblow_txt
+</source>
+        <target state="needs-translation">#glider_bunkerblow_txt
+</target>
+        <note>GoldSrc identifier: glider_bunkerblow_txt</note>
+      </trans-unit>
+      <trans-unit id="s000129" resname="glider_wallpatchtext2">
+        <source xml:space="preserve">#glider_wallpatchtext2
+</source>
+        <target state="needs-translation">#glider_wallpatchtext2
+</target>
+        <note>GoldSrc identifier: glider_wallpatchtext2</note>
+      </trans-unit>
+      <trans-unit id="s000130" resname="glider_wallpatchtext">
+        <source xml:space="preserve">#glider_wallpatchtext
+</source>
+        <target state="needs-translation">#glider_wallpatchtext
+</target>
+        <note>GoldSrc identifier: glider_wallpatchtext</note>
+      </trans-unit>
+      <trans-unit id="s000131" resname="CHARLIE_881_DESTROY">
+        <source xml:space="preserve">#CHARLIE_881_DESTROY
+</source>
+        <target state="needs-translation">#CHARLIE_881_DESTROY
+</target>
+        <note>GoldSrc identifier: CHARLIE_881_DESTROY</note>
+      </trans-unit>
+      <trans-unit id="s000132" resname="CHARLIE_882_DESTROY">
+        <source xml:space="preserve">#CHARLIE_882_DESTROY
+</source>
+        <target state="needs-translation">#CHARLIE_882_DESTROY
+</target>
+        <note>GoldSrc identifier: CHARLIE_882_DESTROY</note>
+      </trans-unit>
+      <trans-unit id="s000133" resname="CHARLIE_RADIO_DESTROY">
+        <source xml:space="preserve">#CHARLIE_RADIO_DESTROY
+</source>
+        <target state="needs-translation">#CHARLIE_RADIO_DESTROY
+</target>
+        <note>GoldSrc identifier: CHARLIE_RADIO_DESTROY</note>
+      </trans-unit>
+      <trans-unit id="s000134" resname="CHARLIE_COASTAL_DESTROY">
+        <source xml:space="preserve">#CHARLIE_COASTAL_DESTROY
+</source>
+        <target state="needs-translation">#CHARLIE_COASTAL_DESTROY
+</target>
+        <note>GoldSrc identifier: CHARLIE_COASTAL_DESTROY</note>
+      </trans-unit>
+      <trans-unit id="s000135" resname="CHARLIE_MORT_LEFT_DESTROY">
+        <source xml:space="preserve">#CHARLIE_MORT_LEFT_DESTROY
+</source>
+        <target state="needs-translation">#CHARLIE_MORT_LEFT_DESTROY
+</target>
+        <note>GoldSrc identifier: CHARLIE_MORT_LEFT_DESTROY</note>
+      </trans-unit>
+      <trans-unit id="s000136" resname="CHARLIE_MORT_MID_DESTROY">
+        <source xml:space="preserve">#CHARLIE_MORT_MID_DESTROY
+</source>
+        <target state="needs-translation">#CHARLIE_MORT_MID_DESTROY
+</target>
+        <note>GoldSrc identifier: CHARLIE_MORT_MID_DESTROY</note>
+      </trans-unit>
+      <trans-unit id="s000137" resname="CHARLIE_MORT_RIGHT_DESTROY">
+        <source xml:space="preserve">#CHARLIE_MORT_RIGHT_DESTROY
+</source>
+        <target state="needs-translation">#CHARLIE_MORT_RIGHT_DESTROY
+</target>
+        <note>GoldSrc identifier: CHARLIE_MORT_RIGHT_DESTROY</note>
+      </trans-unit>
+      <trans-unit id="s000138" resname="vic_axis_wall_text">
+        <source xml:space="preserve">#vic_axis_wall_text
+</source>
+        <target state="needs-translation">#vic_axis_wall_text
+</target>
+        <note>GoldSrc identifier: vic_axis_wall_text</note>
+      </trans-unit>
+      <trans-unit id="s000139" resname="vic_axis_block_text">
+        <source xml:space="preserve">#vic_axis_block_text
+</source>
+        <target state="needs-translation">#vic_axis_block_text
+</target>
+        <note>GoldSrc identifier: vic_axis_block_text</note>
+      </trans-unit>
+      <trans-unit id="s000140" resname="vic_jeep1_text">
+        <source xml:space="preserve">#vic_jeep1_text
+</source>
+        <target state="needs-translation">#vic_jeep1_text
+</target>
+        <note>GoldSrc identifier: vic_jeep1_text</note>
+      </trans-unit>
+      <trans-unit id="s000141" resname="vic_jeep2_text">
+        <source xml:space="preserve">#vic_jeep2_text
+</source>
+        <target state="needs-translation">#vic_jeep2_text
+</target>
+        <note>GoldSrc identifier: vic_jeep2_text</note>
+      </trans-unit>
+      <trans-unit id="s000142" resname="vic_allies_block_text">
+        <source xml:space="preserve">#vic_allies_block_text
+</source>
+        <target state="needs-translation">#vic_allies_block_text
+</target>
+        <note>GoldSrc identifier: vic_allies_block_text</note>
+      </trans-unit>
+      <trans-unit id="s000143" resname="vic_axis_door_text">
+        <source xml:space="preserve">#vic_axis_door_text
+</source>
+        <target state="needs-translation">#vic_axis_door_text
+</target>
+        <note>GoldSrc identifier: vic_axis_door_text</note>
+      </trans-unit>
+      <trans-unit id="s000144" resname="falaise_axisbrief">
+        <source xml:space="preserve">#falaise_axisbrief
+</source>
+        <target state="needs-translation">#falaise_axisbrief
+</target>
+        <note>GoldSrc identifier: falaise_axisbrief</note>
+      </trans-unit>
+      <trans-unit id="s000145" resname="falaise_alliedbrief">
+        <source xml:space="preserve">#falaise_alliedbrief
+</source>
+        <target state="needs-translation">#falaise_alliedbrief
+</target>
+        <note>GoldSrc identifier: falaise_alliedbrief</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

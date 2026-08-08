@@ -1,0 +1,16 @@
+DOD_FLASH by Svante "xerent" Ekholm (xerent@xerent.dodhq.net)
+
+October, 1944, German Countryside
+
+British troops have advanced into what appears to be a small,
+quiet village. A few platoons are ordered forward to check
+out the situation.
+
+British Objectives:
+   - Capture the 5 flag points
+
+Axis Objectives: 
+   - Capture the 5 flag points
+
+Textures: Scott "Kamikazi!" Jordan, Svante "xerent" Ekholm,
+Chad "Masako" Barnsdale

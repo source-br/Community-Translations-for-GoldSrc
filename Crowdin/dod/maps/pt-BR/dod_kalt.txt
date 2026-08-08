@@ -1,0 +1,16 @@
+DOD_KALT by Tim "Waldo" Holt (Timh@valvesoftware.com)
+
+December, 1944, Western Front
+
+The half-frozen town of Kalt became the setting for some
+of the most brutal fighting of the war - firefights raging 
+in the streets, houses, and sewers.
+
+Allied Objectives:
+   - Capture the 5 flag points
+
+Axis Objectives: 
+   - Capture the 5 flag points
+
+Textures: Svante "xerent" Ekholm, Chad "Masako" Barnsdale, 
+Scott "Kamikazi!" Jordan
