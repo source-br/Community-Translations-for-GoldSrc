@@ -275,18 +275,18 @@
 
 \w0. Exit
 </source>
-        <target state="needs-translation">\yBuy Equipment\R$   Cost
+        <target state="translated">\yComprar Equipamento\R$   Custo
 
-\w1. Kevlar Vest\y\R650
-\w2. Kevlar Vest &amp; Helmet\y\R1000
+\w1. Colete Kevlar\y\R650
+\w2. Colete Kevlar &amp; Capacete\y\R1000
 \w3. Flashbang\y\R200	
-\w4. HE Grenade\y\R300
-\w5. Smoke Grenade\y\R300
-\w6. NightVision Goggles\y\R1250
-\w7. Defuse Kit\y\R200
-\w8. Tactical Shield\y\R2200
+\w4. Granada Explosiva\y\R300
+\w5. Granada de Fumaça\y\R300
+\w6. Óculos de Visão Noturna\y\R1250
+\w7. Kit de Desarme\y\R200
+\w8. Escudo Tático\y\R2200
 
-\w0. Exit
+\w0. Sair
 </target>
         <note>GoldSrc identifier: DCT_BuyItem</note>
       </trans-unit>
@@ -435,15 +435,15 @@
 
 \w0. Exit
 </source>
-        <target state="needs-translation">\yBuy Sub-Machine Gun\R$   Cost
-(Primary weapon)
+        <target state="translated">\yComprar Submetralhadoras\R$   Custo
+(Arma Primária)
 
 \w1. Ingram MAC-10\y\R1400
-\w2. K&amp;M Sub-Machine Gun\y\R1500
+\w2. Submetralhadora K&amp;M\y\R1500
 \w3. K&amp;M UMP45\y\R1700
 \w4. ES C90\y\R2350
 
-\w0. Exit
+\w0. Sair
 </target>
         <note>GoldSrc identifier: T_BuySubMachineGun</note>
       </trans-unit>
@@ -458,15 +458,15 @@
 
 \w0. Exit
 </source>
-        <target state="needs-translation">\yBuy Sub-Machine Gun\R$   Cost
-(Primary weapon)
+        <target state="translated">\yComprar Submetralhadoras\R$   Custo
+(Arma Primária)
 
-\w1. Schmidt Machine Pistol\y\R1250
-\w2. K&amp;M Sub-Machine Gun\y\R1500
+\w1. Pistola-metralhadora Schmidt\y\R1250
+\w2. Submetralhadora K&amp;M\y\R1500
 \w3. K&amp;M UMP45\y\R1700
 \w4. ES C90\y\R2350
 
-\w0. Exit
+\w0. Sair
 </target>
         <note>GoldSrc identifier: AS_CT_BuySubMachineGun</note>
       </trans-unit>
@@ -481,15 +481,15 @@
 
 \w0. Exit
 </source>
-        <target state="needs-translation">\yBuy Sub-Machine Gun\R$   Cost
-(Primary weapon)
+        <target state="translated">\yComprar Submetralhadoras\R$   Custo
+(Arma Primária)
 
 \w1. Ingram MAC-10\y\R1400
-\d2. K&amp;M Sub-Machine Gun\y\R1500
+\d2. Submetralhadora K&amp;M\y\R1500
 \w3. K&amp;M UMP45\y\R1700
 \d4. ES C90\y\R2350
 
-\w0. Exit
+\w0. Sair
 </target>
         <note>GoldSrc identifier: AS_T_BuySubMachineGun</note>
       </trans-unit>
@@ -506,17 +506,17 @@
 
 \w0. Exit
 </source>
-        <target state="needs-translation">\yBuy Rifle\R$   Cost
-(Primary weapon)
+        <target state="translated">\yComprar Rifles\R$   Custo
+(Arma Primária)
 
 \w1. IDF Defender\y\R2000
 \w2. CV-47\y\R2500
 \w3. Schmidt Scout\y\R2750
 \w4. Krieg 552 Commando\y\R3500
-\w5. Magnum Sniper Rifle\y\R4750
-\w6. D3/AU-1 Semi-Auto Sniper Rifle\y\R5000
+\w5. Rifle de Precisão Magnum\y\R4750
+\w6. D3/AU-1 Rifle de Precisão Semiautomático\y\R5000
 
-\w0. Exit
+\w0. Sair
 </target>
         <note>GoldSrc identifier: T_BuyRifle</note>
       </trans-unit>
@@ -533,17 +533,17 @@
 
 \w0. Exit
 </source>
-        <target state="needs-translation">\yBuy Rifle\R$   Cost
-(Primary weapon)
+        <target state="translated">\yComprar Rifles\R$   Custo
+(Arma Primária)
 
 \w1. Clarion 5.56\y\R2250
 \w2. Schmidt Scout\y\R2750
-\w3. Maverick M4A1 Carbine\y\R3100
+\w3. Carabina Maverick M4A1\y\R3100
 \w4. Bullpup\y\R3500
 \w5. Krieg 550 Commando\y\R4200
-\w6. Magnum Sniper Rifle\y\R4750
+\w6. Rifle de Precisão Magnum\y\R4750
 
-\w0. Exit
+\w0. Sair
 </target>
         <note>GoldSrc identifier: CT_BuyRifle</note>
       </trans-unit>
@@ -560,17 +560,17 @@
 
 \w0. Exit
 </source>
-        <target state="needs-translation">\yBuy Rifle\R$   Cost
-(Primary weapon)
+        <target state="translated">\yComprar Rifles\R$   Custo
+(Arma Secundária)
 
 \w1. IDF Defender\y\R2000
 \w2. CV-47\y\R2500
 \d3. Schmidt Scout\y\R2750
 \d4. Krieg 552 Commando\y\R3500
-\w5. Magnum Sniper Rifle\y\R4750
-\d6. D3/AU-1 Semi-Auto Sniper Rifle\y\R5000
+\w5. Rifle de Precisão Magnum\y\R4750
+\d6. D3/AU-1 Rifle de Precisão Semiautomático\y\R5000
 
-\w0. Exit
+\w0. Sair
 </target>
         <note>GoldSrc identifier: AS_T_BuyRifle</note>
       </trans-unit>
@@ -587,17 +587,17 @@
 
 \w0. Exit
 </source>
-        <target state="needs-translation">\yBuy Rifle\R$   Cost
-(Primary weapon)
+        <target state="translated">\yComprar Rifles\R$   Custo
+(Arma Secundária)
 
 \w1. Clarion 5.56\y\R2250
 \d2. Schmidt Scout\y\R2750
-\w3. Maverick M4A1 Carbine\y\R3100
+\w3. Carabina Maverick M4A1\y\R3100
 \w4. Bullpup\y\R3500
 \w5. Krieg 550 Commando\y\R4200
-\d6. Magnum Sniper Rifle\y\R4750
+\d6. Rifle de Precisão Magnum\y\R4750
 
-\w0. Exit
+\w0. Sair
 </target>
         <note>GoldSrc identifier: AS_CT_BuyRifle</note>
       </trans-unit>
@@ -609,12 +609,12 @@
 
 \w0. Exit
 </source>
-        <target state="needs-translation">\yBuy Machine Gun\R$   Cost
-(Primary weapon)
+        <target state="translated">\yComprar Metralhadoras\R$   Custo
+(Arma Primária)
 
 \d1. ES M249 Para\y\R5750
 
-\w0. Exit
+\w0. Sair
 </target>
         <note>GoldSrc identifier: AS_T_BuyMachineGun</note>
       </trans-unit>
@@ -626,12 +626,12 @@
 
 \w0. Exit
 </source>
-        <target state="needs-translation">\yBuy Machine Gun\R$   Cost
-(Primary weapon)
+        <target state="translated">\yComprar Metralhadoras\R$   Custo
+(Arma Primária)
 
 \w1. ES M249 Para\y\R5750
 
-\w0. Exit
+\w0. Sair
 </target>
         <note>GoldSrc identifier: BuyMachineGun</note>
       </trans-unit>
@@ -647,16 +647,16 @@
 
 0. Exit
 </source>
-        <target state="needs-translation">\yRadio Commands\w
+        <target state="translated">\yComandos de rádio\w
 
-1. "Cover Me"
-2. "You Take the Point"
-3. "Hold This Position"
-4. "Regroup Team"
-5. "Follow Me"
-6. "Taking Fire, Need Assistance"
+1. "Me dê cobertura"
+2. "Você, fique no ponto"
+3. "Mantenha esta posição"
+4. "Equipe, reagrupar"
+5. "Siga-me"
+6. "Sob fogo inimigo, preciso de ajuda"
 
-0. Exit
+0. Sair
 </target>
         <note>GoldSrc identifier: RadioA</note>
       </trans-unit>
@@ -672,16 +672,16 @@
 
 0. Exit
 </source>
-        <target state="needs-translation">\yGroup Radio Commands\w
+        <target state="translated">\yComandos de rádio para o grupo\w
 
-1. "Go"
-2. "Fall Back"
-3. "Stick Together Team"
-4. "Get in Position"
-5. "Storm the Front"
-6. "Report In"
+1. "Vai"
+2. "Recuem"
+3. "Equipe, não se separe"
+4. "Vá para a posição"
+5. "Ataque pela frente"
+6. "Reportando"
 
-0. Exit
+0. Sair
 </target>
         <note>GoldSrc identifier: RadioB</note>
       </trans-unit>
@@ -700,19 +700,19 @@
 
 0. Exit
 </source>
-        <target state="needs-translation">\yRadio Responses/Reports\w
+        <target state="translated">\yRespostas/Avisos via rádio\w
 
-1. "Affirmative/Roger"
-2. "Enemy Spotted"
-3. "Need Backup"
-4. "Sector Clear"
-5. "I'm in Position"
-6. "Reporting In"	
-7. "She's gonna Blow!"
-8. "Negative"
+1. "Afirmativo/Entendido"
+2. "Inimigo avistado"
+3. "Preciso de reforços"
+4. "Setor limpo"
+5. "Em posição"
+6. "Reporte, equipe"	
+7. "Ela vai explodir!"
+8. "Negativo"
 9. "Enemy Down"
 
-0. Exit
+0. Sair
 </target>
         <note>GoldSrc identifier: RadioC</note>
       </trans-unit>
