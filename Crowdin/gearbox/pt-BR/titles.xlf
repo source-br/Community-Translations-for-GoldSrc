@@ -6,8 +6,8 @@
         <source xml:space="preserve">Black Mesa Research Facility
 Black Mesa, New Mexico
 </source>
-        <target state="needs-translation">Black Mesa Research Facility
-Black Mesa, New Mexico
+        <target state="translated">Instalação de pesquisa Black Mesa
+Black Mesa, Novo México
 </target>
         <note>GoldSrc identifier: CR27</note>
       </trans-unit>
@@ -98,14 +98,14 @@ Black Mesa, New Mexico
       <trans-unit id="s000014" resname="GEARBOXIS">
         <source xml:space="preserve">Gearbox is:
 </source>
-        <target state="needs-translation">Gearbox is:
+        <target state="translated">Gearbox é:
 </target>
         <note>GoldSrc identifier: GEARBOXIS</note>
       </trans-unit>
       <trans-unit id="s000015" resname="THANKSTO">
         <source xml:space="preserve">Special thanks to:
 </source>
-        <target state="needs-translation">Special thanks to:
+        <target state="translated">Agradecimentos especiais para:
 </target>
         <note>GoldSrc identifier: THANKSTO</note>
       </trans-unit>
@@ -189,9 +189,9 @@ Sierra Studios
 Adrian Shephard
 Male, age 22
 </source>
-        <target state="needs-translation">SUBJECT:
+        <target state="translated">SUJEITO:
 Adrian Shephard
-Male, age 22
+Homem, idade 22
 </target>
         <note>GoldSrc identifier: CR28</note>
       </trans-unit>
